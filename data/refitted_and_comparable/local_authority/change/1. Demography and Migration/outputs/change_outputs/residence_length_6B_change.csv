@@ -1,0 +1,166 @@
+lad22cd,lad22nm,category,count_21,count_11,change
+E09000001,City of London,10 years or more,1690,1190,500
+E09000001,City of London,"2 years or more, but less than 5 years",838,512,326
+E09000001,City of London,"5 years or more, but less than 10 years",745,494,251
+E09000001,City of London,Born in the UK,4327,4670,-343
+E09000001,City of London,Less than 2 years,983,509,474
+E09000002,Barking and Dagenham,10 years or more,54916,25752,29164
+E09000002,Barking and Dagenham,"2 years or more, but less than 5 years",10893,9314,1579
+E09000002,Barking and Dagenham,"5 years or more, but less than 10 years",17197,16422,775
+E09000002,Barking and Dagenham,Born in the UK,128483,128464,19
+E09000002,Barking and Dagenham,Less than 2 years,7382,5959,1423
+E09000003,Barnet,10 years or more,104882,77071,27811
+E09000003,Barnet,"2 years or more, but less than 5 years",20652,19621,1031
+E09000003,Barnet,"5 years or more, but less than 10 years",27670,26903,767
+E09000003,Barnet,Born in the UK,221293,217890,3403
+E09000003,Barnet,Less than 2 years,14847,14901,-54
+E09000004,Bexley,10 years or more,36134,19395,16739
+E09000004,Bexley,"2 years or more, but less than 5 years",4441,4031,410
+E09000004,Bexley,"5 years or more, but less than 10 years",8099,6721,1378
+E09000004,Bexley,Born in the UK,194714,199367,-4653
+E09000004,Bexley,Less than 2 years,3085,2483,602
+E09000005,Brent,10 years or more,114217,91276,22941
+E09000005,Brent,"2 years or more, but less than 5 years",24671,26822,-2151
+E09000005,Brent,"5 years or more, but less than 10 years",33145,33997,-852
+E09000005,Brent,Born in the UK,149239,139788,9451
+E09000005,Brent,Less than 2 years,18544,19332,-788
+E09000006,Bromley,10 years or more,45400,27723,17677
+E09000006,Bromley,"2 years or more, but less than 5 years",6656,5018,1638
+E09000006,Bromley,"5 years or more, but less than 10 years",10349,8780,1569
+E09000006,Bromley,Born in the UK,263052,264648,-1596
+E09000006,Bromley,Less than 2 years,4534,3223,1311
+E09000007,Camden,10 years or more,50482,46940,3542
+E09000007,Camden,"2 years or more, but less than 5 years",14132,15084,-952
+E09000007,Camden,"5 years or more, but less than 10 years",14085,15564,-1479
+E09000007,Camden,Born in the UK,114647,126695,-12048
+E09000007,Camden,Less than 2 years,16790,16055,735
+E09000008,Croydon,10 years or more,92122,62982,29140
+E09000008,Croydon,"2 years or more, but less than 5 years",13550,13809,-259
+E09000008,Croydon,"5 years or more, but less than 10 years",21030,22112,-1082
+E09000008,Croydon,Born in the UK,254536,255894,-1358
+E09000008,Croydon,Less than 2 years,9481,8581,900
+E09000009,Ealing,10 years or more,114277,84317,29960
+E09000009,Ealing,"2 years or more, but less than 5 years",23673,24673,-1000
+E09000009,Ealing,"5 years or more, but less than 10 years",31490,34769,-3279
+E09000009,Ealing,Born in the UK,180561,175221,5340
+E09000009,Ealing,Less than 2 years,17114,19469,-2355
+E09000010,Enfield,10 years or more,91954,68890,23064
+E09000010,Enfield,"2 years or more, but less than 5 years",13189,11904,1285
+E09000010,Enfield,"5 years or more, but less than 10 years",19515,22128,-2613
+E09000010,Enfield,Born in the UK,196824,202868,-6044
+E09000010,Enfield,Less than 2 years,8502,6676,1826
+E09000011,Greenwich,10 years or more,64103,35230,28873
+E09000011,Greenwich,"2 years or more, but less than 5 years",13601,13775,-174
+E09000011,Greenwich,"5 years or more, but less than 10 years",20497,19125,1372
+E09000011,Greenwich,Born in the UK,180578,175645,4933
+E09000011,Greenwich,Less than 2 years,10289,10782,-493
+E09000012,Hackney,10 years or more,62759,54254,8505
+E09000012,Hackney,"2 years or more, but less than 5 years",13065,13090,-25
+E09000012,Hackney,"5 years or more, but less than 10 years",16947,19131,-2184
+E09000012,Hackney,Born in the UK,156219,150030,6189
+E09000012,Hackney,Less than 2 years,10156,9765,391
+E09000013,Hammersmith and Fulham,10 years or more,44057,36892,7165
+E09000013,Hammersmith and Fulham,"2 years or more, but less than 5 years",13213,13077,136
+E09000013,Hammersmith and Fulham,"5 years or more, but less than 10 years",14372,15137,-765
+E09000013,Hammersmith and Fulham,Born in the UK,99818,104454,-4636
+E09000013,Hammersmith and Fulham,Less than 2 years,11697,12933,-1236
+E09000014,Haringey,10 years or more,72112,61064,11048
+E09000014,Haringey,"2 years or more, but less than 5 years",16308,16643,-335
+E09000014,Haringey,"5 years or more, but less than 10 years",21941,23073,-1132
+E09000014,Haringey,Born in the UK,143117,141228,1889
+E09000014,Haringey,Less than 2 years,10760,12918,-2158
+E09000015,Harrow,10 years or more,86751,64105,22646
+E09000015,Harrow,"2 years or more, but less than 5 years",14959,14500,459
+E09000015,Harrow,"5 years or more, but less than 10 years",20690,19045,1645
+E09000015,Harrow,Born in the UK,127612,132007,-4395
+E09000015,Harrow,Less than 2 years,11191,9399,1792
+E09000016,Havering,10 years or more,32710,14484,18226
+E09000016,Havering,"2 years or more, but less than 5 years",5357,2857,2500
+E09000016,Havering,"5 years or more, but less than 10 years",9085,5283,3802
+E09000016,Havering,Born in the UK,211166,212840,-1674
+E09000016,Havering,Less than 2 years,3735,1768,1967
+E09000017,Hillingdon,10 years or more,73764,43622,30142
+E09000017,Hillingdon,"2 years or more, but less than 5 years",14038,11354,2684
+E09000017,Hillingdon,"5 years or more, but less than 10 years",18355,17808,547
+E09000017,Hillingdon,Born in the UK,188260,191859,-3599
+E09000017,Hillingdon,Less than 2 years,11492,9293,2199
+E09000018,Hounslow,10 years or more,82025,53286,28739
+E09000018,Hounslow,"2 years or more, but less than 5 years",20605,18407,2198
+E09000018,Hounslow,"5 years or more, but less than 10 years",24722,24585,137
+E09000018,Hounslow,Born in the UK,145556,144044,1512
+E09000018,Hounslow,Less than 2 years,15273,13635,1638
+E09000019,Islington,10 years or more,46060,37814,8246
+E09000019,Islington,"2 years or more, but less than 5 years",13560,10994,2566
+E09000019,Islington,"5 years or more, but less than 10 years",14064,12841,1223
+E09000019,Islington,Born in the UK,130213,133095,-2882
+E09000019,Islington,Less than 2 years,12692,11381,1311
+E09000020,Kensington and Chelsea,10 years or more,41136,38764,2372
+E09000020,Kensington and Chelsea,"2 years or more, but less than 5 years",11494,14424,-2930
+E09000020,Kensington and Chelsea,"5 years or more, but less than 10 years",12457,14168,-1711
+E09000020,Kensington and Chelsea,Born in the UK,66063,76738,-10675
+E09000020,Kensington and Chelsea,Less than 2 years,12225,14555,-2330
+E09000021,Kingston upon Thames,10 years or more,34729,22663,12066
+E09000021,Kingston upon Thames,"2 years or more, but less than 5 years",6806,7124,-318
+E09000021,Kingston upon Thames,"5 years or more, but less than 10 years",9210,9792,-582
+E09000021,Kingston upon Thames,Born in the UK,111412,114820,-3408
+E09000021,Kingston upon Thames,Less than 2 years,5904,5661,243
+E09000022,Lambeth,10 years or more,74439,61785,12654
+E09000022,Lambeth,"2 years or more, but less than 5 years",15609,17648,-2039
+E09000022,Lambeth,"5 years or more, but less than 10 years",19775,24691,-4916
+E09000022,Lambeth,Born in the UK,195091,185337,9754
+E09000022,Lambeth,Less than 2 years,12740,13625,-885
+E09000023,Lewisham,10 years or more,67979,49407,18572
+E09000023,Lewisham,"2 years or more, but less than 5 years",12051,12626,-575
+E09000023,Lewisham,"5 years or more, but less than 10 years",18646,21918,-3272
+E09000023,Lewisham,Born in the UK,193483,182799,10684
+E09000023,Lewisham,Less than 2 years,8392,9135,-743
+E09000024,Merton,10 years or more,54478,36235,18243
+E09000024,Merton,"2 years or more, but less than 5 years",10659,13039,-2380
+E09000024,Merton,"5 years or more, but less than 10 years",15491,17910,-2419
+E09000024,Merton,Born in the UK,127245,124290,2955
+E09000024,Merton,Less than 2 years,7312,8219,-907
+E09000025,Newham,10 years or more,101180,71287,29893
+E09000025,Newham,"2 years or more, but less than 5 years",29139,30140,-1001
+E09000025,Newham,"5 years or more, but less than 10 years",35229,36634,-1405
+E09000025,Newham,Born in the UK,162447,142570,19877
+E09000025,Newham,Less than 2 years,23040,27353,-4313
+E09000026,Redbridge,10 years or more,83717,59790,23927
+E09000026,Redbridge,"2 years or more, but less than 5 years",17368,13369,3999
+E09000026,Redbridge,"5 years or more, but less than 10 years",21811,19398,2413
+E09000026,Redbridge,Born in the UK,174963,175897,-934
+E09000026,Redbridge,Less than 2 years,12401,10516,1885
+E09000027,Richmond upon Thames,10 years or more,33638,24725,8913
+E09000027,Richmond upon Thames,"2 years or more, but less than 5 years",7344,6321,1023
+E09000027,Richmond upon Thames,"5 years or more, but less than 10 years",9235,8695,540
+E09000027,Richmond upon Thames,Born in the UK,139053,141585,-2532
+E09000027,Richmond upon Thames,Less than 2 years,6006,5664,342
+E09000028,Southwark,10 years or more,71822,56793,15029
+E09000028,Southwark,"2 years or more, but less than 5 years",16975,17256,-281
+E09000028,Southwark,"5 years or more, but less than 10 years",21052,24590,-3538
+E09000028,Southwark,Born in the UK,182392,174616,7776
+E09000028,Southwark,Less than 2 years,15397,15028,369
+E09000029,Sutton,10 years or more,39540,21310,18230
+E09000029,Sutton,"2 years or more, but less than 5 years",5379,5042,337
+E09000029,Sutton,"5 years or more, but less than 10 years",9443,8943,500
+E09000029,Sutton,Born in the UK,151447,152390,-943
+E09000029,Sutton,Less than 2 years,3829,2461,1368
+E09000030,Tower Hamlets,10 years or more,70066,51093,18973
+E09000030,Tower Hamlets,"2 years or more, but less than 5 years",24248,18224,6024
+E09000030,Tower Hamlets,"5 years or more, but less than 10 years",26808,21319,5489
+E09000030,Tower Hamlets,Born in the UK,165081,144662,20419
+E09000030,Tower Hamlets,Less than 2 years,24103,18798,5305
+E09000031,Waltham Forest,10 years or more,66599,48718,17881
+E09000031,Waltham Forest,"2 years or more, but less than 5 years",13262,16997,-3735
+E09000031,Waltham Forest,"5 years or more, but less than 10 years",19580,23205,-3625
+E09000031,Waltham Forest,Born in the UK,171070,158437,12633
+E09000031,Waltham Forest,Less than 2 years,7915,10892,-2977
+E09000032,Wandsworth,10 years or more,68220,49596,18624
+E09000032,Wandsworth,"2 years or more, but less than 5 years",18270,19533,-1263
+E09000032,Wandsworth,"5 years or more, but less than 10 years",23762,24458,-696
+E09000032,Wandsworth,Born in the UK,203322,198422,4900
+E09000032,Wandsworth,Less than 2 years,13932,14986,-1054
+E09000033,Westminster,10 years or more,57108,52663,4445
+E09000033,Westminster,"2 years or more, but less than 5 years",17883,20791,-2908
+E09000033,Westminster,"5 years or more, but less than 10 years",17692,20961,-3269
+E09000033,Westminster,Born in the UK,90702,102407,-11705
+E09000033,Westminster,Less than 2 years,20851,22574,-1723

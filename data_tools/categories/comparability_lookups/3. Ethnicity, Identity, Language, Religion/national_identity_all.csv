@@ -1,0 +1,35 @@
+dat_21,num_dat_21,dat_11,common_cats
+British only identity,1,British only identity,British only identity
+English only identity,2,English only identity,English only identity
+English and British only identity,3,English and British only identity,English and British only identity
+Welsh only identity,4,Welsh only identity,Welsh only identity
+Welsh and British only identity,5,Welsh and British only identity,Welsh and British only identity
+Scottish only identity,6,Scottish only identity,Scottish only identity
+Scottish and British only identity,7,Scottish and British only identity,Scottish and British only identity
+Northern Irish only identity,8,Northern Irish only identity,Northern Irish only identity
+Northern Irish and British only identity,9,Northern Irish and British only identity,Northern Irish and British only identity
+Cornish only identity,10,Cornish only identity,Cornish only identity
+Cornish and British only identity,11,Cornish and British only identity,Cornish and British only identity
+Irish only identity,13,Irish only identity,Irish only identity
+Irish and at least one UK identity,14,Irish and at least one of English Welsh Scottish identities; with or without British,Irish and at least one UK identity
+Other identity only,15,Other identities only,Other identity only
+Other identity and at least one UK identity,16,Other identities and at least one of English Welsh Scottish Northern Irish British only,Other identity and at least one UK identity
+Any other combination of UK identities (UK only),12,At least one of English Welsh Scottish Northern Irish British identities only,Not comparable
+Any other combination of UK identities (UK only),12,British and any other identity,Not comparable
+Any other combination of UK identities (UK only),12,Cornish and at least one of English Welsh Scottish Northern Irish identities; with or without British,Not comparable
+Any other combination of UK identities (UK only),12,Irish and British only identity,Not comparable
+Any other combination of UK identities (UK only),12,Irish and Northern Irish only identity,Not comparable
+Any other combination of UK identities (UK only),12,Irish and at least one of English Welsh Scottish identities; with or without British,Not comparable
+Any other combination of UK identities (UK only),12,Irish; Northern Irish and British only identity,Not comparable
+Any other combination of UK identities (UK only),12,Irish; Northern Irish and at least one of English Welsh Scottish identities; with or without British,Not comparable
+Any other combination of UK identities (UK only),12,No British identity,Not comparable
+Any other combination of UK identities (UK only),12,No Cornish identity,Not comparable
+Any other combination of UK identities (UK only),12,No English identity,Not comparable
+Any other combination of UK identities (UK only),12,No Irish identity,Not comparable
+Any other combination of UK identities (UK only),12,No Northern Irish identity,Not comparable
+Any other combination of UK identities (UK only),12,No Scottish identity,Not comparable
+Any other combination of UK identities (UK only),12,No Welsh identity,Not comparable
+Any other combination of UK identities (UK only),12,Other English combined background identity,Not comparable
+Any other combination of UK identities (UK only),12,Other Northern Irish combined background identity,Not comparable
+Any other combination of UK identities (UK only),12,Other Scottish combined background identity,Not comparable
+Any other combination of UK identities (UK only),12,Other Welsh combined background identity,Not comparable

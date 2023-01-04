@@ -1,0 +1,95 @@
+dat_21,num_dat_21,dat_11,common_cats
+English (English or Welsh in Wales),1,English (English or Welsh if in Wales),English (English or Welsh in Wales)
+Welsh or Cymraeg (in England only),2,Welsh/Cymraeg (in England only),Welsh or Cymraeg (in England only)
+Other UK language: Gaelic (Irish),3,Other UK language: Gaelic (Irish),Other UK language: Gaelic (Irish)
+Other UK language: Gaelic (Scottish),4,Other UK language: Gaelic (Scottish),Other UK language: Gaelic (Scottish)
+Other UK language: Manx Gaelic,5,Other UK language: Manx Gaelic,Other UK language: Manx Gaelic
+Other UK language: Gaelic (Not otherwise specified),6,Other UK language: Gaelic (Not otherwise specified),Other UK language: Gaelic (Not otherwise specified)
+Other UK language: Cornish,7,Other UK language: Cornish,Other UK language: Cornish
+Other UK language: Scots,8,Other UK language: Scots,Other UK language: Scots
+Other UK language: Ulster Scots,9,,Other language
+Other UK language: Romany English,10,Other UK language: Gypsy/Traveller languages,Other UK language: Gypsy or Traveller languages
+Other UK language: Irish Traveller Cant,11,Other UK language: Gypsy/Traveller languages,Other UK language: Gypsy or Traveller languages
+French,12,French,French
+Portuguese,13,Portuguese,Portuguese
+Spanish,14,Spanish,Spanish
+Other European language (EU): Italian,15,Other European Language (EU): Italian,Other European language (EU): Italian
+Other European language (EU): German,16,Other European Language (EU): German,Other European language (EU): German
+Other European language (EU): Polish,17,Other European Language (EU): Polish,Other European language (EU): Polish
+Other European language (EU): Slovak,18,Other European Language (EU): Slovak,Other European language (EU): Slovak
+Other European language (EU): Czech,19,Other European Language (EU): Czech,Other European language (EU): Czech
+Other European language (EU): Romanian,20,Other European Language (EU): Romanian,Other European language (EU): Romanian
+Other European language (EU): Lithuanian,21,Other European Language (EU): Lithuanian,Other European language (EU): Lithuanian
+Other European language (EU): Latvian,22,Other European Language (EU): Latvian,Other European language (EU): Latvian
+Other European language (EU): Hungarian,23,Other European Language (EU): Hungarian,Other European language (EU): Hungarian
+Other European language (EU): Bulgarian,24,Other European Language (EU): Bulgarian,Other European language (EU): Bulgarian
+Other European language (EU): Greek,25,Other European Language (EU): Greek,Other European language (EU): Greek
+Other European language (EU): Dutch,26,Other European Language (EU): Dutch,Other European language (EU): Dutch
+Other European language (EU): Swedish,27,Other European Language (EU): Swedish,Other European language (EU): Swedish
+Other European language (EU): Danish,28,Other European Language (EU): Danish,Other European language (EU): Danish
+Other European language (EU): Finnish,29,Other European Language (EU): Finnish,Other European language (EU): Finnish
+Other European language (EU): Estonian,30,Other European Language (EU): Estonian,Other European language (EU): Estonian
+Other European language (EU): Slovenian,31,Other European Language (EU): Slovenian,Other European language (EU): Slovenian
+Other European language (EU): Maltese,32,Other European Language (EU): Maltese,Other European language (EU): Maltese
+Other European language (EU): Any other European language (EU),33,Other European Language (EU): Any other European Language (EU),Other European language (EU): Any other European language (EU)
+Other European language (non EU): Albanian,34,Other European Language (non EU): Albanian,Other European language (non EU): Albanian
+Other European language (non EU): Ukrainian,35,Other European Language (non EU): Ukrainian,Other European language (non EU): Ukrainian
+Other European language (non EU): Any other Eastern European language (non EU),36,Other European Language (non EU): Any other Eastern European Language (non EU),Other European language (non EU): Any other Eastern European language (non EU)
+Other European language (non EU): Northern European language (non EU),37,Other European Language (non EU): Northern European Language (non EU),Other European language (non EU): Northern European language (non EU)
+"Other European language (EU and non-EU): Bosnian, Croatian, Serbian, and Montenegrin",38,Other European Language (non EU): Serbian/Croatian/Bosnian,"Other European language (EU and non-EU): Bosnian, Croatian, Serbian, and Montenegrin"
+Other European language (non-national): Any Romani language,39,Other European Language (non-national): Romani language (any),Other European language (non-national): Any Romani language
+Other European language (non-national): Yiddish,40,Other European Language (non-national): Yiddish,Other European language (non-national): Yiddish
+Russian,41,Russian,Russian
+Turkish,42,Turkish,Turkish
+Arabic,43,Arabic,Arabic
+West or Central Asian language: Hebrew,44,West/Central Asian Language: Hebrew,West or Central Asian language: Hebrew
+West or Central Asian language: Kurdish,45,West/Central Asian Language: Kurdish,West or Central Asian language: Kurdish
+West or Central Asian language: Persian or Farsi,46,West/Central Asian Language: Persian/Farsi,West or Central Asian language: Persian or Farsi
+West or Central Asian language: Pashto,47,West/Central Asian Language: Pashto,West or Central Asian language: Pashto
+West or Central Asian language: Any other West or Central Asian language,48,West/Central Asian Language: West/Central Asian Language (all other),West or Central Asian language: Any other West or Central Asian language
+South Asian language: Urdu,49,South Asian Language: Urdu,South Asian language: Urdu
+South Asian language: Hindi,50,South Asian Language: Hindi,South Asian language: Hindi
+South Asian language: Panjabi,51,South Asian Language: Panjabi,South Asian language: Panjabi
+South Asian language: Pakistani Pahari (with Mirpuri and Potwari),52,South Asian Language: Pakistani Pahari (with Mirpuri and Potwari),South Asian language: Pakistani Pahari (with Mirpuri and Potwari)
+South Asian language: Bengali (with Sylheti and Chatgaya),53,South Asian Language: Bengali (with Sylheti and Chatgaya),South Asian language: Bengali (with Sylheti and Chatgaya)
+South Asian language: Gujarati,54,South Asian Language: Gujarati,South Asian language: Gujarati
+South Asian language: Marathi,55,South Asian Language: Marathi,South Asian language: Marathi
+South Asian language: Telugu,56,South Asian Language: Telugu,South Asian language: Telugu
+South Asian language: Tamil,57,South Asian Language: Tamil,South Asian language: Tamil
+South Asian language: Malayalam,58,South Asian Language: Malayalam,South Asian language: Malayalam
+South Asian language: Sinhala,59,South Asian Language: Sinhala,South Asian language: Sinhala
+South Asian language: Nepalese,60,South Asian Language: Nepalese,South Asian language: Nepalese
+South Asian language: Any other South Asian language,61,South Asian Language: South Asian Language (all other),South Asian language: Any other South Asian language
+East Asian language: Mandarin Chinese,62,East Asian Language: Mandarin Chinese,East Asian language: Mandarin Chinese
+East Asian language: Cantonese Chinese,63,East Asian Language: Cantonese Chinese,East Asian language: Cantonese Chinese
+East Asian language: All other Chinese,64,East Asian Language: All other Chinese,East Asian language: All other Chinese
+East Asian language: Japanese,65,East Asian Language: Japanese,East Asian language: Japanese
+East Asian language: Korean,66,East Asian Language: Korean,East Asian language: Korean
+East Asian language: Vietnamese,67,East Asian Language: Vietnamese,East Asian language: Vietnamese
+East Asian language: Thai,68,East Asian Language: Thai,East Asian language: Thai
+East Asian language: Malay,69,East Asian Language: Malay,East Asian language: Malay
+East Asian language: Tagalog or Filipino,70,East Asian Language: Tagalog/Filipino,East Asian language: Tagalog or Filipino
+East Asian language: Any other East Asian language,71,East Asian Language: East Asian Language (all other),East Asian language: Any other East Asian language
+Oceanic or Australian language,72,Oceanic/Australian language (any),Oceanic or Australian language
+North or South American language,73,North/South American language (any),North or South American language
+Caribbean Creole: English-based Caribbean Creole,74,Caribbean Creole: Caribbean Creole (English-based),Caribbean Creole: English-based Caribbean Creole
+Caribbean Creole: Any other Caribbean Creole,75,Caribbean Creole: Caribbean Creole (all other),Caribbean Creole: Any other Caribbean Creole
+African language: Amharic,76,African Language: Amharic,African language: Amharic
+African language: Tigrinya,77,African Language: Tigrinya,African language: Tigrinya
+African language: Somali,78,African Language: Somali,African language: Somali
+African language: Krio,79,African Language: Krio,African language: Krio
+African language: Akan,80,African Language: Akan,African language: Akan
+African language: Yoruba,81,African Language: Yoruba,African language: Yoruba
+African language: Igbo,82,African Language: Igbo,African language: Igbo
+African language: Swahili or Kiswahili,83,African Language: Swahili/Kiswahili,African language: Swahili or Kiswahili
+African language: Luganda,84,African Language: Luganda,African language: Luganda
+African language: Lingala,85,African Language: Lingala,African language: Lingala
+African language: Shona,86,African Language: Shona,African language: Shona
+African language: Afrikaans,87,African Language: Afrikaans,African language: Afrikaans
+African language: Any other Nigerian language,88,African Language: Any other Nigerian language,African language: Any other Nigerian language
+African language: Any other West African language,89,African Language: West African language (all other),African language: Any other West African language
+African language: Any other African language,90,African Language: African language (all other),African language: Any other African language
+Sign language: British Sign Language,91,Sign Language: British sign language,Sign language: British Sign Language
+Sign language: Any other sign language,92,Sign Language: Sign Language (all other),Sign language: Any other sign language
+Sign language: Any sign communication system,93,Sign Language: Any Sign Communication System,Sign language: Any sign communication system
+Other language,94,Other Languages: All other languages,Other language

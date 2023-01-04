@@ -1,0 +1,65 @@
+dat_21,num_dat_21,dat_11,common_cats
+Europe: United Kingdom,1,Europe: United Kingdom: England,Europe: United Kingdom
+Europe: United Kingdom,1,Europe: United Kingdom: Northern Ireland,Europe: United Kingdom
+Europe: United Kingdom,1,Europe: United Kingdom: Scotland,Europe: United Kingdom
+Europe: United Kingdom,1,Europe: United Kingdom: Wales,Europe: United Kingdom
+Europe: United Kingdom,1,Europe: Great Britain not otherwise specified,Europe: United Kingdom
+Europe: United Kingdom,1,Europe: United Kingdom not otherwise specified,Europe: United Kingdom
+Europe: EU countries: European Union EU14,2,Europe: Ireland,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: France,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Germany,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Italy,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Portugal,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands),Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Spain: including Canary Islands,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU8,3,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Lithuania,Europe: EU countries: Other European Union
+Europe: EU countries: European Union EU8,3,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Poland,Europe: EU countries: Other European Union
+Europe: EU countries: European Union EU2,4,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Romania,Europe: EU countries: Other European Union
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Other Europe: Rest of Europe: Turkey,Europe: Non-EU countries: All other non-EU countries
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Guernsey,Europe: Non-EU countries: All other non-EU countries
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Jersey,Europe: Non-EU countries: All other non-EU countries
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Channel Islands not otherwise specified,Europe: Non-EU countries: All other non-EU countries
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Isle of Man,Europe: Non-EU countries: All other non-EU countries
+Europe: EU countries: European Union EU14,2,Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001,Europe: EU countries: European Union EU14
+Europe: EU countries: European Union EU8,3,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries,Europe: EU countries: Other European Union
+Europe: EU countries: European Union EU2,4,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries,Europe: EU countries: Other European Union
+Europe: EU countries: All other EU countries,5,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries,Europe: EU countries: Other European Union
+Europe: Non-EU countries: All other non-EU countries,6,Europe: Other Europe: Rest of Europe: Other Europe,Europe: Non-EU countries: All other non-EU countries
+Africa,7,Africa: North Africa,Africa
+Africa,7,Africa: Central and Western Africa: Ghana,Africa
+Africa,7,Africa: Central and Western Africa: Nigeria,Africa
+Africa,7,Africa: Central and Western Africa: Other Central and Western Africa,Africa
+Africa,7,Africa: South and Eastern Africa: Kenya,Africa
+Africa,7,Africa: South and Eastern Africa: Somalia,Africa
+Africa,7,Africa: South and Eastern Africa: South Africa,Africa
+Africa,7,Africa: South and Eastern Africa: Zimbabwe,Africa
+Africa,7,Africa: South and Eastern Africa: Other South and Eastern Africa,Africa
+Africa,7,Africa: Africa not otherwise specified,Africa
+Middle East and Asia,8,Middle East and Asia: Middle East: Iran,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Middle East: Other Middle East,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Eastern Asia: China,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China),Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Eastern Asia: Hong Kong: Special Administrative Region of China,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Eastern Asia: Other Eastern Asia,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Southern Asia: India,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Southern Asia: Pakistan,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Southern Asia: Bangladesh,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Southern Asia: Sri Lanka,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Southern Asia: Other Southern Asia,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: South-East Asia: Philippines,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: South-East Asia: Other South-East Asia,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: South East Asia: Philippines,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: South East Asia: Other South East Asia,Middle East and Asia
+Middle East and Asia,8,Middle East and Asia: Central Asia,Middle East and Asia
+The Americas and the Caribbean,9,The Americas and the Caribbean: North America: United States,The Americas and the Caribbean
+The Americas and the Caribbean,9,The Americas and the Caribbean: North America: Other North America,The Americas and the Caribbean
+The Americas and the Caribbean,9,The Americas and the Caribbean: Central America,The Americas and the Caribbean
+The Americas and the Caribbean,9,The Americas and the Caribbean: South America,The Americas and the Caribbean
+The Americas and the Caribbean,9,The Americas and the Caribbean: The Caribbean: Jamaica,The Americas and the Caribbean
+The Americas and the Caribbean,9,The Americas and the Caribbean: The Caribbean: Other Caribbean,The Americas and the Caribbean
+Antarctica and Oceania (including Australasia) and Other,10,Antarctica and Oceania: Australasia: Australia,Antarctica and Oceania (including Australasia) and Other
+Antarctica and Oceania (including Australasia) and Other,10,Antarctica and Oceania: Australasia: Other Australasia,Antarctica and Oceania (including Australasia) and Other
+Antarctica and Oceania (including Australasia) and Other,10,Antarctica and Oceania: Other Oceania,Antarctica and Oceania (including Australasia) and Other
+Antarctica and Oceania (including Australasia) and Other,10,Antarctica and Oceania: Antarctica,Antarctica and Oceania (including Australasia) and Other
+Antarctica and Oceania (including Australasia) and Other,10,Other,Antarctica and Oceania (including Australasia) and Other
+British Overseas ,11,Other,Antarctica and Oceania (including Australasia) and Other

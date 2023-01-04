@@ -1,0 +1,562 @@
+lad22cd,lad22nm,category,count_21,count_11,change
+E09000001,City of London,Arrived in the UK: Aged 0 to 4 years,183,193,-10
+E09000001,City of London,Arrived in the UK: Aged 10 to 14 years,144,111,33
+E09000001,City of London,Arrived in the UK: Aged 15 years,54,36,18
+E09000001,City of London,Arrived in the UK: Aged 16 to 17 years,214,144,70
+E09000001,City of London,Arrived in the UK: Aged 18 to 19 years,375,187,188
+E09000001,City of London,Arrived in the UK: Aged 20 to 24 years,1021,630,391
+E09000001,City of London,Arrived in the UK: Aged 25 to 29 years,978,636,342
+E09000001,City of London,Arrived in the UK: Aged 30 to 44 years,893,540,353
+E09000001,City of London,Arrived in the UK: Aged 45 to 59 years,247,104,143
+E09000001,City of London,Arrived in the UK: Aged 5 to 7 years,64,59,5
+E09000001,City of London,Arrived in the UK: Aged 60 to 64 years,21,12,9
+E09000001,City of London,Arrived in the UK: Aged 65 to 74 years,23,12,11
+E09000001,City of London,Arrived in the UK: Aged 75 to 84 years,2,2,0
+E09000001,City of London,Arrived in the UK: Aged 8 to 9 years,34,34,0
+E09000001,City of London,Arrived in the UK: Aged 85 to 89 years,1,3,-2
+E09000001,City of London,Arrived in the UK: Aged 90 years and over,1,2,-1
+E09000001,City of London,Born in the UK,4327,4670,-343
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 0 to 4 years,8173,6005,2168
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 10 to 14 years,6217,4155,2062
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 15 years,1363,1025,338
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 16 to 17 years,3347,2399,948
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 18 to 19 years,5238,3460,1778
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 20 to 24 years,16947,11811,5136
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 25 to 29 years,15902,10570,5332
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 30 to 44 years,21119,11474,9645
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 45 to 59 years,4388,1793,2595
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 5 to 7 years,4012,2595,1417
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 60 to 64 years,492,184,308
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 65 to 74 years,468,265,203
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 75 to 84 years,112,43,69
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 8 to 9 years,2591,1660,931
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 85 to 89 years,13,2,11
+E09000002,Barking and Dagenham,Arrived in the UK: Aged 90 years and over,4,6,-2
+E09000002,Barking and Dagenham,Born in the UK,128483,128464,19
+E09000003,Barnet,Arrived in the UK: Aged 0 to 4 years,14741,12708,2033
+E09000003,Barnet,Arrived in the UK: Aged 10 to 14 years,9956,9136,820
+E09000003,Barnet,Arrived in the UK: Aged 15 years,2519,2277,242
+E09000003,Barnet,Arrived in the UK: Aged 16 to 17 years,6969,6497,472
+E09000003,Barnet,Arrived in the UK: Aged 18 to 19 years,10911,9656,1255
+E09000003,Barnet,Arrived in the UK: Aged 20 to 24 years,32861,29916,2945
+E09000003,Barnet,Arrived in the UK: Aged 25 to 29 years,30557,24749,5808
+E09000003,Barnet,Arrived in the UK: Aged 30 to 44 years,38384,27236,11148
+E09000003,Barnet,Arrived in the UK: Aged 45 to 59 years,8346,5415,2931
+E09000003,Barnet,Arrived in the UK: Aged 5 to 7 years,6278,5626,652
+E09000003,Barnet,Arrived in the UK: Aged 60 to 64 years,1069,694,375
+E09000003,Barnet,Arrived in the UK: Aged 65 to 74 years,1154,746,408
+E09000003,Barnet,Arrived in the UK: Aged 75 to 84 years,312,236,76
+E09000003,Barnet,Arrived in the UK: Aged 8 to 9 years,3926,3564,362
+E09000003,Barnet,Arrived in the UK: Aged 85 to 89 years,50,28,22
+E09000003,Barnet,Arrived in the UK: Aged 90 years and over,18,12,6
+E09000003,Barnet,Born in the UK,221293,217890,3403
+E09000004,Bexley,Arrived in the UK: Aged 0 to 4 years,4939,3724,1215
+E09000004,Bexley,Arrived in the UK: Aged 10 to 14 years,3341,2464,877
+E09000004,Bexley,Arrived in the UK: Aged 15 years,818,588,230
+E09000004,Bexley,Arrived in the UK: Aged 16 to 17 years,2097,1553,544
+E09000004,Bexley,Arrived in the UK: Aged 18 to 19 years,3069,2235,834
+E09000004,Bexley,Arrived in the UK: Aged 20 to 24 years,10136,6526,3610
+E09000004,Bexley,Arrived in the UK: Aged 25 to 29 years,9719,5449,4270
+E09000004,Bexley,Arrived in the UK: Aged 30 to 44 years,11349,6126,5223
+E09000004,Bexley,Arrived in the UK: Aged 45 to 59 years,2157,1027,1130
+E09000004,Bexley,Arrived in the UK: Aged 5 to 7 years,2036,1594,442
+E09000004,Bexley,Arrived in the UK: Aged 60 to 64 years,294,147,147
+E09000004,Bexley,Arrived in the UK: Aged 65 to 74 years,313,147,166
+E09000004,Bexley,Arrived in the UK: Aged 75 to 84 years,98,38,60
+E09000004,Bexley,Arrived in the UK: Aged 8 to 9 years,1381,1006,375
+E09000004,Bexley,Arrived in the UK: Aged 85 to 89 years,9,6,3
+E09000004,Bexley,Arrived in the UK: Aged 90 years and over,2,0,2
+E09000004,Bexley,Born in the UK,194714,199367,-4653
+E09000005,Brent,Arrived in the UK: Aged 0 to 4 years,13627,12890,737
+E09000005,Brent,Arrived in the UK: Aged 10 to 14 years,12751,12355,396
+E09000005,Brent,Arrived in the UK: Aged 15 years,3060,3195,-135
+E09000005,Brent,Arrived in the UK: Aged 16 to 17 years,8223,8061,162
+E09000005,Brent,Arrived in the UK: Aged 18 to 19 years,13013,12111,902
+E09000005,Brent,Arrived in the UK: Aged 20 to 24 years,37353,37766,-413
+E09000005,Brent,Arrived in the UK: Aged 25 to 29 years,33461,31363,2098
+E09000005,Brent,Arrived in the UK: Aged 30 to 44 years,43549,32620,10929
+E09000005,Brent,Arrived in the UK: Aged 45 to 59 years,10742,7527,3215
+E09000005,Brent,Arrived in the UK: Aged 5 to 7 years,7099,6754,345
+E09000005,Brent,Arrived in the UK: Aged 60 to 64 years,1173,943,230
+E09000005,Brent,Arrived in the UK: Aged 65 to 74 years,1234,966,268
+E09000005,Brent,Arrived in the UK: Aged 75 to 84 years,347,253,94
+E09000005,Brent,Arrived in the UK: Aged 8 to 9 years,4883,4582,301
+E09000005,Brent,Arrived in the UK: Aged 85 to 89 years,48,31,17
+E09000005,Brent,Arrived in the UK: Aged 90 years and over,14,10,4
+E09000005,Brent,Born in the UK,149239,139788,9451
+E09000006,Bromley,Arrived in the UK: Aged 0 to 4 years,7054,5536,1518
+E09000006,Bromley,Arrived in the UK: Aged 10 to 14 years,3654,3103,551
+E09000006,Bromley,Arrived in the UK: Aged 15 years,880,703,177
+E09000006,Bromley,Arrived in the UK: Aged 16 to 17 years,2420,1934,486
+E09000006,Bromley,Arrived in the UK: Aged 18 to 19 years,3794,2838,956
+E09000006,Bromley,Arrived in the UK: Aged 20 to 24 years,12960,8966,3994
+E09000006,Bromley,Arrived in the UK: Aged 25 to 29 years,13736,8261,5475
+E09000006,Bromley,Arrived in the UK: Aged 30 to 44 years,14766,8047,6719
+E09000006,Bromley,Arrived in the UK: Aged 45 to 59 years,2529,1417,1112
+E09000006,Bromley,Arrived in the UK: Aged 5 to 7 years,2632,2089,543
+E09000006,Bromley,Arrived in the UK: Aged 60 to 64 years,378,182,196
+E09000006,Bromley,Arrived in the UK: Aged 65 to 74 years,428,214,214
+E09000006,Bromley,Arrived in the UK: Aged 75 to 84 years,115,68,47
+E09000006,Bromley,Arrived in the UK: Aged 8 to 9 years,1567,1368,199
+E09000006,Bromley,Arrived in the UK: Aged 85 to 89 years,20,15,5
+E09000006,Bromley,Arrived in the UK: Aged 90 years and over,5,3,2
+E09000006,Bromley,Born in the UK,263052,264648,-1596
+E09000007,Camden,Arrived in the UK: Aged 0 to 4 years,7617,8143,-526
+E09000007,Camden,Arrived in the UK: Aged 10 to 14 years,4405,4935,-530
+E09000007,Camden,Arrived in the UK: Aged 15 years,1133,1296,-163
+E09000007,Camden,Arrived in the UK: Aged 16 to 17 years,4592,4658,-66
+E09000007,Camden,Arrived in the UK: Aged 18 to 19 years,7503,7378,125
+E09000007,Camden,Arrived in the UK: Aged 20 to 24 years,19464,19675,-211
+E09000007,Camden,Arrived in the UK: Aged 25 to 29 years,18776,19327,-551
+E09000007,Camden,Arrived in the UK: Aged 30 to 44 years,21400,18639,2761
+E09000007,Camden,Arrived in the UK: Aged 45 to 59 years,4456,3525,931
+E09000007,Camden,Arrived in the UK: Aged 5 to 7 years,3072,3054,18
+E09000007,Camden,Arrived in the UK: Aged 60 to 64 years,515,499,16
+E09000007,Camden,Arrived in the UK: Aged 65 to 74 years,550,509,41
+E09000007,Camden,Arrived in the UK: Aged 75 to 84 years,135,129,6
+E09000007,Camden,Arrived in the UK: Aged 8 to 9 years,1843,1853,-10
+E09000007,Camden,Arrived in the UK: Aged 85 to 89 years,24,16,8
+E09000007,Camden,Arrived in the UK: Aged 90 years and over,4,7,-3
+E09000007,Camden,Born in the UK,114647,126695,-12048
+E09000008,Croydon,Arrived in the UK: Aged 0 to 4 years,11811,10002,1809
+E09000008,Croydon,Arrived in the UK: Aged 10 to 14 years,10163,9224,939
+E09000008,Croydon,Arrived in the UK: Aged 15 years,2627,2332,295
+E09000008,Croydon,Arrived in the UK: Aged 16 to 17 years,5868,5173,695
+E09000008,Croydon,Arrived in the UK: Aged 18 to 19 years,8243,6912,1331
+E09000008,Croydon,Arrived in the UK: Aged 20 to 24 years,25870,21877,3993
+E09000008,Croydon,Arrived in the UK: Aged 25 to 29 years,24037,18888,5149
+E09000008,Croydon,Arrived in the UK: Aged 30 to 44 years,29274,19650,9624
+E09000008,Croydon,Arrived in the UK: Aged 45 to 59 years,6545,3864,2681
+E09000008,Croydon,Arrived in the UK: Aged 5 to 7 years,5819,4945,874
+E09000008,Croydon,Arrived in the UK: Aged 60 to 64 years,775,428,347
+E09000008,Croydon,Arrived in the UK: Aged 65 to 74 years,801,529,272
+E09000008,Croydon,Arrived in the UK: Aged 75 to 84 years,289,146,143
+E09000008,Croydon,Arrived in the UK: Aged 8 to 9 years,4018,3486,532
+E09000008,Croydon,Arrived in the UK: Aged 85 to 89 years,32,16,16
+E09000008,Croydon,Arrived in the UK: Aged 90 years and over,11,12,-1
+E09000008,Croydon,Born in the UK,254536,255894,-1358
+E09000009,Ealing,Arrived in the UK: Aged 0 to 4 years,14583,13006,1577
+E09000009,Ealing,Arrived in the UK: Aged 10 to 14 years,11703,10908,795
+E09000009,Ealing,Arrived in the UK: Aged 15 years,2667,2647,20
+E09000009,Ealing,Arrived in the UK: Aged 16 to 17 years,7063,6723,340
+E09000009,Ealing,Arrived in the UK: Aged 18 to 19 years,11700,10790,910
+E09000009,Ealing,Arrived in the UK: Aged 20 to 24 years,36158,36628,-470
+E09000009,Ealing,Arrived in the UK: Aged 25 to 29 years,33659,30767,2892
+E09000009,Ealing,Arrived in the UK: Aged 30 to 44 years,43191,32035,11156
+E09000009,Ealing,Arrived in the UK: Aged 45 to 59 years,10618,6694,3924
+E09000009,Ealing,Arrived in the UK: Aged 5 to 7 years,7272,6492,780
+E09000009,Ealing,Arrived in the UK: Aged 60 to 64 years,1368,939,429
+E09000009,Ealing,Arrived in the UK: Aged 65 to 74 years,1454,1086,368
+E09000009,Ealing,Arrived in the UK: Aged 75 to 84 years,340,241,99
+E09000009,Ealing,Arrived in the UK: Aged 8 to 9 years,4727,4227,500
+E09000009,Ealing,Arrived in the UK: Aged 85 to 89 years,40,31,9
+E09000009,Ealing,Arrived in the UK: Aged 90 years and over,10,14,-4
+E09000009,Ealing,Born in the UK,180561,175221,5340
+E09000010,Enfield,Arrived in the UK: Aged 0 to 4 years,12151,10441,1710
+E09000010,Enfield,Arrived in the UK: Aged 10 to 14 years,10481,9227,1254
+E09000010,Enfield,Arrived in the UK: Aged 15 years,2637,2503,134
+E09000010,Enfield,Arrived in the UK: Aged 16 to 17 years,6487,6175,312
+E09000010,Enfield,Arrived in the UK: Aged 18 to 19 years,8952,8353,599
+E09000010,Enfield,Arrived in the UK: Aged 20 to 24 years,25391,23157,2234
+E09000010,Enfield,Arrived in the UK: Aged 25 to 29 years,21014,17662,3352
+E09000010,Enfield,Arrived in the UK: Aged 30 to 44 years,27453,18538,8915
+E09000010,Enfield,Arrived in the UK: Aged 45 to 59 years,6320,3188,3132
+E09000010,Enfield,Arrived in the UK: Aged 5 to 7 years,6267,5642,625
+E09000010,Enfield,Arrived in the UK: Aged 60 to 64 years,791,423,368
+E09000010,Enfield,Arrived in the UK: Aged 65 to 74 years,754,478,276
+E09000010,Enfield,Arrived in the UK: Aged 75 to 84 years,224,141,83
+E09000010,Enfield,Arrived in the UK: Aged 8 to 9 years,4199,3649,550
+E09000010,Enfield,Arrived in the UK: Aged 85 to 89 years,34,16,18
+E09000010,Enfield,Arrived in the UK: Aged 90 years and over,7,5,2
+E09000010,Enfield,Born in the UK,196824,202868,-6044
+E09000011,Greenwich,Arrived in the UK: Aged 0 to 4 years,8763,7186,1577
+E09000011,Greenwich,Arrived in the UK: Aged 10 to 14 years,6322,5304,1018
+E09000011,Greenwich,Arrived in the UK: Aged 15 years,1590,1335,255
+E09000011,Greenwich,Arrived in the UK: Aged 16 to 17 years,4247,3490,757
+E09000011,Greenwich,Arrived in the UK: Aged 18 to 19 years,6842,5221,1621
+E09000011,Greenwich,Arrived in the UK: Aged 20 to 24 years,20040,16647,3393
+E09000011,Greenwich,Arrived in the UK: Aged 25 to 29 years,21392,15498,5894
+E09000011,Greenwich,Arrived in the UK: Aged 30 to 44 years,25817,15625,10192
+E09000011,Greenwich,Arrived in the UK: Aged 45 to 59 years,5378,2718,2660
+E09000011,Greenwich,Arrived in the UK: Aged 5 to 7 years,3839,2978,861
+E09000011,Greenwich,Arrived in the UK: Aged 60 to 64 years,771,396,375
+E09000011,Greenwich,Arrived in the UK: Aged 65 to 74 years,911,447,464
+E09000011,Greenwich,Arrived in the UK: Aged 75 to 84 years,194,92,102
+E09000011,Greenwich,Arrived in the UK: Aged 8 to 9 years,2361,1963,398
+E09000011,Greenwich,Arrived in the UK: Aged 85 to 89 years,17,7,10
+E09000011,Greenwich,Arrived in the UK: Aged 90 years and over,6,5,1
+E09000011,Greenwich,Born in the UK,180578,175645,4933
+E09000012,Hackney,Arrived in the UK: Aged 0 to 4 years,7771,7918,-147
+E09000012,Hackney,Arrived in the UK: Aged 10 to 14 years,5665,6571,-906
+E09000012,Hackney,Arrived in the UK: Aged 15 years,1402,1664,-262
+E09000012,Hackney,Arrived in the UK: Aged 16 to 17 years,4182,4349,-167
+E09000012,Hackney,Arrived in the UK: Aged 18 to 19 years,7103,6891,212
+E09000012,Hackney,Arrived in the UK: Aged 20 to 24 years,22808,21935,873
+E09000012,Hackney,Arrived in the UK: Aged 25 to 29 years,22258,19170,3088
+E09000012,Hackney,Arrived in the UK: Aged 30 to 44 years,21243,17653,3590
+E09000012,Hackney,Arrived in the UK: Aged 45 to 59 years,3837,2958,879
+E09000012,Hackney,Arrived in the UK: Aged 5 to 7 years,3395,3824,-429
+E09000012,Hackney,Arrived in the UK: Aged 60 to 64 years,424,339,85
+E09000012,Hackney,Arrived in the UK: Aged 65 to 74 years,453,330,123
+E09000012,Hackney,Arrived in the UK: Aged 75 to 84 years,127,101,26
+E09000012,Hackney,Arrived in the UK: Aged 8 to 9 years,2230,2511,-281
+E09000012,Hackney,Arrived in the UK: Aged 85 to 89 years,21,23,-2
+E09000012,Hackney,Arrived in the UK: Aged 90 years and over,7,3,4
+E09000012,Hackney,Born in the UK,156219,150030,6189
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 0 to 4 years,6568,6606,-38
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 10 to 14 years,3947,4170,-223
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 15 years,1096,1143,-47
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 16 to 17 years,3187,3077,110
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 18 to 19 years,5141,4537,604
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 20 to 24 years,17402,17440,-38
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 25 to 29 years,17552,17734,-182
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 30 to 44 years,19073,15691,3382
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 45 to 59 years,4088,2679,1409
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 5 to 7 years,2593,2544,49
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 60 to 64 years,439,355,84
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 65 to 74 years,462,335,127
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 75 to 84 years,147,80,67
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 8 to 9 years,1617,1627,-10
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 85 to 89 years,19,18,1
+E09000013,Hammersmith and Fulham,Arrived in the UK: Aged 90 years and over,9,3,6
+E09000013,Hammersmith and Fulham,Born in the UK,99818,104454,-4636
+E09000014,Haringey,Arrived in the UK: Aged 0 to 4 years,9006,9463,-457
+E09000014,Haringey,Arrived in the UK: Aged 10 to 14 years,6979,7152,-173
+E09000014,Haringey,Arrived in the UK: Aged 15 years,1745,1768,-23
+E09000014,Haringey,Arrived in the UK: Aged 16 to 17 years,4780,4985,-205
+E09000014,Haringey,Arrived in the UK: Aged 18 to 19 years,8016,7868,148
+E09000014,Haringey,Arrived in the UK: Aged 20 to 24 years,24634,25953,-1319
+E09000014,Haringey,Arrived in the UK: Aged 25 to 29 years,23045,22517,528
+E09000014,Haringey,Arrived in the UK: Aged 30 to 44 years,27958,22075,5883
+E09000014,Haringey,Arrived in the UK: Aged 45 to 59 years,6644,3622,3022
+E09000014,Haringey,Arrived in the UK: Aged 5 to 7 years,4218,4401,-183
+E09000014,Haringey,Arrived in the UK: Aged 60 to 64 years,625,457,168
+E09000014,Haringey,Arrived in the UK: Aged 65 to 74 years,613,426,187
+E09000014,Haringey,Arrived in the UK: Aged 75 to 84 years,177,113,64
+E09000014,Haringey,Arrived in the UK: Aged 8 to 9 years,2663,2877,-214
+E09000014,Haringey,Arrived in the UK: Aged 85 to 89 years,14,15,-1
+E09000014,Haringey,Arrived in the UK: Aged 90 years and over,4,6,-2
+E09000014,Haringey,Born in the UK,143117,141228,1889
+E09000015,Harrow,Arrived in the UK: Aged 0 to 4 years,11108,9609,1499
+E09000015,Harrow,Arrived in the UK: Aged 10 to 14 years,9656,8668,988
+E09000015,Harrow,Arrived in the UK: Aged 15 years,2212,2050,162
+E09000015,Harrow,Arrived in the UK: Aged 16 to 17 years,5929,5639,290
+E09000015,Harrow,Arrived in the UK: Aged 18 to 19 years,9054,7604,1450
+E09000015,Harrow,Arrived in the UK: Aged 20 to 24 years,25254,21660,3594
+E09000015,Harrow,Arrived in the UK: Aged 25 to 29 years,22438,17178,5260
+E09000015,Harrow,Arrived in the UK: Aged 30 to 44 years,28801,19535,9266
+E09000015,Harrow,Arrived in the UK: Aged 45 to 59 years,6810,4914,1896
+E09000015,Harrow,Arrived in the UK: Aged 5 to 7 years,5835,4876,959
+E09000015,Harrow,Arrived in the UK: Aged 60 to 64 years,1001,851,150
+E09000015,Harrow,Arrived in the UK: Aged 65 to 74 years,1173,920,253
+E09000015,Harrow,Arrived in the UK: Aged 75 to 84 years,371,230,141
+E09000015,Harrow,Arrived in the UK: Aged 8 to 9 years,3895,3285,610
+E09000015,Harrow,Arrived in the UK: Aged 85 to 89 years,46,25,21
+E09000015,Harrow,Arrived in the UK: Aged 90 years and over,10,5,5
+E09000015,Harrow,Born in the UK,127612,132007,-4395
+E09000016,Havering,Arrived in the UK: Aged 0 to 4 years,4801,2845,1956
+E09000016,Havering,Arrived in the UK: Aged 10 to 14 years,3226,1822,1404
+E09000016,Havering,Arrived in the UK: Aged 15 years,798,458,340
+E09000016,Havering,Arrived in the UK: Aged 16 to 17 years,1980,1165,815
+E09000016,Havering,Arrived in the UK: Aged 18 to 19 years,3416,1785,1631
+E09000016,Havering,Arrived in the UK: Aged 20 to 24 years,10589,5005,5584
+E09000016,Havering,Arrived in the UK: Aged 25 to 29 years,9544,4141,5403
+E09000016,Havering,Arrived in the UK: Aged 30 to 44 years,10100,4167,5933
+E09000016,Havering,Arrived in the UK: Aged 45 to 59 years,2286,795,1491
+E09000016,Havering,Arrived in the UK: Aged 5 to 7 years,2097,1176,921
+E09000016,Havering,Arrived in the UK: Aged 60 to 64 years,325,106,219
+E09000016,Havering,Arrived in the UK: Aged 65 to 74 years,271,107,164
+E09000016,Havering,Arrived in the UK: Aged 75 to 84 years,92,24,68
+E09000016,Havering,Arrived in the UK: Aged 8 to 9 years,1351,790,561
+E09000016,Havering,Arrived in the UK: Aged 85 to 89 years,6,4,2
+E09000016,Havering,Arrived in the UK: Aged 90 years and over,1,2,-1
+E09000016,Havering,Born in the UK,211166,212840,-1674
+E09000017,Hillingdon,Arrived in the UK: Aged 0 to 4 years,10385,7935,2450
+E09000017,Hillingdon,Arrived in the UK: Aged 10 to 14 years,7926,6360,1566
+E09000017,Hillingdon,Arrived in the UK: Aged 15 years,1968,1693,275
+E09000017,Hillingdon,Arrived in the UK: Aged 16 to 17 years,5177,4407,770
+E09000017,Hillingdon,Arrived in the UK: Aged 18 to 19 years,7573,6145,1428
+E09000017,Hillingdon,Arrived in the UK: Aged 20 to 24 years,23086,17655,5431
+E09000017,Hillingdon,Arrived in the UK: Aged 25 to 29 years,20613,14100,6513
+E09000017,Hillingdon,Arrived in the UK: Aged 30 to 44 years,24737,13860,10877
+E09000017,Hillingdon,Arrived in the UK: Aged 45 to 59 years,6135,2888,3247
+E09000017,Hillingdon,Arrived in the UK: Aged 5 to 7 years,4970,3560,1410
+E09000017,Hillingdon,Arrived in the UK: Aged 60 to 64 years,778,433,345
+E09000017,Hillingdon,Arrived in the UK: Aged 65 to 74 years,922,562,360
+E09000017,Hillingdon,Arrived in the UK: Aged 75 to 84 years,221,117,104
+E09000017,Hillingdon,Arrived in the UK: Aged 8 to 9 years,3119,2348,771
+E09000017,Hillingdon,Arrived in the UK: Aged 85 to 89 years,29,9,20
+E09000017,Hillingdon,Arrived in the UK: Aged 90 years and over,5,5,0
+E09000017,Hillingdon,Born in the UK,188260,191859,-3599
+E09000018,Hounslow,Arrived in the UK: Aged 0 to 4 years,11398,9352,2046
+E09000018,Hounslow,Arrived in the UK: Aged 10 to 14 years,8478,7057,1421
+E09000018,Hounslow,Arrived in the UK: Aged 15 years,1976,1702,274
+E09000018,Hounslow,Arrived in the UK: Aged 16 to 17 years,5130,4503,627
+E09000018,Hounslow,Arrived in the UK: Aged 18 to 19 years,7673,6949,724
+E09000018,Hounslow,Arrived in the UK: Aged 20 to 24 years,27221,25299,1922
+E09000018,Hounslow,Arrived in the UK: Aged 25 to 29 years,26223,21602,4621
+E09000018,Hounslow,Arrived in the UK: Aged 30 to 44 years,34220,20863,13357
+E09000018,Hounslow,Arrived in the UK: Aged 45 to 59 years,8670,4331,4339
+E09000018,Hounslow,Arrived in the UK: Aged 5 to 7 years,5356,4161,1195
+E09000018,Hounslow,Arrived in the UK: Aged 60 to 64 years,1106,585,521
+E09000018,Hounslow,Arrived in the UK: Aged 65 to 74 years,1218,652,566
+E09000018,Hounslow,Arrived in the UK: Aged 75 to 84 years,302,156,146
+E09000018,Hounslow,Arrived in the UK: Aged 8 to 9 years,3607,2682,925
+E09000018,Hounslow,Arrived in the UK: Aged 85 to 89 years,39,18,21
+E09000018,Hounslow,Arrived in the UK: Aged 90 years and over,6,1,5
+E09000018,Hounslow,Born in the UK,145556,144044,1512
+E09000019,Islington,Arrived in the UK: Aged 0 to 4 years,5992,5808,184
+E09000019,Islington,Arrived in the UK: Aged 10 to 14 years,4041,4181,-140
+E09000019,Islington,Arrived in the UK: Aged 15 years,1105,1128,-23
+E09000019,Islington,Arrived in the UK: Aged 16 to 17 years,4018,3727,291
+E09000019,Islington,Arrived in the UK: Aged 18 to 19 years,6344,5708,636
+E09000019,Islington,Arrived in the UK: Aged 20 to 24 years,19507,17333,2174
+E09000019,Islington,Arrived in the UK: Aged 25 to 29 years,20466,15880,4586
+E09000019,Islington,Arrived in the UK: Aged 30 to 44 years,17465,12698,4767
+E09000019,Islington,Arrived in the UK: Aged 45 to 59 years,2654,1897,757
+E09000019,Islington,Arrived in the UK: Aged 5 to 7 years,2419,2357,62
+E09000019,Islington,Arrived in the UK: Aged 60 to 64 years,343,288,55
+E09000019,Islington,Arrived in the UK: Aged 65 to 74 years,332,301,31
+E09000019,Islington,Arrived in the UK: Aged 75 to 84 years,100,92,8
+E09000019,Islington,Arrived in the UK: Aged 8 to 9 years,1574,1618,-44
+E09000019,Islington,Arrived in the UK: Aged 85 to 89 years,10,10,0
+E09000019,Islington,Arrived in the UK: Aged 90 years and over,6,4,2
+E09000019,Islington,Born in the UK,130213,133095,-2882
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 0 to 4 years,5762,6722,-960
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 10 to 14 years,3630,3978,-348
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 15 years,987,993,-6
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 16 to 17 years,3282,3451,-169
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 18 to 19 years,4559,4591,-32
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 20 to 24 years,13915,15016,-1101
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 25 to 29 years,13682,16827,-3145
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 30 to 44 years,19530,20675,-1145
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 45 to 59 years,6709,4663,2046
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 5 to 7 years,2283,2379,-96
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 60 to 64 years,698,535,163
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 65 to 74 years,654,387,267
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 75 to 84 years,227,133,94
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 8 to 9 years,1361,1530,-169
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 85 to 89 years,24,22,2
+E09000020,Kensington and Chelsea,Arrived in the UK: Aged 90 years and over,10,9,1
+E09000020,Kensington and Chelsea,Born in the UK,66063,76738,-10675
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 0 to 4 years,5398,4794,604
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 10 to 14 years,3306,3114,192
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 15 years,719,661,58
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 16 to 17 years,2009,2025,-16
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 18 to 19 years,3267,3259,8
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 20 to 24 years,10172,8969,1203
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 25 to 29 years,10165,7688,2477
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 30 to 44 years,13646,9021,4625
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 45 to 59 years,3258,1866,1392
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 5 to 7 years,2304,1969,335
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 60 to 64 years,388,234,154
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 65 to 74 years,426,290,136
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 75 to 84 years,117,77,40
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 8 to 9 years,1454,1254,200
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 85 to 89 years,18,16,2
+E09000021,Kingston upon Thames,Arrived in the UK: Aged 90 years and over,3,3,0
+E09000021,Kingston upon Thames,Born in the UK,111412,114820,-3408
+E09000022,Lambeth,Arrived in the UK: Aged 0 to 4 years,8871,9439,-568
+E09000022,Lambeth,Arrived in the UK: Aged 10 to 14 years,7392,7884,-492
+E09000022,Lambeth,Arrived in the UK: Aged 15 years,1874,2031,-157
+E09000022,Lambeth,Arrived in the UK: Aged 16 to 17 years,5381,4932,449
+E09000022,Lambeth,Arrived in the UK: Aged 18 to 19 years,8042,7618,424
+E09000022,Lambeth,Arrived in the UK: Aged 20 to 24 years,26009,27593,-1584
+E09000022,Lambeth,Arrived in the UK: Aged 25 to 29 years,24612,24442,170
+E09000022,Lambeth,Arrived in the UK: Aged 30 to 44 years,26237,21694,4543
+E09000022,Lambeth,Arrived in the UK: Aged 45 to 59 years,5718,3707,2011
+E09000022,Lambeth,Arrived in the UK: Aged 5 to 7 years,4103,4393,-290
+E09000022,Lambeth,Arrived in the UK: Aged 60 to 64 years,650,438,212
+E09000022,Lambeth,Arrived in the UK: Aged 65 to 74 years,559,427,132
+E09000022,Lambeth,Arrived in the UK: Aged 75 to 84 years,198,125,73
+E09000022,Lambeth,Arrived in the UK: Aged 8 to 9 years,2865,2997,-132
+E09000022,Lambeth,Arrived in the UK: Aged 85 to 89 years,36,22,14
+E09000022,Lambeth,Arrived in the UK: Aged 90 years and over,13,7,6
+E09000022,Lambeth,Born in the UK,195091,185337,9754
+E09000023,Lewisham,Arrived in the UK: Aged 0 to 4 years,8409,7918,491
+E09000023,Lewisham,Arrived in the UK: Aged 10 to 14 years,6893,7002,-109
+E09000023,Lewisham,Arrived in the UK: Aged 15 years,1654,1795,-141
+E09000023,Lewisham,Arrived in the UK: Aged 16 to 17 years,4410,4381,29
+E09000023,Lewisham,Arrived in the UK: Aged 18 to 19 years,6965,6431,534
+E09000023,Lewisham,Arrived in the UK: Aged 20 to 24 years,21292,20684,608
+E09000023,Lewisham,Arrived in the UK: Aged 25 to 29 years,20912,18005,2907
+E09000023,Lewisham,Arrived in the UK: Aged 30 to 44 years,23768,17009,6759
+E09000023,Lewisham,Arrived in the UK: Aged 45 to 59 years,4515,2655,1860
+E09000023,Lewisham,Arrived in the UK: Aged 5 to 7 years,4086,3737,349
+E09000023,Lewisham,Arrived in the UK: Aged 60 to 64 years,515,339,176
+E09000023,Lewisham,Arrived in the UK: Aged 65 to 74 years,512,345,167
+E09000023,Lewisham,Arrived in the UK: Aged 75 to 84 years,183,89,94
+E09000023,Lewisham,Arrived in the UK: Aged 8 to 9 years,2934,2679,255
+E09000023,Lewisham,Arrived in the UK: Aged 85 to 89 years,20,10,10
+E09000023,Lewisham,Arrived in the UK: Aged 90 years and over,6,7,-1
+E09000023,Lewisham,Born in the UK,193483,182799,10684
+E09000024,Merton,Arrived in the UK: Aged 0 to 4 years,6906,6092,814
+E09000024,Merton,Arrived in the UK: Aged 10 to 14 years,4765,4365,400
+E09000024,Merton,Arrived in the UK: Aged 15 years,1102,1019,83
+E09000024,Merton,Arrived in the UK: Aged 16 to 17 years,2922,2636,286
+E09000024,Merton,Arrived in the UK: Aged 18 to 19 years,4968,4601,367
+E09000024,Merton,Arrived in the UK: Aged 20 to 24 years,17963,18245,-282
+E09000024,Merton,Arrived in the UK: Aged 25 to 29 years,17570,15930,1640
+E09000024,Merton,Arrived in the UK: Aged 30 to 44 years,20747,14572,6175
+E09000024,Merton,Arrived in the UK: Aged 45 to 59 years,4649,2783,1866
+E09000024,Merton,Arrived in the UK: Aged 5 to 7 years,3069,2649,420
+E09000024,Merton,Arrived in the UK: Aged 60 to 64 years,540,325,215
+E09000024,Merton,Arrived in the UK: Aged 65 to 74 years,609,344,265
+E09000024,Merton,Arrived in the UK: Aged 75 to 84 years,180,84,96
+E09000024,Merton,Arrived in the UK: Aged 8 to 9 years,1930,1746,184
+E09000024,Merton,Arrived in the UK: Aged 85 to 89 years,17,8,9
+E09000024,Merton,Arrived in the UK: Aged 90 years and over,5,4,1
+E09000024,Merton,Born in the UK,127245,124290,2955
+E09000025,Newham,Arrived in the UK: Aged 0 to 4 years,14676,12868,1808
+E09000025,Newham,Arrived in the UK: Aged 10 to 14 years,11883,11403,480
+E09000025,Newham,Arrived in the UK: Aged 15 years,2886,2749,137
+E09000025,Newham,Arrived in the UK: Aged 16 to 17 years,7049,6916,133
+E09000025,Newham,Arrived in the UK: Aged 18 to 19 years,12513,11781,732
+E09000025,Newham,Arrived in the UK: Aged 20 to 24 years,37505,39903,-2398
+E09000025,Newham,Arrived in the UK: Aged 25 to 29 years,33964,31583,2381
+E09000025,Newham,Arrived in the UK: Aged 30 to 44 years,43815,30384,13431
+E09000025,Newham,Arrived in the UK: Aged 45 to 59 years,9992,5745,4247
+E09000025,Newham,Arrived in the UK: Aged 5 to 7 years,7281,6318,963
+E09000025,Newham,Arrived in the UK: Aged 60 to 64 years,1021,639,382
+E09000025,Newham,Arrived in the UK: Aged 65 to 74 years,945,699,246
+E09000025,Newham,Arrived in the UK: Aged 75 to 84 years,251,167,84
+E09000025,Newham,Arrived in the UK: Aged 8 to 9 years,4762,4222,540
+E09000025,Newham,Arrived in the UK: Aged 85 to 89 years,35,25,10
+E09000025,Newham,Arrived in the UK: Aged 90 years and over,10,12,-2
+E09000025,Newham,Born in the UK,162447,142570,19877
+E09000026,Redbridge,Arrived in the UK: Aged 0 to 4 years,13605,10980,2625
+E09000026,Redbridge,Arrived in the UK: Aged 10 to 14 years,9070,7677,1393
+E09000026,Redbridge,Arrived in the UK: Aged 15 years,1905,1726,179
+E09000026,Redbridge,Arrived in the UK: Aged 16 to 17 years,5020,4604,416
+E09000026,Redbridge,Arrived in the UK: Aged 18 to 19 years,8471,7450,1021
+E09000026,Redbridge,Arrived in the UK: Aged 20 to 24 years,26452,22916,3536
+E09000026,Redbridge,Arrived in the UK: Aged 25 to 29 years,23882,18033,5849
+E09000026,Redbridge,Arrived in the UK: Aged 30 to 44 years,28842,17004,11838
+E09000026,Redbridge,Arrived in the UK: Aged 45 to 59 years,5713,3082,2631
+E09000026,Redbridge,Arrived in the UK: Aged 5 to 7 years,6376,5116,1260
+E09000026,Redbridge,Arrived in the UK: Aged 60 to 64 years,765,514,251
+E09000026,Redbridge,Arrived in the UK: Aged 65 to 74 years,815,655,160
+E09000026,Redbridge,Arrived in the UK: Aged 75 to 84 years,267,130,137
+E09000026,Redbridge,Arrived in the UK: Aged 8 to 9 years,4084,3170,914
+E09000026,Redbridge,Arrived in the UK: Aged 85 to 89 years,22,12,10
+E09000026,Redbridge,Arrived in the UK: Aged 90 years and over,7,4,3
+E09000026,Redbridge,Born in the UK,174963,175897,-934
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 0 to 4 years,6718,5937,781
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 10 to 14 years,2810,2456,354
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 15 years,561,568,-7
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 16 to 17 years,1662,1583,79
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 18 to 19 years,2608,2463,145
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 20 to 24 years,9168,8434,734
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 25 to 29 years,9968,8406,1562
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 30 to 44 years,14662,10019,4643
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 45 to 59 years,3384,1867,1517
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 5 to 7 years,2396,2014,382
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 60 to 64 years,320,197,123
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 65 to 74 years,403,204,199
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 75 to 84 years,144,59,85
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 8 to 9 years,1388,1185,203
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 85 to 89 years,24,8,16
+E09000027,Richmond upon Thames,Arrived in the UK: Aged 90 years and over,6,5,1
+E09000027,Richmond upon Thames,Born in the UK,139053,141585,-2532
+E09000028,Southwark,Arrived in the UK: Aged 0 to 4 years,8780,8303,477
+E09000028,Southwark,Arrived in the UK: Aged 10 to 14 years,6829,7162,-333
+E09000028,Southwark,Arrived in the UK: Aged 15 years,1782,1965,-183
+E09000028,Southwark,Arrived in the UK: Aged 16 to 17 years,5657,5211,446
+E09000028,Southwark,Arrived in the UK: Aged 18 to 19 years,8699,7763,936
+E09000028,Southwark,Arrived in the UK: Aged 20 to 24 years,26637,26144,493
+E09000028,Southwark,Arrived in the UK: Aged 25 to 29 years,25750,23890,1860
+E09000028,Southwark,Arrived in the UK: Aged 30 to 44 years,27558,22074,5484
+E09000028,Southwark,Arrived in the UK: Aged 45 to 59 years,5758,3699,2059
+E09000028,Southwark,Arrived in the UK: Aged 5 to 7 years,3777,3720,57
+E09000028,Southwark,Arrived in the UK: Aged 60 to 64 years,622,435,187
+E09000028,Southwark,Arrived in the UK: Aged 65 to 74 years,592,458,134
+E09000028,Southwark,Arrived in the UK: Aged 75 to 84 years,194,112,82
+E09000028,Southwark,Arrived in the UK: Aged 8 to 9 years,2552,2702,-150
+E09000028,Southwark,Arrived in the UK: Aged 85 to 89 years,31,19,12
+E09000028,Southwark,Arrived in the UK: Aged 90 years and over,25,10,15
+E09000028,Southwark,Born in the UK,182392,174616,7776
+E09000029,Sutton,Arrived in the UK: Aged 0 to 4 years,5482,3743,1739
+E09000029,Sutton,Arrived in the UK: Aged 10 to 14 years,3194,2429,765
+E09000029,Sutton,Arrived in the UK: Aged 15 years,726,573,153
+E09000029,Sutton,Arrived in the UK: Aged 16 to 17 years,2084,1617,467
+E09000029,Sutton,Arrived in the UK: Aged 18 to 19 years,3261,2481,780
+E09000029,Sutton,Arrived in the UK: Aged 20 to 24 years,11549,7960,3589
+E09000029,Sutton,Arrived in the UK: Aged 25 to 29 years,11612,7119,4493
+E09000029,Sutton,Arrived in the UK: Aged 30 to 44 years,13140,7347,5793
+E09000029,Sutton,Arrived in the UK: Aged 45 to 59 years,2583,1309,1274
+E09000029,Sutton,Arrived in the UK: Aged 5 to 7 years,2200,1707,493
+E09000029,Sutton,Arrived in the UK: Aged 60 to 64 years,361,187,174
+E09000029,Sutton,Arrived in the UK: Aged 65 to 74 years,487,217,270
+E09000029,Sutton,Arrived in the UK: Aged 75 to 84 years,119,37,82
+E09000029,Sutton,Arrived in the UK: Aged 8 to 9 years,1379,1020,359
+E09000029,Sutton,Arrived in the UK: Aged 85 to 89 years,11,8,3
+E09000029,Sutton,Arrived in the UK: Aged 90 years and over,3,2,1
+E09000029,Sutton,Born in the UK,151447,152390,-943
+E09000030,Tower Hamlets,Arrived in the UK: Aged 0 to 4 years,10954,9661,1293
+E09000030,Tower Hamlets,Arrived in the UK: Aged 10 to 14 years,8335,7387,948
+E09000030,Tower Hamlets,Arrived in the UK: Aged 15 years,1966,1662,304
+E09000030,Tower Hamlets,Arrived in the UK: Aged 16 to 17 years,6308,5237,1071
+E09000030,Tower Hamlets,Arrived in the UK: Aged 18 to 19 years,12375,9224,3151
+E09000030,Tower Hamlets,Arrived in the UK: Aged 20 to 24 years,33419,25766,7653
+E09000030,Tower Hamlets,Arrived in the UK: Aged 25 to 29 years,30160,22500,7660
+E09000030,Tower Hamlets,Arrived in the UK: Aged 30 to 44 years,26987,17187,9800
+E09000030,Tower Hamlets,Arrived in the UK: Aged 45 to 59 years,4698,2718,1980
+E09000030,Tower Hamlets,Arrived in the UK: Aged 5 to 7 years,5236,4298,938
+E09000030,Tower Hamlets,Arrived in the UK: Aged 60 to 64 years,577,388,189
+E09000030,Tower Hamlets,Arrived in the UK: Aged 65 to 74 years,566,414,152
+E09000030,Tower Hamlets,Arrived in the UK: Aged 75 to 84 years,160,109,51
+E09000030,Tower Hamlets,Arrived in the UK: Aged 8 to 9 years,3458,2864,594
+E09000030,Tower Hamlets,Arrived in the UK: Aged 85 to 89 years,17,9,8
+E09000030,Tower Hamlets,Arrived in the UK: Aged 90 years and over,9,10,-1
+E09000030,Tower Hamlets,Born in the UK,165081,144662,20419
+E09000031,Waltham Forest,Arrived in the UK: Aged 0 to 4 years,8316,8032,284
+E09000031,Waltham Forest,Arrived in the UK: Aged 10 to 14 years,6582,7063,-481
+E09000031,Waltham Forest,Arrived in the UK: Aged 15 years,1559,1826,-267
+E09000031,Waltham Forest,Arrived in the UK: Aged 16 to 17 years,3944,4568,-624
+E09000031,Waltham Forest,Arrived in the UK: Aged 18 to 19 years,7024,7520,-496
+E09000031,Waltham Forest,Arrived in the UK: Aged 20 to 24 years,22942,24480,-1538
+E09000031,Waltham Forest,Arrived in the UK: Aged 25 to 29 years,20819,18844,1975
+E09000031,Waltham Forest,Arrived in the UK: Aged 30 to 44 years,23364,16938,6426
+E09000031,Waltham Forest,Arrived in the UK: Aged 45 to 59 years,5080,3023,2057
+E09000031,Waltham Forest,Arrived in the UK: Aged 5 to 7 years,3916,4006,-90
+E09000031,Waltham Forest,Arrived in the UK: Aged 60 to 64 years,473,353,120
+E09000031,Waltham Forest,Arrived in the UK: Aged 65 to 74 years,500,366,134
+E09000031,Waltham Forest,Arrived in the UK: Aged 75 to 84 years,160,103,57
+E09000031,Waltham Forest,Arrived in the UK: Aged 8 to 9 years,2656,2676,-20
+E09000031,Waltham Forest,Arrived in the UK: Aged 85 to 89 years,20,11,9
+E09000031,Waltham Forest,Arrived in the UK: Aged 90 years and over,3,3,0
+E09000031,Waltham Forest,Born in the UK,171070,158437,12633
+E09000032,Wandsworth,Arrived in the UK: Aged 0 to 4 years,10502,9818,684
+E09000032,Wandsworth,Arrived in the UK: Aged 10 to 14 years,6185,5931,254
+E09000032,Wandsworth,Arrived in the UK: Aged 15 years,1443,1341,102
+E09000032,Wandsworth,Arrived in the UK: Aged 16 to 17 years,4244,3724,520
+E09000032,Wandsworth,Arrived in the UK: Aged 18 to 19 years,7249,6280,969
+E09000032,Wandsworth,Arrived in the UK: Aged 20 to 24 years,26112,26290,-178
+E09000032,Wandsworth,Arrived in the UK: Aged 25 to 29 years,26805,25045,1760
+E09000032,Wandsworth,Arrived in the UK: Aged 30 to 44 years,27323,19666,7657
+E09000032,Wandsworth,Arrived in the UK: Aged 45 to 59 years,5641,3336,2305
+E09000032,Wandsworth,Arrived in the UK: Aged 5 to 7 years,4184,3774,410
+E09000032,Wandsworth,Arrived in the UK: Aged 60 to 64 years,745,394,351
+E09000032,Wandsworth,Arrived in the UK: Aged 65 to 74 years,784,430,354
+E09000032,Wandsworth,Arrived in the UK: Aged 75 to 84 years,246,127,119
+E09000032,Wandsworth,Arrived in the UK: Aged 8 to 9 years,2677,2383,294
+E09000032,Wandsworth,Arrived in the UK: Aged 85 to 89 years,34,26,8
+E09000032,Wandsworth,Arrived in the UK: Aged 90 years and over,10,8,2
+E09000032,Wandsworth,Born in the UK,203322,198422,4900
+E09000033,Westminster,Arrived in the UK: Aged 0 to 4 years,7353,8375,-1022
+E09000033,Westminster,Arrived in the UK: Aged 10 to 14 years,5301,6031,-730
+E09000033,Westminster,Arrived in the UK: Aged 15 years,1489,1560,-71
+E09000033,Westminster,Arrived in the UK: Aged 16 to 17 years,5121,5221,-100
+E09000033,Westminster,Arrived in the UK: Aged 18 to 19 years,7639,7460,179
+E09000033,Westminster,Arrived in the UK: Aged 20 to 24 years,21978,22996,-1018
+E09000033,Westminster,Arrived in the UK: Aged 25 to 29 years,22340,25071,-2731
+E09000033,Westminster,Arrived in the UK: Aged 30 to 44 years,27059,26364,695
+E09000033,Westminster,Arrived in the UK: Aged 45 to 59 years,7770,6383,1387
+E09000033,Westminster,Arrived in the UK: Aged 5 to 7 years,3175,3443,-268
+E09000033,Westminster,Arrived in the UK: Aged 60 to 64 years,941,845,96
+E09000033,Westminster,Arrived in the UK: Aged 65 to 74 years,937,684,253
+E09000033,Westminster,Arrived in the UK: Aged 75 to 84 years,275,199,76
+E09000033,Westminster,Arrived in the UK: Aged 8 to 9 years,2096,2323,-227
+E09000033,Westminster,Arrived in the UK: Aged 85 to 89 years,49,22,27
+E09000033,Westminster,Arrived in the UK: Aged 90 years and over,10,12,-2
+E09000033,Westminster,Born in the UK,90702,102407,-11705

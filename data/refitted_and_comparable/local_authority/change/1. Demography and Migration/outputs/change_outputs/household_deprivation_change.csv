@@ -1,0 +1,166 @@
+lad22cd,lad22nm,category,count_21,count_11,change
+E09000001,City of London,Household is deprived in four dimensions,8,19,-11
+E09000001,City of London,Household is deprived in one dimension,1547,1772,-225
+E09000001,City of London,Household is deprived in three dimensions,75,122,-47
+E09000001,City of London,Household is deprived in two dimensions,347,499,-152
+E09000001,City of London,Household is not deprived in any dimension,2937,1973,964
+E09000002,Barking and Dagenham,Household is deprived in four dimensions,287,701,-414
+E09000002,Barking and Dagenham,Household is deprived in one dimension,27396,24953,2443
+E09000002,Barking and Dagenham,Household is deprived in three dimensions,4348,6027,-1679
+E09000002,Barking and Dagenham,Household is deprived in two dimensions,14090,18382,-4292
+E09000002,Barking and Dagenham,Household is not deprived in any dimension,27781,19618,8163
+E09000003,Barnet,Household is deprived in four dimensions,668,948,-280
+E09000003,Barnet,Household is deprived in one dimension,49136,45413,3723
+E09000003,Barnet,Household is deprived in three dimensions,5415,6669,-1254
+E09000003,Barnet,Household is deprived in two dimensions,19877,24122,-4245
+E09000003,Barnet,Household is not deprived in any dimension,73825,58764,15061
+E09000004,Bexley,Household is deprived in four dimensions,206,323,-117
+E09000004,Bexley,Household is deprived in one dimension,32625,31937,688
+E09000004,Bexley,Household is deprived in three dimensions,2998,4048,-1050
+E09000004,Bexley,Household is deprived in two dimensions,13232,17839,-4607
+E09000004,Bexley,Household is not deprived in any dimension,46238,38457,7781
+E09000005,Brent,Household is deprived in four dimensions,591,1382,-791
+E09000005,Brent,Household is deprived in one dimension,43300,40538,2762
+E09000005,Brent,Household is deprived in three dimensions,6328,8741,-2413
+E09000005,Brent,Household is deprived in two dimensions,21017,25540,-4523
+E09000005,Brent,Household is not deprived in any dimension,47376,34085,13291
+E09000006,Bromley,Household is deprived in four dimensions,228,522,-294
+E09000006,Bromley,Household is deprived in one dimension,42434,41818,616
+E09000006,Bromley,Household is deprived in three dimensions,3586,4931,-1345
+E09000006,Bromley,Household is deprived in two dimensions,15360,20141,-4781
+E09000006,Bromley,Household is not deprived in any dimension,74219,63450,10769
+E09000007,Camden,Household is deprived in four dimensions,603,1436,-833
+E09000007,Camden,Household is deprived in one dimension,29601,34569,-4968
+E09000007,Camden,Household is deprived in three dimensions,4938,7085,-2147
+E09000007,Camden,Household is deprived in two dimensions,13535,17469,-3934
+E09000007,Camden,Household is not deprived in any dimension,44082,36975,7107
+E09000008,Croydon,Household is deprived in four dimensions,552,1054,-502
+E09000008,Croydon,Household is deprived in one dimension,51772,50369,1403
+E09000008,Croydon,Household is deprived in three dimensions,5581,7457,-1876
+E09000008,Croydon,Household is deprived in two dimensions,21635,26731,-5096
+E09000008,Croydon,Household is not deprived in any dimension,73406,59399,14007
+E09000009,Ealing,Household is deprived in four dimensions,518,1214,-696
+E09000009,Ealing,Household is deprived in one dimension,45652,42757,2895
+E09000009,Ealing,Household is deprived in three dimensions,5686,8212,-2526
+E09000009,Ealing,Household is deprived in two dimensions,20275,25522,-5247
+E09000009,Ealing,Household is not deprived in any dimension,61527,46377,15150
+E09000010,Enfield,Household is deprived in four dimensions,566,1193,-627
+E09000010,Enfield,Household is deprived in one dimension,43120,41080,2040
+E09000010,Enfield,Household is deprived in three dimensions,6012,8172,-2160
+E09000010,Enfield,Household is deprived in two dimensions,20209,26163,-5954
+E09000010,Enfield,Household is not deprived in any dimension,51013,43308,7705
+E09000011,Greenwich,Household is deprived in four dimensions,428,917,-489
+E09000011,Greenwich,Household is deprived in one dimension,36619,34480,2139
+E09000011,Greenwich,Household is deprived in three dimensions,5382,7239,-1857
+E09000011,Greenwich,Household is deprived in two dimensions,16601,20809,-4208
+E09000011,Greenwich,Household is not deprived in any dimension,55022,37600,17422
+E09000012,Hackney,Household is deprived in four dimensions,605,1560,-955
+E09000012,Hackney,Household is deprived in one dimension,34486,36314,-1828
+E09000012,Hackney,Household is deprived in three dimensions,6333,9308,-2975
+E09000012,Hackney,Household is deprived in two dimensions,16971,22514,-5543
+E09000012,Hackney,Household is not deprived in any dimension,47686,31994,15692
+E09000013,Hammersmith and Fulham,Household is deprived in four dimensions,379,839,-460
+E09000013,Hammersmith and Fulham,Household is deprived in one dimension,25243,27335,-2092
+E09000013,Hammersmith and Fulham,Household is deprived in three dimensions,3319,5240,-1921
+E09000013,Hammersmith and Fulham,Household is deprived in two dimensions,10555,13749,-3194
+E09000013,Hammersmith and Fulham,Household is not deprived in any dimension,41748,33427,8321
+E09000014,Haringey,Household is deprived in four dimensions,607,1402,-795
+E09000014,Haringey,Household is deprived in one dimension,35580,34280,1300
+E09000014,Haringey,Household is deprived in three dimensions,5755,7968,-2213
+E09000014,Haringey,Household is deprived in two dimensions,17629,21949,-4320
+E09000014,Haringey,Household is not deprived in any dimension,45524,36356,9168
+E09000015,Harrow,Household is deprived in four dimensions,233,450,-217
+E09000015,Harrow,Household is deprived in one dimension,30953,28917,2036
+E09000015,Harrow,Household is deprived in three dimensions,2763,3892,-1129
+E09000015,Harrow,Household is deprived in two dimensions,12012,15813,-3801
+E09000015,Harrow,Household is not deprived in any dimension,43681,35196,8485
+E09000016,Havering,Household is deprived in four dimensions,212,401,-189
+E09000016,Havering,Household is deprived in one dimension,34966,33711,1255
+E09000016,Havering,Household is deprived in three dimensions,3337,4272,-935
+E09000016,Havering,Household is deprived in two dimensions,14859,20248,-5389
+E09000016,Havering,Household is not deprived in any dimension,47903,38567,9336
+E09000017,Hillingdon,Household is deprived in four dimensions,327,596,-269
+E09000017,Hillingdon,Household is deprived in one dimension,38207,34824,3383
+E09000017,Hillingdon,Household is deprived in three dimensions,4110,5029,-919
+E09000017,Hillingdon,Household is deprived in two dimensions,16448,19622,-3174
+E09000017,Hillingdon,Household is not deprived in any dimension,50136,40143,9993
+E09000018,Hounslow,Household is deprived in four dimensions,420,749,-329
+E09000018,Hounslow,Household is deprived in one dimension,36270,33763,2507
+E09000018,Hounslow,Household is deprived in three dimensions,4377,5774,-1397
+E09000018,Hounslow,Household is deprived in two dimensions,16488,19203,-2715
+E09000018,Hounslow,Household is not deprived in any dimension,45406,35413,9993
+E09000019,Islington,Household is deprived in four dimensions,450,1274,-824
+E09000019,Islington,Household is deprived in one dimension,29403,31880,-2477
+E09000019,Islington,Household is deprived in three dimensions,5409,7762,-2353
+E09000019,Islington,Household is deprived in two dimensions,14577,18351,-3774
+E09000019,Islington,Household is not deprived in any dimension,46657,34289,12368
+E09000020,Kensington and Chelsea,Household is deprived in four dimensions,426,823,-397
+E09000020,Kensington and Chelsea,Household is deprived in one dimension,20245,27161,-6916
+E09000020,Kensington and Chelsea,Household is deprived in three dimensions,2918,4366,-1448
+E09000020,Kensington and Chelsea,Household is deprived in two dimensions,8121,11908,-3787
+E09000020,Kensington and Chelsea,Household is not deprived in any dimension,35174,34278,896
+E09000021,Kingston upon Thames,Household is deprived in four dimensions,116,246,-130
+E09000021,Kingston upon Thames,Household is deprived in one dimension,20274,20186,88
+E09000021,Kingston upon Thames,Household is deprived in three dimensions,1552,2140,-588
+E09000021,Kingston upon Thames,Household is deprived in two dimensions,7045,8892,-1847
+E09000021,Kingston upon Thames,Household is not deprived in any dimension,36639,32175,4464
+E09000022,Lambeth,Household is deprived in four dimensions,473,1291,-818
+E09000022,Lambeth,Household is deprived in one dimension,42725,44100,-1375
+E09000022,Lambeth,Household is deprived in three dimensions,5499,8654,-3155
+E09000022,Lambeth,Household is deprived in two dimensions,18625,24158,-5533
+E09000022,Lambeth,Household is not deprived in any dimension,67366,51814,15552
+E09000023,Lewisham,Household is deprived in four dimensions,536,1094,-558
+E09000023,Lewisham,Household is deprived in one dimension,39762,39640,122
+E09000023,Lewisham,Household is deprived in three dimensions,5755,7871,-2116
+E09000023,Lewisham,Household is deprived in two dimensions,18556,22963,-4407
+E09000023,Lewisham,Household is not deprived in any dimension,57783,44523,13260
+E09000024,Merton,Household is deprived in four dimensions,168,380,-212
+E09000024,Merton,Household is deprived in one dimension,25596,25594,2
+E09000024,Merton,Household is deprived in three dimensions,2276,3457,-1181
+E09000024,Merton,Household is deprived in two dimensions,9632,12685,-3053
+E09000024,Merton,Household is not deprived in any dimension,44057,36641,7416
+E09000025,Newham,Household is deprived in four dimensions,501,1311,-810
+E09000025,Newham,Household is deprived in one dimension,41296,38692,2604
+E09000025,Newham,Household is deprived in three dimensions,7081,9748,-2667
+E09000025,Newham,Household is deprived in two dimensions,21230,26412,-5182
+E09000025,Newham,Household is not deprived in any dimension,45399,25356,20043
+E09000026,Redbridge,Household is deprived in four dimensions,277,612,-335
+E09000026,Redbridge,Household is deprived in one dimension,36254,34616,1638
+E09000026,Redbridge,Household is deprived in three dimensions,3869,5455,-1586
+E09000026,Redbridge,Household is deprived in two dimensions,15319,20000,-4681
+E09000026,Redbridge,Household is not deprived in any dimension,47994,38422,9572
+E09000027,Richmond upon Thames,Household is deprived in four dimensions,130,277,-147
+E09000027,Richmond upon Thames,Household is deprived in one dimension,22644,22322,322
+E09000027,Richmond upon Thames,Household is deprived in three dimensions,1678,2237,-559
+E09000027,Richmond upon Thames,Household is deprived in two dimensions,6992,8994,-2002
+E09000027,Richmond upon Thames,Household is not deprived in any dimension,49261,46005,3256
+E09000028,Southwark,Household is deprived in four dimensions,410,1322,-912
+E09000028,Southwark,Household is deprived in one dimension,41817,42428,-611
+E09000028,Southwark,Household is deprived in three dimensions,6066,8961,-2895
+E09000028,Southwark,Household is deprived in two dimensions,19018,24121,-5103
+E09000028,Southwark,Household is not deprived in any dimension,63507,43590,19917
+E09000029,Sutton,Household is deprived in four dimensions,187,356,-169
+E09000029,Sutton,Household is deprived in one dimension,27257,26211,1046
+E09000029,Sutton,Household is deprived in three dimensions,2549,3195,-646
+E09000029,Sutton,Household is deprived in two dimensions,10463,12776,-2313
+E09000029,Sutton,Household is not deprived in any dimension,41892,35636,6256
+E09000030,Tower Hamlets,Household is deprived in four dimensions,527,1495,-968
+E09000030,Tower Hamlets,Household is deprived in one dimension,38337,36199,2138
+E09000030,Tower Hamlets,Household is deprived in three dimensions,7054,9432,-2378
+E09000030,Tower Hamlets,Household is deprived in two dimensions,18685,20987,-2302
+E09000030,Tower Hamlets,Household is not deprived in any dimension,55936,33144,22792
+E09000031,Waltham Forest,Household is deprived in four dimensions,380,933,-553
+E09000031,Waltham Forest,Household is deprived in one dimension,34786,33920,866
+E09000031,Waltham Forest,Household is deprived in three dimensions,4600,7027,-2427
+E09000031,Waltham Forest,Household is deprived in two dimensions,16559,21764,-5205
+E09000031,Waltham Forest,Household is not deprived in any dimension,46576,33217,13359
+E09000032,Wandsworth,Household is deprived in four dimensions,396,819,-423
+E09000032,Wandsworth,Household is deprived in one dimension,38272,39677,-1405
+E09000032,Wandsworth,Household is deprived in three dimensions,4113,6064,-1951
+E09000032,Wandsworth,Household is deprived in two dimensions,14425,18174,-3749
+E09000032,Wandsworth,Household is not deprived in any dimension,80186,65759,14427
+E09000033,Westminster,Household is deprived in four dimensions,683,1628,-945
+E09000033,Westminster,Household is deprived in one dimension,28839,36506,-7667
+E09000033,Westminster,Household is deprived in three dimensions,5025,7790,-2765
+E09000033,Westminster,Household is deprived in two dimensions,12728,18341,-5613
+E09000033,Westminster,Household is not deprived in any dimension,47540,41507,6033
