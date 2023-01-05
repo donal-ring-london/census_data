@@ -1,0 +1,9 @@
+To download .csv files: 
+Navigate to folder -> click on file -> click "Raw" -> right click on page -> choose "Save as"
+
+
+To download .dbf, .shp, .shx files: 
+Navigate to folder -> click on file -> select "Download"
+
+To download .prj files: 
+Navigate to folder -> click on file -> click "Raw" -> right click on page -> choose "Save as" -> delete .txt extension
