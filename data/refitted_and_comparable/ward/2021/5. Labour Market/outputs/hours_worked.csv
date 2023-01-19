@@ -1,0 +1,2721 @@
+gss_code_ward,ward_name,category,count_21
+E09000001,City of London,Part-time: 15 hours or less worked,390
+E09000001,City of London,Part-time: 16 to 30 hours worked,495
+E09000001,City of London,Full-time: 31 to 48 hours worked,2761
+E09000001,City of London,Full-time: 49 or more hours worked,1710
+E05014066,Northbury,Part-time: 15 hours or less worked,723
+E05014066,Northbury,Part-time: 16 to 30 hours worked,1276
+E05014066,Northbury,Full-time: 31 to 48 hours worked,3152
+E05014066,Northbury,Full-time: 49 or more hours worked,506
+E05014053,Abbey,Part-time: 15 hours or less worked,196
+E05014053,Abbey,Part-time: 16 to 30 hours worked,292
+E05014053,Abbey,Full-time: 31 to 48 hours worked,1213
+E05014053,Abbey,Full-time: 49 or more hours worked,168
+E05014054,Alibon,Part-time: 15 hours or less worked,471
+E05014054,Alibon,Part-time: 16 to 30 hours worked,927
+E05014054,Alibon,Full-time: 31 to 48 hours worked,2694
+E05014054,Alibon,Full-time: 49 or more hours worked,388
+E05014067,Parsloes,Part-time: 15 hours or less worked,729
+E05014067,Parsloes,Part-time: 16 to 30 hours worked,1402
+E05014067,Parsloes,Full-time: 31 to 48 hours worked,3879
+E05014067,Parsloes,Full-time: 49 or more hours worked,563
+E05014057,Becontree,Part-time: 15 hours or less worked,517
+E05014057,Becontree,Part-time: 16 to 30 hours worked,955
+E05014057,Becontree,Full-time: 31 to 48 hours worked,2272
+E05014057,Becontree,Full-time: 49 or more hours worked,322
+E05014065,Mayesbrook,Part-time: 15 hours or less worked,744
+E05014065,Mayesbrook,Part-time: 16 to 30 hours worked,1474
+E05014065,Mayesbrook,Full-time: 31 to 48 hours worked,3807
+E05014065,Mayesbrook,Full-time: 49 or more hours worked,608
+E05014058,Chadwell Heath,Part-time: 15 hours or less worked,710
+E05014058,Chadwell Heath,Part-time: 16 to 30 hours worked,1185
+E05014058,Chadwell Heath,Full-time: 31 to 48 hours worked,3304
+E05014058,Chadwell Heath,Full-time: 49 or more hours worked,458
+E05014059,Eastbrook & Rush Green,Part-time: 15 hours or less worked,374
+E05014059,Eastbrook & Rush Green,Part-time: 16 to 30 hours worked,748
+E05014059,Eastbrook & Rush Green,Full-time: 31 to 48 hours worked,2451
+E05014059,Eastbrook & Rush Green,Full-time: 49 or more hours worked,391
+E05014060,Eastbury,Part-time: 15 hours or less worked,799
+E05014060,Eastbury,Part-time: 16 to 30 hours worked,1428
+E05014060,Eastbury,Full-time: 31 to 48 hours worked,3877
+E05014060,Eastbury,Full-time: 49 or more hours worked,603
+E05014061,Gascoigne,Part-time: 15 hours or less worked,514
+E05014061,Gascoigne,Part-time: 16 to 30 hours worked,1006
+E05014061,Gascoigne,Full-time: 31 to 48 hours worked,2629
+E05014061,Gascoigne,Full-time: 49 or more hours worked,410
+E05014062,Goresbrook,Part-time: 15 hours or less worked,611
+E05014062,Goresbrook,Part-time: 16 to 30 hours worked,1282
+E05014062,Goresbrook,Full-time: 31 to 48 hours worked,3473
+E05014062,Goresbrook,Full-time: 49 or more hours worked,539
+E05014063,Heath,Part-time: 15 hours or less worked,476
+E05014063,Heath,Part-time: 16 to 30 hours worked,832
+E05014063,Heath,Full-time: 31 to 48 hours worked,2267
+E05014063,Heath,Full-time: 49 or more hours worked,342
+E05014069,Valence,Part-time: 15 hours or less worked,773
+E05014069,Valence,Part-time: 16 to 30 hours worked,1412
+E05014069,Valence,Full-time: 31 to 48 hours worked,3704
+E05014069,Valence,Full-time: 49 or more hours worked,555
+E05014064,Longbridge,Part-time: 15 hours or less worked,767
+E05014064,Longbridge,Part-time: 16 to 30 hours worked,1228
+E05014064,Longbridge,Full-time: 31 to 48 hours worked,3425
+E05014064,Longbridge,Full-time: 49 or more hours worked,447
+E05014056,Beam,Part-time: 15 hours or less worked,425
+E05014056,Beam,Part-time: 16 to 30 hours worked,813
+E05014056,Beam,Full-time: 31 to 48 hours worked,2034
+E05014056,Beam,Full-time: 49 or more hours worked,282
+E05014070,Village,Part-time: 15 hours or less worked,556
+E05014070,Village,Part-time: 16 to 30 hours worked,1111
+E05014070,Village,Full-time: 31 to 48 hours worked,3239
+E05014070,Village,Full-time: 49 or more hours worked,513
+E05014055,Barking Riverside,Part-time: 15 hours or less worked,435
+E05014055,Barking Riverside,Part-time: 16 to 30 hours worked,934
+E05014055,Barking Riverside,Full-time: 31 to 48 hours worked,2800
+E05014055,Barking Riverside,Full-time: 49 or more hours worked,365
+E05014068,Thames View,Part-time: 15 hours or less worked,247
+E05014068,Thames View,Part-time: 16 to 30 hours worked,501
+E05014068,Thames View,Full-time: 31 to 48 hours worked,1343
+E05014068,Thames View,Full-time: 49 or more hours worked,195
+E05014071,Whalebone,Part-time: 15 hours or less worked,716
+E05014071,Whalebone,Part-time: 16 to 30 hours worked,1294
+E05014071,Whalebone,Full-time: 31 to 48 hours worked,3926
+E05014071,Whalebone,Full-time: 49 or more hours worked,561
+E05013629,Brunswick Park,Part-time: 15 hours or less worked,914
+E05013629,Brunswick Park,Part-time: 16 to 30 hours worked,1587
+E05013629,Brunswick Park,Full-time: 31 to 48 hours worked,4361
+E05013629,Brunswick Park,Full-time: 49 or more hours worked,892
+E05013635,East Barnet,Part-time: 15 hours or less worked,1047
+E05013635,East Barnet,Part-time: 16 to 30 hours worked,1739
+E05013635,East Barnet,Full-time: 31 to 48 hours worked,4769
+E05013635,East Barnet,Full-time: 49 or more hours worked,1003
+E05013650,Whetstone,Part-time: 15 hours or less worked,637
+E05013650,Whetstone,Part-time: 16 to 30 hours worked,941
+E05013650,Whetstone,Full-time: 31 to 48 hours worked,3047
+E05013650,Whetstone,Full-time: 49 or more hours worked,782
+E05013632,Colindale North,Part-time: 15 hours or less worked,739
+E05013632,Colindale North,Part-time: 16 to 30 hours worked,1105
+E05013632,Colindale North,Full-time: 31 to 48 hours worked,3268
+E05013632,Colindale North,Full-time: 49 or more hours worked,524
+E05013630,Burnt Oak,Part-time: 15 hours or less worked,1182
+E05013630,Burnt Oak,Part-time: 16 to 30 hours worked,2116
+E05013630,Burnt Oak,Full-time: 31 to 48 hours worked,5412
+E05013630,Burnt Oak,Full-time: 49 or more hours worked,983
+E05013634,Cricklewood,Part-time: 15 hours or less worked,654
+E05013634,Cricklewood,Part-time: 16 to 30 hours worked,1002
+E05013634,Cricklewood,Full-time: 31 to 48 hours worked,2465
+E05013634,Cricklewood,Full-time: 49 or more hours worked,441
+E05013631,Childs Hill,Part-time: 15 hours or less worked,1321
+E05013631,Childs Hill,Part-time: 16 to 30 hours worked,1753
+E05013631,Childs Hill,Full-time: 31 to 48 hours worked,4796
+E05013631,Childs Hill,Full-time: 49 or more hours worked,1509
+E05013633,Colindale South,Part-time: 15 hours or less worked,1032
+E05013633,Colindale South,Part-time: 16 to 30 hours worked,1566
+E05013633,Colindale South,Full-time: 31 to 48 hours worked,6080
+E05013633,Colindale South,Full-time: 49 or more hours worked,1170
+E05013640,Friern Barnet,Part-time: 15 hours or less worked,1162
+E05013640,Friern Barnet,Part-time: 16 to 30 hours worked,1798
+E05013640,Friern Barnet,Full-time: 31 to 48 hours worked,5083
+E05013640,Friern Barnet,Full-time: 49 or more hours worked,1111
+E05013651,Woodhouse,Part-time: 15 hours or less worked,851
+E05013651,Woodhouse,Part-time: 16 to 30 hours worked,1376
+E05013651,Woodhouse,Full-time: 31 to 48 hours worked,3905
+E05013651,Woodhouse,Full-time: 49 or more hours worked,874
+E05013636,East Finchley,Part-time: 15 hours or less worked,885
+E05013636,East Finchley,Part-time: 16 to 30 hours worked,1432
+E05013636,East Finchley,Full-time: 31 to 48 hours worked,4576
+E05013636,East Finchley,Full-time: 49 or more hours worked,1136
+E05013641,Garden Suburb,Part-time: 15 hours or less worked,890
+E05013641,Garden Suburb,Part-time: 16 to 30 hours worked,1002
+E05013641,Garden Suburb,Full-time: 31 to 48 hours worked,2795
+E05013641,Garden Suburb,Full-time: 49 or more hours worked,1261
+E05013638,Edgwarebury,Part-time: 15 hours or less worked,743
+E05013638,Edgwarebury,Part-time: 16 to 30 hours worked,1251
+E05013638,Edgwarebury,Full-time: 31 to 48 hours worked,2902
+E05013638,Edgwarebury,Full-time: 49 or more hours worked,666
+E05013637,Edgware,Part-time: 15 hours or less worked,1204
+E05013637,Edgware,Part-time: 16 to 30 hours worked,1990
+E05013637,Edgware,Full-time: 31 to 48 hours worked,5082
+E05013637,Edgware,Full-time: 49 or more hours worked,1305
+E05013639,Finchley Church End,Part-time: 15 hours or less worked,1313
+E05013639,Finchley Church End,Part-time: 16 to 30 hours worked,1650
+E05013639,Finchley Church End,Full-time: 31 to 48 hours worked,4839
+E05013639,Finchley Church End,Full-time: 49 or more hours worked,1403
+E05013642,Golders Green,Part-time: 15 hours or less worked,1086
+E05013642,Golders Green,Part-time: 16 to 30 hours worked,1796
+E05013642,Golders Green,Full-time: 31 to 48 hours worked,2794
+E05013642,Golders Green,Full-time: 49 or more hours worked,787
+E05013645,Mill Hill,Part-time: 15 hours or less worked,1135
+E05013645,Mill Hill,Part-time: 16 to 30 hours worked,1577
+E05013645,Mill Hill,Full-time: 31 to 48 hours worked,4469
+E05013645,Mill Hill,Full-time: 49 or more hours worked,1300
+E05013643,Hendon,Part-time: 15 hours or less worked,1470
+E05013643,Hendon,Part-time: 16 to 30 hours worked,2181
+E05013643,Hendon,Full-time: 31 to 48 hours worked,5414
+E05013643,Hendon,Full-time: 49 or more hours worked,1313
+E05013628,Barnet Vale,Part-time: 15 hours or less worked,1010
+E05013628,Barnet Vale,Part-time: 16 to 30 hours worked,1446
+E05013628,Barnet Vale,Full-time: 31 to 48 hours worked,4846
+E05013628,Barnet Vale,Full-time: 49 or more hours worked,1127
+E05013644,High Barnet,Part-time: 15 hours or less worked,725
+E05013644,High Barnet,Part-time: 16 to 30 hours worked,1055
+E05013644,High Barnet,Full-time: 31 to 48 hours worked,3140
+E05013644,High Barnet,Full-time: 49 or more hours worked,870
+E05013647,Underhill,Part-time: 15 hours or less worked,630
+E05013647,Underhill,Part-time: 16 to 30 hours worked,1048
+E05013647,Underhill,Full-time: 31 to 48 hours worked,3277
+E05013647,Underhill,Full-time: 49 or more hours worked,682
+E05013646,Totteridge & Woodside,Part-time: 15 hours or less worked,906
+E05013646,Totteridge & Woodside,Part-time: 16 to 30 hours worked,1209
+E05013646,Totteridge & Woodside,Full-time: 31 to 48 hours worked,3813
+E05013646,Totteridge & Woodside,Full-time: 49 or more hours worked,1226
+E05013648,West Finchley,Part-time: 15 hours or less worked,1135
+E05013648,West Finchley,Part-time: 16 to 30 hours worked,1625
+E05013648,West Finchley,Full-time: 31 to 48 hours worked,5560
+E05013648,West Finchley,Full-time: 49 or more hours worked,1340
+E05013649,West Hendon,Part-time: 15 hours or less worked,1072
+E05013649,West Hendon,Part-time: 16 to 30 hours worked,1673
+E05013649,West Hendon,Full-time: 31 to 48 hours worked,5080
+E05013649,West Hendon,Full-time: 49 or more hours worked,1019
+E05011222,Crayford,Part-time: 15 hours or less worked,751
+E05011222,Crayford,Part-time: 16 to 30 hours worked,1384
+E05011222,Crayford,Full-time: 31 to 48 hours worked,4948
+E05011222,Crayford,Full-time: 49 or more hours worked,780
+E05011217,Barnehurst,Part-time: 15 hours or less worked,526
+E05011217,Barnehurst,Part-time: 16 to 30 hours worked,992
+E05011217,Barnehurst,Full-time: 31 to 48 hours worked,3579
+E05011217,Barnehurst,Full-time: 49 or more hours worked,512
+E05011219,Bexleyheath,Part-time: 15 hours or less worked,761
+E05011219,Bexleyheath,Part-time: 16 to 30 hours worked,1338
+E05011219,Bexleyheath,Full-time: 31 to 48 hours worked,4563
+E05011219,Bexleyheath,Full-time: 49 or more hours worked,841
+E05011218,Belvedere,Part-time: 15 hours or less worked,755
+E05011218,Belvedere,Part-time: 16 to 30 hours worked,1466
+E05011218,Belvedere,Full-time: 31 to 48 hours worked,5421
+E05011218,Belvedere,Full-time: 49 or more hours worked,818
+E05011233,West Heath,Part-time: 15 hours or less worked,758
+E05011233,West Heath,Part-time: 16 to 30 hours worked,1413
+E05011233,West Heath,Full-time: 31 to 48 hours worked,4800
+E05011233,West Heath,Full-time: 49 or more hours worked,777
+E05011220,Blackfen & Lamorbey,Part-time: 15 hours or less worked,825
+E05011220,Blackfen & Lamorbey,Part-time: 16 to 30 hours worked,1400
+E05011220,Blackfen & Lamorbey,Full-time: 31 to 48 hours worked,4965
+E05011220,Blackfen & Lamorbey,Full-time: 49 or more hours worked,836
+E05011221,Blendon & Penhill,Part-time: 15 hours or less worked,752
+E05011221,Blendon & Penhill,Part-time: 16 to 30 hours worked,1342
+E05011221,Blendon & Penhill,Full-time: 31 to 48 hours worked,4922
+E05011221,Blendon & Penhill,Full-time: 49 or more hours worked,822
+E05011223,Crook Log,Part-time: 15 hours or less worked,729
+E05011223,Crook Log,Part-time: 16 to 30 hours worked,1343
+E05011223,Crook Log,Full-time: 31 to 48 hours worked,4916
+E05011223,Crook Log,Full-time: 49 or more hours worked,780
+E05011228,Northumberland Heath,Part-time: 15 hours or less worked,513
+E05011228,Northumberland Heath,Part-time: 16 to 30 hours worked,961
+E05011228,Northumberland Heath,Full-time: 31 to 48 hours worked,3223
+E05011228,Northumberland Heath,Full-time: 49 or more hours worked,484
+E05011231,Slade Green & Northend,Part-time: 15 hours or less worked,512
+E05011231,Slade Green & Northend,Part-time: 16 to 30 hours worked,1129
+E05011231,Slade Green & Northend,Full-time: 31 to 48 hours worked,3634
+E05011231,Slade Green & Northend,Full-time: 49 or more hours worked,489
+E05011225,Erith,Part-time: 15 hours or less worked,519
+E05011225,Erith,Part-time: 16 to 30 hours worked,1072
+E05011225,Erith,Full-time: 31 to 48 hours worked,3750
+E05011225,Erith,Full-time: 49 or more hours worked,551
+E05011230,Sidcup,Part-time: 15 hours or less worked,817
+E05011230,Sidcup,Part-time: 16 to 30 hours worked,1148
+E05011230,Sidcup,Full-time: 31 to 48 hours worked,4508
+E05011230,Sidcup,Full-time: 49 or more hours worked,816
+E05011229,St. Mary's & St. James,Part-time: 15 hours or less worked,540
+E05011229,St. Mary's & St. James,Part-time: 16 to 30 hours worked,874
+E05011229,St. Mary's & St. James,Full-time: 31 to 48 hours worked,2989
+E05011229,St. Mary's & St. James,Full-time: 49 or more hours worked,646
+E05011226,Falconwood & Welling,Part-time: 15 hours or less worked,844
+E05011226,Falconwood & Welling,Part-time: 16 to 30 hours worked,1456
+E05011226,Falconwood & Welling,Full-time: 31 to 48 hours worked,5313
+E05011226,Falconwood & Welling,Full-time: 49 or more hours worked,760
+E05011224,East Wickham,Part-time: 15 hours or less worked,753
+E05011224,East Wickham,Part-time: 16 to 30 hours worked,1392
+E05011224,East Wickham,Full-time: 31 to 48 hours worked,5019
+E05011224,East Wickham,Full-time: 49 or more hours worked,676
+E05011232,Thamesmead East,Part-time: 15 hours or less worked,765
+E05011232,Thamesmead East,Part-time: 16 to 30 hours worked,1470
+E05011232,Thamesmead East,Full-time: 31 to 48 hours worked,4073
+E05011232,Thamesmead East,Full-time: 49 or more hours worked,615
+E05011227,Longlands,Part-time: 15 hours or less worked,483
+E05011227,Longlands,Part-time: 16 to 30 hours worked,809
+E05011227,Longlands,Full-time: 31 to 48 hours worked,3008
+E05011227,Longlands,Full-time: 49 or more hours worked,532
+E05013496,Alperton,Part-time: 15 hours or less worked,757
+E05013514,Wembley Central,Part-time: 15 hours or less worked,825
+E05013496,Alperton,Part-time: 16 to 30 hours worked,1293
+E05013514,Wembley Central,Part-time: 16 to 30 hours worked,1596
+E05013496,Alperton,Full-time: 31 to 48 hours worked,4809
+E05013514,Wembley Central,Full-time: 31 to 48 hours worked,5565
+E05013496,Alperton,Full-time: 49 or more hours worked,539
+E05013514,Wembley Central,Full-time: 49 or more hours worked,598
+E05013502,Kenton,Part-time: 15 hours or less worked,945
+E05013502,Kenton,Part-time: 16 to 30 hours worked,1531
+E05013502,Kenton,Full-time: 31 to 48 hours worked,4915
+E05013502,Kenton,Full-time: 49 or more hours worked,1038
+E05013497,Barnhill,Part-time: 15 hours or less worked,661
+E05013497,Barnhill,Part-time: 16 to 30 hours worked,1017
+E05013497,Barnhill,Full-time: 31 to 48 hours worked,2845
+E05013497,Barnhill,Full-time: 49 or more hours worked,520
+E05013513,Welsh Harp,Part-time: 15 hours or less worked,1047
+E05013513,Welsh Harp,Part-time: 16 to 30 hours worked,1716
+E05013513,Welsh Harp,Full-time: 31 to 48 hours worked,4656
+E05013513,Welsh Harp,Full-time: 49 or more hours worked,921
+E05013498,Brondesbury Park,Part-time: 15 hours or less worked,766
+E05013498,Brondesbury Park,Part-time: 16 to 30 hours worked,1195
+E05013498,Brondesbury Park,Full-time: 31 to 48 hours worked,3881
+E05013498,Brondesbury Park,Full-time: 49 or more hours worked,1033
+E05013500,Dollis Hill,Part-time: 15 hours or less worked,1213
+E05013500,Dollis Hill,Part-time: 16 to 30 hours worked,2099
+E05013500,Dollis Hill,Full-time: 31 to 48 hours worked,4723
+E05013500,Dollis Hill,Full-time: 49 or more hours worked,800
+E05013509,Roundwood,Part-time: 15 hours or less worked,888
+E05013509,Roundwood,Part-time: 16 to 30 hours worked,1663
+E05013509,Roundwood,Full-time: 31 to 48 hours worked,3716
+E05013509,Roundwood,Full-time: 49 or more hours worked,649
+E05013517,Willesden Green,Part-time: 15 hours or less worked,1224
+E05013517,Willesden Green,Part-time: 16 to 30 hours worked,1747
+E05013517,Willesden Green,Full-time: 31 to 48 hours worked,5348
+E05013517,Willesden Green,Full-time: 49 or more hours worked,1166
+E05013504,Kingsbury,Part-time: 15 hours or less worked,599
+E05013504,Kingsbury,Part-time: 16 to 30 hours worked,1021
+E05013504,Kingsbury,Full-time: 31 to 48 hours worked,3253
+E05013504,Kingsbury,Full-time: 49 or more hours worked,656
+E05013508,Queensbury,Part-time: 15 hours or less worked,940
+E05013508,Queensbury,Part-time: 16 to 30 hours worked,1552
+E05013508,Queensbury,Full-time: 31 to 48 hours worked,4857
+E05013508,Queensbury,Full-time: 49 or more hours worked,1046
+E05013501,Harlesden & Kensal Green,Part-time: 15 hours or less worked,1188
+E05013501,Harlesden & Kensal Green,Part-time: 16 to 30 hours worked,2061
+E05013501,Harlesden & Kensal Green,Full-time: 31 to 48 hours worked,5079
+E05013501,Harlesden & Kensal Green,Full-time: 49 or more hours worked,1005
+E05013507,Queens Park,Part-time: 15 hours or less worked,990
+E05013507,Queens Park,Part-time: 16 to 30 hours worked,1385
+E05013507,Queens Park,Full-time: 31 to 48 hours worked,5056
+E05013507,Queens Park,Full-time: 49 or more hours worked,1620
+E05013503,Kilburn,Part-time: 15 hours or less worked,1002
+E05013503,Kilburn,Part-time: 16 to 30 hours worked,1506
+E05013503,Kilburn,Full-time: 31 to 48 hours worked,5071
+E05013503,Kilburn,Full-time: 49 or more hours worked,1235
+E05013499,Cricklewood & Mapesbury,Part-time: 15 hours or less worked,844
+E05013499,Cricklewood & Mapesbury,Part-time: 16 to 30 hours worked,1336
+E05013499,Cricklewood & Mapesbury,Full-time: 31 to 48 hours worked,4000
+E05013499,Cricklewood & Mapesbury,Full-time: 49 or more hours worked,931
+E05013505,Northwick Park,Part-time: 15 hours or less worked,682
+E05013505,Northwick Park,Part-time: 16 to 30 hours worked,1069
+E05013505,Northwick Park,Full-time: 31 to 48 hours worked,3542
+E05013505,Northwick Park,Full-time: 49 or more hours worked,621
+E05013506,Preston,Part-time: 15 hours or less worked,726
+E05013506,Preston,Part-time: 16 to 30 hours worked,1126
+E05013506,Preston,Full-time: 31 to 48 hours worked,3471
+E05013506,Preston,Full-time: 49 or more hours worked,806
+E05013515,Wembley Hill,Part-time: 15 hours or less worked,833
+E05013515,Wembley Hill,Part-time: 16 to 30 hours worked,1467
+E05013515,Wembley Hill,Full-time: 31 to 48 hours worked,4850
+E05013515,Wembley Hill,Full-time: 49 or more hours worked,729
+E05013510,Stonebridge,Part-time: 15 hours or less worked,883
+E05013510,Stonebridge,Part-time: 16 to 30 hours worked,1975
+E05013510,Stonebridge,Full-time: 31 to 48 hours worked,4342
+E05013510,Stonebridge,Full-time: 49 or more hours worked,645
+E05013511,Sudbury,Part-time: 15 hours or less worked,658
+E05013511,Sudbury,Part-time: 16 to 30 hours worked,1312
+E05013511,Sudbury,Full-time: 31 to 48 hours worked,4097
+E05013511,Sudbury,Full-time: 49 or more hours worked,573
+E05013512,Tokyngton,Part-time: 15 hours or less worked,463
+E05013512,Tokyngton,Part-time: 16 to 30 hours worked,895
+E05013512,Tokyngton,Full-time: 31 to 48 hours worked,2980
+E05013512,Tokyngton,Full-time: 49 or more hours worked,370
+E05013516,Wembley Park,Part-time: 15 hours or less worked,412
+E05013516,Wembley Park,Part-time: 16 to 30 hours worked,411
+E05013516,Wembley Park,Full-time: 31 to 48 hours worked,2448
+E05013516,Wembley Park,Full-time: 49 or more hours worked,451
+E05013988,Bickley & Sundridge,Part-time: 15 hours or less worked,916
+E05013988,Bickley & Sundridge,Part-time: 16 to 30 hours worked,1334
+E05013988,Bickley & Sundridge,Full-time: 31 to 48 hours worked,4983
+E05013988,Bickley & Sundridge,Full-time: 49 or more hours worked,1422
+E05013991,Bromley Town,Part-time: 15 hours or less worked,753
+E05013991,Bromley Town,Part-time: 16 to 30 hours worked,1264
+E05013991,Bromley Town,Full-time: 31 to 48 hours worked,5462
+E05013991,Bromley Town,Full-time: 49 or more hours worked,1016
+E05013989,Biggin Hill,Part-time: 15 hours or less worked,597
+E05013989,Biggin Hill,Part-time: 16 to 30 hours worked,1034
+E05013989,Biggin Hill,Full-time: 31 to 48 hours worked,3130
+E05013989,Biggin Hill,Full-time: 49 or more hours worked,589
+E05013990,Bromley Common & Holwood,Part-time: 15 hours or less worked,979
+E05013990,Bromley Common & Holwood,Part-time: 16 to 30 hours worked,1650
+E05013990,Bromley Common & Holwood,Full-time: 31 to 48 hours worked,5651
+E05013990,Bromley Common & Holwood,Full-time: 49 or more hours worked,1140
+E05013998,Hayes & Coney Hall,Part-time: 15 hours or less worked,853
+E05013998,Hayes & Coney Hall,Part-time: 16 to 30 hours worked,1441
+E05013998,Hayes & Coney Hall,Full-time: 31 to 48 hours worked,4233
+E05013998,Hayes & Coney Hall,Full-time: 49 or more hours worked,969
+E05014003,Petts Wood & Knoll,Part-time: 15 hours or less worked,817
+E05014003,Petts Wood & Knoll,Part-time: 16 to 30 hours worked,1282
+E05014003,Petts Wood & Knoll,Full-time: 31 to 48 hours worked,4626
+E05014003,Petts Wood & Knoll,Full-time: 49 or more hours worked,1219
+E05014005,Shortlands & Park Langley,Part-time: 15 hours or less worked,835
+E05014005,Shortlands & Park Langley,Part-time: 16 to 30 hours worked,1334
+E05014005,Shortlands & Park Langley,Full-time: 31 to 48 hours worked,4951
+E05014005,Shortlands & Park Langley,Full-time: 49 or more hours worked,1209
+E05013992,Chelsfield,Part-time: 15 hours or less worked,606
+E05013992,Chelsfield,Part-time: 16 to 30 hours worked,937
+E05013992,Chelsfield,Full-time: 31 to 48 hours worked,3235
+E05013992,Chelsfield,Full-time: 49 or more hours worked,755
+E05013997,Farnborough & Crofton,Part-time: 15 hours or less worked,888
+E05013997,Farnborough & Crofton,Part-time: 16 to 30 hours worked,1431
+E05013997,Farnborough & Crofton,Full-time: 31 to 48 hours worked,4818
+E05013997,Farnborough & Crofton,Full-time: 49 or more hours worked,1033
+E05013996,Darwin,Part-time: 15 hours or less worked,342
+E05013996,Darwin,Part-time: 16 to 30 hours worked,479
+E05013996,Darwin,Full-time: 31 to 48 hours worked,1336
+E05013996,Darwin,Full-time: 49 or more hours worked,393
+E05013993,Chislehurst,Part-time: 15 hours or less worked,780
+E05013993,Chislehurst,Part-time: 16 to 30 hours worked,1140
+E05013993,Chislehurst,Full-time: 31 to 48 hours worked,3999
+E05013993,Chislehurst,Full-time: 49 or more hours worked,1346
+E05014000,Mottingham,Part-time: 15 hours or less worked,550
+E05014000,Mottingham,Part-time: 16 to 30 hours worked,976
+E05014000,Mottingham,Full-time: 31 to 48 hours worked,3193
+E05014000,Mottingham,Full-time: 49 or more hours worked,612
+E05013994,Clock House,Part-time: 15 hours or less worked,843
+E05013994,Clock House,Part-time: 16 to 30 hours worked,1453
+E05013994,Clock House,Full-time: 31 to 48 hours worked,5780
+E05013994,Clock House,Full-time: 49 or more hours worked,1171
+E05013987,Beckenham Town & Copers Cope,Part-time: 15 hours or less worked,756
+E05013987,Beckenham Town & Copers Cope,Part-time: 16 to 30 hours worked,1107
+E05013987,Beckenham Town & Copers Cope,Full-time: 31 to 48 hours worked,5724
+E05013987,Beckenham Town & Copers Cope,Full-time: 49 or more hours worked,1235
+E05014006,St Mary Cray,Part-time: 15 hours or less worked,887
+E05014006,St Mary Cray,Part-time: 16 to 30 hours worked,1576
+E05014006,St Mary Cray,Full-time: 31 to 48 hours worked,5402
+E05014006,St Mary Cray,Full-time: 49 or more hours worked,891
+E05014007,St Paul's Cray,Part-time: 15 hours or less worked,792
+E05014007,St Paul's Cray,Part-time: 16 to 30 hours worked,1425
+E05014007,St Paul's Cray,Full-time: 31 to 48 hours worked,4665
+E05014007,St Paul's Cray,Full-time: 49 or more hours worked,749
+E05014002,Penge & Cator,Part-time: 15 hours or less worked,1010
+E05014002,Penge & Cator,Part-time: 16 to 30 hours worked,1726
+E05014002,Penge & Cator,Full-time: 31 to 48 hours worked,6257
+E05014002,Penge & Cator,Full-time: 49 or more hours worked,1156
+E05013995,Crystal Palace & Anerley,Part-time: 15 hours or less worked,616
+E05013995,Crystal Palace & Anerley,Part-time: 16 to 30 hours worked,1069
+E05013995,Crystal Palace & Anerley,Full-time: 31 to 48 hours worked,4290
+E05013995,Crystal Palace & Anerley,Full-time: 49 or more hours worked,737
+E05013999,Kelsey & Eden Park,Part-time: 15 hours or less worked,764
+E05013999,Kelsey & Eden Park,Part-time: 16 to 30 hours worked,1375
+E05013999,Kelsey & Eden Park,Full-time: 31 to 48 hours worked,4300
+E05013999,Kelsey & Eden Park,Full-time: 49 or more hours worked,949
+E05014001,Orpington,Part-time: 15 hours or less worked,618
+E05014001,Orpington,Part-time: 16 to 30 hours worked,978
+E05014001,Orpington,Full-time: 31 to 48 hours worked,3358
+E05014001,Orpington,Full-time: 49 or more hours worked,639
+E05014004,Plaistow,Part-time: 15 hours or less worked,692
+E05014004,Plaistow,Part-time: 16 to 30 hours worked,1098
+E05014004,Plaistow,Full-time: 31 to 48 hours worked,3792
+E05014004,Plaistow,Full-time: 49 or more hours worked,721
+E05014008,West Wickham,Part-time: 15 hours or less worked,808
+E05014008,West Wickham,Part-time: 16 to 30 hours worked,1277
+E05014008,West Wickham,Full-time: 31 to 48 hours worked,4008
+E05014008,West Wickham,Full-time: 49 or more hours worked,928
+E05013652,Belsize,Part-time: 15 hours or less worked,647
+E05013652,Belsize,Part-time: 16 to 30 hours worked,758
+E05013652,Belsize,Full-time: 31 to 48 hours worked,3534
+E05013652,Belsize,Full-time: 49 or more hours worked,1964
+E05013667,Primrose Hill,Part-time: 15 hours or less worked,713
+E05013667,Primrose Hill,Part-time: 16 to 30 hours worked,882
+E05013667,Primrose Hill,Full-time: 31 to 48 hours worked,2902
+E05013667,Primrose Hill,Full-time: 49 or more hours worked,1486
+E05013660,Haverstock,Part-time: 15 hours or less worked,630
+E05013660,Haverstock,Part-time: 16 to 30 hours worked,1012
+E05013660,Haverstock,Full-time: 31 to 48 hours worked,3095
+E05013660,Haverstock,Full-time: 49 or more hours worked,914
+E05013653,Bloomsbury,Part-time: 15 hours or less worked,716
+E05013653,Bloomsbury,Part-time: 16 to 30 hours worked,524
+E05013653,Bloomsbury,Full-time: 31 to 48 hours worked,2365
+E05013653,Bloomsbury,Full-time: 49 or more hours worked,851
+E05013655,Camden Town,Part-time: 15 hours or less worked,402
+E05013655,Camden Town,Part-time: 16 to 30 hours worked,465
+E05013655,Camden Town,Full-time: 31 to 48 hours worked,1878
+E05013655,Camden Town,Full-time: 49 or more hours worked,611
+E05013669,St Pancras & Somers Town,Part-time: 15 hours or less worked,706
+E05013669,St Pancras & Somers Town,Part-time: 16 to 30 hours worked,968
+E05013669,St Pancras & Somers Town,Full-time: 31 to 48 hours worked,2551
+E05013669,St Pancras & Somers Town,Full-time: 49 or more hours worked,495
+E05013654,Camden Square,Part-time: 15 hours or less worked,432
+E05013654,Camden Square,Part-time: 16 to 30 hours worked,566
+E05013654,Camden Square,Full-time: 31 to 48 hours worked,2065
+E05013654,Camden Square,Full-time: 49 or more hours worked,536
+E05013664,Kentish Town South,Part-time: 15 hours or less worked,589
+E05013664,Kentish Town South,Part-time: 16 to 30 hours worked,791
+E05013664,Kentish Town South,Full-time: 31 to 48 hours worked,2845
+E05013664,Kentish Town South,Full-time: 49 or more hours worked,873
+E05013656,Fortune Green,Part-time: 15 hours or less worked,711
+E05013656,Fortune Green,Part-time: 16 to 30 hours worked,801
+E05013656,Fortune Green,Full-time: 31 to 48 hours worked,3698
+E05013656,Fortune Green,Full-time: 49 or more hours worked,1268
+E05013657,Frognal,Part-time: 15 hours or less worked,457
+E05013657,Frognal,Part-time: 16 to 30 hours worked,501
+E05013657,Frognal,Full-time: 31 to 48 hours worked,1843
+E05013657,Frognal,Full-time: 49 or more hours worked,1106
+E05013658,Gospel Oak,Part-time: 15 hours or less worked,569
+E05013658,Gospel Oak,Part-time: 16 to 30 hours worked,902
+E05013658,Gospel Oak,Full-time: 31 to 48 hours worked,3291
+E05013658,Gospel Oak,Full-time: 49 or more hours worked,923
+E05013659,Hampstead Town,Part-time: 15 hours or less worked,478
+E05013659,Hampstead Town,Part-time: 16 to 30 hours worked,527
+E05013659,Hampstead Town,Full-time: 31 to 48 hours worked,2033
+E05013659,Hampstead Town,Full-time: 49 or more hours worked,1252
+E05013661,Highgate,Part-time: 15 hours or less worked,616
+E05013661,Highgate,Part-time: 16 to 30 hours worked,864
+E05013661,Highgate,Full-time: 31 to 48 hours worked,2590
+E05013661,Highgate,Full-time: 49 or more hours worked,916
+E05013663,Kentish Town North,Part-time: 15 hours or less worked,444
+E05013663,Kentish Town North,Part-time: 16 to 30 hours worked,538
+E05013663,Kentish Town North,Full-time: 31 to 48 hours worked,2419
+E05013663,Kentish Town North,Full-time: 49 or more hours worked,740
+E05013662,Holborn & Covent Garden,Part-time: 15 hours or less worked,635
+E05013662,Holborn & Covent Garden,Part-time: 16 to 30 hours worked,799
+E05013662,Holborn & Covent Garden,Full-time: 31 to 48 hours worked,2479
+E05013662,Holborn & Covent Garden,Full-time: 49 or more hours worked,988
+E05013665,Kilburn,Part-time: 15 hours or less worked,643
+E05013665,Kilburn,Part-time: 16 to 30 hours worked,1012
+E05013665,Kilburn,Full-time: 31 to 48 hours worked,3100
+E05013665,Kilburn,Full-time: 49 or more hours worked,815
+E05013671,West Hampstead,Part-time: 15 hours or less worked,569
+E05013671,West Hampstead,Part-time: 16 to 30 hours worked,738
+E05013671,West Hampstead,Full-time: 31 to 48 hours worked,3827
+E05013671,West Hampstead,Full-time: 49 or more hours worked,1380
+E05013670,South Hampstead,Part-time: 15 hours or less worked,579
+E05013670,South Hampstead,Part-time: 16 to 30 hours worked,803
+E05013670,South Hampstead,Full-time: 31 to 48 hours worked,3764
+E05013670,South Hampstead,Full-time: 49 or more hours worked,1601
+E05013666,King's Cross,Part-time: 15 hours or less worked,669
+E05013666,King's Cross,Part-time: 16 to 30 hours worked,741
+E05013666,King's Cross,Full-time: 31 to 48 hours worked,2373
+E05013666,King's Cross,Full-time: 49 or more hours worked,664
+E05013668,Regent's Park,Part-time: 15 hours or less worked,684
+E05013668,Regent's Park,Part-time: 16 to 30 hours worked,918
+E05013668,Regent's Park,Full-time: 31 to 48 hours worked,2771
+E05013668,Regent's Park,Full-time: 49 or more hours worked,676
+E05011463,Addiscombe West,Part-time: 15 hours or less worked,858
+E05011463,Addiscombe West,Part-time: 16 to 30 hours worked,1322
+E05011463,Addiscombe West,Full-time: 31 to 48 hours worked,5216
+E05011463,Addiscombe West,Full-time: 49 or more hours worked,840
+E05011462,Addiscombe East,Part-time: 15 hours or less worked,590
+E05011462,Addiscombe East,Part-time: 16 to 30 hours worked,1009
+E05011462,Addiscombe East,Full-time: 31 to 48 hours worked,3789
+E05011462,Addiscombe East,Full-time: 49 or more hours worked,690
+E05011489,Woodside,Part-time: 15 hours or less worked,893
+E05011489,Woodside,Part-time: 16 to 30 hours worked,1552
+E05011489,Woodside,Full-time: 31 to 48 hours worked,5347
+E05011489,Woodside,Full-time: 49 or more hours worked,804
+E05011482,Shirley North,Part-time: 15 hours or less worked,769
+E05011482,Shirley North,Part-time: 16 to 30 hours worked,1415
+E05011482,Shirley North,Full-time: 31 to 48 hours worked,4371
+E05011482,Shirley North,Full-time: 49 or more hours worked,687
+E05011464,Bensham Manor,Part-time: 15 hours or less worked,973
+E05011464,Bensham Manor,Part-time: 16 to 30 hours worked,1642
+E05011464,Bensham Manor,Full-time: 31 to 48 hours worked,4644
+E05011464,Bensham Manor,Full-time: 49 or more hours worked,694
+E05011465,Broad Green,Part-time: 15 hours or less worked,1064
+E05011465,Broad Green,Part-time: 16 to 30 hours worked,2046
+E05011465,Broad Green,Full-time: 31 to 48 hours worked,5246
+E05011465,Broad Green,Full-time: 49 or more hours worked,658
+E05011468,Fairfield,Part-time: 15 hours or less worked,780
+E05011468,Fairfield,Part-time: 16 to 30 hours worked,1326
+E05011468,Fairfield,Full-time: 31 to 48 hours worked,6050
+E05011468,Fairfield,Full-time: 49 or more hours worked,962
+E05011487,Waddon,Part-time: 15 hours or less worked,915
+E05011487,Waddon,Part-time: 16 to 30 hours worked,1695
+E05011487,Waddon,Full-time: 31 to 48 hours worked,5468
+E05011487,Waddon,Full-time: 49 or more hours worked,850
+E05011466,Coulsdon Town,Part-time: 15 hours or less worked,720
+E05011474,Old Coulsdon,Part-time: 15 hours or less worked,486
+E05011466,Coulsdon Town,Part-time: 16 to 30 hours worked,1260
+E05011474,Old Coulsdon,Part-time: 16 to 30 hours worked,870
+E05011466,Coulsdon Town,Full-time: 31 to 48 hours worked,4814
+E05011474,Old Coulsdon,Full-time: 31 to 48 hours worked,2633
+E05011466,Coulsdon Town,Full-time: 49 or more hours worked,946
+E05011474,Old Coulsdon,Full-time: 49 or more hours worked,501
+E05011476,Purley & Woodcote,Part-time: 15 hours or less worked,855
+E05011476,Purley & Woodcote,Part-time: 16 to 30 hours worked,1275
+E05011476,Purley & Woodcote,Full-time: 31 to 48 hours worked,4707
+E05011476,Purley & Woodcote,Full-time: 49 or more hours worked,1112
+E05011477,Purley Oaks & Riddlesdown,Part-time: 15 hours or less worked,521
+E05011484,South Croydon,Part-time: 15 hours or less worked,889
+E05011477,Purley Oaks & Riddlesdown,Part-time: 16 to 30 hours worked,899
+E05011484,South Croydon,Part-time: 16 to 30 hours worked,1454
+E05011477,Purley Oaks & Riddlesdown,Full-time: 31 to 48 hours worked,3303
+E05011484,South Croydon,Full-time: 31 to 48 hours worked,5859
+E05011477,Purley Oaks & Riddlesdown,Full-time: 49 or more hours worked,637
+E05011484,South Croydon,Full-time: 49 or more hours worked,1071
+E05011478,Sanderstead,Part-time: 15 hours or less worked,849
+E05011478,Sanderstead,Part-time: 16 to 30 hours worked,1300
+E05011478,Sanderstead,Full-time: 31 to 48 hours worked,4170
+E05011478,Sanderstead,Full-time: 49 or more hours worked,916
+E05011475,Park Hill & Whitgift,Part-time: 15 hours or less worked,259
+E05011475,Park Hill & Whitgift,Part-time: 16 to 30 hours worked,378
+E05011475,Park Hill & Whitgift,Full-time: 31 to 48 hours worked,1829
+E05011475,Park Hill & Whitgift,Full-time: 49 or more hours worked,334
+E05011483,Shirly South,Part-time: 15 hours or less worked,571
+E05011483,Shirly South,Part-time: 16 to 30 hours worked,947
+E05011483,Shirly South,Full-time: 31 to 48 hours worked,2795
+E05011483,Shirly South,Full-time: 49 or more hours worked,461
+E05011470,New Addington North,Part-time: 15 hours or less worked,493
+E05011470,New Addington North,Part-time: 16 to 30 hours worked,1075
+E05011470,New Addington North,Full-time: 31 to 48 hours worked,2412
+E05011470,New Addington North,Full-time: 49 or more hours worked,335
+E05011471,New Addington South,Part-time: 15 hours or less worked,515
+E05011471,New Addington South,Part-time: 16 to 30 hours worked,1047
+E05011471,New Addington South,Full-time: 31 to 48 hours worked,2892
+E05011471,New Addington South,Full-time: 49 or more hours worked,393
+E05011480,Selsdon & Addington Village,Part-time: 15 hours or less worked,548
+E05011480,Selsdon & Addington Village,Part-time: 16 to 30 hours worked,896
+E05011480,Selsdon & Addington Village,Full-time: 31 to 48 hours worked,2900
+E05011480,Selsdon & Addington Village,Full-time: 49 or more hours worked,517
+E05011481,Selsdon Vale & Forestdale,Part-time: 15 hours or less worked,513
+E05011481,Selsdon Vale & Forestdale,Part-time: 16 to 30 hours worked,884
+E05011481,Selsdon Vale & Forestdale,Full-time: 31 to 48 hours worked,2890
+E05011481,Selsdon Vale & Forestdale,Full-time: 49 or more hours worked,526
+E05011469,Kenley,Part-time: 15 hours or less worked,554
+E05011469,Kenley,Part-time: 16 to 30 hours worked,869
+E05011469,Kenley,Full-time: 31 to 48 hours worked,3140
+E05011469,Kenley,Full-time: 49 or more hours worked,642
+E05011473,Norbury Park,Part-time: 15 hours or less worked,599
+E05011473,Norbury Park,Part-time: 16 to 30 hours worked,948
+E05011473,Norbury Park,Full-time: 31 to 48 hours worked,2750
+E05011473,Norbury Park,Full-time: 49 or more hours worked,557
+E05011472,Norbury & Pollards Hill,Part-time: 15 hours or less worked,710
+E05011472,Norbury & Pollards Hill,Part-time: 16 to 30 hours worked,1199
+E05011472,Norbury & Pollards Hill,Full-time: 31 to 48 hours worked,3678
+E05011472,Norbury & Pollards Hill,Full-time: 49 or more hours worked,565
+E05011479,Selhurst,Part-time: 15 hours or less worked,687
+E05011479,Selhurst,Part-time: 16 to 30 hours worked,1162
+E05011479,Selhurst,Full-time: 31 to 48 hours worked,3519
+E05011479,Selhurst,Full-time: 49 or more hours worked,446
+E05011485,South Norwood,Part-time: 15 hours or less worked,880
+E05011485,South Norwood,Part-time: 16 to 30 hours worked,1567
+E05011485,South Norwood,Full-time: 31 to 48 hours worked,5088
+E05011485,South Norwood,Full-time: 49 or more hours worked,692
+E05011467,Crystal Palace & Upper Norwood,Part-time: 15 hours or less worked,882
+E05011467,Crystal Palace & Upper Norwood,Part-time: 16 to 30 hours worked,1526
+E05011467,Crystal Palace & Upper Norwood,Full-time: 31 to 48 hours worked,5310
+E05011467,Crystal Palace & Upper Norwood,Full-time: 49 or more hours worked,990
+E05011486,Thornton Heath,Part-time: 15 hours or less worked,932
+E05011486,Thornton Heath,Part-time: 16 to 30 hours worked,1822
+E05011486,Thornton Heath,Full-time: 31 to 48 hours worked,5102
+E05011486,Thornton Heath,Full-time: 49 or more hours worked,780
+E05011488,West Thornton,Part-time: 15 hours or less worked,1002
+E05011488,West Thornton,Part-time: 16 to 30 hours worked,1894
+E05011488,West Thornton,Full-time: 31 to 48 hours worked,4724
+E05011488,West Thornton,Full-time: 49 or more hours worked,597
+E05013527,North Acton,Part-time: 15 hours or less worked,1066
+E05013527,North Acton,Part-time: 16 to 30 hours worked,1463
+E05013527,North Acton,Full-time: 31 to 48 hours worked,4999
+E05013527,North Acton,Full-time: 49 or more hours worked,1068
+E05013536,South Acton,Part-time: 15 hours or less worked,875
+E05013536,South Acton,Part-time: 16 to 30 hours worked,1435
+E05013536,South Acton,Full-time: 31 to 48 hours worked,5302
+E05013536,South Acton,Full-time: 49 or more hours worked,1225
+E05013522,East Acton,Part-time: 15 hours or less worked,949
+E05013522,East Acton,Part-time: 16 to 30 hours worked,1385
+E05013522,East Acton,Full-time: 31 to 48 hours worked,4738
+E05013522,East Acton,Full-time: 49 or more hours worked,980
+E05013535,Pitshanger,Part-time: 15 hours or less worked,859
+E05013535,Pitshanger,Part-time: 16 to 30 hours worked,1203
+E05013535,Pitshanger,Full-time: 31 to 48 hours worked,3963
+E05013535,Pitshanger,Full-time: 49 or more hours worked,949
+E05013519,Dormers Wells,Part-time: 15 hours or less worked,729
+E05013519,Dormers Wells,Part-time: 16 to 30 hours worked,1367
+E05013519,Dormers Wells,Full-time: 31 to 48 hours worked,3434
+E05013519,Dormers Wells,Full-time: 49 or more hours worked,431
+E05013537,Southall Broadway,Part-time: 15 hours or less worked,481
+E05013537,Southall Broadway,Part-time: 16 to 30 hours worked,938
+E05013537,Southall Broadway,Full-time: 31 to 48 hours worked,2845
+E05013537,Southall Broadway,Full-time: 49 or more hours worked,255
+E05013520,Ealing Broadway,Part-time: 15 hours or less worked,751
+E05013520,Ealing Broadway,Part-time: 16 to 30 hours worked,1041
+E05013520,Ealing Broadway,Full-time: 31 to 48 hours worked,4818
+E05013520,Ealing Broadway,Full-time: 49 or more hours worked,1324
+E05013524,Hanger Hill,Part-time: 15 hours or less worked,938
+E05013524,Hanger Hill,Part-time: 16 to 30 hours worked,1320
+E05013524,Hanger Hill,Full-time: 31 to 48 hours worked,4619
+E05013524,Hanger Hill,Full-time: 49 or more hours worked,1309
+E05013541,Walpole,Part-time: 15 hours or less worked,789
+E05013541,Walpole,Part-time: 16 to 30 hours worked,1190
+E05013541,Walpole,Full-time: 31 to 48 hours worked,4716
+E05013541,Walpole,Full-time: 49 or more hours worked,1239
+E05013521,Ealing Common,Part-time: 15 hours or less worked,983
+E05013521,Ealing Common,Part-time: 16 to 30 hours worked,1216
+E05013521,Ealing Common,Full-time: 31 to 48 hours worked,5088
+E05013521,Ealing Common,Full-time: 49 or more hours worked,1298
+E05013540,Southfield,Part-time: 15 hours or less worked,850
+E05013540,Southfield,Part-time: 16 to 30 hours worked,1162
+E05013540,Southfield,Full-time: 31 to 48 hours worked,5319
+E05013540,Southfield,Full-time: 49 or more hours worked,1769
+E05013525,Hanwell Broadway,Part-time: 15 hours or less worked,856
+E05013525,Hanwell Broadway,Part-time: 16 to 30 hours worked,1348
+E05013525,Hanwell Broadway,Full-time: 31 to 48 hours worked,4410
+E05013525,Hanwell Broadway,Full-time: 49 or more hours worked,916
+E05013530,Northfield,Part-time: 15 hours or less worked,744
+E05013530,Northfield,Part-time: 16 to 30 hours worked,1162
+E05013530,Northfield,Full-time: 31 to 48 hours worked,4447
+E05013530,Northfield,Full-time: 49 or more hours worked,1150
+E05013526,Lady Margaret,Part-time: 15 hours or less worked,815
+E05013526,Lady Margaret,Part-time: 16 to 30 hours worked,1482
+E05013526,Lady Margaret,Full-time: 31 to 48 hours worked,4294
+E05013526,Lady Margaret,Full-time: 49 or more hours worked,553
+E05013523,Greenford Broadway,Part-time: 15 hours or less worked,800
+E05013523,Greenford Broadway,Part-time: 16 to 30 hours worked,1562
+E05013523,Greenford Broadway,Full-time: 31 to 48 hours worked,4594
+E05013523,Greenford Broadway,Full-time: 49 or more hours worked,698
+E05013518,Central Greenford,Part-time: 15 hours or less worked,808
+E05013518,Central Greenford,Part-time: 16 to 30 hours worked,1350
+E05013518,Central Greenford,Full-time: 31 to 48 hours worked,4084
+E05013518,Central Greenford,Full-time: 49 or more hours worked,650
+E05013531,Northolt Mandeville,Part-time: 15 hours or less worked,878
+E05013531,Northolt Mandeville,Part-time: 16 to 30 hours worked,1606
+E05013531,Northolt Mandeville,Full-time: 31 to 48 hours worked,4709
+E05013531,Northolt Mandeville,Full-time: 49 or more hours worked,692
+E05013528,North Greenford,Part-time: 15 hours or less worked,895
+E05013528,North Greenford,Part-time: 16 to 30 hours worked,1514
+E05013528,North Greenford,Full-time: 31 to 48 hours worked,4982
+E05013528,North Greenford,Full-time: 49 or more hours worked,831
+E05013529,North Hanwell,Part-time: 15 hours or less worked,836
+E05013529,North Hanwell,Part-time: 16 to 30 hours worked,1377
+E05013529,North Hanwell,Full-time: 31 to 48 hours worked,3986
+E05013529,North Hanwell,Full-time: 49 or more hours worked,729
+E05013534,Perivale,Part-time: 15 hours or less worked,930
+E05013534,Perivale,Part-time: 16 to 30 hours worked,1503
+E05013534,Perivale,Full-time: 31 to 48 hours worked,4488
+E05013534,Perivale,Full-time: 49 or more hours worked,809
+E05013532,Northolt West End,Part-time: 15 hours or less worked,833
+E05013532,Northolt West End,Part-time: 16 to 30 hours worked,1566
+E05013532,Northolt West End,Full-time: 31 to 48 hours worked,4080
+E05013532,Northolt West End,Full-time: 49 or more hours worked,553
+E05013533,Norwood Green,Part-time: 15 hours or less worked,705
+E05013533,Norwood Green,Part-time: 16 to 30 hours worked,1330
+E05013533,Norwood Green,Full-time: 31 to 48 hours worked,4004
+E05013533,Norwood Green,Full-time: 49 or more hours worked,545
+E05013538,Southall Green,Part-time: 15 hours or less worked,746
+E05013538,Southall Green,Part-time: 16 to 30 hours worked,1471
+E05013538,Southall Green,Full-time: 31 to 48 hours worked,3936
+E05013538,Southall Green,Full-time: 49 or more hours worked,464
+E05013539,Southall West,Part-time: 15 hours or less worked,297
+E05013539,Southall West,Part-time: 16 to 30 hours worked,598
+E05013539,Southall West,Full-time: 31 to 48 hours worked,1611
+E05013539,Southall West,Full-time: 49 or more hours worked,165
+E05013673,Bowes,Part-time: 15 hours or less worked,679
+E05013686,New Southgate,Part-time: 15 hours or less worked,716
+E05013673,Bowes,Part-time: 16 to 30 hours worked,1173
+E05013686,New Southgate,Part-time: 16 to 30 hours worked,1127
+E05013673,Bowes,Full-time: 31 to 48 hours worked,2707
+E05013686,New Southgate,Full-time: 31 to 48 hours worked,3343
+E05013673,Bowes,Full-time: 49 or more hours worked,451
+E05013686,New Southgate,Full-time: 49 or more hours worked,608
+E05013676,Bush Hill Park,Part-time: 15 hours or less worked,700
+E05013676,Bush Hill Park,Part-time: 16 to 30 hours worked,1170
+E05013676,Bush Hill Park,Full-time: 31 to 48 hours worked,3482
+E05013676,Bush Hill Park,Full-time: 49 or more hours worked,666
+E05013691,Southbury,Part-time: 15 hours or less worked,786
+E05013691,Southbury,Part-time: 16 to 30 hours worked,1491
+E05013691,Southbury,Full-time: 31 to 48 hours worked,4171
+E05013691,Southbury,Full-time: 49 or more hours worked,617
+E05013681,Grange Park,Part-time: 15 hours or less worked,513
+E05013681,Grange Park,Part-time: 16 to 30 hours worked,742
+E05013681,Grange Park,Full-time: 31 to 48 hours worked,2220
+E05013681,Grange Park,Full-time: 49 or more hours worked,608
+E05013696,Winchmore Hill,Part-time: 15 hours or less worked,690
+E05013696,Winchmore Hill,Part-time: 16 to 30 hours worked,923
+E05013696,Winchmore Hill,Full-time: 31 to 48 hours worked,2949
+E05013696,Winchmore Hill,Full-time: 49 or more hours worked,780
+E05013683,Highfield,Part-time: 15 hours or less worked,535
+E05013683,Highfield,Part-time: 16 to 30 hours worked,932
+E05013683,Highfield,Full-time: 31 to 48 hours worked,2436
+E05013683,Highfield,Full-time: 49 or more hours worked,397
+E05013695,Whitewebbs,Part-time: 15 hours or less worked,706
+E05013695,Whitewebbs,Part-time: 16 to 30 hours worked,1337
+E05013695,Whitewebbs,Full-time: 31 to 48 hours worked,3766
+E05013695,Whitewebbs,Full-time: 49 or more hours worked,676
+E05013690,Ridgeway,Part-time: 15 hours or less worked,661
+E05013690,Ridgeway,Part-time: 16 to 30 hours worked,1117
+E05013690,Ridgeway,Full-time: 31 to 48 hours worked,3619
+E05013690,Ridgeway,Full-time: 49 or more hours worked,720
+E05013678,Cockfosters,Part-time: 15 hours or less worked,616
+E05013692,Southgate,Part-time: 15 hours or less worked,940
+E05013678,Cockfosters,Part-time: 16 to 30 hours worked,908
+E05013692,Southgate,Part-time: 16 to 30 hours worked,1363
+E05013678,Cockfosters,Full-time: 31 to 48 hours worked,2400
+E05013692,Southgate,Full-time: 31 to 48 hours worked,4019
+E05013678,Cockfosters,Full-time: 49 or more hours worked,675
+E05013692,Southgate,Full-time: 49 or more hours worked,849
+E05013687,Oakwood,Part-time: 15 hours or less worked,491
+E05013687,Oakwood,Part-time: 16 to 30 hours worked,794
+E05013687,Oakwood,Full-time: 31 to 48 hours worked,2304
+E05013687,Oakwood,Full-time: 49 or more hours worked,494
+E05013679,Edmonton Green,Part-time: 15 hours or less worked,849
+E05013679,Edmonton Green,Part-time: 16 to 30 hours worked,1866
+E05013679,Edmonton Green,Full-time: 31 to 48 hours worked,3235
+E05013679,Edmonton Green,Full-time: 49 or more hours worked,435
+E05013682,Haselbury,Part-time: 15 hours or less worked,961
+E05013682,Haselbury,Part-time: 16 to 30 hours worked,2015
+E05013682,Haselbury,Full-time: 31 to 48 hours worked,3957
+E05013682,Haselbury,Full-time: 49 or more hours worked,600
+E05013685,Lower Edmonton,Part-time: 15 hours or less worked,901
+E05013685,Lower Edmonton,Part-time: 16 to 30 hours worked,1863
+E05013685,Lower Edmonton,Full-time: 31 to 48 hours worked,3314
+E05013685,Lower Edmonton,Full-time: 49 or more hours worked,468
+E05013674,Brimsdown,Part-time: 15 hours or less worked,850
+E05013674,Brimsdown,Part-time: 16 to 30 hours worked,1680
+E05013674,Brimsdown,Full-time: 31 to 48 hours worked,3401
+E05013674,Brimsdown,Full-time: 49 or more hours worked,466
+E05013677,Carterhatch,Part-time: 15 hours or less worked,595
+E05013677,Carterhatch,Part-time: 16 to 30 hours worked,1271
+E05013677,Carterhatch,Full-time: 31 to 48 hours worked,2520
+E05013677,Carterhatch,Full-time: 49 or more hours worked,343
+E05013680,Enfield Lock,Part-time: 15 hours or less worked,843
+E05013680,Enfield Lock,Part-time: 16 to 30 hours worked,1828
+E05013680,Enfield Lock,Full-time: 31 to 48 hours worked,4042
+E05013680,Enfield Lock,Full-time: 49 or more hours worked,543
+E05013693,Town,Part-time: 15 hours or less worked,690
+E05013693,Town,Part-time: 16 to 30 hours worked,1252
+E05013693,Town,Full-time: 31 to 48 hours worked,3875
+E05013693,Town,Full-time: 49 or more hours worked,728
+E05013684,Jubilee,Part-time: 15 hours or less worked,868
+E05013684,Jubilee,Part-time: 16 to 30 hours worked,1803
+E05013684,Jubilee,Full-time: 31 to 48 hours worked,3356
+E05013684,Jubilee,Full-time: 49 or more hours worked,403
+E05013688,Palmers Green,Part-time: 15 hours or less worked,626
+E05013688,Palmers Green,Part-time: 16 to 30 hours worked,1056
+E05013688,Palmers Green,Full-time: 31 to 48 hours worked,3138
+E05013688,Palmers Green,Full-time: 49 or more hours worked,646
+E05013672,Arnos Grove,Part-time: 15 hours or less worked,553
+E05013672,Arnos Grove,Part-time: 16 to 30 hours worked,781
+E05013672,Arnos Grove,Full-time: 31 to 48 hours worked,2371
+E05013672,Arnos Grove,Full-time: 49 or more hours worked,589
+E05013689,Ponders End,Part-time: 15 hours or less worked,697
+E05013689,Ponders End,Part-time: 16 to 30 hours worked,1423
+E05013689,Ponders End,Full-time: 31 to 48 hours worked,2641
+E05013689,Ponders End,Full-time: 49 or more hours worked,376
+E05013675,Bullsmoor,Part-time: 15 hours or less worked,573
+E05013675,Bullsmoor,Part-time: 16 to 30 hours worked,1146
+E05013675,Bullsmoor,Full-time: 31 to 48 hours worked,2443
+E05013675,Bullsmoor,Full-time: 49 or more hours worked,319
+E05013694,Upper Edmonton,Part-time: 15 hours or less worked,893
+E05013694,Upper Edmonton,Part-time: 16 to 30 hours worked,1832
+E05013694,Upper Edmonton,Full-time: 31 to 48 hours worked,3416
+E05013694,Upper Edmonton,Full-time: 49 or more hours worked,455
+E05014072,Abbey Wood,Part-time: 15 hours or less worked,767
+E05014072,Abbey Wood,Part-time: 16 to 30 hours worked,1562
+E05014072,Abbey Wood,Full-time: 31 to 48 hours worked,4609
+E05014072,Abbey Wood,Full-time: 49 or more hours worked,755
+E05014073,Blackheath Westcombe,Part-time: 15 hours or less worked,722
+E05014073,Blackheath Westcombe,Part-time: 16 to 30 hours worked,1103
+E05014073,Blackheath Westcombe,Full-time: 31 to 48 hours worked,4539
+E05014073,Blackheath Westcombe,Full-time: 49 or more hours worked,1478
+E05014074,Charlton Hornfair,Part-time: 15 hours or less worked,579
+E05014074,Charlton Hornfair,Part-time: 16 to 30 hours worked,1103
+E05014074,Charlton Hornfair,Full-time: 31 to 48 hours worked,3789
+E05014074,Charlton Hornfair,Full-time: 49 or more hours worked,717
+E05014075,Charlton Village & Riverside,Part-time: 15 hours or less worked,542
+E05014075,Charlton Village & Riverside,Part-time: 16 to 30 hours worked,921
+E05014075,Charlton Village & Riverside,Full-time: 31 to 48 hours worked,2884
+E05014075,Charlton Village & Riverside,Full-time: 49 or more hours worked,523
+E05014086,"Mottingham, Coldharbour & New Eltham",Part-time: 15 hours or less worked,645
+E05014086,"Mottingham, Coldharbour & New Eltham",Part-time: 16 to 30 hours worked,1224
+E05014086,"Mottingham, Coldharbour & New Eltham",Full-time: 31 to 48 hours worked,4240
+E05014086,"Mottingham, Coldharbour & New Eltham",Full-time: 49 or more hours worked,748
+E05014079,Eltham Town & Avery Hill,Part-time: 15 hours or less worked,789
+E05014079,Eltham Town & Avery Hill,Part-time: 16 to 30 hours worked,1270
+E05014079,Eltham Town & Avery Hill,Full-time: 31 to 48 hours worked,4289
+E05014079,Eltham Town & Avery Hill,Full-time: 49 or more hours worked,884
+E05014078,Eltham Park & Progress,Part-time: 15 hours or less worked,482
+E05014078,Eltham Park & Progress,Part-time: 16 to 30 hours worked,936
+E05014078,Eltham Park & Progress,Full-time: 31 to 48 hours worked,3106
+E05014078,Eltham Park & Progress,Full-time: 49 or more hours worked,623
+E05014077,Eltham Page,Part-time: 15 hours or less worked,451
+E05014077,Eltham Page,Part-time: 16 to 30 hours worked,920
+E05014077,Eltham Page,Full-time: 31 to 48 hours worked,2667
+E05014077,Eltham Page,Full-time: 49 or more hours worked,446
+E05014085,Middle Park & Horn Park,Part-time: 15 hours or less worked,474
+E05014085,Middle Park & Horn Park,Part-time: 16 to 30 hours worked,781
+E05014085,Middle Park & Horn Park,Full-time: 31 to 48 hours worked,2539
+E05014085,Middle Park & Horn Park,Full-time: 49 or more hours worked,424
+E05014083,Kidbrooke Park,Part-time: 15 hours or less worked,499
+E05014083,Kidbrooke Park,Part-time: 16 to 30 hours worked,872
+E05014083,Kidbrooke Park,Full-time: 31 to 48 hours worked,2993
+E05014083,Kidbrooke Park,Full-time: 49 or more hours worked,541
+E05014087,Plumstead & Glyndon,Part-time: 15 hours or less worked,1016
+E05014087,Plumstead & Glyndon,Part-time: 16 to 30 hours worked,2094
+E05014087,Plumstead & Glyndon,Full-time: 31 to 48 hours worked,5896
+E05014087,Plumstead & Glyndon,Full-time: 49 or more hours worked,877
+E05014092,Woolwich Arsenal,Part-time: 15 hours or less worked,604
+E05014093,Woolwich Common,Part-time: 15 hours or less worked,607
+E05014092,Woolwich Arsenal,Part-time: 16 to 30 hours worked,949
+E05014093,Woolwich Common,Part-time: 16 to 30 hours worked,1121
+E05014092,Woolwich Arsenal,Full-time: 31 to 48 hours worked,4881
+E05014093,Woolwich Common,Full-time: 31 to 48 hours worked,3769
+E05014092,Woolwich Arsenal,Full-time: 49 or more hours worked,1086
+E05014093,Woolwich Common,Full-time: 49 or more hours worked,626
+E05014088,Plumstead Common,Part-time: 15 hours or less worked,798
+E05014088,Plumstead Common,Part-time: 16 to 30 hours worked,1403
+E05014088,Plumstead Common,Full-time: 31 to 48 hours worked,4413
+E05014088,Plumstead Common,Full-time: 49 or more hours worked,711
+E05014091,West Thamesmead,Part-time: 15 hours or less worked,597
+E05014091,West Thamesmead,Part-time: 16 to 30 hours worked,946
+E05014091,West Thamesmead,Full-time: 31 to 48 hours worked,3204
+E05014091,West Thamesmead,Full-time: 49 or more hours worked,582
+E05014081,Greenwich Park,Part-time: 15 hours or less worked,543
+E05014081,Greenwich Park,Part-time: 16 to 30 hours worked,710
+E05014081,Greenwich Park,Full-time: 31 to 48 hours worked,3447
+E05014081,Greenwich Park,Full-time: 49 or more hours worked,1096
+E05014080,Greenwich Creekside,Part-time: 15 hours or less worked,539
+E05014080,Greenwich Creekside,Part-time: 16 to 30 hours worked,751
+E05014080,Greenwich Creekside,Full-time: 31 to 48 hours worked,4036
+E05014080,Greenwich Creekside,Full-time: 49 or more hours worked,1068
+E05014084,Kidbrooke Village & Sutcliffe,Part-time: 15 hours or less worked,233
+E05014084,Kidbrooke Village & Sutcliffe,Part-time: 16 to 30 hours worked,393
+E05014084,Kidbrooke Village & Sutcliffe,Full-time: 31 to 48 hours worked,2243
+E05014084,Kidbrooke Village & Sutcliffe,Full-time: 49 or more hours worked,469
+E05014076,East Greenwich,Part-time: 15 hours or less worked,656
+E05014076,East Greenwich,Part-time: 16 to 30 hours worked,1081
+E05014076,East Greenwich,Full-time: 31 to 48 hours worked,5261
+E05014076,East Greenwich,Full-time: 49 or more hours worked,1558
+E05014082,Greenwich Peninsula,Part-time: 15 hours or less worked,496
+E05014082,Greenwich Peninsula,Part-time: 16 to 30 hours worked,776
+E05014082,Greenwich Peninsula,Full-time: 31 to 48 hours worked,4668
+E05014082,Greenwich Peninsula,Full-time: 49 or more hours worked,1171
+E05014089,Shooters Hill,Part-time: 15 hours or less worked,575
+E05014089,Shooters Hill,Part-time: 16 to 30 hours worked,1049
+E05014089,Shooters Hill,Full-time: 31 to 48 hours worked,3322
+E05014089,Shooters Hill,Full-time: 49 or more hours worked,646
+E05014090,Thamesmead Moorings,Part-time: 15 hours or less worked,565
+E05014090,Thamesmead Moorings,Part-time: 16 to 30 hours worked,1131
+E05014090,Thamesmead Moorings,Full-time: 31 to 48 hours worked,3204
+E05014090,Thamesmead Moorings,Full-time: 49 or more hours worked,504
+E05014094,Woolwich Dockyard,Part-time: 15 hours or less worked,545
+E05014094,Woolwich Dockyard,Part-time: 16 to 30 hours worked,1019
+E05014094,Woolwich Dockyard,Full-time: 31 to 48 hours worked,3011
+E05014094,Woolwich Dockyard,Full-time: 49 or more hours worked,510
+E05009387,Woodberry Down,Part-time: 15 hours or less worked,618
+E05009387,Woodberry Down,Part-time: 16 to 30 hours worked,1140
+E05009387,Woodberry Down,Full-time: 31 to 48 hours worked,3263
+E05009387,Woodberry Down,Full-time: 49 or more hours worked,672
+E05009367,Brownswood,Part-time: 15 hours or less worked,497
+E05009367,Brownswood,Part-time: 16 to 30 hours worked,722
+E05009367,Brownswood,Full-time: 31 to 48 hours worked,3372
+E05009367,Brownswood,Full-time: 49 or more hours worked,768
+E05009368,Cazenove,Part-time: 15 hours or less worked,931
+E05009368,Cazenove,Part-time: 16 to 30 hours worked,2113
+E05009368,Cazenove,Full-time: 31 to 48 hours worked,3172
+E05009368,Cazenove,Full-time: 49 or more hours worked,592
+E05009376,Homerton,Part-time: 15 hours or less worked,709
+E05009376,Homerton,Part-time: 16 to 30 hours worked,1241
+E05009376,Homerton,Full-time: 31 to 48 hours worked,3745
+E05009376,Homerton,Full-time: 49 or more hours worked,701
+E05009379,King's Park,Part-time: 15 hours or less worked,763
+E05009379,King's Park,Part-time: 16 to 30 hours worked,1238
+E05009379,King's Park,Full-time: 31 to 48 hours worked,3452
+E05009379,King's Park,Full-time: 49 or more hours worked,666
+E05009380,Lea Bridge,Part-time: 15 hours or less worked,823
+E05009380,Lea Bridge,Part-time: 16 to 30 hours worked,1380
+E05009380,Lea Bridge,Full-time: 31 to 48 hours worked,4432
+E05009380,Lea Bridge,Full-time: 49 or more hours worked,893
+E05009369,Clissold,Part-time: 15 hours or less worked,678
+E05009369,Clissold,Part-time: 16 to 30 hours worked,1195
+E05009369,Clissold,Full-time: 31 to 48 hours worked,4358
+E05009369,Clissold,Full-time: 49 or more hours worked,985
+E05009385,Stoke Newington,Part-time: 15 hours or less worked,764
+E05009385,Stoke Newington,Part-time: 16 to 30 hours worked,1282
+E05009385,Stoke Newington,Full-time: 31 to 48 hours worked,4430
+E05009385,Stoke Newington,Full-time: 49 or more hours worked,1130
+E05009370,Dalston,Part-time: 15 hours or less worked,433
+E05009370,Dalston,Part-time: 16 to 30 hours worked,713
+E05009370,Dalston,Full-time: 31 to 48 hours worked,3627
+E05009370,Dalston,Full-time: 49 or more hours worked,1005
+E05009381,London Fields,Part-time: 15 hours or less worked,657
+E05009381,London Fields,Part-time: 16 to 30 hours worked,1036
+E05009381,London Fields,Full-time: 31 to 48 hours worked,4000
+E05009381,London Fields,Full-time: 49 or more hours worked,1096
+E05009382,Shacklewell,Part-time: 15 hours or less worked,500
+E05009382,Shacklewell,Part-time: 16 to 30 hours worked,831
+E05009382,Shacklewell,Full-time: 31 to 48 hours worked,2805
+E05009382,Shacklewell,Full-time: 49 or more hours worked,610
+E05009372,Hackney Central,Part-time: 15 hours or less worked,704
+E05009372,Hackney Central,Part-time: 16 to 30 hours worked,1209
+E05009372,Hackney Central,Full-time: 31 to 48 hours worked,4030
+E05009372,Hackney Central,Full-time: 49 or more hours worked,898
+E05009371,De Beauvoir,Part-time: 15 hours or less worked,433
+E05009371,De Beauvoir,Part-time: 16 to 30 hours worked,693
+E05009371,De Beauvoir,Full-time: 31 to 48 hours worked,3130
+E05009371,De Beauvoir,Full-time: 49 or more hours worked,990
+E05009377,Hoxton East & Shoreditch,Part-time: 15 hours or less worked,608
+E05009377,Hoxton East & Shoreditch,Part-time: 16 to 30 hours worked,928
+E05009377,Hoxton East & Shoreditch,Full-time: 31 to 48 hours worked,4015
+E05009377,Hoxton East & Shoreditch,Full-time: 49 or more hours worked,1460
+E05009373,Hackney Downs,Part-time: 15 hours or less worked,751
+E05009373,Hackney Downs,Part-time: 16 to 30 hours worked,1261
+E05009373,Hackney Downs,Full-time: 31 to 48 hours worked,3974
+E05009373,Hackney Downs,Full-time: 49 or more hours worked,895
+E05009375,Haggerston,Part-time: 15 hours or less worked,676
+E05009375,Haggerston,Part-time: 16 to 30 hours worked,1202
+E05009375,Haggerston,Full-time: 31 to 48 hours worked,4864
+E05009375,Haggerston,Full-time: 49 or more hours worked,1217
+E05009378,Hoxton West,Part-time: 15 hours or less worked,650
+E05009378,Hoxton West,Part-time: 16 to 30 hours worked,1101
+E05009378,Hoxton West,Full-time: 31 to 48 hours worked,4429
+E05009378,Hoxton West,Full-time: 49 or more hours worked,1530
+E05009383,Springfield,Part-time: 15 hours or less worked,918
+E05009383,Springfield,Part-time: 16 to 30 hours worked,2344
+E05009383,Springfield,Full-time: 31 to 48 hours worked,2350
+E05009383,Springfield,Full-time: 49 or more hours worked,397
+E05009384,Stamford Hill West,Part-time: 15 hours or less worked,589
+E05009384,Stamford Hill West,Part-time: 16 to 30 hours worked,1639
+E05009384,Stamford Hill West,Full-time: 31 to 48 hours worked,1628
+E05009384,Stamford Hill West,Full-time: 49 or more hours worked,327
+E05009386,Victoria,Part-time: 15 hours or less worked,607
+E05009386,Victoria,Part-time: 16 to 30 hours worked,1110
+E05009386,Victoria,Full-time: 31 to 48 hours worked,3919
+E05009386,Victoria,Full-time: 49 or more hours worked,860
+E05009374,Hackney Wick,Part-time: 15 hours or less worked,721
+E05009374,Hackney Wick,Part-time: 16 to 30 hours worked,1087
+E05009374,Hackney Wick,Full-time: 31 to 48 hours worked,3471
+E05009374,Hackney Wick,Full-time: 49 or more hours worked,689
+E05013733,Addison,Part-time: 15 hours or less worked,386
+E05013733,Addison,Part-time: 16 to 30 hours worked,586
+E05013733,Addison,Full-time: 31 to 48 hours worked,2670
+E05013733,Addison,Full-time: 49 or more hours worked,795
+E05013735,Brook Green,Part-time: 15 hours or less worked,417
+E05013735,Brook Green,Part-time: 16 to 30 hours worked,549
+E05013735,Brook Green,Full-time: 31 to 48 hours worked,2509
+E05013735,Brook Green,Full-time: 49 or more hours worked,899
+E05013737,Coningham,Part-time: 15 hours or less worked,588
+E05013737,Coningham,Part-time: 16 to 30 hours worked,885
+E05013737,Coningham,Full-time: 31 to 48 hours worked,3510
+E05013737,Coningham,Full-time: 49 or more hours worked,937
+E05013750,Wendell Park,Part-time: 15 hours or less worked,417
+E05013750,Wendell Park,Part-time: 16 to 30 hours worked,571
+E05013750,Wendell Park,Full-time: 31 to 48 hours worked,2182
+E05013750,Wendell Park,Full-time: 49 or more hours worked,708
+E05013734,Avonmore,Part-time: 15 hours or less worked,408
+E05013734,Avonmore,Part-time: 16 to 30 hours worked,565
+E05013734,Avonmore,Full-time: 31 to 48 hours worked,2441
+E05013734,Avonmore,Full-time: 49 or more hours worked,673
+E05013736,College Park & Old Oak,Part-time: 15 hours or less worked,487
+E05013736,College Park & Old Oak,Part-time: 16 to 30 hours worked,768
+E05013736,College Park & Old Oak,Full-time: 31 to 48 hours worked,2818
+E05013736,College Park & Old Oak,Full-time: 49 or more hours worked,543
+E05013742,Lillie,Part-time: 15 hours or less worked,340
+E05013743,Munster,Part-time: 15 hours or less worked,629
+E05013742,Lillie,Part-time: 16 to 30 hours worked,484
+E05013743,Munster,Part-time: 16 to 30 hours worked,768
+E05013742,Lillie,Full-time: 31 to 48 hours worked,2014
+E05013743,Munster,Full-time: 31 to 48 hours worked,4091
+E05013742,Lillie,Full-time: 49 or more hours worked,722
+E05013743,Munster,Full-time: 49 or more hours worked,1731
+E05013749,Walham Green,Part-time: 15 hours or less worked,355
+E05013749,Walham Green,Part-time: 16 to 30 hours worked,488
+E05013749,Walham Green,Full-time: 31 to 48 hours worked,2518
+E05013749,Walham Green,Full-time: 49 or more hours worked,870
+E05013738,Fulham Reach,Part-time: 15 hours or less worked,610
+E05013738,Fulham Reach,Part-time: 16 to 30 hours worked,743
+E05013738,Fulham Reach,Full-time: 31 to 48 hours worked,3989
+E05013738,Fulham Reach,Full-time: 49 or more hours worked,1097
+E05013744,Palace & Hurlingham,Part-time: 15 hours or less worked,573
+E05013744,Palace & Hurlingham,Part-time: 16 to 30 hours worked,713
+E05013744,Palace & Hurlingham,Full-time: 31 to 48 hours worked,3072
+E05013744,Palace & Hurlingham,Full-time: 49 or more hours worked,1531
+E05013741,Hammersmith Broadway,Part-time: 15 hours or less worked,398
+E05013741,Hammersmith Broadway,Part-time: 16 to 30 hours worked,595
+E05013741,Hammersmith Broadway,Full-time: 31 to 48 hours worked,2423
+E05013741,Hammersmith Broadway,Full-time: 49 or more hours worked,622
+E05013751,West Kensington,Part-time: 15 hours or less worked,553
+E05013751,West Kensington,Part-time: 16 to 30 hours worked,674
+E05013751,West Kensington,Full-time: 31 to 48 hours worked,3201
+E05013751,West Kensington,Full-time: 49 or more hours worked,878
+E05013740,Grove,Part-time: 15 hours or less worked,391
+E05013740,Grove,Part-time: 16 to 30 hours worked,506
+E05013740,Grove,Full-time: 31 to 48 hours worked,2388
+E05013740,Grove,Full-time: 49 or more hours worked,882
+E05013745,Parsons Green & Sandford,Part-time: 15 hours or less worked,386
+E05013745,Parsons Green & Sandford,Part-time: 16 to 30 hours worked,465
+E05013745,Parsons Green & Sandford,Full-time: 31 to 48 hours worked,2057
+E05013745,Parsons Green & Sandford,Full-time: 49 or more hours worked,1310
+E05013747,Sands End,Part-time: 15 hours or less worked,516
+E05013747,Sands End,Part-time: 16 to 30 hours worked,762
+E05013747,Sands End,Full-time: 31 to 48 hours worked,3475
+E05013747,Sands End,Full-time: 49 or more hours worked,1225
+E05013746,Ravenscourt,Part-time: 15 hours or less worked,397
+E05013746,Ravenscourt,Part-time: 16 to 30 hours worked,503
+E05013746,Ravenscourt,Full-time: 31 to 48 hours worked,2096
+E05013746,Ravenscourt,Full-time: 49 or more hours worked,677
+E05013748,Shepherd's Bush Green,Part-time: 15 hours or less worked,308
+E05013748,Shepherd's Bush Green,Part-time: 16 to 30 hours worked,490
+E05013748,Shepherd's Bush Green,Full-time: 31 to 48 hours worked,1665
+E05013748,Shepherd's Bush Green,Full-time: 49 or more hours worked,375
+E05013752,White City,Part-time: 15 hours or less worked,563
+E05013752,White City,Part-time: 16 to 30 hours worked,914
+E05013752,White City,Full-time: 31 to 48 hours worked,2831
+E05013752,White City,Full-time: 49 or more hours worked,688
+E05013739,Fulham Town,Part-time: 15 hours or less worked,370
+E05013739,Fulham Town,Part-time: 16 to 30 hours worked,473
+E05013739,Fulham Town,Full-time: 31 to 48 hours worked,2466
+E05013739,Fulham Town,Full-time: 49 or more hours worked,1195
+E05013753,Wormholt,Part-time: 15 hours or less worked,404
+E05013753,Wormholt,Part-time: 16 to 30 hours worked,619
+E05013753,Wormholt,Full-time: 31 to 48 hours worked,2190
+E05013753,Wormholt,Full-time: 49 or more hours worked,515
+E05013589,Fortis Green,Part-time: 15 hours or less worked,810
+E05013589,Fortis Green,Part-time: 16 to 30 hours worked,1102
+E05013589,Fortis Green,Full-time: 31 to 48 hours worked,3514
+E05013589,Fortis Green,Full-time: 49 or more hours worked,1079
+E05013585,Alexandra Park,Part-time: 15 hours or less worked,578
+E05013585,Alexandra Park,Part-time: 16 to 30 hours worked,754
+E05013585,Alexandra Park,Full-time: 31 to 48 hours worked,2410
+E05013585,Alexandra Park,Full-time: 49 or more hours worked,738
+E05013594,Muswell Hill,Part-time: 15 hours or less worked,612
+E05013594,Muswell Hill,Part-time: 16 to 30 hours worked,765
+E05013594,Muswell Hill,Full-time: 31 to 48 hours worked,2553
+E05013594,Muswell Hill,Full-time: 49 or more hours worked,825
+E05013586,Bounds Green,Part-time: 15 hours or less worked,673
+E05013586,Bounds Green,Part-time: 16 to 30 hours worked,1039
+E05013586,Bounds Green,Full-time: 31 to 48 hours worked,2826
+E05013586,Bounds Green,Full-time: 49 or more hours worked,548
+E05013605,Woodside,Part-time: 15 hours or less worked,1029
+E05013605,Woodside,Part-time: 16 to 30 hours worked,1594
+E05013605,Woodside,Full-time: 31 to 48 hours worked,4448
+E05013605,Woodside,Full-time: 49 or more hours worked,737
+E05013601,Tottenham Central,Part-time: 15 hours or less worked,878
+E05013601,Tottenham Central,Part-time: 16 to 30 hours worked,1575
+E05013601,Tottenham Central,Full-time: 31 to 48 hours worked,4306
+E05013601,Tottenham Central,Full-time: 49 or more hours worked,757
+E05013587,Bruce Castle,Part-time: 15 hours or less worked,865
+E05013587,Bruce Castle,Part-time: 16 to 30 hours worked,1596
+E05013587,Bruce Castle,Full-time: 31 to 48 hours worked,3118
+E05013587,Bruce Castle,Full-time: 49 or more hours worked,491
+E05013603,West Green,Part-time: 15 hours or less worked,965
+E05013603,West Green,Part-time: 16 to 30 hours worked,1567
+E05013603,West Green,Full-time: 31 to 48 hours worked,4119
+E05013603,West Green,Full-time: 49 or more hours worked,696
+E05013588,Crouch End,Part-time: 15 hours or less worked,791
+E05013588,Crouch End,Part-time: 16 to 30 hours worked,1024
+E05013588,Crouch End,Full-time: 31 to 48 hours worked,4464
+E05013588,Crouch End,Full-time: 49 or more hours worked,1240
+E05013592,Highgate,Part-time: 15 hours or less worked,767
+E05013592,Highgate,Part-time: 16 to 30 hours worked,915
+E05013592,Highgate,Full-time: 31 to 48 hours worked,3979
+E05013592,Highgate,Full-time: 49 or more hours worked,1448
+E05013590,Harringay,Part-time: 15 hours or less worked,926
+E05013590,Harringay,Part-time: 16 to 30 hours worked,1418
+E05013590,Harringay,Full-time: 31 to 48 hours worked,5181
+E05013590,Harringay,Full-time: 49 or more hours worked,991
+E05013593,Hornsey,Part-time: 15 hours or less worked,857
+E05013593,Hornsey,Part-time: 16 to 30 hours worked,1338
+E05013593,Hornsey,Full-time: 31 to 48 hours worked,4778
+E05013593,Hornsey,Full-time: 49 or more hours worked,1179
+E05013595,Noel Park,Part-time: 15 hours or less worked,942
+E05013595,Noel Park,Part-time: 16 to 30 hours worked,1494
+E05013595,Noel Park,Full-time: 31 to 48 hours worked,3924
+E05013595,Noel Park,Full-time: 49 or more hours worked,644
+E05013596,Northumberland Park,Part-time: 15 hours or less worked,819
+E05013596,Northumberland Park,Part-time: 16 to 30 hours worked,1601
+E05013596,Northumberland Park,Full-time: 31 to 48 hours worked,3110
+E05013596,Northumberland Park,Full-time: 49 or more hours worked,538
+E05013597,St Ann's,Part-time: 15 hours or less worked,653
+E05013597,St Ann's,Part-time: 16 to 30 hours worked,1081
+E05013597,St Ann's,Full-time: 31 to 48 hours worked,2900
+E05013597,St Ann's,Full-time: 49 or more hours worked,506
+E05013591,Hermitage & Gardens,Part-time: 15 hours or less worked,584
+E05013591,Hermitage & Gardens,Part-time: 16 to 30 hours worked,1055
+E05013591,Hermitage & Gardens,Full-time: 31 to 48 hours worked,2908
+E05013591,Hermitage & Gardens,Full-time: 49 or more hours worked,480
+E05013598,Seven Sisters,Part-time: 15 hours or less worked,653
+E05013598,Seven Sisters,Part-time: 16 to 30 hours worked,1155
+E05013598,Seven Sisters,Full-time: 31 to 48 hours worked,2292
+E05013598,Seven Sisters,Full-time: 49 or more hours worked,381
+E05013599,South Tottenham,Part-time: 15 hours or less worked,1005
+E05013599,South Tottenham,Part-time: 16 to 30 hours worked,2285
+E05013599,South Tottenham,Full-time: 31 to 48 hours worked,3691
+E05013599,South Tottenham,Full-time: 49 or more hours worked,666
+E05013600,Stroud Green,Part-time: 15 hours or less worked,634
+E05013600,Stroud Green,Part-time: 16 to 30 hours worked,912
+E05013600,Stroud Green,Full-time: 31 to 48 hours worked,4006
+E05013600,Stroud Green,Full-time: 49 or more hours worked,1034
+E05013602,Tottenham Hale,Part-time: 15 hours or less worked,755
+E05013602,Tottenham Hale,Part-time: 16 to 30 hours worked,1218
+E05013602,Tottenham Hale,Full-time: 31 to 48 hours worked,3127
+E05013602,Tottenham Hale,Full-time: 49 or more hours worked,492
+E05013604,White Hart Lane,Part-time: 15 hours or less worked,753
+E05013604,White Hart Lane,Part-time: 16 to 30 hours worked,1449
+E05013604,White Hart Lane,Full-time: 31 to 48 hours worked,3309
+E05013604,White Hart Lane,Full-time: 49 or more hours worked,497
+E05013542,Belmont,Part-time: 15 hours or less worked,492
+E05013542,Belmont,Part-time: 16 to 30 hours worked,785
+E05013542,Belmont,Full-time: 31 to 48 hours worked,2624
+E05013542,Belmont,Full-time: 49 or more hours worked,611
+E05013544,Centenary,Part-time: 15 hours or less worked,771
+E05013544,Centenary,Part-time: 16 to 30 hours worked,1285
+E05013544,Centenary,Full-time: 31 to 48 hours worked,4334
+E05013544,Centenary,Full-time: 49 or more hours worked,850
+E05013543,Canons,Part-time: 15 hours or less worked,521
+E05013543,Canons,Part-time: 16 to 30 hours worked,795
+E05013543,Canons,Full-time: 31 to 48 hours worked,2461
+E05013543,Canons,Full-time: 49 or more hours worked,601
+E05013560,Stanmore,Part-time: 15 hours or less worked,758
+E05013560,Stanmore,Part-time: 16 to 30 hours worked,1119
+E05013560,Stanmore,Full-time: 31 to 48 hours worked,3267
+E05013560,Stanmore,Full-time: 49 or more hours worked,931
+E05013545,Edgware,Part-time: 15 hours or less worked,892
+E05013545,Edgware,Part-time: 16 to 30 hours worked,1483
+E05013545,Edgware,Full-time: 31 to 48 hours worked,4521
+E05013545,Edgware,Full-time: 49 or more hours worked,945
+E05013547,Harrow on the Hill,Part-time: 15 hours or less worked,541
+E05013547,Harrow on the Hill,Part-time: 16 to 30 hours worked,839
+E05013547,Harrow on the Hill,Full-time: 31 to 48 hours worked,2911
+E05013547,Harrow on the Hill,Full-time: 49 or more hours worked,773
+E05013546,Greenhill,Part-time: 15 hours or less worked,527
+E05013553,Marlborough,Part-time: 15 hours or less worked,613
+E05013546,Greenhill,Part-time: 16 to 30 hours worked,832
+E05013553,Marlborough,Part-time: 16 to 30 hours worked,945
+E05013546,Greenhill,Full-time: 31 to 48 hours worked,3808
+E05013553,Marlborough,Full-time: 31 to 48 hours worked,3393
+E05013546,Greenhill,Full-time: 49 or more hours worked,687
+E05013553,Marlborough,Full-time: 49 or more hours worked,610
+E05013563,West Harrow,Part-time: 15 hours or less worked,549
+E05013563,West Harrow,Part-time: 16 to 30 hours worked,1000
+E05013563,West Harrow,Full-time: 31 to 48 hours worked,3093
+E05013563,West Harrow,Full-time: 49 or more hours worked,621
+E05013548,Harrow Weald,Part-time: 15 hours or less worked,761
+E05013548,Harrow Weald,Part-time: 16 to 30 hours worked,1286
+E05013548,Harrow Weald,Full-time: 31 to 48 hours worked,3696
+E05013548,Harrow Weald,Full-time: 49 or more hours worked,689
+E05013549,Hatch End,Part-time: 15 hours or less worked,493
+E05013555,Pinner,Part-time: 15 hours or less worked,735
+E05013549,Hatch End,Part-time: 16 to 30 hours worked,826
+E05013555,Pinner,Part-time: 16 to 30 hours worked,1053
+E05013549,Hatch End,Full-time: 31 to 48 hours worked,2517
+E05013555,Pinner,Full-time: 31 to 48 hours worked,3519
+E05013549,Hatch End,Full-time: 49 or more hours worked,622
+E05013555,Pinner,Full-time: 49 or more hours worked,875
+E05013550,Headstone,Part-time: 15 hours or less worked,826
+E05013550,Headstone,Part-time: 16 to 30 hours worked,1358
+E05013550,Headstone,Full-time: 31 to 48 hours worked,4523
+E05013550,Headstone,Full-time: 49 or more hours worked,874
+E05013554,North Harrow,Part-time: 15 hours or less worked,460
+E05013554,North Harrow,Part-time: 16 to 30 hours worked,780
+E05013554,North Harrow,Full-time: 31 to 48 hours worked,2707
+E05013554,North Harrow,Full-time: 49 or more hours worked,527
+E05013556,Pinner South,Part-time: 15 hours or less worked,713
+E05013556,Pinner South,Part-time: 16 to 30 hours worked,1246
+E05013556,Pinner South,Full-time: 31 to 48 hours worked,4310
+E05013556,Pinner South,Full-time: 49 or more hours worked,945
+E05013551,Kenton East,Part-time: 15 hours or less worked,794
+E05013551,Kenton East,Part-time: 16 to 30 hours worked,1358
+E05013551,Kenton East,Full-time: 31 to 48 hours worked,4078
+E05013551,Kenton East,Full-time: 49 or more hours worked,794
+E05013552,Kenton West,Part-time: 15 hours or less worked,490
+E05013552,Kenton West,Part-time: 16 to 30 hours worked,807
+E05013552,Kenton West,Full-time: 31 to 48 hours worked,2930
+E05013552,Kenton West,Full-time: 49 or more hours worked,544
+E05013562,Wealdstone South,Part-time: 15 hours or less worked,424
+E05013562,Wealdstone South,Part-time: 16 to 30 hours worked,769
+E05013562,Wealdstone South,Full-time: 31 to 48 hours worked,2182
+E05013562,Wealdstone South,Full-time: 49 or more hours worked,399
+E05013557,Rayners Lane,Part-time: 15 hours or less worked,533
+E05013557,Rayners Lane,Part-time: 16 to 30 hours worked,925
+E05013557,Rayners Lane,Full-time: 31 to 48 hours worked,2797
+E05013557,Rayners Lane,Full-time: 49 or more hours worked,440
+E05013558,Roxbourne,Part-time: 15 hours or less worked,498
+E05013558,Roxbourne,Part-time: 16 to 30 hours worked,888
+E05013558,Roxbourne,Full-time: 31 to 48 hours worked,2660
+E05013558,Roxbourne,Full-time: 49 or more hours worked,312
+E05013559,Roxeth,Part-time: 15 hours or less worked,799
+E05013559,Roxeth,Part-time: 16 to 30 hours worked,1495
+E05013559,Roxeth,Full-time: 31 to 48 hours worked,4439
+E05013559,Roxeth,Full-time: 49 or more hours worked,736
+E05013561,Wealdstone North,Part-time: 15 hours or less worked,540
+E05013561,Wealdstone North,Part-time: 16 to 30 hours worked,889
+E05013561,Wealdstone North,Full-time: 31 to 48 hours worked,2887
+E05013561,Wealdstone North,Full-time: 49 or more hours worked,400
+E05013980,Rush Green & Crowlands,Part-time: 15 hours or less worked,773
+E05013980,Rush Green & Crowlands,Part-time: 16 to 30 hours worked,1294
+E05013980,Rush Green & Crowlands,Full-time: 31 to 48 hours worked,4958
+E05013980,Rush Green & Crowlands,Full-time: 49 or more hours worked,661
+E05013976,Hylands & Harrow Lodge,Part-time: 15 hours or less worked,730
+E05013976,Hylands & Harrow Lodge,Part-time: 16 to 30 hours worked,1274
+E05013976,Hylands & Harrow Lodge,Full-time: 31 to 48 hours worked,4341
+E05013976,Hylands & Harrow Lodge,Full-time: 49 or more hours worked,700
+E05013983,St Edward's,Part-time: 15 hours or less worked,497
+E05013983,St Edward's,Part-time: 16 to 30 hours worked,916
+E05013983,St Edward's,Full-time: 31 to 48 hours worked,3484
+E05013983,St Edward's,Full-time: 49 or more hours worked,571
+E05013968,Cranham,Part-time: 15 hours or less worked,653
+E05013968,Cranham,Part-time: 16 to 30 hours worked,996
+E05013968,Cranham,Full-time: 31 to 48 hours worked,3650
+E05013968,Cranham,Full-time: 49 or more hours worked,732
+E05013973,Harold Wood,Part-time: 15 hours or less worked,596
+E05013973,Harold Wood,Part-time: 16 to 30 hours worked,1199
+E05013973,Harold Wood,Full-time: 31 to 48 hours worked,4466
+E05013973,Harold Wood,Full-time: 49 or more hours worked,829
+E05013969,Elm Park,Part-time: 15 hours or less worked,765
+E05013972,Hacton,Part-time: 15 hours or less worked,408
+E05013969,Elm Park,Part-time: 16 to 30 hours worked,1411
+E05013972,Hacton,Part-time: 16 to 30 hours worked,764
+E05013969,Elm Park,Full-time: 31 to 48 hours worked,4978
+E05013972,Hacton,Full-time: 31 to 48 hours worked,2843
+E05013969,Elm Park,Full-time: 49 or more hours worked,713
+E05013972,Hacton,Full-time: 49 or more hours worked,449
+E05013970,Emerson Park,Part-time: 15 hours or less worked,546
+E05013970,Emerson Park,Part-time: 16 to 30 hours worked,787
+E05013970,Emerson Park,Full-time: 31 to 48 hours worked,2429
+E05013970,Emerson Park,Full-time: 49 or more hours worked,593
+E05013985,Squirrels Heath,Part-time: 15 hours or less worked,797
+E05013985,Squirrels Heath,Part-time: 16 to 30 hours worked,1243
+E05013985,Squirrels Heath,Full-time: 31 to 48 hours worked,4862
+E05013985,Squirrels Heath,Full-time: 49 or more hours worked,970
+E05013971,Gooshays,Part-time: 15 hours or less worked,766
+E05013971,Gooshays,Part-time: 16 to 30 hours worked,1596
+E05013971,Gooshays,Full-time: 31 to 48 hours worked,4718
+E05013971,Gooshays,Full-time: 49 or more hours worked,720
+E05013975,Heaton,Part-time: 15 hours or less worked,814
+E05013975,Heaton,Part-time: 16 to 30 hours worked,1552
+E05013975,Heaton,Full-time: 31 to 48 hours worked,4558
+E05013975,Heaton,Full-time: 49 or more hours worked,749
+E05013982,St Andrew's,Part-time: 15 hours or less worked,658
+E05013982,St Andrew's,Part-time: 16 to 30 hours worked,1168
+E05013982,St Andrew's,Full-time: 31 to 48 hours worked,4409
+E05013982,St Andrew's,Full-time: 49 or more hours worked,762
+E05013974,Havering-atte-Bower,Part-time: 15 hours or less worked,774
+E05013974,Havering-atte-Bower,Part-time: 16 to 30 hours worked,1486
+E05013974,Havering-atte-Bower,Full-time: 31 to 48 hours worked,4360
+E05013974,Havering-atte-Bower,Full-time: 49 or more hours worked,695
+E05013978,Mawneys,Part-time: 15 hours or less worked,718
+E05013978,Mawneys,Part-time: 16 to 30 hours worked,1348
+E05013978,Mawneys,Full-time: 31 to 48 hours worked,4078
+E05013978,Mawneys,Full-time: 49 or more hours worked,652
+E05013977,Marshalls & Rise Park,Part-time: 15 hours or less worked,669
+E05013977,Marshalls & Rise Park,Part-time: 16 to 30 hours worked,1117
+E05013977,Marshalls & Rise Park,Full-time: 31 to 48 hours worked,3591
+E05013977,Marshalls & Rise Park,Full-time: 49 or more hours worked,777
+E05013979,Rainham & Wennington,Part-time: 15 hours or less worked,617
+E05013979,Rainham & Wennington,Part-time: 16 to 30 hours worked,1178
+E05013979,Rainham & Wennington,Full-time: 31 to 48 hours worked,3903
+E05013979,Rainham & Wennington,Full-time: 49 or more hours worked,617
+E05013981,St Alban's,Part-time: 15 hours or less worked,394
+E05013981,St Alban's,Part-time: 16 to 30 hours worked,733
+E05013981,St Alban's,Full-time: 31 to 48 hours worked,2696
+E05013981,St Alban's,Full-time: 49 or more hours worked,403
+E05013984,South Hornchurch,Part-time: 15 hours or less worked,477
+E05013984,South Hornchurch,Part-time: 16 to 30 hours worked,991
+E05013984,South Hornchurch,Full-time: 31 to 48 hours worked,3009
+E05013984,South Hornchurch,Full-time: 49 or more hours worked,467
+E05013967,Beam Park,Part-time: 15 hours or less worked,254
+E05013967,Beam Park,Part-time: 16 to 30 hours worked,449
+E05013967,Beam Park,Full-time: 31 to 48 hours worked,1482
+E05013967,Beam Park,Full-time: 49 or more hours worked,205
+E05013986,Upminster,Part-time: 15 hours or less worked,706
+E05013986,Upminster,Part-time: 16 to 30 hours worked,1067
+E05013986,Upminster,Full-time: 31 to 48 hours worked,3664
+E05013986,Upminster,Full-time: 49 or more hours worked,804
+E05013564,Belmore,Part-time: 15 hours or less worked,824
+E05013564,Belmore,Part-time: 16 to 30 hours worked,1660
+E05013564,Belmore,Full-time: 31 to 48 hours worked,4411
+E05013564,Belmore,Full-time: 49 or more hours worked,581
+E05013583,Yeading,Part-time: 15 hours or less worked,625
+E05013583,Yeading,Part-time: 16 to 30 hours worked,1272
+E05013583,Yeading,Full-time: 31 to 48 hours worked,3478
+E05013583,Yeading,Full-time: 49 or more hours worked,421
+E05013576,Pinkwell,Part-time: 15 hours or less worked,883
+E05013576,Pinkwell,Part-time: 16 to 30 hours worked,1663
+E05013576,Pinkwell,Full-time: 31 to 48 hours worked,4346
+E05013576,Pinkwell,Full-time: 49 or more hours worked,570
+E05013582,Wood End,Part-time: 15 hours or less worked,847
+E05013582,Wood End,Part-time: 16 to 30 hours worked,1760
+E05013582,Wood End,Full-time: 31 to 48 hours worked,4754
+E05013582,Wood End,Full-time: 49 or more hours worked,677
+E05013569,Hayes Town,Part-time: 15 hours or less worked,755
+E05013569,Hayes Town,Part-time: 16 to 30 hours worked,1318
+E05013569,Hayes Town,Full-time: 31 to 48 hours worked,4287
+E05013569,Hayes Town,Full-time: 49 or more hours worked,558
+E05013566,Colham & Cowley,Part-time: 15 hours or less worked,954
+E05013566,Colham & Cowley,Part-time: 16 to 30 hours worked,1532
+E05013566,Colham & Cowley,Full-time: 31 to 48 hours worked,5156
+E05013566,Colham & Cowley,Full-time: 49 or more hours worked,789
+E05013572,Hillingdon West,Part-time: 15 hours or less worked,504
+E05013572,Hillingdon West,Part-time: 16 to 30 hours worked,716
+E05013572,Hillingdon West,Full-time: 31 to 48 hours worked,3180
+E05013572,Hillingdon West,Full-time: 49 or more hours worked,554
+E05013580,Uxbridge,Part-time: 15 hours or less worked,977
+E05013580,Uxbridge,Part-time: 16 to 30 hours worked,1320
+E05013580,Uxbridge,Full-time: 31 to 48 hours worked,4935
+E05013580,Uxbridge,Full-time: 49 or more hours worked,806
+E05013584,Yiewsley,Part-time: 15 hours or less worked,475
+E05013584,Yiewsley,Part-time: 16 to 30 hours worked,959
+E05013584,Yiewsley,Full-time: 31 to 48 hours worked,3686
+E05013584,Yiewsley,Full-time: 49 or more hours worked,524
+E05013567,Eastcote,Part-time: 15 hours or less worked,746
+E05013567,Eastcote,Part-time: 16 to 30 hours worked,1399
+E05013567,Eastcote,Full-time: 31 to 48 hours worked,5150
+E05013567,Eastcote,Full-time: 49 or more hours worked,914
+E05013579,South Ruislip,Part-time: 15 hours or less worked,798
+E05013579,South Ruislip,Part-time: 16 to 30 hours worked,1431
+E05013579,South Ruislip,Full-time: 31 to 48 hours worked,5599
+E05013579,South Ruislip,Full-time: 49 or more hours worked,948
+E05013565,Charville,Part-time: 15 hours or less worked,506
+E05013565,Charville,Part-time: 16 to 30 hours worked,1067
+E05013565,Charville,Full-time: 31 to 48 hours worked,3305
+E05013565,Charville,Full-time: 49 or more hours worked,469
+E05013577,Ruislip,Part-time: 15 hours or less worked,740
+E05013577,Ruislip,Part-time: 16 to 30 hours worked,1233
+E05013577,Ruislip,Full-time: 31 to 48 hours worked,4515
+E05013577,Ruislip,Full-time: 49 or more hours worked,1001
+E05013568,Harefield Village,Part-time: 15 hours or less worked,287
+E05013568,Harefield Village,Part-time: 16 to 30 hours worked,480
+E05013568,Harefield Village,Full-time: 31 to 48 hours worked,1690
+E05013568,Harefield Village,Full-time: 49 or more hours worked,350
+E05013573,Ickenham & South Harefield,Part-time: 15 hours or less worked,761
+E05013573,Ickenham & South Harefield,Part-time: 16 to 30 hours worked,1240
+E05013573,Ickenham & South Harefield,Full-time: 31 to 48 hours worked,4791
+E05013573,Ickenham & South Harefield,Full-time: 49 or more hours worked,997
+E05013570,Heathrow Villages,Part-time: 15 hours or less worked,762
+E05013570,Heathrow Villages,Part-time: 16 to 30 hours worked,1275
+E05013570,Heathrow Villages,Full-time: 31 to 48 hours worked,4255
+E05013570,Heathrow Villages,Full-time: 49 or more hours worked,564
+E05013571,Hillingdon East,Part-time: 15 hours or less worked,734
+E05013571,Hillingdon East,Part-time: 16 to 30 hours worked,1290
+E05013571,Hillingdon East,Full-time: 31 to 48 hours worked,4630
+E05013571,Hillingdon East,Full-time: 49 or more hours worked,706
+E05013578,Ruislip Manor,Part-time: 15 hours or less worked,536
+E05013578,Ruislip Manor,Part-time: 16 to 30 hours worked,933
+E05013578,Ruislip Manor,Full-time: 31 to 48 hours worked,3530
+E05013578,Ruislip Manor,Full-time: 49 or more hours worked,631
+E05013574,Northwood,Part-time: 15 hours or less worked,667
+E05013574,Northwood,Part-time: 16 to 30 hours worked,806
+E05013574,Northwood,Full-time: 31 to 48 hours worked,3013
+E05013574,Northwood,Full-time: 49 or more hours worked,835
+E05013575,Northwood Hills,Part-time: 15 hours or less worked,608
+E05013575,Northwood Hills,Part-time: 16 to 30 hours worked,956
+E05013575,Northwood Hills,Full-time: 31 to 48 hours worked,3473
+E05013575,Northwood Hills,Full-time: 49 or more hours worked,706
+E05013581,West Drayton,Part-time: 15 hours or less worked,813
+E05013581,West Drayton,Part-time: 16 to 30 hours worked,1418
+E05013581,West Drayton,Full-time: 31 to 48 hours worked,5608
+E05013581,West Drayton,Full-time: 49 or more hours worked,887
+E05013606,Bedfont,Part-time: 15 hours or less worked,806
+E05013606,Bedfont,Part-time: 16 to 30 hours worked,1376
+E05013606,Bedfont,Full-time: 31 to 48 hours worked,4491
+E05013606,Bedfont,Full-time: 49 or more hours worked,595
+E05013608,Brentford West,Part-time: 15 hours or less worked,478
+E05013608,Brentford West,Part-time: 16 to 30 hours worked,671
+E05013608,Brentford West,Full-time: 31 to 48 hours worked,2748
+E05013608,Brentford West,Full-time: 49 or more hours worked,580
+E05013607,Brentford East,Part-time: 15 hours or less worked,469
+E05013607,Brentford East,Part-time: 16 to 30 hours worked,693
+E05013607,Brentford East,Full-time: 31 to 48 hours worked,2556
+E05013607,Brentford East,Full-time: 49 or more hours worked,488
+E05013609,Chiswick Gunnersbury,Part-time: 15 hours or less worked,678
+E05013609,Chiswick Gunnersbury,Part-time: 16 to 30 hours worked,820
+E05013609,Chiswick Gunnersbury,Full-time: 31 to 48 hours worked,3935
+E05013609,Chiswick Gunnersbury,Full-time: 49 or more hours worked,1253
+E05013610,Chiswick Homefields,Part-time: 15 hours or less worked,812
+E05013610,Chiswick Homefields,Part-time: 16 to 30 hours worked,978
+E05013610,Chiswick Homefields,Full-time: 31 to 48 hours worked,3927
+E05013610,Chiswick Homefields,Full-time: 49 or more hours worked,1435
+E05013611,Chiswick Riverside,Part-time: 15 hours or less worked,568
+E05013611,Chiswick Riverside,Part-time: 16 to 30 hours worked,688
+E05013611,Chiswick Riverside,Full-time: 31 to 48 hours worked,3086
+E05013611,Chiswick Riverside,Full-time: 49 or more hours worked,978
+E05013612,Cranford,Part-time: 15 hours or less worked,837
+E05013612,Cranford,Part-time: 16 to 30 hours worked,1464
+E05013612,Cranford,Full-time: 31 to 48 hours worked,4320
+E05013612,Cranford,Full-time: 49 or more hours worked,532
+E05013613,Feltham North,Part-time: 15 hours or less worked,656
+E05013613,Feltham North,Part-time: 16 to 30 hours worked,1077
+E05013613,Feltham North,Full-time: 31 to 48 hours worked,3705
+E05013613,Feltham North,Full-time: 49 or more hours worked,482
+E05013614,Feltham West,Part-time: 15 hours or less worked,762
+E05013614,Feltham West,Part-time: 16 to 30 hours worked,1420
+E05013614,Feltham West,Full-time: 31 to 48 hours worked,5100
+E05013614,Feltham West,Full-time: 49 or more hours worked,663
+E05013616,Hanworth Village,Part-time: 15 hours or less worked,916
+E05013616,Hanworth Village,Part-time: 16 to 30 hours worked,1606
+E05013616,Hanworth Village,Full-time: 31 to 48 hours worked,4366
+E05013616,Hanworth Village,Full-time: 49 or more hours worked,629
+E05013615,Hanworth Park,Part-time: 15 hours or less worked,529
+E05013615,Hanworth Park,Part-time: 16 to 30 hours worked,859
+E05013615,Hanworth Park,Full-time: 31 to 48 hours worked,3082
+E05013615,Hanworth Park,Full-time: 49 or more hours worked,431
+E05013617,Heston Central,Part-time: 15 hours or less worked,791
+E05013617,Heston Central,Part-time: 16 to 30 hours worked,1318
+E05013617,Heston Central,Full-time: 31 to 48 hours worked,3913
+E05013617,Heston Central,Full-time: 49 or more hours worked,445
+E05013618,Heston East,Part-time: 15 hours or less worked,712
+E05013618,Heston East,Part-time: 16 to 30 hours worked,1091
+E05013618,Heston East,Full-time: 31 to 48 hours worked,3052
+E05013618,Heston East,Full-time: 49 or more hours worked,393
+E05013619,Heston West,Part-time: 15 hours or less worked,826
+E05013619,Heston West,Part-time: 16 to 30 hours worked,1530
+E05013619,Heston West,Full-time: 31 to 48 hours worked,3748
+E05013619,Heston West,Full-time: 49 or more hours worked,475
+E05013620,Hounslow Central,Part-time: 15 hours or less worked,581
+E05013620,Hounslow Central,Part-time: 16 to 30 hours worked,889
+E05013620,Hounslow Central,Full-time: 31 to 48 hours worked,3499
+E05013620,Hounslow Central,Full-time: 49 or more hours worked,340
+E05013621,Hounslow East,Part-time: 15 hours or less worked,449
+E05013621,Hounslow East,Part-time: 16 to 30 hours worked,751
+E05013621,Hounslow East,Full-time: 31 to 48 hours worked,2584
+E05013621,Hounslow East,Full-time: 49 or more hours worked,325
+E05013626,Osterley & Spring Grove,Part-time: 15 hours or less worked,800
+E05013626,Osterley & Spring Grove,Part-time: 16 to 30 hours worked,1162
+E05013626,Osterley & Spring Grove,Full-time: 31 to 48 hours worked,4759
+E05013626,Osterley & Spring Grove,Full-time: 49 or more hours worked,913
+E05013622,Hounslow Heath,Part-time: 15 hours or less worked,989
+E05013622,Hounslow Heath,Part-time: 16 to 30 hours worked,1414
+E05013622,Hounslow Heath,Full-time: 31 to 48 hours worked,4428
+E05013622,Hounslow Heath,Full-time: 49 or more hours worked,524
+E05013623,Hounslow South,Part-time: 15 hours or less worked,757
+E05013623,Hounslow South,Part-time: 16 to 30 hours worked,1279
+E05013623,Hounslow South,Full-time: 31 to 48 hours worked,4307
+E05013623,Hounslow South,Full-time: 49 or more hours worked,682
+E05013624,Hounslow West,Part-time: 15 hours or less worked,864
+E05013624,Hounslow West,Part-time: 16 to 30 hours worked,1437
+E05013624,Hounslow West,Full-time: 31 to 48 hours worked,4596
+E05013624,Hounslow West,Full-time: 49 or more hours worked,581
+E05013625,Isleworth,Part-time: 15 hours or less worked,711
+E05013625,Isleworth,Part-time: 16 to 30 hours worked,1161
+E05013625,Isleworth,Full-time: 31 to 48 hours worked,4141
+E05013625,Isleworth,Full-time: 49 or more hours worked,786
+E05013627,Syon & Brentford Lock,Part-time: 15 hours or less worked,642
+E05013627,Syon & Brentford Lock,Part-time: 16 to 30 hours worked,1022
+E05013627,Syon & Brentford Lock,Full-time: 31 to 48 hours worked,3888
+E05013627,Syon & Brentford Lock,Full-time: 49 or more hours worked,741
+E05013698,Barnsbury,Part-time: 15 hours or less worked,593
+E05013700,Caledonian,Part-time: 15 hours or less worked,651
+E05013698,Barnsbury,Part-time: 16 to 30 hours worked,821
+E05013700,Caledonian,Part-time: 16 to 30 hours worked,844
+E05013698,Barnsbury,Full-time: 31 to 48 hours worked,3745
+E05013700,Caledonian,Full-time: 31 to 48 hours worked,3164
+E05013698,Barnsbury,Full-time: 49 or more hours worked,1555
+E05013700,Caledonian,Full-time: 49 or more hours worked,808
+E05013699,Bunhill,Part-time: 15 hours or less worked,545
+E05013699,Bunhill,Part-time: 16 to 30 hours worked,761
+E05013699,Bunhill,Full-time: 31 to 48 hours worked,3016
+E05013699,Bunhill,Full-time: 49 or more hours worked,1344
+E05013711,St Peter's & Canalside,Part-time: 15 hours or less worked,516
+E05013711,St Peter's & Canalside,Part-time: 16 to 30 hours worked,795
+E05013711,St Peter's & Canalside,Full-time: 31 to 48 hours worked,3399
+E05013711,St Peter's & Canalside,Full-time: 49 or more hours worked,1500
+E05013702,Clerkenwell,Part-time: 15 hours or less worked,548
+E05013702,Clerkenwell,Part-time: 16 to 30 hours worked,696
+E05013702,Clerkenwell,Full-time: 31 to 48 hours worked,3000
+E05013702,Clerkenwell,Full-time: 49 or more hours worked,1171
+E05013708,Laycock,Part-time: 15 hours or less worked,592
+E05013708,Laycock,Part-time: 16 to 30 hours worked,875
+E05013708,Laycock,Full-time: 31 to 48 hours worked,3941
+E05013708,Laycock,Full-time: 49 or more hours worked,1135
+E05013701,Canonbury,Part-time: 15 hours or less worked,574
+E05013701,Canonbury,Part-time: 16 to 30 hours worked,883
+E05013701,Canonbury,Full-time: 31 to 48 hours worked,3801
+E05013701,Canonbury,Full-time: 49 or more hours worked,1335
+E05013703,Finsbury Park,Part-time: 15 hours or less worked,820
+E05013703,Finsbury Park,Part-time: 16 to 30 hours worked,1139
+E05013703,Finsbury Park,Full-time: 31 to 48 hours worked,4365
+E05013703,Finsbury Park,Full-time: 49 or more hours worked,905
+E05013712,Tollington,Part-time: 15 hours or less worked,757
+E05013712,Tollington,Part-time: 16 to 30 hours worked,1101
+E05013712,Tollington,Full-time: 31 to 48 hours worked,4825
+E05013712,Tollington,Full-time: 49 or more hours worked,1049
+E05013704,Highbury,Part-time: 15 hours or less worked,736
+E05013704,Highbury,Part-time: 16 to 30 hours worked,1013
+E05013704,Highbury,Full-time: 31 to 48 hours worked,4689
+E05013704,Highbury,Full-time: 49 or more hours worked,1633
+E05013709,Mildmay,Part-time: 15 hours or less worked,728
+E05013709,Mildmay,Part-time: 16 to 30 hours worked,1135
+E05013709,Mildmay,Full-time: 31 to 48 hours worked,4539
+E05013709,Mildmay,Full-time: 49 or more hours worked,1294
+E05013697,Arsenal,Part-time: 15 hours or less worked,564
+E05013697,Arsenal,Part-time: 16 to 30 hours worked,907
+E05013697,Arsenal,Full-time: 31 to 48 hours worked,4793
+E05013697,Arsenal,Full-time: 49 or more hours worked,1426
+E05013705,Hillrise,Part-time: 15 hours or less worked,835
+E05013705,Hillrise,Part-time: 16 to 30 hours worked,1221
+E05013705,Hillrise,Full-time: 31 to 48 hours worked,4414
+E05013705,Hillrise,Full-time: 49 or more hours worked,970
+E05013707,Junction,Part-time: 15 hours or less worked,751
+E05013707,Junction,Part-time: 16 to 30 hours worked,1091
+E05013707,Junction,Full-time: 31 to 48 hours worked,4188
+E05013707,Junction,Full-time: 49 or more hours worked,927
+E05013706,Holloway,Part-time: 15 hours or less worked,633
+E05013706,Holloway,Part-time: 16 to 30 hours worked,903
+E05013706,Holloway,Full-time: 31 to 48 hours worked,3950
+E05013706,Holloway,Full-time: 49 or more hours worked,990
+E05013713,Tufnell Park,Part-time: 15 hours or less worked,684
+E05013713,Tufnell Park,Part-time: 16 to 30 hours worked,961
+E05013713,Tufnell Park,Full-time: 31 to 48 hours worked,3937
+E05013713,Tufnell Park,Full-time: 49 or more hours worked,1014
+E05013710,St Mary's & St James',Part-time: 15 hours or less worked,528
+E05013710,St Mary's & St James',Part-time: 16 to 30 hours worked,768
+E05013710,St Mary's & St James',Full-time: 31 to 48 hours worked,3737
+E05013710,St Mary's & St James',Full-time: 49 or more hours worked,1550
+E05009388,Abingdon,Part-time: 15 hours or less worked,410
+E05009388,Abingdon,Part-time: 16 to 30 hours worked,540
+E05009388,Abingdon,Full-time: 31 to 48 hours worked,1920
+E05009388,Abingdon,Full-time: 49 or more hours worked,1144
+E05009401,Queen's Gate,Part-time: 15 hours or less worked,376
+E05009401,Queen's Gate,Part-time: 16 to 30 hours worked,425
+E05009401,Queen's Gate,Full-time: 31 to 48 hours worked,1615
+E05009401,Queen's Gate,Full-time: 49 or more hours worked,1243
+E05009389,Brompton & Hans Town,Part-time: 15 hours or less worked,455
+E05009389,Brompton & Hans Town,Part-time: 16 to 30 hours worked,503
+E05009389,Brompton & Hans Town,Full-time: 31 to 48 hours worked,1718
+E05009389,Brompton & Hans Town,Full-time: 49 or more hours worked,1281
+E05009393,Courtfield,Part-time: 15 hours or less worked,405
+E05009393,Courtfield,Part-time: 16 to 30 hours worked,473
+E05009393,Courtfield,Full-time: 31 to 48 hours worked,1849
+E05009393,Courtfield,Full-time: 49 or more hours worked,1552
+E05009405,Stanley,Part-time: 15 hours or less worked,437
+E05009405,Stanley,Part-time: 16 to 30 hours worked,539
+E05009405,Stanley,Full-time: 31 to 48 hours worked,1931
+E05009405,Stanley,Full-time: 49 or more hours worked,1209
+E05009390,Campden,Part-time: 15 hours or less worked,469
+E05009390,Campden,Part-time: 16 to 30 hours worked,494
+E05009390,Campden,Full-time: 31 to 48 hours worked,1811
+E05009390,Campden,Full-time: 49 or more hours worked,1424
+E05009392,Colville,Part-time: 15 hours or less worked,541
+E05009392,Colville,Part-time: 16 to 30 hours worked,701
+E05009392,Colville,Full-time: 31 to 48 hours worked,2201
+E05009392,Colville,Full-time: 49 or more hours worked,1023
+E05009399,Notting Dale,Part-time: 15 hours or less worked,518
+E05009399,Notting Dale,Part-time: 16 to 30 hours worked,787
+E05009399,Notting Dale,Full-time: 31 to 48 hours worked,2080
+E05009399,Notting Dale,Full-time: 49 or more hours worked,477
+E05009395,Earl's Court,Part-time: 15 hours or less worked,469
+E05009395,Earl's Court,Part-time: 16 to 30 hours worked,502
+E05009395,Earl's Court,Full-time: 31 to 48 hours worked,2404
+E05009395,Earl's Court,Full-time: 49 or more hours worked,1226
+E05009402,Redcliffe,Part-time: 15 hours or less worked,427
+E05009402,Redcliffe,Part-time: 16 to 30 hours worked,606
+E05009402,Redcliffe,Full-time: 31 to 48 hours worked,2125
+E05009402,Redcliffe,Full-time: 49 or more hours worked,1659
+E05009391,Chelsea Riverside,Part-time: 15 hours or less worked,408
+E05009391,Chelsea Riverside,Part-time: 16 to 30 hours worked,556
+E05009391,Chelsea Riverside,Full-time: 31 to 48 hours worked,1567
+E05009391,Chelsea Riverside,Full-time: 49 or more hours worked,743
+E05009396,Golborne,Part-time: 15 hours or less worked,502
+E05009396,Golborne,Part-time: 16 to 30 hours worked,816
+E05009396,Golborne,Full-time: 31 to 48 hours worked,2114
+E05009396,Golborne,Full-time: 49 or more hours worked,500
+E05009403,Royal Hospital,Part-time: 15 hours or less worked,480
+E05009403,Royal Hospital,Part-time: 16 to 30 hours worked,566
+E05009403,Royal Hospital,Full-time: 31 to 48 hours worked,1834
+E05009403,Royal Hospital,Full-time: 49 or more hours worked,1367
+E05009397,Holland,Part-time: 15 hours or less worked,459
+E05009397,Holland,Part-time: 16 to 30 hours worked,598
+E05009397,Holland,Full-time: 31 to 48 hours worked,2201
+E05009397,Holland,Full-time: 49 or more hours worked,1090
+E05009398,Norland,Part-time: 15 hours or less worked,277
+E05009398,Norland,Part-time: 16 to 30 hours worked,406
+E05009398,Norland,Full-time: 31 to 48 hours worked,1251
+E05009398,Norland,Full-time: 49 or more hours worked,863
+E05009404,St. Helen's,Part-time: 15 hours or less worked,317
+E05009404,St. Helen's,Part-time: 16 to 30 hours worked,483
+E05009404,St. Helen's,Full-time: 31 to 48 hours worked,1641
+E05009404,St. Helen's,Full-time: 49 or more hours worked,611
+E05009400,Pembridge,Part-time: 15 hours or less worked,300
+E05009400,Pembridge,Part-time: 16 to 30 hours worked,358
+E05009400,Pembridge,Full-time: 31 to 48 hours worked,1382
+E05009400,Pembridge,Full-time: 49 or more hours worked,914
+E05009394,Dalgarno,Part-time: 15 hours or less worked,373
+E05009394,Dalgarno,Part-time: 16 to 30 hours worked,640
+E05009394,Dalgarno,Full-time: 31 to 48 hours worked,1497
+E05009394,Dalgarno,Full-time: 49 or more hours worked,350
+E05013928,Alexandra,Part-time: 15 hours or less worked,301
+E05013928,Alexandra,Part-time: 16 to 30 hours worked,513
+E05013928,Alexandra,Full-time: 31 to 48 hours worked,1708
+E05013928,Alexandra,Full-time: 49 or more hours worked,375
+E05013936,King George's & Sunray,Part-time: 15 hours or less worked,309
+E05013936,King George's & Sunray,Part-time: 16 to 30 hours worked,625
+E05013936,King George's & Sunray,Full-time: 31 to 48 hours worked,1705
+E05013936,King George's & Sunray,Full-time: 49 or more hours worked,268
+E05013929,Berrylands,Part-time: 15 hours or less worked,331
+E05013929,Berrylands,Part-time: 16 to 30 hours worked,532
+E05013929,Berrylands,Full-time: 31 to 48 hours worked,2061
+E05013929,Berrylands,Full-time: 49 or more hours worked,446
+E05013942,Old Malden,Part-time: 15 hours or less worked,403
+E05013942,Old Malden,Part-time: 16 to 30 hours worked,578
+E05013942,Old Malden,Full-time: 31 to 48 hours worked,1744
+E05013942,Old Malden,Full-time: 49 or more hours worked,333
+E05013944,Surbiton Hill,Part-time: 15 hours or less worked,547
+E05013944,Surbiton Hill,Part-time: 16 to 30 hours worked,854
+E05013944,Surbiton Hill,Full-time: 31 to 48 hours worked,3647
+E05013944,Surbiton Hill,Full-time: 49 or more hours worked,801
+E05013934,Green Lane & St James,Part-time: 15 hours or less worked,363
+E05013934,Green Lane & St James,Part-time: 16 to 30 hours worked,609
+E05013934,Green Lane & St James,Full-time: 31 to 48 hours worked,1669
+E05013934,Green Lane & St James,Full-time: 49 or more hours worked,358
+E05013940,New Malden Village,Part-time: 15 hours or less worked,583
+E05013940,New Malden Village,Part-time: 16 to 30 hours worked,886
+E05013940,New Malden Village,Full-time: 31 to 48 hours worked,2783
+E05013940,New Malden Village,Full-time: 49 or more hours worked,585
+E05013937,Kingston Gate,Part-time: 15 hours or less worked,566
+E05013937,Kingston Gate,Part-time: 16 to 30 hours worked,902
+E05013937,Kingston Gate,Full-time: 31 to 48 hours worked,3280
+E05013937,Kingston Gate,Full-time: 49 or more hours worked,843
+E05013930,Canbury Gardens,Part-time: 15 hours or less worked,431
+E05013930,Canbury Gardens,Part-time: 16 to 30 hours worked,575
+E05013930,Canbury Gardens,Full-time: 31 to 48 hours worked,2403
+E05013930,Canbury Gardens,Full-time: 49 or more hours worked,580
+E05013932,Coombe Hill,Part-time: 15 hours or less worked,438
+E05013932,Coombe Hill,Part-time: 16 to 30 hours worked,596
+E05013932,Coombe Hill,Full-time: 31 to 48 hours worked,1758
+E05013932,Coombe Hill,Full-time: 49 or more hours worked,560
+E05013946,Tudor,Part-time: 15 hours or less worked,417
+E05013946,Tudor,Part-time: 16 to 30 hours worked,578
+E05013946,Tudor,Full-time: 31 to 48 hours worked,1863
+E05013946,Tudor,Full-time: 49 or more hours worked,520
+E05013935,Hook & Chessington North,Part-time: 15 hours or less worked,591
+E05013935,Hook & Chessington North,Part-time: 16 to 30 hours worked,1058
+E05013935,Hook & Chessington North,Full-time: 31 to 48 hours worked,3285
+E05013935,Hook & Chessington North,Full-time: 49 or more hours worked,523
+E05013931,Chessington South & Malden Rushett,Part-time: 15 hours or less worked,467
+E05013931,Chessington South & Malden Rushett,Part-time: 16 to 30 hours worked,1003
+E05013931,Chessington South & Malden Rushett,Full-time: 31 to 48 hours worked,3206
+E05013931,Chessington South & Malden Rushett,Full-time: 49 or more hours worked,502
+E05013933,Coombe Vale,Part-time: 15 hours or less worked,585
+E05013933,Coombe Vale,Part-time: 16 to 30 hours worked,853
+E05013933,Coombe Vale,Full-time: 31 to 48 hours worked,2917
+E05013933,Coombe Vale,Full-time: 49 or more hours worked,718
+E05013938,Kingston Town,Part-time: 15 hours or less worked,670
+E05013943,St Mark's & Seething Wells,Part-time: 15 hours or less worked,695
+E05013938,Kingston Town,Part-time: 16 to 30 hours worked,803
+E05013943,St Mark's & Seething Wells,Part-time: 16 to 30 hours worked,808
+E05013938,Kingston Town,Full-time: 31 to 48 hours worked,2993
+E05013943,St Mark's & Seething Wells,Full-time: 31 to 48 hours worked,4313
+E05013938,Kingston Town,Full-time: 49 or more hours worked,648
+E05013943,St Mark's & Seething Wells,Full-time: 49 or more hours worked,1051
+E05013941,Norbiton,Part-time: 15 hours or less worked,651
+E05013941,Norbiton,Part-time: 16 to 30 hours worked,942
+E05013941,Norbiton,Full-time: 31 to 48 hours worked,3061
+E05013941,Norbiton,Full-time: 49 or more hours worked,499
+E05013939,Motspur Park & Old Malden East,Part-time: 15 hours or less worked,387
+E05013939,Motspur Park & Old Malden East,Part-time: 16 to 30 hours worked,600
+E05013939,Motspur Park & Old Malden East,Full-time: 31 to 48 hours worked,2008
+E05013939,Motspur Park & Old Malden East,Full-time: 49 or more hours worked,437
+E05013945,Tolworth,Part-time: 15 hours or less worked,558
+E05013945,Tolworth,Part-time: 16 to 30 hours worked,1025
+E05013945,Tolworth,Full-time: 31 to 48 hours worked,3403
+E05013945,Tolworth,Full-time: 49 or more hours worked,664
+E05014118,Waterloo & South Bank,Part-time: 15 hours or less worked,485
+E05014118,Waterloo & South Bank,Part-time: 16 to 30 hours worked,512
+E05014118,Waterloo & South Bank,Full-time: 31 to 48 hours worked,2544
+E05014118,Waterloo & South Bank,Full-time: 49 or more hours worked,878
+E05014105,Kennington,Part-time: 15 hours or less worked,792
+E05014105,Kennington,Part-time: 16 to 30 hours worked,1257
+E05014105,Kennington,Full-time: 31 to 48 hours worked,4937
+E05014105,Kennington,Full-time: 49 or more hours worked,1198
+E05014095,Brixton Acre Lane,Part-time: 15 hours or less worked,671
+E05014095,Brixton Acre Lane,Part-time: 16 to 30 hours worked,1020
+E05014095,Brixton Acre Lane,Full-time: 31 to 48 hours worked,6497
+E05014095,Brixton Acre Lane,Full-time: 49 or more hours worked,1657
+E05014097,Brixton Rush Common,Part-time: 15 hours or less worked,806
+E05014109,St Martin's,Part-time: 15 hours or less worked,591
+E05014097,Brixton Rush Common,Part-time: 16 to 30 hours worked,1340
+E05014109,St Martin's,Part-time: 16 to 30 hours worked,942
+E05014097,Brixton Rush Common,Full-time: 31 to 48 hours worked,5294
+E05014109,St Martin's,Full-time: 31 to 48 hours worked,3352
+E05014097,Brixton Rush Common,Full-time: 49 or more hours worked,1095
+E05014109,St Martin's,Full-time: 49 or more hours worked,679
+E05014101,Clapham Park,Part-time: 15 hours or less worked,740
+E05014101,Clapham Park,Part-time: 16 to 30 hours worked,1142
+E05014101,Clapham Park,Full-time: 31 to 48 hours worked,4919
+E05014101,Clapham Park,Full-time: 49 or more hours worked,1050
+E05014099,Clapham Common & Abbeville,Part-time: 15 hours or less worked,424
+E05014099,Clapham Common & Abbeville,Part-time: 16 to 30 hours worked,552
+E05014099,Clapham Common & Abbeville,Full-time: 31 to 48 hours worked,4104
+E05014099,Clapham Common & Abbeville,Full-time: 49 or more hours worked,1542
+E05014100,Clapham East,Part-time: 15 hours or less worked,415
+E05014100,Clapham East,Part-time: 16 to 30 hours worked,669
+E05014100,Clapham East,Full-time: 31 to 48 hours worked,4195
+E05014100,Clapham East,Full-time: 49 or more hours worked,1127
+E05014102,Clapham Town,Part-time: 15 hours or less worked,686
+E05014102,Clapham Town,Part-time: 16 to 30 hours worked,1009
+E05014102,Clapham Town,Full-time: 31 to 48 hours worked,6306
+E05014102,Clapham Town,Full-time: 49 or more hours worked,2039
+E05014096,Brixton North,Part-time: 15 hours or less worked,920
+E05014098,Brixton Windrush,Part-time: 15 hours or less worked,487
+E05014096,Brixton North,Part-time: 16 to 30 hours worked,1604
+E05014098,Brixton Windrush,Part-time: 16 to 30 hours worked,823
+E05014096,Brixton North,Full-time: 31 to 48 hours worked,5288
+E05014098,Brixton Windrush,Full-time: 31 to 48 hours worked,3741
+E05014096,Brixton North,Full-time: 49 or more hours worked,969
+E05014098,Brixton Windrush,Full-time: 49 or more hours worked,800
+E05014104,Herne Hill & Loughborough Junction,Part-time: 15 hours or less worked,915
+E05014104,Herne Hill & Loughborough Junction,Part-time: 16 to 30 hours worked,1374
+E05014104,Herne Hill & Loughborough Junction,Full-time: 31 to 48 hours worked,5772
+E05014104,Herne Hill & Loughborough Junction,Full-time: 49 or more hours worked,1343
+E05014103,Gipsy Hill,Part-time: 15 hours or less worked,539
+E05014119,West Dulwich,Part-time: 15 hours or less worked,586
+E05014103,Gipsy Hill,Part-time: 16 to 30 hours worked,923
+E05014119,West Dulwich,Part-time: 16 to 30 hours worked,985
+E05014103,Gipsy Hill,Full-time: 31 to 48 hours worked,3347
+E05014119,West Dulwich,Full-time: 31 to 48 hours worked,3669
+E05014103,Gipsy Hill,Full-time: 49 or more hours worked,658
+E05014119,West Dulwich,Full-time: 49 or more hours worked,1025
+E05014106,Knight's Hill,Part-time: 15 hours or less worked,917
+E05014106,Knight's Hill,Part-time: 16 to 30 hours worked,1448
+E05014106,Knight's Hill,Full-time: 31 to 48 hours worked,4999
+E05014106,Knight's Hill,Full-time: 49 or more hours worked,978
+E05014110,Stockwell East,Part-time: 15 hours or less worked,575
+E05014110,Stockwell East,Part-time: 16 to 30 hours worked,811
+E05014110,Stockwell East,Full-time: 31 to 48 hours worked,4008
+E05014110,Stockwell East,Full-time: 49 or more hours worked,973
+E05014111,Stockwell West & Larkhall,Part-time: 15 hours or less worked,922
+E05014111,Stockwell West & Larkhall,Part-time: 16 to 30 hours worked,1526
+E05014111,Stockwell West & Larkhall,Full-time: 31 to 48 hours worked,5788
+E05014111,Stockwell West & Larkhall,Full-time: 49 or more hours worked,1205
+E05014108,Oval,Part-time: 15 hours or less worked,638
+E05014108,Oval,Part-time: 16 to 30 hours worked,909
+E05014108,Oval,Full-time: 31 to 48 hours worked,4654
+E05014108,Oval,Full-time: 49 or more hours worked,1066
+E05014117,Vauxhall,Part-time: 15 hours or less worked,459
+E05014117,Vauxhall,Part-time: 16 to 30 hours worked,661
+E05014117,Vauxhall,Full-time: 31 to 48 hours worked,3326
+E05014117,Vauxhall,Full-time: 49 or more hours worked,1062
+E05014115,Streatham St Leonard's,Part-time: 15 hours or less worked,939
+E05014115,Streatham St Leonard's,Part-time: 16 to 30 hours worked,1362
+E05014115,Streatham St Leonard's,Full-time: 31 to 48 hours worked,5735
+E05014115,Streatham St Leonard's,Full-time: 49 or more hours worked,1287
+E05014113,Streatham Hill East,Part-time: 15 hours or less worked,543
+E05014113,Streatham Hill East,Part-time: 16 to 30 hours worked,885
+E05014113,Streatham Hill East,Full-time: 31 to 48 hours worked,3523
+E05014113,Streatham Hill East,Full-time: 49 or more hours worked,686
+E05014114,Streatham Hill West & Thornton,Part-time: 15 hours or less worked,501
+E05014114,Streatham Hill West & Thornton,Part-time: 16 to 30 hours worked,729
+E05014114,Streatham Hill West & Thornton,Full-time: 31 to 48 hours worked,4138
+E05014114,Streatham Hill West & Thornton,Full-time: 49 or more hours worked,1298
+E05014112,Streatham Common & Vale,Part-time: 15 hours or less worked,1002
+E05014112,Streatham Common & Vale,Part-time: 16 to 30 hours worked,1633
+E05014112,Streatham Common & Vale,Full-time: 31 to 48 hours worked,5553
+E05014112,Streatham Common & Vale,Full-time: 49 or more hours worked,1096
+E05014116,Streatham Wells,Part-time: 15 hours or less worked,513
+E05014116,Streatham Wells,Part-time: 16 to 30 hours worked,876
+E05014116,Streatham Wells,Full-time: 31 to 48 hours worked,3534
+E05014116,Streatham Wells,Full-time: 49 or more hours worked,757
+E05014107,Myatt's Fields,Part-time: 15 hours or less worked,600
+E05014107,Myatt's Fields,Part-time: 16 to 30 hours worked,925
+E05014107,Myatt's Fields,Full-time: 31 to 48 hours worked,3681
+E05014107,Myatt's Fields,Full-time: 49 or more hours worked,799
+E05013729,Perry Vale,Part-time: 15 hours or less worked,936
+E05013729,Perry Vale,Part-time: 16 to 30 hours worked,1751
+E05013729,Perry Vale,Full-time: 31 to 48 hours worked,5925
+E05013729,Perry Vale,Full-time: 49 or more hours worked,1111
+E05013714,Bellingham,Part-time: 15 hours or less worked,564
+E05013714,Bellingham,Part-time: 16 to 30 hours worked,1175
+E05013714,Bellingham,Full-time: 31 to 48 hours worked,2991
+E05013714,Bellingham,Full-time: 49 or more hours worked,380
+E05013730,Rushey Green,Part-time: 15 hours or less worked,1020
+E05013730,Rushey Green,Part-time: 16 to 30 hours worked,1816
+E05013730,Rushey Green,Full-time: 31 to 48 hours worked,5786
+E05013730,Rushey Green,Full-time: 49 or more hours worked,1006
+E05013731,Sydenham,Part-time: 15 hours or less worked,928
+E05013731,Sydenham,Part-time: 16 to 30 hours worked,1611
+E05013731,Sydenham,Full-time: 31 to 48 hours worked,5275
+E05013731,Sydenham,Full-time: 49 or more hours worked,885
+E05013715,Blackheath,Part-time: 15 hours or less worked,839
+E05013715,Blackheath,Part-time: 16 to 30 hours worked,1366
+E05013715,Blackheath,Full-time: 31 to 48 hours worked,5306
+E05013715,Blackheath,Full-time: 49 or more hours worked,1284
+E05013716,Brockley,Part-time: 15 hours or less worked,1084
+E05013716,Brockley,Part-time: 16 to 30 hours worked,1708
+E05013716,Brockley,Full-time: 31 to 48 hours worked,6116
+E05013716,Brockley,Full-time: 49 or more hours worked,1309
+E05013719,Deptford,Part-time: 15 hours or less worked,983
+E05013719,Deptford,Part-time: 16 to 30 hours worked,1617
+E05013719,Deptford,Full-time: 31 to 48 hours worked,5093
+E05013719,Deptford,Full-time: 49 or more hours worked,882
+E05013724,Hither Green,Part-time: 15 hours or less worked,1023
+E05013724,Hither Green,Part-time: 16 to 30 hours worked,1934
+E05013724,Hither Green,Full-time: 31 to 48 hours worked,6046
+E05013724,Hither Green,Full-time: 49 or more hours worked,1081
+E05013717,Catford South,Part-time: 15 hours or less worked,907
+E05013717,Catford South,Part-time: 16 to 30 hours worked,1600
+E05013717,Catford South,Full-time: 31 to 48 hours worked,5000
+E05013717,Catford South,Full-time: 49 or more hours worked,783
+E05013718,Crofton Park,Part-time: 15 hours or less worked,817
+E05013718,Crofton Park,Part-time: 16 to 30 hours worked,1460
+E05013718,Crofton Park,Full-time: 31 to 48 hours worked,5213
+E05013718,Crofton Park,Full-time: 49 or more hours worked,1112
+E05013720,Downham,Part-time: 15 hours or less worked,893
+E05013720,Downham,Part-time: 16 to 30 hours worked,1834
+E05013720,Downham,Full-time: 31 to 48 hours worked,4874
+E05013720,Downham,Full-time: 49 or more hours worked,779
+E05013723,Grove Park,Part-time: 15 hours or less worked,775
+E05013723,Grove Park,Part-time: 16 to 30 hours worked,1478
+E05013723,Grove Park,Full-time: 31 to 48 hours worked,4595
+E05013723,Grove Park,Full-time: 49 or more hours worked,797
+E05013721,Evelyn,Part-time: 15 hours or less worked,786
+E05013721,Evelyn,Part-time: 16 to 30 hours worked,1238
+E05013721,Evelyn,Full-time: 31 to 48 hours worked,5278
+E05013721,Evelyn,Full-time: 49 or more hours worked,1006
+E05013728,New Cross Gate,Part-time: 15 hours or less worked,624
+E05013728,New Cross Gate,Part-time: 16 to 30 hours worked,1041
+E05013728,New Cross Gate,Full-time: 31 to 48 hours worked,3321
+E05013728,New Cross Gate,Full-time: 49 or more hours worked,452
+E05013722,Forest Hill,Part-time: 15 hours or less worked,812
+E05013722,Forest Hill,Part-time: 16 to 30 hours worked,1390
+E05013722,Forest Hill,Full-time: 31 to 48 hours worked,4959
+E05013722,Forest Hill,Full-time: 49 or more hours worked,1066
+E05013725,Ladywell,Part-time: 15 hours or less worked,830
+E05013725,Ladywell,Part-time: 16 to 30 hours worked,1449
+E05013725,Ladywell,Full-time: 31 to 48 hours worked,4791
+E05013725,Ladywell,Full-time: 49 or more hours worked,964
+E05013726,Lee Green,Part-time: 15 hours or less worked,799
+E05013726,Lee Green,Part-time: 16 to 30 hours worked,1272
+E05013726,Lee Green,Full-time: 31 to 48 hours worked,4578
+E05013726,Lee Green,Full-time: 49 or more hours worked,1058
+E05013727,Lewisham Central,Part-time: 15 hours or less worked,409
+E05013727,Lewisham Central,Part-time: 16 to 30 hours worked,665
+E05013727,Lewisham Central,Full-time: 31 to 48 hours worked,3371
+E05013727,Lewisham Central,Full-time: 49 or more hours worked,576
+E05013732,Telegraph Hill,Part-time: 15 hours or less worked,1042
+E05013732,Telegraph Hill,Part-time: 16 to 30 hours worked,1700
+E05013732,Telegraph Hill,Full-time: 31 to 48 hours worked,5520
+E05013732,Telegraph Hill,Full-time: 49 or more hours worked,984
+E05013810,Abbey,Part-time: 15 hours or less worked,533
+E05013810,Abbey,Part-time: 16 to 30 hours worked,774
+E05013810,Abbey,Full-time: 31 to 48 hours worked,3868
+E05013810,Abbey,Full-time: 49 or more hours worked,992
+E05013826,Wandle,Part-time: 15 hours or less worked,311
+E05013826,Wandle,Part-time: 16 to 30 hours worked,512
+E05013826,Wandle,Full-time: 31 to 48 hours worked,2398
+E05013826,Wandle,Full-time: 49 or more hours worked,552
+E05013811,Cannon Hill,Part-time: 15 hours or less worked,538
+E05013811,Cannon Hill,Part-time: 16 to 30 hours worked,865
+E05013811,Cannon Hill,Full-time: 31 to 48 hours worked,3012
+E05013811,Cannon Hill,Full-time: 49 or more hours worked,572
+E05013812,Colliers Wood,Part-time: 15 hours or less worked,589
+E05013812,Colliers Wood,Part-time: 16 to 30 hours worked,974
+E05013812,Colliers Wood,Full-time: 31 to 48 hours worked,4547
+E05013812,Colliers Wood,Full-time: 49 or more hours worked,863
+E05013813,Cricket Green,Part-time: 15 hours or less worked,680
+E05013813,Cricket Green,Part-time: 16 to 30 hours worked,1212
+E05013813,Cricket Green,Full-time: 31 to 48 hours worked,3199
+E05013813,Cricket Green,Full-time: 49 or more hours worked,472
+E05013817,Lavender Fields,Part-time: 15 hours or less worked,708
+E05013817,Lavender Fields,Part-time: 16 to 30 hours worked,1145
+E05013817,Lavender Fields,Full-time: 31 to 48 hours worked,3810
+E05013817,Lavender Fields,Full-time: 49 or more hours worked,595
+E05013829,Wimbledon Town & Dundonald,Part-time: 15 hours or less worked,603
+E05013829,Wimbledon Town & Dundonald,Part-time: 16 to 30 hours worked,877
+E05013829,Wimbledon Town & Dundonald,Full-time: 31 to 48 hours worked,4258
+E05013829,Wimbledon Town & Dundonald,Full-time: 49 or more hours worked,1391
+E05013823,Raynes Park,Part-time: 15 hours or less worked,628
+E05013823,Raynes Park,Part-time: 16 to 30 hours worked,922
+E05013823,Raynes Park,Full-time: 31 to 48 hours worked,3987
+E05013823,Raynes Park,Full-time: 49 or more hours worked,1172
+E05013814,Figge's Marsh,Part-time: 15 hours or less worked,575
+E05013814,Figge's Marsh,Part-time: 16 to 30 hours worked,1171
+E05013814,Figge's Marsh,Full-time: 31 to 48 hours worked,3086
+E05013814,Figge's Marsh,Full-time: 49 or more hours worked,464
+E05013815,Graveney,Part-time: 15 hours or less worked,701
+E05013815,Graveney,Part-time: 16 to 30 hours worked,1190
+E05013815,Graveney,Full-time: 31 to 48 hours worked,3704
+E05013815,Graveney,Full-time: 49 or more hours worked,684
+E05013816,Hillside,Part-time: 15 hours or less worked,440
+E05013816,Hillside,Part-time: 16 to 30 hours worked,529
+E05013816,Hillside,Full-time: 31 to 48 hours worked,2886
+E05013816,Hillside,Full-time: 49 or more hours worked,992
+E05013825,Village,Part-time: 15 hours or less worked,651
+E05013825,Village,Part-time: 16 to 30 hours worked,743
+E05013825,Village,Full-time: 31 to 48 hours worked,2591
+E05013825,Village,Full-time: 49 or more hours worked,1290
+E05013818,Longthornton,Part-time: 15 hours or less worked,687
+E05013818,Longthornton,Part-time: 16 to 30 hours worked,1093
+E05013818,Longthornton,Full-time: 31 to 48 hours worked,3540
+E05013818,Longthornton,Full-time: 49 or more hours worked,614
+E05013819,Lower Morden,Part-time: 15 hours or less worked,593
+E05013819,Lower Morden,Part-time: 16 to 30 hours worked,1047
+E05013819,Lower Morden,Full-time: 31 to 48 hours worked,3554
+E05013819,Lower Morden,Full-time: 49 or more hours worked,588
+E05013820,Merton Park,Part-time: 15 hours or less worked,457
+E05013820,Merton Park,Part-time: 16 to 30 hours worked,727
+E05013820,Merton Park,Full-time: 31 to 48 hours worked,2284
+E05013820,Merton Park,Full-time: 49 or more hours worked,583
+E05013821,Pollards Hill,Part-time: 15 hours or less worked,653
+E05013821,Pollards Hill,Part-time: 16 to 30 hours worked,1214
+E05013821,Pollards Hill,Full-time: 31 to 48 hours worked,3209
+E05013821,Pollards Hill,Full-time: 49 or more hours worked,466
+E05013824,St Helier,Part-time: 15 hours or less worked,578
+E05013824,St Helier,Part-time: 16 to 30 hours worked,1125
+E05013824,St Helier,Full-time: 31 to 48 hours worked,3328
+E05013824,St Helier,Full-time: 49 or more hours worked,476
+E05013822,Ravensbury,Part-time: 15 hours or less worked,566
+E05013822,Ravensbury,Part-time: 16 to 30 hours worked,942
+E05013822,Ravensbury,Full-time: 31 to 48 hours worked,2636
+E05013822,Ravensbury,Full-time: 49 or more hours worked,441
+E05013827,West Barnes,Part-time: 15 hours or less worked,545
+E05013827,West Barnes,Part-time: 16 to 30 hours worked,907
+E05013827,West Barnes,Full-time: 31 to 48 hours worked,3261
+E05013827,West Barnes,Full-time: 49 or more hours worked,738
+E05013828,Wimbledon Park,Part-time: 15 hours or less worked,549
+E05013828,Wimbledon Park,Part-time: 16 to 30 hours worked,760
+E05013828,Wimbledon Park,Full-time: 31 to 48 hours worked,3496
+E05013828,Wimbledon Park,Full-time: 49 or more hours worked,1163
+E05013904,Beckton,Part-time: 15 hours or less worked,866
+E05013904,Beckton,Part-time: 16 to 30 hours worked,1496
+E05013904,Beckton,Full-time: 31 to 48 hours worked,4243
+E05013904,Beckton,Full-time: 49 or more hours worked,655
+E05013922,Royal Albert,Part-time: 15 hours or less worked,557
+E05013922,Royal Albert,Part-time: 16 to 30 hours worked,927
+E05013922,Royal Albert,Full-time: 31 to 48 hours worked,3137
+E05013922,Royal Albert,Full-time: 49 or more hours worked,501
+E05013905,Boleyn,Part-time: 15 hours or less worked,805
+E05013905,Boleyn,Part-time: 16 to 30 hours worked,1507
+E05013905,Boleyn,Full-time: 31 to 48 hours worked,3791
+E05013905,Boleyn,Full-time: 49 or more hours worked,627
+E05013918,Plaistow North,Part-time: 15 hours or less worked,924
+E05013918,Plaistow North,Part-time: 16 to 30 hours worked,1808
+E05013918,Plaistow North,Full-time: 31 to 48 hours worked,4193
+E05013918,Plaistow North,Full-time: 49 or more hours worked,660
+E05013910,East Ham South,Part-time: 15 hours or less worked,892
+E05013910,East Ham South,Part-time: 16 to 30 hours worked,1760
+E05013910,East Ham South,Full-time: 31 to 48 hours worked,4186
+E05013910,East Ham South,Full-time: 49 or more hours worked,607
+E05013906,Canning Town North,Part-time: 15 hours or less worked,585
+E05013906,Canning Town North,Part-time: 16 to 30 hours worked,1008
+E05013906,Canning Town North,Full-time: 31 to 48 hours worked,3066
+E05013906,Canning Town North,Full-time: 49 or more hours worked,549
+E05013920,Plaistow West & Canning Town East,Part-time: 15 hours or less worked,925
+E05013920,Plaistow West & Canning Town East,Part-time: 16 to 30 hours worked,1717
+E05013920,Plaistow West & Canning Town East,Full-time: 31 to 48 hours worked,4208
+E05013920,Plaistow West & Canning Town East,Full-time: 49 or more hours worked,692
+E05013919,Plaistow South,Part-time: 15 hours or less worked,679
+E05013919,Plaistow South,Part-time: 16 to 30 hours worked,1337
+E05013919,Plaistow South,Full-time: 31 to 48 hours worked,3430
+E05013919,Plaistow South,Full-time: 49 or more hours worked,608
+E05013907,Canning Town South,Part-time: 15 hours or less worked,350
+E05013907,Canning Town South,Part-time: 16 to 30 hours worked,525
+E05013907,Canning Town South,Full-time: 31 to 48 hours worked,2467
+E05013907,Canning Town South,Full-time: 49 or more hours worked,465
+E05013908,Custom House,Part-time: 15 hours or less worked,883
+E05013908,Custom House,Part-time: 16 to 30 hours worked,1782
+E05013908,Custom House,Full-time: 31 to 48 hours worked,4973
+E05013908,Custom House,Full-time: 49 or more hours worked,759
+E05013923,Royal Victoria,Part-time: 15 hours or less worked,562
+E05013923,Royal Victoria,Part-time: 16 to 30 hours worked,924
+E05013923,Royal Victoria,Full-time: 31 to 48 hours worked,6666
+E05013923,Royal Victoria,Full-time: 49 or more hours worked,1632
+E05013909,East Ham,Part-time: 15 hours or less worked,813
+E05013909,East Ham,Part-time: 16 to 30 hours worked,1567
+E05013909,East Ham,Full-time: 31 to 48 hours worked,3262
+E05013909,East Ham,Full-time: 49 or more hours worked,472
+E05013926,Wall End,Part-time: 15 hours or less worked,935
+E05013926,Wall End,Part-time: 16 to 30 hours worked,1860
+E05013926,Wall End,Full-time: 31 to 48 hours worked,3698
+E05013926,Wall End,Full-time: 49 or more hours worked,595
+E05013915,Little Ilford,Part-time: 15 hours or less worked,938
+E05013921,Plashet,Part-time: 15 hours or less worked,609
+E05013915,Little Ilford,Part-time: 16 to 30 hours worked,1907
+E05013921,Plashet,Part-time: 16 to 30 hours worked,1233
+E05013915,Little Ilford,Full-time: 31 to 48 hours worked,3527
+E05013921,Plashet,Full-time: 31 to 48 hours worked,2589
+E05013915,Little Ilford,Full-time: 49 or more hours worked,516
+E05013921,Plashet,Full-time: 49 or more hours worked,295
+E05013917,Maryland,Part-time: 15 hours or less worked,773
+E05013917,Maryland,Part-time: 16 to 30 hours worked,1211
+E05013917,Maryland,Full-time: 31 to 48 hours worked,3923
+E05013917,Maryland,Full-time: 49 or more hours worked,693
+E05013911,Forest Gate North,Part-time: 15 hours or less worked,666
+E05013911,Forest Gate North,Part-time: 16 to 30 hours worked,1044
+E05013911,Forest Gate North,Full-time: 31 to 48 hours worked,3025
+E05013911,Forest Gate North,Full-time: 49 or more hours worked,530
+E05013912,Forest Gate South,Part-time: 15 hours or less worked,1066
+E05013912,Forest Gate South,Part-time: 16 to 30 hours worked,1820
+E05013912,Forest Gate South,Full-time: 31 to 48 hours worked,4245
+E05013912,Forest Gate South,Full-time: 49 or more hours worked,741
+E05013913,Green Street East,Part-time: 15 hours or less worked,887
+E05013913,Green Street East,Part-time: 16 to 30 hours worked,1785
+E05013913,Green Street East,Full-time: 31 to 48 hours worked,3451
+E05013913,Green Street East,Full-time: 49 or more hours worked,495
+E05013914,Green Street West,Part-time: 15 hours or less worked,892
+E05013914,Green Street West,Part-time: 16 to 30 hours worked,1572
+E05013914,Green Street West,Full-time: 31 to 48 hours worked,3504
+E05013914,Green Street West,Full-time: 49 or more hours worked,515
+E05013916,Manor Park,Part-time: 15 hours or less worked,954
+E05013916,Manor Park,Part-time: 16 to 30 hours worked,1759
+E05013916,Manor Park,Full-time: 31 to 48 hours worked,3197
+E05013916,Manor Park,Full-time: 49 or more hours worked,504
+E05013924,Stratford,Part-time: 15 hours or less worked,771
+E05013924,Stratford,Part-time: 16 to 30 hours worked,1237
+E05013924,Stratford,Full-time: 31 to 48 hours worked,6022
+E05013924,Stratford,Full-time: 49 or more hours worked,1197
+E05013927,West Ham,Part-time: 15 hours or less worked,927
+E05013927,West Ham,Part-time: 16 to 30 hours worked,1568
+E05013927,West Ham,Full-time: 31 to 48 hours worked,4548
+E05013927,West Ham,Full-time: 49 or more hours worked,729
+E05011234,Aldborough,Part-time: 15 hours or less worked,803
+E05011234,Aldborough,Part-time: 16 to 30 hours worked,1454
+E05011234,Aldborough,Full-time: 31 to 48 hours worked,4358
+E05011234,Aldborough,Full-time: 49 or more hours worked,687
+E05011235,Barkingside,Part-time: 15 hours or less worked,877
+E05011235,Barkingside,Part-time: 16 to 30 hours worked,1372
+E05011235,Barkingside,Full-time: 31 to 48 hours worked,4089
+E05011235,Barkingside,Full-time: 49 or more hours worked,730
+E05011236,Bridge,Part-time: 15 hours or less worked,729
+E05011236,Bridge,Part-time: 16 to 30 hours worked,1216
+E05011236,Bridge,Full-time: 31 to 48 hours worked,4099
+E05011236,Bridge,Full-time: 49 or more hours worked,798
+E05011243,Fullwell,Part-time: 15 hours or less worked,904
+E05011243,Fullwell,Part-time: 16 to 30 hours worked,1448
+E05011243,Fullwell,Full-time: 31 to 48 hours worked,4016
+E05011243,Fullwell,Full-time: 49 or more hours worked,782
+E05011237,Chadwell,Part-time: 15 hours or less worked,786
+E05011237,Chadwell,Part-time: 16 to 30 hours worked,1547
+E05011237,Chadwell,Full-time: 31 to 48 hours worked,4315
+E05011237,Chadwell,Full-time: 49 or more hours worked,618
+E05011238,Churchfields,Part-time: 15 hours or less worked,832
+E05011238,Churchfields,Part-time: 16 to 30 hours worked,1252
+E05011238,Churchfields,Full-time: 31 to 48 hours worked,4758
+E05011238,Churchfields,Full-time: 49 or more hours worked,1044
+E05011252,South Woodford,Part-time: 15 hours or less worked,681
+E05011252,South Woodford,Part-time: 16 to 30 hours worked,1024
+E05011252,South Woodford,Full-time: 31 to 48 hours worked,3956
+E05011252,South Woodford,Full-time: 49 or more hours worked,951
+E05011239,Clayhall,Part-time: 15 hours or less worked,846
+E05011239,Clayhall,Part-time: 16 to 30 hours worked,1188
+E05011239,Clayhall,Full-time: 31 to 48 hours worked,3652
+E05011239,Clayhall,Full-time: 49 or more hours worked,711
+E05011246,Ilford Town,Part-time: 15 hours or less worked,636
+E05011246,Ilford Town,Part-time: 16 to 30 hours worked,1123
+E05011246,Ilford Town,Full-time: 31 to 48 hours worked,2887
+E05011246,Ilford Town,Full-time: 49 or more hours worked,382
+E05011240,Clementswood,Part-time: 15 hours or less worked,724
+E05011240,Clementswood,Part-time: 16 to 30 hours worked,1353
+E05011240,Clementswood,Full-time: 31 to 48 hours worked,2865
+E05011240,Clementswood,Full-time: 49 or more hours worked,502
+E05011241,Cranbrook,Part-time: 15 hours or less worked,776
+E05011241,Cranbrook,Part-time: 16 to 30 hours worked,1208
+E05011241,Cranbrook,Full-time: 31 to 48 hours worked,3413
+E05011241,Cranbrook,Full-time: 49 or more hours worked,634
+E05011253,Valentines,Part-time: 15 hours or less worked,863
+E05011253,Valentines,Part-time: 16 to 30 hours worked,1479
+E05011253,Valentines,Full-time: 31 to 48 hours worked,3835
+E05011253,Valentines,Full-time: 49 or more hours worked,574
+E05011254,Wanstead Park,Part-time: 15 hours or less worked,410
+E05011254,Wanstead Park,Part-time: 16 to 30 hours worked,645
+E05011254,Wanstead Park,Full-time: 31 to 48 hours worked,2253
+E05011254,Wanstead Park,Full-time: 49 or more hours worked,591
+E05011242,Fairlop,Part-time: 15 hours or less worked,819
+E05011242,Fairlop,Part-time: 16 to 30 hours worked,1336
+E05011242,Fairlop,Full-time: 31 to 48 hours worked,4297
+E05011242,Fairlop,Full-time: 49 or more hours worked,755
+E05011244,Goodmayes,Part-time: 15 hours or less worked,771
+E05011244,Goodmayes,Part-time: 16 to 30 hours worked,1438
+E05011244,Goodmayes,Full-time: 31 to 48 hours worked,3823
+E05011244,Goodmayes,Full-time: 49 or more hours worked,609
+E05011245,Hainault,Part-time: 15 hours or less worked,794
+E05011245,Hainault,Part-time: 16 to 30 hours worked,1507
+E05011245,Hainault,Full-time: 31 to 48 hours worked,4425
+E05011245,Hainault,Full-time: 49 or more hours worked,759
+E05011247,Loxford,Part-time: 15 hours or less worked,736
+E05011247,Loxford,Part-time: 16 to 30 hours worked,1529
+E05011247,Loxford,Full-time: 31 to 48 hours worked,3083
+E05011247,Loxford,Full-time: 49 or more hours worked,453
+E05011248,Mayfield,Part-time: 15 hours or less worked,865
+E05011248,Mayfield,Part-time: 16 to 30 hours worked,1529
+E05011248,Mayfield,Full-time: 31 to 48 hours worked,3832
+E05011248,Mayfield,Full-time: 49 or more hours worked,583
+E05011249,Monkhams,Part-time: 15 hours or less worked,514
+E05011249,Monkhams,Part-time: 16 to 30 hours worked,725
+E05011249,Monkhams,Full-time: 31 to 48 hours worked,2461
+E05011249,Monkhams,Full-time: 49 or more hours worked,713
+E05011250,Newbury,Part-time: 15 hours or less worked,761
+E05011250,Newbury,Part-time: 16 to 30 hours worked,1401
+E05011250,Newbury,Full-time: 31 to 48 hours worked,3639
+E05011250,Newbury,Full-time: 49 or more hours worked,577
+E05011251,Seven Kings,Part-time: 15 hours or less worked,783
+E05011251,Seven Kings,Part-time: 16 to 30 hours worked,1431
+E05011251,Seven Kings,Full-time: 31 to 48 hours worked,3671
+E05011251,Seven Kings,Full-time: 49 or more hours worked,510
+E05011255,Wanstead Village,Part-time: 15 hours or less worked,695
+E05011255,Wanstead Village,Part-time: 16 to 30 hours worked,1004
+E05011255,Wanstead Village,Full-time: 31 to 48 hours worked,4001
+E05011255,Wanstead Village,Full-time: 49 or more hours worked,1093
+E05013774,Barnes,Part-time: 15 hours or less worked,617
+E05013774,Barnes,Part-time: 16 to 30 hours worked,755
+E05013774,Barnes,Full-time: 31 to 48 hours worked,2282
+E05013774,Barnes,Full-time: 49 or more hours worked,1215
+E05013775,East Sheen,Part-time: 15 hours or less worked,625
+E05013775,East Sheen,Part-time: 16 to 30 hours worked,796
+E05013775,East Sheen,Full-time: 31 to 48 hours worked,2610
+E05013775,East Sheen,Full-time: 49 or more hours worked,1190
+E05013776,Fulwell & Hampton Hill,Part-time: 15 hours or less worked,597
+E05013776,Fulwell & Hampton Hill,Part-time: 16 to 30 hours worked,925
+E05013776,Fulwell & Hampton Hill,Full-time: 31 to 48 hours worked,3152
+E05013776,Fulwell & Hampton Hill,Full-time: 49 or more hours worked,900
+E05013777,"Ham, Petersham & Richmond Riverside",Part-time: 15 hours or less worked,602
+E05013777,"Ham, Petersham & Richmond Riverside",Part-time: 16 to 30 hours worked,917
+E05013777,"Ham, Petersham & Richmond Riverside",Full-time: 31 to 48 hours worked,2657
+E05013777,"Ham, Petersham & Richmond Riverside",Full-time: 49 or more hours worked,800
+E05013778,Hampton,Part-time: 15 hours or less worked,528
+E05013778,Hampton,Part-time: 16 to 30 hours worked,844
+E05013778,Hampton,Full-time: 31 to 48 hours worked,2691
+E05013778,Hampton,Full-time: 49 or more hours worked,813
+E05013779,Hampton North,Part-time: 15 hours or less worked,556
+E05013779,Hampton North,Part-time: 16 to 30 hours worked,833
+E05013779,Hampton North,Full-time: 31 to 48 hours worked,2648
+E05013779,Hampton North,Full-time: 49 or more hours worked,595
+E05013780,Hampton Wick & South Teddington,Part-time: 15 hours or less worked,669
+E05013780,Hampton Wick & South Teddington,Part-time: 16 to 30 hours worked,850
+E05013780,Hampton Wick & South Teddington,Full-time: 31 to 48 hours worked,2886
+E05013780,Hampton Wick & South Teddington,Full-time: 49 or more hours worked,911
+E05013781,Heathfield,Part-time: 15 hours or less worked,540
+E05013781,Heathfield,Part-time: 16 to 30 hours worked,929
+E05013781,Heathfield,Full-time: 31 to 48 hours worked,2729
+E05013781,Heathfield,Full-time: 49 or more hours worked,504
+E05013791,Whitton,Part-time: 15 hours or less worked,556
+E05013791,Whitton,Part-time: 16 to 30 hours worked,912
+E05013791,Whitton,Full-time: 31 to 48 hours worked,3049
+E05013791,Whitton,Full-time: 49 or more hours worked,636
+E05013782,Kew,Part-time: 15 hours or less worked,621
+E05013782,Kew,Part-time: 16 to 30 hours worked,734
+E05013782,Kew,Full-time: 31 to 48 hours worked,3409
+E05013782,Kew,Full-time: 49 or more hours worked,1303
+E05013784,North Richmond,Part-time: 15 hours or less worked,561
+E05013784,North Richmond,Part-time: 16 to 30 hours worked,783
+E05013784,North Richmond,Full-time: 31 to 48 hours worked,3250
+E05013784,North Richmond,Full-time: 49 or more hours worked,1037
+E05013783,Mortlake & Barnes Common,Part-time: 15 hours or less worked,672
+E05013783,Mortlake & Barnes Common,Part-time: 16 to 30 hours worked,885
+E05013783,Mortlake & Barnes Common,Full-time: 31 to 48 hours worked,3341
+E05013783,Mortlake & Barnes Common,Full-time: 49 or more hours worked,1311
+E05013785,St Margarets & North Twickenham,Part-time: 15 hours or less worked,623
+E05013785,St Margarets & North Twickenham,Part-time: 16 to 30 hours worked,825
+E05013785,St Margarets & North Twickenham,Full-time: 31 to 48 hours worked,3659
+E05013785,St Margarets & North Twickenham,Full-time: 49 or more hours worked,1233
+E05013789,Twickenham Riverside,Part-time: 15 hours or less worked,621
+E05013789,Twickenham Riverside,Part-time: 16 to 30 hours worked,824
+E05013789,Twickenham Riverside,Full-time: 31 to 48 hours worked,3406
+E05013789,Twickenham Riverside,Full-time: 49 or more hours worked,1168
+E05013786,South Richmond,Part-time: 15 hours or less worked,583
+E05013786,South Richmond,Part-time: 16 to 30 hours worked,710
+E05013786,South Richmond,Full-time: 31 to 48 hours worked,3126
+E05013786,South Richmond,Full-time: 49 or more hours worked,1300
+E05013787,South Twickenham,Part-time: 15 hours or less worked,669
+E05013787,South Twickenham,Part-time: 16 to 30 hours worked,780
+E05013787,South Twickenham,Full-time: 31 to 48 hours worked,2956
+E05013787,South Twickenham,Full-time: 49 or more hours worked,958
+E05013788,Teddington,Part-time: 15 hours or less worked,605
+E05013788,Teddington,Part-time: 16 to 30 hours worked,804
+E05013788,Teddington,Full-time: 31 to 48 hours worked,2960
+E05013788,Teddington,Full-time: 49 or more hours worked,965
+E05013790,West Twickenham,Part-time: 15 hours or less worked,616
+E05013790,West Twickenham,Part-time: 16 to 30 hours worked,882
+E05013790,West Twickenham,Full-time: 31 to 48 hours worked,3231
+E05013790,West Twickenham,Full-time: 49 or more hours worked,810
+E05011115,St. Giles,Part-time: 15 hours or less worked,982
+E05011115,St. Giles,Part-time: 16 to 30 hours worked,1498
+E05011115,St. Giles,Full-time: 31 to 48 hours worked,5325
+E05011115,St. Giles,Full-time: 49 or more hours worked,1153
+E05011110,Peckham,Part-time: 15 hours or less worked,850
+E05011110,Peckham,Part-time: 16 to 30 hours worked,1462
+E05011110,Peckham,Full-time: 31 to 48 hours worked,4333
+E05011110,Peckham,Full-time: 49 or more hours worked,690
+E05011096,Camberwell Green,Part-time: 15 hours or less worked,942
+E05011096,Camberwell Green,Part-time: 16 to 30 hours worked,1488
+E05011096,Camberwell Green,Full-time: 31 to 48 hours worked,4902
+E05011096,Camberwell Green,Full-time: 49 or more hours worked,847
+E05011105,Newington,Part-time: 15 hours or less worked,714
+E05011105,Newington,Part-time: 16 to 30 hours worked,1146
+E05011105,Newington,Full-time: 31 to 48 hours worked,4274
+E05011105,Newington,Full-time: 49 or more hours worked,821
+E05011114,St. George's,Part-time: 15 hours or less worked,452
+E05011114,St. George's,Part-time: 16 to 30 hours worked,559
+E05011114,St. George's,Full-time: 31 to 48 hours worked,2361
+E05011114,St. George's,Full-time: 49 or more hours worked,854
+E05011095,Borough & Bankside,Part-time: 15 hours or less worked,433
+E05011095,Borough & Bankside,Part-time: 16 to 30 hours worked,533
+E05011095,Borough & Bankside,Full-time: 31 to 48 hours worked,2772
+E05011095,Borough & Bankside,Full-time: 49 or more hours worked,1240
+E05011098,Chaucer,Part-time: 15 hours or less worked,825
+E05011098,Chaucer,Part-time: 16 to 30 hours worked,1155
+E05011098,Chaucer,Full-time: 31 to 48 hours worked,4756
+E05011098,Chaucer,Full-time: 49 or more hours worked,1318
+E05011104,London Bridge & West Bermondsey,Part-time: 15 hours or less worked,673
+E05011104,London Bridge & West Bermondsey,Part-time: 16 to 30 hours worked,1008
+E05011104,London Bridge & West Bermondsey,Full-time: 31 to 48 hours worked,5126
+E05011104,London Bridge & West Bermondsey,Full-time: 49 or more hours worked,2144
+E05011099,Dulwich Hill,Part-time: 15 hours or less worked,486
+E05011099,Dulwich Hill,Part-time: 16 to 30 hours worked,831
+E05011099,Dulwich Hill,Full-time: 31 to 48 hours worked,3137
+E05011099,Dulwich Hill,Full-time: 49 or more hours worked,880
+E05011101,Dulwich Wood,Part-time: 15 hours or less worked,558
+E05011101,Dulwich Wood,Part-time: 16 to 30 hours worked,840
+E05011101,Dulwich Wood,Full-time: 31 to 48 hours worked,2905
+E05011101,Dulwich Wood,Full-time: 49 or more hours worked,741
+E05011103,Goose Green,Part-time: 15 hours or less worked,627
+E05011103,Goose Green,Part-time: 16 to 30 hours worked,1092
+E05011103,Goose Green,Full-time: 31 to 48 hours worked,5141
+E05011103,Goose Green,Full-time: 49 or more hours worked,1461
+E05011107,North Walworth,Part-time: 15 hours or less worked,824
+E05011107,North Walworth,Part-time: 16 to 30 hours worked,1220
+E05011107,North Walworth,Full-time: 31 to 48 hours worked,5068
+E05011107,North Walworth,Full-time: 49 or more hours worked,1344
+E05011102,Faraday,Part-time: 15 hours or less worked,805
+E05011102,Faraday,Part-time: 16 to 30 hours worked,1131
+E05011102,Faraday,Full-time: 31 to 48 hours worked,3532
+E05011102,Faraday,Full-time: 49 or more hours worked,576
+E05011109,Old Kent Road,Part-time: 15 hours or less worked,1331
+E05011109,Old Kent Road,Part-time: 16 to 30 hours worked,1778
+E05011109,Old Kent Road,Full-time: 31 to 48 hours worked,5140
+E05011109,Old Kent Road,Full-time: 49 or more hours worked,882
+E05011116,South Bermondsey,Part-time: 15 hours or less worked,823
+E05011116,South Bermondsey,Part-time: 16 to 30 hours worked,1329
+E05011116,South Bermondsey,Full-time: 31 to 48 hours worked,5043
+E05011116,South Bermondsey,Full-time: 49 or more hours worked,1012
+E05011108,Nunhead & Queen's Road,Part-time: 15 hours or less worked,816
+E05011108,Nunhead & Queen's Road,Part-time: 16 to 30 hours worked,1395
+E05011108,Nunhead & Queen's Road,Full-time: 31 to 48 hours worked,4975
+E05011108,Nunhead & Queen's Road,Full-time: 49 or more hours worked,951
+E05011112,Rotherhithe,Part-time: 15 hours or less worked,730
+E05011112,Rotherhithe,Part-time: 16 to 30 hours worked,1168
+E05011112,Rotherhithe,Full-time: 31 to 48 hours worked,5653
+E05011112,Rotherhithe,Full-time: 49 or more hours worked,1362
+E05011111,Peckham Rye,Part-time: 15 hours or less worked,545
+E05011111,Peckham Rye,Part-time: 16 to 30 hours worked,890
+E05011111,Peckham Rye,Full-time: 31 to 48 hours worked,3310
+E05011111,Peckham Rye,Full-time: 49 or more hours worked,746
+E05011106,North Bermondsey,Part-time: 15 hours or less worked,737
+E05011106,North Bermondsey,Part-time: 16 to 30 hours worked,1121
+E05011106,North Bermondsey,Full-time: 31 to 48 hours worked,5367
+E05011106,North Bermondsey,Full-time: 49 or more hours worked,1928
+E05011097,Champion Hill,Part-time: 15 hours or less worked,510
+E05011097,Champion Hill,Part-time: 16 to 30 hours worked,792
+E05011097,Champion Hill,Full-time: 31 to 48 hours worked,3331
+E05011097,Champion Hill,Full-time: 49 or more hours worked,662
+E05011113,Rye Lane,Part-time: 15 hours or less worked,777
+E05011113,Rye Lane,Part-time: 16 to 30 hours worked,1324
+E05011113,Rye Lane,Full-time: 31 to 48 hours worked,4905
+E05011113,Rye Lane,Full-time: 49 or more hours worked,1101
+E05011100,Dulwich Village,Part-time: 15 hours or less worked,539
+E05011100,Dulwich Village,Part-time: 16 to 30 hours worked,755
+E05011100,Dulwich Village,Full-time: 31 to 48 hours worked,2689
+E05011100,Dulwich Village,Full-time: 49 or more hours worked,1140
+E05011117,Surrey Docks,Part-time: 15 hours or less worked,610
+E05011117,Surrey Docks,Part-time: 16 to 30 hours worked,873
+E05011117,Surrey Docks,Full-time: 31 to 48 hours worked,5618
+E05011117,Surrey Docks,Full-time: 49 or more hours worked,1456
+E05013754,Beddington,Part-time: 15 hours or less worked,585
+E05013754,Beddington,Part-time: 16 to 30 hours worked,1043
+E05013754,Beddington,Full-time: 31 to 48 hours worked,3443
+E05013754,Beddington,Full-time: 49 or more hours worked,516
+E05013770,Wallington North,Part-time: 15 hours or less worked,662
+E05013770,Wallington North,Part-time: 16 to 30 hours worked,1085
+E05013770,Wallington North,Full-time: 31 to 48 hours worked,3763
+E05013770,Wallington North,Full-time: 49 or more hours worked,592
+E05013763,South Beddington & Roundshaw,Part-time: 15 hours or less worked,535
+E05013763,South Beddington & Roundshaw,Part-time: 16 to 30 hours worked,944
+E05013763,South Beddington & Roundshaw,Full-time: 31 to 48 hours worked,2826
+E05013763,South Beddington & Roundshaw,Full-time: 49 or more hours worked,477
+E05013771,Wallington South,Part-time: 15 hours or less worked,563
+E05013771,Wallington South,Part-time: 16 to 30 hours worked,989
+E05013771,Wallington South,Full-time: 31 to 48 hours worked,3014
+E05013771,Wallington South,Full-time: 49 or more hours worked,605
+E05013755,Belmont,Part-time: 15 hours or less worked,552
+E05013755,Belmont,Part-time: 16 to 30 hours worked,908
+E05013755,Belmont,Full-time: 31 to 48 hours worked,3469
+E05013755,Belmont,Full-time: 49 or more hours worked,629
+E05013757,Carshalton South & Clockhouse,Part-time: 15 hours or less worked,545
+E05013757,Carshalton South & Clockhouse,Part-time: 16 to 30 hours worked,873
+E05013757,Carshalton South & Clockhouse,Full-time: 31 to 48 hours worked,2864
+E05013757,Carshalton South & Clockhouse,Full-time: 49 or more hours worked,618
+E05013756,Carshalton Central,Part-time: 15 hours or less worked,629
+E05013756,Carshalton Central,Part-time: 16 to 30 hours worked,1036
+E05013756,Carshalton Central,Full-time: 31 to 48 hours worked,3679
+E05013756,Carshalton Central,Full-time: 49 or more hours worked,696
+E05013765,Sutton Central,Part-time: 15 hours or less worked,624
+E05013765,Sutton Central,Part-time: 16 to 30 hours worked,1067
+E05013765,Sutton Central,Full-time: 31 to 48 hours worked,4138
+E05013765,Sutton Central,Full-time: 49 or more hours worked,642
+E05013758,Cheam,Part-time: 15 hours or less worked,642
+E05013758,Cheam,Part-time: 16 to 30 hours worked,911
+E05013758,Cheam,Full-time: 31 to 48 hours worked,2865
+E05013758,Cheam,Full-time: 49 or more hours worked,709
+E05013773,Worcester Park South,Part-time: 15 hours or less worked,373
+E05013773,Worcester Park South,Part-time: 16 to 30 hours worked,640
+E05013773,Worcester Park South,Full-time: 31 to 48 hours worked,2160
+E05013773,Worcester Park South,Full-time: 49 or more hours worked,423
+E05013772,Worcester Park North,Part-time: 15 hours or less worked,397
+E05013772,Worcester Park North,Part-time: 16 to 30 hours worked,713
+E05013772,Worcester Park North,Full-time: 31 to 48 hours worked,2652
+E05013772,Worcester Park North,Full-time: 49 or more hours worked,485
+E05013760,North Cheam,Part-time: 15 hours or less worked,617
+E05013760,North Cheam,Part-time: 16 to 30 hours worked,1152
+E05013760,North Cheam,Full-time: 31 to 48 hours worked,3575
+E05013760,North Cheam,Full-time: 49 or more hours worked,612
+E05013762,St Helier West,Part-time: 15 hours or less worked,633
+E05013762,St Helier West,Part-time: 16 to 30 hours worked,1145
+E05013762,St Helier West,Full-time: 31 to 48 hours worked,3587
+E05013762,St Helier West,Full-time: 49 or more hours worked,514
+E05013761,St Helier East,Part-time: 15 hours or less worked,378
+E05013761,St Helier East,Part-time: 16 to 30 hours worked,799
+E05013761,St Helier East,Full-time: 31 to 48 hours worked,2408
+E05013761,St Helier East,Full-time: 49 or more hours worked,303
+E05013769,The Wrythe,Part-time: 15 hours or less worked,503
+E05013769,The Wrythe,Part-time: 16 to 30 hours worked,951
+E05013769,The Wrythe,Full-time: 31 to 48 hours worked,3449
+E05013769,The Wrythe,Full-time: 49 or more hours worked,529
+E05013764,Stonecot,Part-time: 15 hours or less worked,435
+E05013764,Stonecot,Part-time: 16 to 30 hours worked,722
+E05013764,Stonecot,Full-time: 31 to 48 hours worked,2381
+E05013764,Stonecot,Full-time: 49 or more hours worked,364
+E05013768,Sutton West & East Cheam,Part-time: 15 hours or less worked,589
+E05013768,Sutton West & East Cheam,Part-time: 16 to 30 hours worked,1013
+E05013768,Sutton West & East Cheam,Full-time: 31 to 48 hours worked,3830
+E05013768,Sutton West & East Cheam,Full-time: 49 or more hours worked,616
+E05013766,Sutton North,Part-time: 15 hours or less worked,577
+E05013766,Sutton North,Part-time: 16 to 30 hours worked,1048
+E05013766,Sutton North,Full-time: 31 to 48 hours worked,3343
+E05013766,Sutton North,Full-time: 49 or more hours worked,520
+E05013767,Sutton South,Part-time: 15 hours or less worked,547
+E05013767,Sutton South,Part-time: 16 to 30 hours worked,903
+E05013767,Sutton South,Full-time: 31 to 48 hours worked,4039
+E05013767,Sutton South,Full-time: 49 or more hours worked,688
+E05013759,Hackbridge,Part-time: 15 hours or less worked,316
+E05013759,Hackbridge,Part-time: 16 to 30 hours worked,574
+E05013759,Hackbridge,Full-time: 31 to 48 hours worked,2633
+E05013759,Hackbridge,Full-time: 49 or more hours worked,368
+E05009331,St. Peter's,Part-time: 15 hours or less worked,1026
+E05009331,St. Peter's,Part-time: 16 to 30 hours worked,1766
+E05009331,St. Peter's,Full-time: 31 to 48 hours worked,5784
+E05009331,St. Peter's,Full-time: 49 or more hours worked,1268
+E05009317,Bethnal Green,Part-time: 15 hours or less worked,1184
+E05009317,Bethnal Green,Part-time: 16 to 30 hours worked,1893
+E05009317,Bethnal Green,Full-time: 31 to 48 hours worked,5459
+E05009317,Bethnal Green,Full-time: 49 or more hours worked,1117
+E05009333,Spitalfields & Banglatown,Part-time: 15 hours or less worked,721
+E05009333,Spitalfields & Banglatown,Part-time: 16 to 30 hours worked,991
+E05009333,Spitalfields & Banglatown,Full-time: 31 to 48 hours worked,3535
+E05009333,Spitalfields & Banglatown,Full-time: 49 or more hours worked,1176
+E05009318,Blackwall & Cubitt Town,Part-time: 15 hours or less worked,879
+E05009324,Island Gardens,Part-time: 15 hours or less worked,731
+E05009318,Blackwall & Cubitt Town,Part-time: 16 to 30 hours worked,1436
+E05009324,Island Gardens,Part-time: 16 to 30 hours worked,1086
+E05009318,Blackwall & Cubitt Town,Full-time: 31 to 48 hours worked,7792
+E05009324,Island Gardens,Full-time: 31 to 48 hours worked,5042
+E05009318,Blackwall & Cubitt Town,Full-time: 49 or more hours worked,2691
+E05009324,Island Gardens,Full-time: 49 or more hours worked,1157
+E05009328,Poplar,Part-time: 15 hours or less worked,400
+E05009328,Poplar,Part-time: 16 to 30 hours worked,741
+E05009328,Poplar,Full-time: 31 to 48 hours worked,1848
+E05009328,Poplar,Full-time: 49 or more hours worked,392
+E05009319,Bow East,Part-time: 15 hours or less worked,922
+E05009319,Bow East,Part-time: 16 to 30 hours worked,1429
+E05009319,Bow East,Full-time: 31 to 48 hours worked,6935
+E05009319,Bow East,Full-time: 49 or more hours worked,1594
+E05009320,Bow West,Part-time: 15 hours or less worked,726
+E05009320,Bow West,Part-time: 16 to 30 hours worked,1142
+E05009320,Bow West,Full-time: 31 to 48 hours worked,4327
+E05009320,Bow West,Full-time: 49 or more hours worked,1055
+E05009322,Bromley South,Part-time: 15 hours or less worked,714
+E05009322,Bromley South,Part-time: 16 to 30 hours worked,1220
+E05009322,Bromley South,Full-time: 31 to 48 hours worked,3932
+E05009322,Bromley South,Full-time: 49 or more hours worked,738
+E05009321,Bromley North,Part-time: 15 hours or less worked,618
+E05009321,Bromley North,Part-time: 16 to 30 hours worked,1112
+E05009321,Bromley North,Full-time: 31 to 48 hours worked,2974
+E05009321,Bromley North,Full-time: 49 or more hours worked,561
+E05009325,Lansbury,Part-time: 15 hours or less worked,1098
+E05009325,Lansbury,Part-time: 16 to 30 hours worked,1832
+E05009325,Lansbury,Full-time: 31 to 48 hours worked,5519
+E05009325,Lansbury,Full-time: 49 or more hours worked,978
+E05009326,Limehouse,Part-time: 15 hours or less worked,349
+E05009326,Limehouse,Part-time: 16 to 30 hours worked,472
+E05009326,Limehouse,Full-time: 31 to 48 hours worked,2627
+E05009326,Limehouse,Full-time: 49 or more hours worked,827
+E05009327,Mile End,Part-time: 15 hours or less worked,1125
+E05009327,Mile End,Part-time: 16 to 30 hours worked,1915
+E05009327,Mile End,Full-time: 31 to 48 hours worked,5967
+E05009327,Mile End,Full-time: 49 or more hours worked,1249
+E05009329,St. Dunstan's,Part-time: 15 hours or less worked,773
+E05009329,St. Dunstan's,Part-time: 16 to 30 hours worked,1246
+E05009329,St. Dunstan's,Full-time: 31 to 48 hours worked,3275
+E05009329,St. Dunstan's,Full-time: 49 or more hours worked,606
+E05009323,Canary Wharf,Part-time: 15 hours or less worked,747
+E05009323,Canary Wharf,Part-time: 16 to 30 hours worked,1132
+E05009323,Canary Wharf,Full-time: 31 to 48 hours worked,6241
+E05009323,Canary Wharf,Full-time: 49 or more hours worked,2512
+E05009334,Stepney Green,Part-time: 15 hours or less worked,743
+E05009334,Stepney Green,Part-time: 16 to 30 hours worked,1268
+E05009334,Stepney Green,Full-time: 31 to 48 hours worked,2694
+E05009334,Stepney Green,Full-time: 49 or more hours worked,530
+E05009336,Whitechapel,Part-time: 15 hours or less worked,978
+E05009336,Whitechapel,Part-time: 16 to 30 hours worked,1420
+E05009336,Whitechapel,Full-time: 31 to 48 hours worked,5299
+E05009336,Whitechapel,Full-time: 49 or more hours worked,1888
+E05009330,St. Katharine's & Wapping,Part-time: 15 hours or less worked,527
+E05009330,St. Katharine's & Wapping,Part-time: 16 to 30 hours worked,776
+E05009330,St. Katharine's & Wapping,Full-time: 31 to 48 hours worked,4680
+E05009330,St. Katharine's & Wapping,Full-time: 49 or more hours worked,1817
+E05009332,Shadwell,Part-time: 15 hours or less worked,687
+E05009332,Shadwell,Part-time: 16 to 30 hours worked,1318
+E05009332,Shadwell,Full-time: 31 to 48 hours worked,2804
+E05009332,Shadwell,Full-time: 49 or more hours worked,511
+E05009335,Weavers,Part-time: 15 hours or less worked,694
+E05009335,Weavers,Part-time: 16 to 30 hours worked,1045
+E05009335,Weavers,Full-time: 31 to 48 hours worked,3930
+E05009335,Weavers,Full-time: 49 or more hours worked,1220
+E05013882,Cann Hall,Part-time: 15 hours or less worked,957
+E05013882,Cann Hall,Part-time: 16 to 30 hours worked,1597
+E05013882,Cann Hall,Full-time: 31 to 48 hours worked,4645
+E05013882,Cann Hall,Full-time: 49 or more hours worked,816
+E05013897,Leytonstone,Part-time: 15 hours or less worked,726
+E05013897,Leytonstone,Part-time: 16 to 30 hours worked,1109
+E05013897,Leytonstone,Full-time: 31 to 48 hours worked,4251
+E05013897,Leytonstone,Full-time: 49 or more hours worked,807
+E05013883,Cathall,Part-time: 15 hours or less worked,617
+E05013883,Cathall,Part-time: 16 to 30 hours worked,1112
+E05013883,Cathall,Full-time: 31 to 48 hours worked,3347
+E05013883,Cathall,Full-time: 49 or more hours worked,483
+E05013884,Chapel End,Part-time: 15 hours or less worked,738
+E05013884,Chapel End,Part-time: 16 to 30 hours worked,1398
+E05013884,Chapel End,Full-time: 31 to 48 hours worked,4423
+E05013884,Chapel End,Full-time: 49 or more hours worked,746
+E05013889,Hale End & Highams Park South,Part-time: 15 hours or less worked,477
+E05013889,Hale End & Highams Park South,Part-time: 16 to 30 hours worked,839
+E05013889,Hale End & Highams Park South,Full-time: 31 to 48 hours worked,2867
+E05013889,Hale End & Highams Park South,Full-time: 49 or more hours worked,500
+E05013894,Larkswood,Part-time: 15 hours or less worked,702
+E05013894,Larkswood,Part-time: 16 to 30 hours worked,1130
+E05013894,Larkswood,Full-time: 31 to 48 hours worked,3832
+E05013894,Larkswood,Full-time: 49 or more hours worked,652
+E05013902,William Morris,Part-time: 15 hours or less worked,744
+E05013902,William Morris,Part-time: 16 to 30 hours worked,1398
+E05013902,William Morris,Full-time: 31 to 48 hours worked,4881
+E05013902,William Morris,Full-time: 49 or more hours worked,804
+E05013885,Chingford Green,Part-time: 15 hours or less worked,681
+E05013885,Chingford Green,Part-time: 16 to 30 hours worked,967
+E05013885,Chingford Green,Full-time: 31 to 48 hours worked,3222
+E05013885,Chingford Green,Full-time: 49 or more hours worked,603
+E05013886,Endlebury,Part-time: 15 hours or less worked,511
+E05013886,Endlebury,Part-time: 16 to 30 hours worked,785
+E05013886,Endlebury,Full-time: 31 to 48 hours worked,2474
+E05013886,Endlebury,Full-time: 49 or more hours worked,457
+E05013901,Valley,Part-time: 15 hours or less worked,812
+E05013901,Valley,Part-time: 16 to 30 hours worked,1432
+E05013901,Valley,Full-time: 31 to 48 hours worked,3772
+E05013901,Valley,Full-time: 49 or more hours worked,654
+E05013887,Forest,Part-time: 15 hours or less worked,885
+E05013887,Forest,Part-time: 16 to 30 hours worked,1500
+E05013887,Forest,Full-time: 31 to 48 hours worked,4510
+E05013887,Forest,Full-time: 49 or more hours worked,756
+E05013893,Hoe Street,Part-time: 15 hours or less worked,732
+E05013893,Hoe Street,Part-time: 16 to 30 hours worked,1304
+E05013893,Hoe Street,Full-time: 31 to 48 hours worked,4392
+E05013893,Hoe Street,Full-time: 49 or more hours worked,845
+E05013888,Grove Green,Part-time: 15 hours or less worked,904
+E05013888,Grove Green,Part-time: 16 to 30 hours worked,1296
+E05013888,Grove Green,Full-time: 31 to 48 hours worked,5189
+E05013888,Grove Green,Full-time: 49 or more hours worked,1042
+E05013900,Upper Walthamstow,Part-time: 15 hours or less worked,427
+E05013900,Upper Walthamstow,Part-time: 16 to 30 hours worked,802
+E05013900,Upper Walthamstow,Full-time: 31 to 48 hours worked,2377
+E05013900,Upper Walthamstow,Full-time: 49 or more hours worked,453
+E05013890,Hatch Lane & Highams Park North,Part-time: 15 hours or less worked,696
+E05013890,Hatch Lane & Highams Park North,Part-time: 16 to 30 hours worked,1136
+E05013890,Hatch Lane & Highams Park North,Full-time: 31 to 48 hours worked,3765
+E05013890,Hatch Lane & Highams Park North,Full-time: 49 or more hours worked,726
+E05013899,St James,Part-time: 15 hours or less worked,614
+E05013899,St James,Part-time: 16 to 30 hours worked,1117
+E05013899,St James,Full-time: 31 to 48 hours worked,4539
+E05013899,St James,Full-time: 49 or more hours worked,792
+E05013891,High Street,Part-time: 15 hours or less worked,623
+E05013891,High Street,Part-time: 16 to 30 hours worked,1004
+E05013891,High Street,Full-time: 31 to 48 hours worked,3659
+E05013891,High Street,Full-time: 49 or more hours worked,657
+E05013892,Higham Hill,Part-time: 15 hours or less worked,639
+E05013892,Higham Hill,Part-time: 16 to 30 hours worked,1278
+E05013892,Higham Hill,Full-time: 31 to 48 hours worked,4059
+E05013892,Higham Hill,Full-time: 49 or more hours worked,625
+E05013898,Markhouse,Part-time: 15 hours or less worked,545
+E05013898,Markhouse,Part-time: 16 to 30 hours worked,944
+E05013898,Markhouse,Full-time: 31 to 48 hours worked,3055
+E05013898,Markhouse,Full-time: 49 or more hours worked,554
+E05013895,Lea Bridge,Part-time: 15 hours or less worked,872
+E05013895,Lea Bridge,Part-time: 16 to 30 hours worked,1367
+E05013895,Lea Bridge,Full-time: 31 to 48 hours worked,4579
+E05013895,Lea Bridge,Full-time: 49 or more hours worked,742
+E05013896,Leyton,Part-time: 15 hours or less worked,699
+E05013896,Leyton,Part-time: 16 to 30 hours worked,1268
+E05013896,Leyton,Full-time: 31 to 48 hours worked,4127
+E05013896,Leyton,Full-time: 49 or more hours worked,655
+E05013903,Wood Street,Part-time: 15 hours or less worked,476
+E05013903,Wood Street,Part-time: 16 to 30 hours worked,872
+E05013903,Wood Street,Full-time: 31 to 48 hours worked,2781
+E05013903,Wood Street,Full-time: 49 or more hours worked,555
+E05014009,Balham,Part-time: 15 hours or less worked,696
+E05014009,Balham,Part-time: 16 to 30 hours worked,964
+E05014009,Balham,Full-time: 31 to 48 hours worked,6941
+E05014009,Balham,Full-time: 49 or more hours worked,2553
+E05014016,Northcote,Part-time: 15 hours or less worked,611
+E05014016,Northcote,Part-time: 16 to 30 hours worked,742
+E05014016,Northcote,Full-time: 31 to 48 hours worked,3751
+E05014016,Northcote,Full-time: 49 or more hours worked,2177
+E05014023,Tooting Bec,Part-time: 15 hours or less worked,777
+E05014023,Tooting Bec,Part-time: 16 to 30 hours worked,1224
+E05014023,Tooting Bec,Full-time: 31 to 48 hours worked,6569
+E05014023,Tooting Bec,Full-time: 49 or more hours worked,1360
+E05014020,South Balham,Part-time: 15 hours or less worked,405
+E05014020,South Balham,Part-time: 16 to 30 hours worked,601
+E05014020,South Balham,Full-time: 31 to 48 hours worked,4240
+E05014020,South Balham,Full-time: 49 or more hours worked,1274
+E05014027,Wandsworth Common,Part-time: 15 hours or less worked,728
+E05014027,Wandsworth Common,Part-time: 16 to 30 hours worked,1062
+E05014027,Wandsworth Common,Full-time: 31 to 48 hours worked,5794
+E05014027,Wandsworth Common,Full-time: 49 or more hours worked,1836
+E05014026,Wandle,Part-time: 15 hours or less worked,443
+E05014026,Wandle,Part-time: 16 to 30 hours worked,760
+E05014026,Wandle,Full-time: 31 to 48 hours worked,4175
+E05014026,Wandle,Full-time: 49 or more hours worked,1266
+E05014024,Tooting Broadway,Part-time: 15 hours or less worked,938
+E05014024,Tooting Broadway,Part-time: 16 to 30 hours worked,1378
+E05014024,Tooting Broadway,Full-time: 31 to 48 hours worked,6505
+E05014024,Tooting Broadway,Full-time: 49 or more hours worked,1322
+E05014028,Wandsworth Town,Part-time: 15 hours or less worked,809
+E05014028,Wandsworth Town,Part-time: 16 to 30 hours worked,1148
+E05014028,Wandsworth Town,Full-time: 31 to 48 hours worked,7511
+E05014028,Wandsworth Town,Full-time: 49 or more hours worked,2266
+E05014011,East Putney,Part-time: 15 hours or less worked,779
+E05014030,West Putney,Part-time: 15 hours or less worked,866
+E05014011,East Putney,Part-time: 16 to 30 hours worked,1126
+E05014030,West Putney,Part-time: 16 to 30 hours worked,1278
+E05014011,East Putney,Full-time: 31 to 48 hours worked,6643
+E05014030,West Putney,Full-time: 31 to 48 hours worked,5275
+E05014011,East Putney,Full-time: 49 or more hours worked,2092
+E05014030,West Putney,Full-time: 49 or more hours worked,1624
+E05014018,St Mary's,Part-time: 15 hours or less worked,687
+E05014018,St Mary's,Part-time: 16 to 30 hours worked,895
+E05014018,St Mary's,Full-time: 31 to 48 hours worked,5750
+E05014018,St Mary's,Full-time: 49 or more hours worked,1898
+E05014012,Falconbrook,Part-time: 15 hours or less worked,570
+E05014012,Falconbrook,Part-time: 16 to 30 hours worked,967
+E05014012,Falconbrook,Full-time: 31 to 48 hours worked,3981
+E05014012,Falconbrook,Full-time: 49 or more hours worked,808
+E05014013,Furzedown,Part-time: 15 hours or less worked,994
+E05014013,Furzedown,Part-time: 16 to 30 hours worked,1620
+E05014013,Furzedown,Full-time: 31 to 48 hours worked,5245
+E05014013,Furzedown,Full-time: 49 or more hours worked,1191
+E05014010,Battersea Park,Part-time: 15 hours or less worked,1015
+E05014010,Battersea Park,Part-time: 16 to 30 hours worked,1481
+E05014010,Battersea Park,Full-time: 31 to 48 hours worked,6071
+E05014010,Battersea Park,Full-time: 49 or more hours worked,1996
+E05014019,Shaftesbury & Queenstown,Part-time: 15 hours or less worked,744
+E05014019,Shaftesbury & Queenstown,Part-time: 16 to 30 hours worked,1116
+E05014019,Shaftesbury & Queenstown,Full-time: 31 to 48 hours worked,5735
+E05014019,Shaftesbury & Queenstown,Full-time: 49 or more hours worked,1583
+E05014025,Trinity,Part-time: 15 hours or less worked,459
+E05014025,Trinity,Part-time: 16 to 30 hours worked,684
+E05014025,Trinity,Full-time: 31 to 48 hours worked,4244
+E05014025,Trinity,Full-time: 49 or more hours worked,1448
+E05014014,Lavender,Part-time: 15 hours or less worked,474
+E05014014,Lavender,Part-time: 16 to 30 hours worked,664
+E05014014,Lavender,Full-time: 31 to 48 hours worked,5573
+E05014014,Lavender,Full-time: 49 or more hours worked,2130
+E05014017,Roehampton,Part-time: 15 hours or less worked,1190
+E05014017,Roehampton,Part-time: 16 to 30 hours worked,1864
+E05014017,Roehampton,Full-time: 31 to 48 hours worked,4293
+E05014017,Roehampton,Full-time: 49 or more hours worked,918
+E05014021,Southfields,Part-time: 15 hours or less worked,540
+E05014021,Southfields,Part-time: 16 to 30 hours worked,845
+E05014021,Southfields,Full-time: 31 to 48 hours worked,4555
+E05014021,Southfields,Full-time: 49 or more hours worked,1570
+E05014022,Thamesfield,Part-time: 15 hours or less worked,700
+E05014022,Thamesfield,Part-time: 16 to 30 hours worked,1034
+E05014022,Thamesfield,Full-time: 31 to 48 hours worked,6124
+E05014022,Thamesfield,Full-time: 49 or more hours worked,2303
+E05014029,West Hill,Part-time: 15 hours or less worked,811
+E05014029,West Hill,Part-time: 16 to 30 hours worked,1431
+E05014029,West Hill,Full-time: 31 to 48 hours worked,5071
+E05014029,West Hill,Full-time: 49 or more hours worked,1252
+E05013792,Abbey Road,Part-time: 15 hours or less worked,596
+E05013792,Abbey Road,Part-time: 16 to 30 hours worked,718
+E05013792,Abbey Road,Full-time: 31 to 48 hours worked,3165
+E05013792,Abbey Road,Full-time: 49 or more hours worked,1857
+E05013805,Regent's Park,Part-time: 15 hours or less worked,584
+E05013805,Regent's Park,Part-time: 16 to 30 hours worked,708
+E05013805,Regent's Park,Full-time: 31 to 48 hours worked,2842
+E05013805,Regent's Park,Full-time: 49 or more hours worked,1643
+E05013793,Bayswater,Part-time: 15 hours or less worked,669
+E05013793,Bayswater,Part-time: 16 to 30 hours worked,813
+E05013793,Bayswater,Full-time: 31 to 48 hours worked,3563
+E05013793,Bayswater,Full-time: 49 or more hours worked,1908
+E05013796,Hyde Park,Part-time: 15 hours or less worked,514
+E05013801,Marylebone,Part-time: 15 hours or less worked,681
+E05013796,Hyde Park,Part-time: 16 to 30 hours worked,564
+E05013801,Marylebone,Part-time: 16 to 30 hours worked,714
+E05013796,Hyde Park,Full-time: 31 to 48 hours worked,2479
+E05013801,Marylebone,Full-time: 31 to 48 hours worked,3105
+E05013796,Hyde Park,Full-time: 49 or more hours worked,1317
+E05013801,Marylebone,Full-time: 49 or more hours worked,2542
+E05013808,West End,Part-time: 15 hours or less worked,649
+E05013808,West End,Part-time: 16 to 30 hours worked,698
+E05013808,West End,Full-time: 31 to 48 hours worked,2925
+E05013808,West End,Full-time: 49 or more hours worked,1632
+E05013797,Knightsbridge & Belgravia,Part-time: 15 hours or less worked,552
+E05013797,Knightsbridge & Belgravia,Part-time: 16 to 30 hours worked,678
+E05013797,Knightsbridge & Belgravia,Full-time: 31 to 48 hours worked,2353
+E05013797,Knightsbridge & Belgravia,Full-time: 49 or more hours worked,1521
+E05013803,Pimlico South,Part-time: 15 hours or less worked,534
+E05013803,Pimlico South,Part-time: 16 to 30 hours worked,812
+E05013803,Pimlico South,Full-time: 31 to 48 hours worked,2789
+E05013803,Pimlico South,Full-time: 49 or more hours worked,973
+E05013794,Church Street,Part-time: 15 hours or less worked,608
+E05013794,Church Street,Part-time: 16 to 30 hours worked,943
+E05013794,Church Street,Full-time: 31 to 48 hours worked,2165
+E05013794,Church Street,Full-time: 49 or more hours worked,487
+E05013795,Harrow Road,Part-time: 15 hours or less worked,608
+E05013795,Harrow Road,Part-time: 16 to 30 hours worked,950
+E05013795,Harrow Road,Full-time: 31 to 48 hours worked,3187
+E05013795,Harrow Road,Full-time: 49 or more hours worked,877
+E05013800,Maida Vale,Part-time: 15 hours or less worked,613
+E05013800,Maida Vale,Part-time: 16 to 30 hours worked,828
+E05013800,Maida Vale,Full-time: 31 to 48 hours worked,3342
+E05013800,Maida Vale,Full-time: 49 or more hours worked,1356
+E05013798,Lancaster Gate,Part-time: 15 hours or less worked,626
+E05013798,Lancaster Gate,Part-time: 16 to 30 hours worked,678
+E05013798,Lancaster Gate,Full-time: 31 to 48 hours worked,3441
+E05013798,Lancaster Gate,Full-time: 49 or more hours worked,1641
+E05013799,Little Venice,Part-time: 15 hours or less worked,637
+E05013799,Little Venice,Part-time: 16 to 30 hours worked,729
+E05013799,Little Venice,Full-time: 31 to 48 hours worked,2610
+E05013799,Little Venice,Full-time: 49 or more hours worked,1385
+E05013804,Queen's Park,Part-time: 15 hours or less worked,654
+E05013804,Queen's Park,Part-time: 16 to 30 hours worked,1101
+E05013804,Queen's Park,Full-time: 31 to 48 hours worked,3116
+E05013804,Queen's Park,Full-time: 49 or more hours worked,719
+E05013806,St James's,Part-time: 15 hours or less worked,464
+E05013806,St James's,Part-time: 16 to 30 hours worked,634
+E05013806,St James's,Full-time: 31 to 48 hours worked,2541
+E05013806,St James's,Full-time: 49 or more hours worked,1677
+E05013807,Vincent Square,Part-time: 15 hours or less worked,546
+E05013807,Vincent Square,Part-time: 16 to 30 hours worked,752
+E05013807,Vincent Square,Full-time: 31 to 48 hours worked,2773
+E05013807,Vincent Square,Full-time: 49 or more hours worked,1264
+E05013802,Pimlico North,Part-time: 15 hours or less worked,507
+E05013802,Pimlico North,Part-time: 16 to 30 hours worked,655
+E05013802,Pimlico North,Full-time: 31 to 48 hours worked,2830
+E05013802,Pimlico North,Full-time: 49 or more hours worked,1706
+E05013809,Westbourne,Part-time: 15 hours or less worked,582
+E05013809,Westbourne,Part-time: 16 to 30 hours worked,1000
+E05013809,Westbourne,Full-time: 31 to 48 hours worked,2660
+E05013809,Westbourne,Full-time: 49 or more hours worked,724
+E05013925,Stratford Olympic Park,Part-time: 15 hours or less worked,415
+E05013925,Stratford Olympic Park,Part-time: 16 to 30 hours worked,666
+E05013925,Stratford Olympic Park,Full-time: 31 to 48 hours worked,4980
+E05013925,Stratford Olympic Park,Full-time: 49 or more hours worked,1390
+E05014015,Nine Elms,Part-time: 15 hours or less worked,239
+E05014015,Nine Elms,Part-time: 16 to 30 hours worked,291
+E05014015,Nine Elms,Full-time: 31 to 48 hours worked,1951
+E05014015,Nine Elms,Full-time: 49 or more hours worked,969

@@ -1,0 +1,397 @@
+lad22cd,category,count_21,count_11,change
+E09000001,Bicycle,191,252,-61
+E09000001,"Bus, minibus or coach",132,268,-136
+E09000001,Driving a car or van,124,145,-21
+E09000001,"Motorcycle, scooter or moped",13,25,-12
+E09000001,Not in employment or aged 15 years and under,3232,1560,1672
+E09000001,On foot,758,2297,-1539
+E09000001,Other method of travel to work,54,68,-14
+E09000001,Passenger in a car or van,13,12,1
+E09000001,Taxi,21,44,-23
+E09000001,Train,95,274,-179
+E09000001,"Underground, metro, light rail, tram",349,926,-577
+E09000001,Work mainly at or from home,3602,436,3166
+E09000002,Bicycle,1218,1084,134
+E09000002,"Bus, minibus or coach",9690,9504,186
+E09000002,Driving a car or van,30732,28763,1969
+E09000002,"Motorcycle, scooter or moped",599,636,-37
+E09000002,Not in employment or aged 15 years and under,124280,52351,71929
+E09000002,On foot,4464,4756,-292
+E09000002,Other method of travel to work,1416,434,982
+E09000002,Passenger in a car or van,2392,2143,249
+E09000002,Taxi,542,381,161
+E09000002,Train,8660,9349,-689
+E09000002,"Underground, metro, light rail, tram",15301,16488,-1187
+E09000002,Work mainly at or from home,19572,1679,17893
+E09000003,Bicycle,2162,2473,-311
+E09000003,"Bus, minibus or coach",15090,20351,-5261
+E09000003,Driving a car or van,46797,62228,-15431
+E09000003,"Motorcycle, scooter or moped",1197,1849,-652
+E09000003,Not in employment or aged 15 years and under,203170,87785,115385
+E09000003,On foot,9361,10647,-1286
+E09000003,Other method of travel to work,2451,1339,1112
+E09000003,Passenger in a car or van,3169,3593,-424
+E09000003,Taxi,872,738,134
+E09000003,Train,4690,10065,-5375
+E09000003,"Underground, metro, light rail, tram",20758,44774,-24016
+E09000003,Work mainly at or from home,79628,12601,67027
+E09000004,Bicycle,995,1295,-300
+E09000004,"Bus, minibus or coach",7763,9762,-1999
+E09000004,Driving a car or van,42503,52068,-9565
+E09000004,"Motorcycle, scooter or moped",767,1457,-690
+E09000004,Not in employment or aged 15 years and under,128489,55755,72734
+E09000004,On foot,5258,6120,-862
+E09000004,Other method of travel to work,1396,621,775
+E09000004,Passenger in a car or van,2919,3389,-470
+E09000004,Taxi,688,940,-252
+E09000004,Train,12164,27680,-15516
+E09000004,"Underground, metro, light rail, tram",2838,2830,8
+E09000004,Work mainly at or from home,40692,3997,36695
+E09000005,Bicycle,4074,3859,215
+E09000005,"Bus, minibus or coach",21439,26928,-5489
+E09000005,Driving a car or van,34917,40720,-5803
+E09000005,"Motorcycle, scooter or moped",1801,1574,227
+E09000005,Not in employment or aged 15 years and under,178819,86265,92554
+E09000005,On foot,11000,10704,296
+E09000005,Other method of travel to work,2206,991,1215
+E09000005,Passenger in a car or van,3220,2915,305
+E09000005,Taxi,886,421,465
+E09000005,Train,8267,10492,-2225
+E09000005,"Underground, metro, light rail, tram",24200,42795,-18595
+E09000005,Work mainly at or from home,48987,6062,42925
+E09000006,Bicycle,1784,2254,-470
+E09000006,"Bus, minibus or coach",8069,11355,-3286
+E09000006,Driving a car or van,45304,60948,-15644
+E09000006,"Motorcycle, scooter or moped",966,1681,-715
+E09000006,Not in employment or aged 15 years and under,167869,71171,96698
+E09000006,On foot,7029,9574,-2545
+E09000006,Other method of travel to work,1654,894,760
+E09000006,Passenger in a car or van,2852,3378,-526
+E09000006,Taxi,593,786,-193
+E09000006,Train,15214,46672,-31458
+E09000006,"Underground, metro, light rail, tram",3146,5026,-1880
+E09000006,Work mainly at or from home,75511,8800,66711
+E09000007,Bicycle,3993,7072,-3079
+E09000007,"Bus, minibus or coach",6532,16076,-9544
+E09000007,Driving a car or van,7074,10904,-3830
+E09000007,"Motorcycle, scooter or moped",546,1237,-691
+E09000007,Not in employment or aged 15 years and under,107625,64867,42758
+E09000007,On foot,10620,17641,-7021
+E09000007,Other method of travel to work,1190,1095,95
+E09000007,Passenger in a car or van,510,793,-283
+E09000007,Taxi,733,770,-37
+E09000007,Train,2852,7089,-4237
+E09000007,"Underground, metro, light rail, tram",10351,37305,-26954
+E09000007,Work mainly at or from home,58110,8984,49126
+E09000008,Bicycle,2422,2172,250
+E09000008,"Bus, minibus or coach",19903,24916,-5013
+E09000008,Driving a car or van,52381,63568,-11187
+E09000008,"Motorcycle, scooter or moped",1454,1535,-81
+E09000008,Not in employment or aged 15 years and under,201312,90061,111251
+E09000008,On foot,10018,13313,-3295
+E09000008,Other method of travel to work,2489,1212,1277
+E09000008,Passenger in a car or van,3507,4057,-550
+E09000008,Taxi,884,611,273
+E09000008,Train,17229,42531,-25302
+E09000008,"Underground, metro, light rail, tram",8146,11367,-3221
+E09000008,Work mainly at or from home,70976,7705,63271
+E09000009,Bicycle,5026,4944,82
+E09000009,"Bus, minibus or coach",18840,23363,-4523
+E09000009,Driving a car or van,42941,54991,-12050
+E09000009,"Motorcycle, scooter or moped",1531,1714,-183
+E09000009,Not in employment or aged 15 years and under,192088,87944,104144
+E09000009,On foot,11236,12005,-769
+E09000009,Other method of travel to work,2365,1077,1288
+E09000009,Passenger in a car or van,3082,3228,-146
+E09000009,Taxi,761,396,365
+E09000009,Train,5788,10117,-4329
+E09000009,"Underground, metro, light rail, tram",20319,45437,-25118
+E09000009,Work mainly at or from home,63137,7548,55589
+E09000010,Bicycle,2040,1957,83
+E09000010,"Bus, minibus or coach",15289,18367,-3078
+E09000010,Driving a car or van,46721,58378,-11657
+E09000010,"Motorcycle, scooter or moped",788,974,-186
+E09000010,Not in employment or aged 15 years and under,186120,86402,99718
+E09000010,On foot,8213,8982,-769
+E09000010,Other method of travel to work,2177,979,1198
+E09000010,Passenger in a car or van,3146,3510,-364
+E09000010,Taxi,819,739,80
+E09000010,Train,7138,16413,-9275
+E09000010,"Underground, metro, light rail, tram",12557,21369,-8812
+E09000010,Work mainly at or from home,44977,5954,39023
+E09000011,Bicycle,2688,2738,-50
+E09000011,"Bus, minibus or coach",15318,19052,-3734
+E09000011,Driving a car or van,28623,32664,-4041
+E09000011,"Motorcycle, scooter or moped",882,1264,-382
+E09000011,Not in employment or aged 15 years and under,146134,68901,77233
+E09000011,On foot,7001,7705,-704
+E09000011,Other method of travel to work,1660,1106,554
+E09000011,Passenger in a car or van,2160,2268,-108
+E09000011,Taxi,635,554,81
+E09000011,Train,12376,27721,-15345
+E09000011,"Underground, metro, light rail, tram",13632,18076,-4444
+E09000011,Work mainly at or from home,57959,4673,53286
+E09000012,Bicycle,10011,17312,-7301
+E09000012,"Bus, minibus or coach",13995,31604,-17609
+E09000012,Driving a car or van,11646,13382,-1736
+E09000012,"Motorcycle, scooter or moped",672,1305,-633
+E09000012,Not in employment or aged 15 years and under,124838,68867,55971
+E09000012,On foot,12698,14054,-1356
+E09000012,Other method of travel to work,1401,858,543
+E09000012,Passenger in a car or van,851,914,-63
+E09000012,Taxi,962,551,411
+E09000012,Train,4991,8667,-3676
+E09000012,"Underground, metro, light rail, tram",10239,23424,-13185
+E09000012,Work mainly at or from home,66844,6485,60359
+E09000013,Bicycle,4915,7420,-2505
+E09000013,"Bus, minibus or coach",7504,13802,-6298
+E09000013,Driving a car or van,7781,12002,-4221
+E09000013,"Motorcycle, scooter or moped",994,2173,-1179
+E09000013,Not in employment or aged 15 years and under,85064,45934,39130
+E09000013,On foot,9439,12783,-3344
+E09000013,Other method of travel to work,1078,754,324
+E09000013,Passenger in a car or van,514,710,-196
+E09000013,Taxi,595,414,181
+E09000013,Train,2376,4466,-2090
+E09000013,"Underground, metro, light rail, tram",11578,38996,-27418
+E09000013,Work mainly at or from home,51319,6098,45221
+E09000014,Bicycle,5226,6142,-916
+E09000014,"Bus, minibus or coach",15341,21738,-6397
+E09000014,Driving a car or van,18436,23023,-4587
+E09000014,"Motorcycle, scooter or moped",1107,1609,-502
+E09000014,Not in employment or aged 15 years and under,129857,68766,61091
+E09000014,On foot,7920,7909,11
+E09000014,Other method of travel to work,1599,773,826
+E09000014,Passenger in a car or van,1457,1360,97
+E09000014,Taxi,626,290,336
+E09000014,Train,5273,9158,-3885
+E09000014,"Underground, metro, light rail, tram",21629,45384,-23755
+E09000014,Work mainly at or from home,55767,6910,48857
+E09000015,Bicycle,915,901,14
+E09000015,"Bus, minibus or coach",8673,10274,-1601
+E09000015,Driving a car or van,37918,48077,-10159
+E09000015,"Motorcycle, scooter or moped",590,607,-17
+E09000015,Not in employment or aged 15 years and under,136166,60851,75315
+E09000015,On foot,6146,7479,-1333
+E09000015,Other method of travel to work,1555,601,954
+E09000015,Passenger in a car or van,3223,2814,409
+E09000015,Taxi,516,398,118
+E09000015,Train,4721,7836,-3115
+E09000015,"Underground, metro, light rail, tram",15605,28870,-13265
+E09000015,Work mainly at or from home,45175,6043,39132
+E09000016,Bicycle,848,1020,-172
+E09000016,"Bus, minibus or coach",6949,8711,-1762
+E09000016,Driving a car or van,45890,54368,-8478
+E09000016,"Motorcycle, scooter or moped",609,1016,-407
+E09000016,Not in employment or aged 15 years and under,137271,58282,78989
+E09000016,On foot,6101,7080,-979
+E09000016,Other method of travel to work,1550,645,905
+E09000016,Passenger in a car or van,3357,3642,-285
+E09000016,Taxi,739,1216,-477
+E09000016,Train,8721,20347,-11626
+E09000016,"Underground, metro, light rail, tram",8363,10763,-2400
+E09000016,Work mainly at or from home,41654,4038,37616
+E09000017,Bicycle,1627,1936,-309
+E09000017,"Bus, minibus or coach",13357,15731,-2374
+E09000017,Driving a car or van,55421,68925,-13504
+E09000017,"Motorcycle, scooter or moped",772,1059,-287
+E09000017,Not in employment or aged 15 years and under,163104,69636,93468
+E09000017,On foot,7226,9192,-1966
+E09000017,Other method of travel to work,1752,664,1088
+E09000017,Passenger in a car or van,3711,4092,-381
+E09000017,Taxi,670,469,201
+E09000017,Train,3714,5643,-1929
+E09000017,"Underground, metro, light rail, tram",9362,17458,-8096
+E09000017,Work mainly at or from home,45193,5121,40072
+E09000018,Bicycle,4056,4160,-104
+E09000018,"Bus, minibus or coach",18538,21001,-2463
+E09000018,Driving a car or van,40771,50695,-9924
+E09000018,"Motorcycle, scooter or moped",1199,1441,-242
+E09000018,Not in employment or aged 15 years and under,149381,63125,86256
+E09000018,On foot,8614,9524,-910
+E09000018,Other method of travel to work,1767,788,979
+E09000018,Passenger in a car or van,3043,3071,-28
+E09000018,Taxi,635,342,293
+E09000018,Train,5086,10536,-5450
+E09000018,"Underground, metro, light rail, tram",10046,19977,-9931
+E09000018,Work mainly at or from home,45047,5497,39550
+E09000019,Bicycle,6133,10204,-4071
+E09000019,"Bus, minibus or coach",9346,22214,-12868
+E09000019,Driving a car or van,7871,9839,-1968
+E09000019,"Motorcycle, scooter or moped",620,1203,-583
+E09000019,Not in employment or aged 15 years and under,101619,58384,43235
+E09000019,On foot,9922,16952,-7030
+E09000019,Other method of travel to work,1146,721,425
+E09000019,Passenger in a car or van,552,714,-162
+E09000019,Taxi,689,845,-156
+E09000019,Train,3063,6170,-3107
+E09000019,"Underground, metro, light rail, tram",11099,31987,-20888
+E09000019,Work mainly at or from home,64530,5916,58614
+E09000020,Bicycle,2377,3955,-1578
+E09000020,"Bus, minibus or coach",4057,10104,-6047
+E09000020,Driving a car or van,5331,10395,-5064
+E09000020,"Motorcycle, scooter or moped",568,1683,-1115
+E09000020,Not in employment or aged 15 years and under,73935,44693,29242
+E09000020,On foot,6820,10390,-3570
+E09000020,Other method of travel to work,962,1211,-249
+E09000020,Passenger in a car or van,487,823,-336
+E09000020,Taxi,1003,1665,-662
+E09000020,Train,1164,2615,-1451
+E09000020,"Underground, metro, light rail, tram",6659,29737,-23078
+E09000020,Work mainly at or from home,40010,8809,31201
+E09000021,Bicycle,2379,3351,-972
+E09000021,"Bus, minibus or coach",5519,8520,-3001
+E09000021,Driving a car or van,21101,31212,-10111
+E09000021,"Motorcycle, scooter or moped",705,1174,-469
+E09000021,Not in employment or aged 15 years and under,83915,37716,46199
+E09000021,On foot,6364,8298,-1934
+E09000021,Other method of travel to work,802,474,328
+E09000021,Passenger in a car or van,1396,1778,-382
+E09000021,Taxi,228,250,-22
+E09000021,Train,4946,18777,-13831
+E09000021,"Underground, metro, light rail, tram",1457,2967,-1510
+E09000021,Work mainly at or from home,39251,5156,34095
+E09000022,Bicycle,9711,13455,-3744
+E09000022,"Bus, minibus or coach",21125,32773,-11648
+E09000022,Driving a car or van,16994,20520,-3526
+E09000022,"Motorcycle, scooter or moped",1464,2385,-921
+E09000022,Not in employment or aged 15 years and under,134835,71236,63599
+E09000022,On foot,10713,12737,-2024
+E09000022,Other method of travel to work,1945,968,977
+E09000022,Passenger in a car or van,1013,1172,-159
+E09000022,Taxi,809,410,399
+E09000022,Train,8531,23795,-15264
+E09000022,"Underground, metro, light rail, tram",18743,50781,-32038
+E09000022,Work mainly at or from home,91770,7498,84272
+E09000023,Bicycle,5569,5375,194
+E09000023,"Bus, minibus or coach",17148,23109,-5961
+E09000023,Driving a car or van,24709,29741,-5032
+E09000023,"Motorcycle, scooter or moped",1011,1424,-413
+E09000023,Not in employment or aged 15 years and under,144841,70198,74643
+E09000023,On foot,8146,8936,-790
+E09000023,Other method of travel to work,1813,936,877
+E09000023,Passenger in a car or van,1529,1795,-266
+E09000023,Taxi,628,410,218
+E09000023,Train,14407,38402,-23995
+E09000023,"Underground, metro, light rail, tram",10775,20109,-9334
+E09000023,Work mainly at or from home,69977,5820,64157
+E09000024,Bicycle,3237,3524,-287
+E09000024,"Bus, minibus or coach",9251,11232,-1981
+E09000024,Driving a car or van,22618,28780,-6162
+E09000024,"Motorcycle, scooter or moped",1152,1408,-256
+E09000024,Not in employment or aged 15 years and under,103124,44776,58348
+E09000024,On foot,6683,7431,-748
+E09000024,Other method of travel to work,1238,638,600
+E09000024,Passenger in a car or van,1630,1711,-81
+E09000024,Taxi,385,280,105
+E09000024,Train,5293,19418,-14125
+E09000024,"Underground, metro, light rail, tram",12159,25383,-13224
+E09000024,Work mainly at or from home,48419,5017,43402
+E09000025,Bicycle,3757,2239,1518
+E09000025,"Bus, minibus or coach",14821,17488,-2667
+E09000025,Driving a car or van,28349,26963,1386
+E09000025,"Motorcycle, scooter or moped",1063,782,281
+E09000025,Not in employment or aged 15 years and under,187591,96504,91087
+E09000025,On foot,9818,9349,469
+E09000025,Other method of travel to work,2344,769,1575
+E09000025,Passenger in a car or van,2373,2053,320
+E09000025,Taxi,802,348,454
+E09000025,Train,14011,16507,-2496
+E09000025,"Underground, metro, light rail, tram",38371,52770,-14399
+E09000025,Work mainly at or from home,47737,3186,44551
+E09000026,Bicycle,1566,1411,155
+E09000026,"Bus, minibus or coach",8172,9226,-1054
+E09000026,Driving a car or van,40221,46921,-6700
+E09000026,"Motorcycle, scooter or moped",638,762,-124
+E09000026,Not in employment or aged 15 years and under,168633,74852,93781
+E09000026,On foot,6768,7334,-566
+E09000026,Other method of travel to work,1862,789,1073
+E09000026,Passenger in a car or van,2978,2906,72
+E09000026,Taxi,850,1074,-224
+E09000026,Train,8539,12305,-3766
+E09000026,"Underground, metro, light rail, tram",20627,36680,-16053
+E09000026,Work mainly at or from home,49406,5284,44122
+E09000027,Bicycle,3888,6062,-2174
+E09000027,"Bus, minibus or coach",3929,7531,-3602
+E09000027,Driving a car or van,17106,32271,-15165
+E09000027,"Motorcycle, scooter or moped",649,1654,-1005
+E09000027,Not in employment or aged 15 years and under,97713,38575,59138
+E09000027,On foot,5386,8138,-2752
+E09000027,Other method of travel to work,832,727,105
+E09000027,Passenger in a car or van,962,1341,-379
+E09000027,Taxi,276,237,39
+E09000027,Train,4319,21768,-17449
+E09000027,"Underground, metro, light rail, tram",2897,10605,-7708
+E09000027,Work mainly at or from home,57322,8870,48452
+E09000028,Bicycle,9537,10898,-1361
+E09000028,"Bus, minibus or coach",23288,39293,-16005
+E09000028,Driving a car or van,14701,18266,-3565
+E09000028,"Motorcycle, scooter or moped",1132,1766,-634
+E09000028,Not in employment or aged 15 years and under,140689,77163,63526
+E09000028,On foot,12998,18353,-5355
+E09000028,Other method of travel to work,1723,1441,282
+E09000028,Passenger in a car or van,882,1180,-298
+E09000028,Taxi,791,665,126
+E09000028,Train,7054,19114,-12060
+E09000028,"Underground, metro, light rail, tram",14000,30015,-16015
+E09000028,Work mainly at or from home,80842,6397,74445
+E09000029,Bicycle,1561,2066,-505
+E09000029,"Bus, minibus or coach",6899,9104,-2205
+E09000029,Driving a car or van,36070,45912,-9842
+E09000029,"Motorcycle, scooter or moped",952,1431,-479
+E09000029,Not in employment or aged 15 years and under,105415,41052,64363
+E09000029,On foot,6484,7753,-1269
+E09000029,Other method of travel to work,1129,537,592
+E09000029,Passenger in a car or van,2412,2823,-411
+E09000029,Taxi,436,511,-75
+E09000029,Train,6442,17850,-11408
+E09000029,"Underground, metro, light rail, tram",3815,5362,-1547
+E09000029,Work mainly at or from home,38024,4309,33715
+E09000030,Bicycle,7208,8112,-904
+E09000030,"Bus, minibus or coach",9010,14750,-5740
+E09000030,Driving a car or van,14106,13517,589
+E09000030,"Motorcycle, scooter or moped",787,910,-123
+E09000030,Not in employment or aged 15 years and under,154914,75679,79235
+E09000030,On foot,13900,21598,-7698
+E09000030,Other method of travel to work,1721,1052,669
+E09000030,Passenger in a car or van,985,1038,-53
+E09000030,Taxi,896,701,195
+E09000030,Train,7111,7557,-446
+E09000030,"Underground, metro, light rail, tram",21452,47191,-25739
+E09000030,Work mainly at or from home,78219,4447,73772
+E09000031,Bicycle,4975,3430,1545
+E09000031,"Bus, minibus or coach",10142,13452,-3310
+E09000031,Driving a car or van,27532,34428,-6896
+E09000031,"Motorcycle, scooter or moped",858,1110,-252
+E09000031,Not in employment or aged 15 years and under,138054,69957,68097
+E09000031,On foot,7773,8152,-379
+E09000031,Other method of travel to work,1684,740,944
+E09000031,Passenger in a car or van,1974,2271,-297
+E09000031,Taxi,762,739,23
+E09000031,Train,6810,12468,-5658
+E09000031,"Underground, metro, light rail, tram",25097,40146,-15049
+E09000031,Work mainly at or from home,52765,4085,48680
+E09000032,Bicycle,9146,13267,-4121
+E09000032,"Bus, minibus or coach",13863,23608,-9745
+E09000032,Driving a car or van,17724,25713,-7989
+E09000032,"Motorcycle, scooter or moped",1747,3797,-2050
+E09000032,Not in employment or aged 15 years and under,137064,64951,72113
+E09000032,On foot,12338,13619,-1281
+E09000032,Other method of travel to work,1671,1098,573
+E09000032,Passenger in a car or van,1041,1297,-256
+E09000032,Taxi,821,495,326
+E09000032,Train,7948,35697,-27749
+E09000032,"Underground, metro, light rail, tram",16503,50357,-33854
+E09000032,Work mainly at or from home,107639,9634,98005
+E09000033,Bicycle,3600,5365,-1765
+E09000033,"Bus, minibus or coach",7075,16398,-9323
+E09000033,Driving a car or van,6703,10499,-3796
+E09000033,"Motorcycle, scooter or moped",569,1331,-762
+E09000033,Not in employment or aged 15 years and under,102494,64326,38168
+E09000033,On foot,12238,21807,-9569
+E09000033,Other method of travel to work,1409,1538,-129
+E09000033,Passenger in a car or van,542,868,-326
+E09000033,Taxi,993,1624,-631
+E09000033,Train,2080,5221,-3141
+E09000033,"Underground, metro, light rail, tram",9768,36908,-27140
+E09000033,Work mainly at or from home,56766,9620,47146
