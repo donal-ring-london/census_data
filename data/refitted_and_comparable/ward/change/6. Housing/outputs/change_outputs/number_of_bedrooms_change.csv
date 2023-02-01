@@ -1,0 +1,2721 @@
+gss_code_ward,ward_name,la_gss_code,la_name,category,count_21,count_11,change
+E05009317,Bethnal Green,E09000030,Tower Hamlets,1 bedroom,1818,1827,-9
+E05009317,Bethnal Green,E09000030,Tower Hamlets,2 bedrooms,3168,2967,201
+E05009317,Bethnal Green,E09000030,Tower Hamlets,3 bedrooms,1689,1707,-18
+E05009317,Bethnal Green,E09000030,Tower Hamlets,4 or more bedrooms,697,574,123
+E05009318,Blackwall & Cubitt Town,E09000030,Tower Hamlets,1 bedroom,3699,1949,1750
+E05009318,Blackwall & Cubitt Town,E09000030,Tower Hamlets,2 bedrooms,4013,3186,827
+E05009318,Blackwall & Cubitt Town,E09000030,Tower Hamlets,3 bedrooms,1424,902,522
+E05009318,Blackwall & Cubitt Town,E09000030,Tower Hamlets,4 or more bedrooms,542,347,195
+E05009319,Bow East,E09000030,Tower Hamlets,1 bedroom,2664,2044,620
+E05009319,Bow East,E09000030,Tower Hamlets,2 bedrooms,3668,2941,727
+E05009319,Bow East,E09000030,Tower Hamlets,3 bedrooms,1526,1150,376
+E05009319,Bow East,E09000030,Tower Hamlets,4 or more bedrooms,551,435,116
+E05009320,Bow West,E09000030,Tower Hamlets,1 bedroom,1310,1222,88
+E05009320,Bow West,E09000030,Tower Hamlets,2 bedrooms,1625,1562,63
+E05009320,Bow West,E09000030,Tower Hamlets,3 bedrooms,1572,1581,-9
+E05009320,Bow West,E09000030,Tower Hamlets,4 or more bedrooms,782,629,153
+E05009321,Bromley North,E09000030,Tower Hamlets,1 bedroom,1515,1170,345
+E05009321,Bromley North,E09000030,Tower Hamlets,2 bedrooms,1779,1357,422
+E05009321,Bromley North,E09000030,Tower Hamlets,3 bedrooms,784,677,107
+E05009321,Bromley North,E09000030,Tower Hamlets,4 or more bedrooms,356,283,73
+E05009322,Bromley South,E09000030,Tower Hamlets,1 bedroom,1554,749,805
+E05009322,Bromley South,E09000030,Tower Hamlets,2 bedrooms,2000,1321,679
+E05009322,Bromley South,E09000030,Tower Hamlets,3 bedrooms,1219,752,467
+E05009322,Bromley South,E09000030,Tower Hamlets,4 or more bedrooms,374,208,166
+E05009323,Canary Wharf,E09000030,Tower Hamlets,1 bedroom,3691,2486,1205
+E05009323,Canary Wharf,E09000030,Tower Hamlets,2 bedrooms,3287,2674,613
+E05009323,Canary Wharf,E09000030,Tower Hamlets,3 bedrooms,1194,855,339
+E05009323,Canary Wharf,E09000030,Tower Hamlets,4 or more bedrooms,349,252,97
+E05009324,Island Gardens,E09000030,Tower Hamlets,1 bedroom,1533,1553,-20
+E05009324,Island Gardens,E09000030,Tower Hamlets,2 bedrooms,2522,2630,-108
+E05009324,Island Gardens,E09000030,Tower Hamlets,3 bedrooms,1238,1161,77
+E05009324,Island Gardens,E09000030,Tower Hamlets,4 or more bedrooms,683,506,177
+E05009325,Lansbury,E09000030,Tower Hamlets,1 bedroom,1949,1137,812
+E05009325,Lansbury,E09000030,Tower Hamlets,2 bedrooms,2953,2066,887
+E05009325,Lansbury,E09000030,Tower Hamlets,3 bedrooms,1873,1593,280
+E05009325,Lansbury,E09000030,Tower Hamlets,4 or more bedrooms,764,479,285
+E05009326,Limehouse,E09000030,Tower Hamlets,1 bedroom,843,824,19
+E05009326,Limehouse,E09000030,Tower Hamlets,2 bedrooms,1428,1536,-108
+E05009326,Limehouse,E09000030,Tower Hamlets,3 bedrooms,536,502,34
+E05009326,Limehouse,E09000030,Tower Hamlets,4 or more bedrooms,184,117,67
+E05009327,Mile End,E09000030,Tower Hamlets,1 bedroom,2126,1368,758
+E05009327,Mile End,E09000030,Tower Hamlets,2 bedrooms,3174,2403,771
+E05009327,Mile End,E09000030,Tower Hamlets,3 bedrooms,1782,1419,363
+E05009327,Mile End,E09000030,Tower Hamlets,4 or more bedrooms,772,568,204
+E05009328,Poplar,E09000030,Tower Hamlets,1 bedroom,780,649,131
+E05009328,Poplar,E09000030,Tower Hamlets,2 bedrooms,1113,1070,43
+E05009328,Poplar,E09000030,Tower Hamlets,3 bedrooms,675,605,70
+E05009328,Poplar,E09000030,Tower Hamlets,4 or more bedrooms,263,213,50
+E05009329,St Dunstan's,E09000030,Tower Hamlets,1 bedroom,1196,1042,154
+E05009329,St Dunstan's,E09000030,Tower Hamlets,2 bedrooms,1799,1499,300
+E05009329,St Dunstan's,E09000030,Tower Hamlets,3 bedrooms,1022,860,162
+E05009329,St Dunstan's,E09000030,Tower Hamlets,4 or more bedrooms,622,465,157
+E05009330,St Katharine's & Wapping,E09000030,Tower Hamlets,1 bedroom,1951,1742,209
+E05009330,St Katharine's & Wapping,E09000030,Tower Hamlets,2 bedrooms,2574,2502,72
+E05009330,St Katharine's & Wapping,E09000030,Tower Hamlets,3 bedrooms,930,813,117
+E05009330,St Katharine's & Wapping,E09000030,Tower Hamlets,4 or more bedrooms,343,277,66
+E05009331,St Peter's,E09000030,Tower Hamlets,1 bedroom,2610,2509,101
+E05009331,St Peter's,E09000030,Tower Hamlets,2 bedrooms,2623,2606,17
+E05009331,St Peter's,E09000030,Tower Hamlets,3 bedrooms,1602,1404,198
+E05009331,St Peter's,E09000030,Tower Hamlets,4 or more bedrooms,678,668,10
+E05009332,Shadwell,E09000030,Tower Hamlets,1 bedroom,1294,1284,10
+E05009332,Shadwell,E09000030,Tower Hamlets,2 bedrooms,1734,1790,-56
+E05009332,Shadwell,E09000030,Tower Hamlets,3 bedrooms,931,875,56
+E05009332,Shadwell,E09000030,Tower Hamlets,4 or more bedrooms,432,387,45
+E05009333,Spitalfields & Banglatown,E09000030,Tower Hamlets,1 bedroom,1763,1788,-25
+E05009333,Spitalfields & Banglatown,E09000030,Tower Hamlets,2 bedrooms,1879,1704,175
+E05009333,Spitalfields & Banglatown,E09000030,Tower Hamlets,3 bedrooms,830,729,101
+E05009333,Spitalfields & Banglatown,E09000030,Tower Hamlets,4 or more bedrooms,537,516,21
+E05009334,Stepney Green,E09000030,Tower Hamlets,1 bedroom,1178,1144,34
+E05009334,Stepney Green,E09000030,Tower Hamlets,2 bedrooms,1643,1571,72
+E05009334,Stepney Green,E09000030,Tower Hamlets,3 bedrooms,1046,1011,35
+E05009334,Stepney Green,E09000030,Tower Hamlets,4 or more bedrooms,486,399,87
+E05009335,Weavers,E09000030,Tower Hamlets,1 bedroom,1638,1679,-41
+E05009335,Weavers,E09000030,Tower Hamlets,2 bedrooms,2275,2196,79
+E05009335,Weavers,E09000030,Tower Hamlets,3 bedrooms,1082,1061,21
+E05009335,Weavers,E09000030,Tower Hamlets,4 or more bedrooms,431,375,56
+E05009336,Whitechapel,E09000030,Tower Hamlets,1 bedroom,2829,2003,826
+E05009336,Whitechapel,E09000030,Tower Hamlets,2 bedrooms,2794,2217,577
+E05009336,Whitechapel,E09000030,Tower Hamlets,3 bedrooms,1166,931,235
+E05009336,Whitechapel,E09000030,Tower Hamlets,4 or more bedrooms,578,433,145
+E05009367,Brownswood,E09000012,Hackney,1 bedroom,1387,1250,137
+E05009367,Brownswood,E09000012,Hackney,2 bedrooms,1532,1366,166
+E05009367,Brownswood,E09000012,Hackney,3 bedrooms,784,636,148
+E05009367,Brownswood,E09000012,Hackney,4 or more bedrooms,390,372,18
+E05009368,Cazenove,E09000012,Hackney,1 bedroom,1332,1444,-112
+E05009368,Cazenove,E09000012,Hackney,2 bedrooms,1870,1889,-19
+E05009368,Cazenove,E09000012,Hackney,3 bedrooms,985,857,128
+E05009368,Cazenove,E09000012,Hackney,4 or more bedrooms,970,877,93
+E05009369,Clissold,E09000012,Hackney,1 bedroom,1521,1686,-165
+E05009369,Clissold,E09000012,Hackney,2 bedrooms,1925,2011,-86
+E05009369,Clissold,E09000012,Hackney,3 bedrooms,1230,1260,-30
+E05009369,Clissold,E09000012,Hackney,4 or more bedrooms,747,605,142
+E05009370,Dalston,E09000012,Hackney,1 bedroom,1425,1359,66
+E05009370,Dalston,E09000012,Hackney,2 bedrooms,1285,957,328
+E05009370,Dalston,E09000012,Hackney,3 bedrooms,956,775,181
+E05009370,Dalston,E09000012,Hackney,4 or more bedrooms,383,346,37
+E05009371,De Beauvoir,E09000012,Hackney,1 bedroom,1068,1002,66
+E05009371,De Beauvoir,E09000012,Hackney,2 bedrooms,1543,1380,163
+E05009371,De Beauvoir,E09000012,Hackney,3 bedrooms,944,912,32
+E05009371,De Beauvoir,E09000012,Hackney,4 or more bedrooms,434,386,48
+E05009372,Hackney Central,E09000012,Hackney,1 bedroom,2030,1880,150
+E05009372,Hackney Central,E09000012,Hackney,2 bedrooms,2083,1974,109
+E05009372,Hackney Central,E09000012,Hackney,3 bedrooms,1226,1156,70
+E05009372,Hackney Central,E09000012,Hackney,4 or more bedrooms,441,390,51
+E05009373,Hackney Downs,E09000012,Hackney,1 bedroom,1775,2043,-268
+E05009373,Hackney Downs,E09000012,Hackney,2 bedrooms,1657,1563,94
+E05009373,Hackney Downs,E09000012,Hackney,3 bedrooms,1174,1108,66
+E05009373,Hackney Downs,E09000012,Hackney,4 or more bedrooms,757,676,81
+E05009374,Hackney Wick,E09000012,Hackney,1 bedroom,1294,1385,-91
+E05009374,Hackney Wick,E09000012,Hackney,2 bedrooms,1701,1635,66
+E05009374,Hackney Wick,E09000012,Hackney,3 bedrooms,1391,1301,90
+E05009374,Hackney Wick,E09000012,Hackney,4 or more bedrooms,586,475,111
+E05009375,Haggerston,E09000012,Hackney,1 bedroom,1941,1871,70
+E05009375,Haggerston,E09000012,Hackney,2 bedrooms,2328,1984,344
+E05009375,Haggerston,E09000012,Hackney,3 bedrooms,1506,1277,229
+E05009375,Haggerston,E09000012,Hackney,4 or more bedrooms,479,428,51
+E05009376,Homerton,E09000012,Hackney,1 bedroom,1577,1601,-24
+E05009376,Homerton,E09000012,Hackney,2 bedrooms,2021,2038,-17
+E05009376,Homerton,E09000012,Hackney,3 bedrooms,1171,1038,133
+E05009376,Homerton,E09000012,Hackney,4 or more bedrooms,451,338,113
+E05009377,Hoxton East & Shoreditch,E09000012,Hackney,1 bedroom,1799,1817,-18
+E05009377,Hoxton East & Shoreditch,E09000012,Hackney,2 bedrooms,2521,2304,217
+E05009377,Hoxton East & Shoreditch,E09000012,Hackney,3 bedrooms,1004,975,29
+E05009377,Hoxton East & Shoreditch,E09000012,Hackney,4 or more bedrooms,218,203,15
+E05009378,Hoxton West,E09000012,Hackney,1 bedroom,2250,2101,149
+E05009378,Hoxton West,E09000012,Hackney,2 bedrooms,2460,2152,308
+E05009378,Hoxton West,E09000012,Hackney,3 bedrooms,1240,1121,119
+E05009378,Hoxton West,E09000012,Hackney,4 or more bedrooms,368,268,100
+E05009379,King's Park,E09000012,Hackney,1 bedroom,1112,1065,47
+E05009379,King's Park,E09000012,Hackney,2 bedrooms,1307,1297,10
+E05009379,King's Park,E09000012,Hackney,3 bedrooms,1936,1951,-15
+E05009379,King's Park,E09000012,Hackney,4 or more bedrooms,692,506,186
+E05009380,Lea Bridge,E09000012,Hackney,1 bedroom,1585,1779,-194
+E05009380,Lea Bridge,E09000012,Hackney,2 bedrooms,1385,1380,5
+E05009380,Lea Bridge,E09000012,Hackney,3 bedrooms,1475,1400,75
+E05009380,Lea Bridge,E09000012,Hackney,4 or more bedrooms,1045,948,97
+E05009381,London Fields,E09000012,Hackney,1 bedroom,1647,1871,-224
+E05009381,London Fields,E09000012,Hackney,2 bedrooms,1828,1666,162
+E05009381,London Fields,E09000012,Hackney,3 bedrooms,1286,1121,165
+E05009381,London Fields,E09000012,Hackney,4 or more bedrooms,653,576,77
+E05009382,Shacklewell,E09000012,Hackney,1 bedroom,945,1003,-58
+E05009382,Shacklewell,E09000012,Hackney,2 bedrooms,1504,1480,24
+E05009382,Shacklewell,E09000012,Hackney,3 bedrooms,827,819,8
+E05009382,Shacklewell,E09000012,Hackney,4 or more bedrooms,366,293,73
+E05009383,Springfield,E09000012,Hackney,1 bedroom,1529,1663,-134
+E05009383,Springfield,E09000012,Hackney,2 bedrooms,1550,1648,-98
+E05009383,Springfield,E09000012,Hackney,3 bedrooms,1112,1167,-55
+E05009383,Springfield,E09000012,Hackney,4 or more bedrooms,1030,977,53
+E05009384,Stamford Hill West,E09000012,Hackney,1 bedroom,830,994,-164
+E05009384,Stamford Hill West,E09000012,Hackney,2 bedrooms,1128,1129,-1
+E05009384,Stamford Hill West,E09000012,Hackney,3 bedrooms,555,529,26
+E05009384,Stamford Hill West,E09000012,Hackney,4 or more bedrooms,748,738,10
+E05009385,Stoke Newington,E09000012,Hackney,1 bedroom,1621,1878,-257
+E05009385,Stoke Newington,E09000012,Hackney,2 bedrooms,1600,1654,-54
+E05009385,Stoke Newington,E09000012,Hackney,3 bedrooms,1406,1516,-110
+E05009385,Stoke Newington,E09000012,Hackney,4 or more bedrooms,1033,738,295
+E05009386,Victoria,E09000012,Hackney,1 bedroom,1426,1456,-30
+E05009386,Victoria,E09000012,Hackney,2 bedrooms,2020,2048,-28
+E05009386,Victoria,E09000012,Hackney,3 bedrooms,1267,1235,32
+E05009386,Victoria,E09000012,Hackney,4 or more bedrooms,518,497,21
+E05009387,Woodberry Down,E09000012,Hackney,1 bedroom,1587,960,627
+E05009387,Woodberry Down,E09000012,Hackney,2 bedrooms,1920,1434,486
+E05009387,Woodberry Down,E09000012,Hackney,3 bedrooms,1084,910,174
+E05009387,Woodberry Down,E09000012,Hackney,4 or more bedrooms,396,341,55
+E05009388,Abingdon,E09000020,Kensington and Chelsea,1 bedroom,1181,1487,-306
+E05009388,Abingdon,E09000020,Kensington and Chelsea,2 bedrooms,1358,1661,-303
+E05009388,Abingdon,E09000020,Kensington and Chelsea,3 bedrooms,710,792,-82
+E05009388,Abingdon,E09000020,Kensington and Chelsea,4 or more bedrooms,639,675,-36
+E05009389,Brompton & Hans Town,E09000020,Kensington and Chelsea,1 bedroom,1308,2103,-795
+E05009389,Brompton & Hans Town,E09000020,Kensington and Chelsea,2 bedrooms,1402,1998,-596
+E05009389,Brompton & Hans Town,E09000020,Kensington and Chelsea,3 bedrooms,844,977,-133
+E05009389,Brompton & Hans Town,E09000020,Kensington and Chelsea,4 or more bedrooms,604,642,-38
+E05009390,Campden,E09000020,Kensington and Chelsea,1 bedroom,993,1252,-259
+E05009390,Campden,E09000020,Kensington and Chelsea,2 bedrooms,1213,1387,-174
+E05009390,Campden,E09000020,Kensington and Chelsea,3 bedrooms,788,932,-144
+E05009390,Campden,E09000020,Kensington and Chelsea,4 or more bedrooms,821,819,2
+E05009391,Chelsea Riverside,E09000020,Kensington and Chelsea,1 bedroom,1190,1540,-350
+E05009391,Chelsea Riverside,E09000020,Kensington and Chelsea,2 bedrooms,1374,1583,-209
+E05009391,Chelsea Riverside,E09000020,Kensington and Chelsea,3 bedrooms,730,752,-22
+E05009391,Chelsea Riverside,E09000020,Kensington and Chelsea,4 or more bedrooms,377,416,-39
+E05009392,Colville,E09000020,Kensington and Chelsea,1 bedroom,1749,2176,-427
+E05009392,Colville,E09000020,Kensington and Chelsea,2 bedrooms,1628,1787,-159
+E05009392,Colville,E09000020,Kensington and Chelsea,3 bedrooms,633,678,-45
+E05009392,Colville,E09000020,Kensington and Chelsea,4 or more bedrooms,331,280,51
+E05009393,Courtfield,E09000020,Kensington and Chelsea,1 bedroom,1425,1952,-527
+E05009393,Courtfield,E09000020,Kensington and Chelsea,2 bedrooms,1524,1880,-356
+E05009393,Courtfield,E09000020,Kensington and Chelsea,3 bedrooms,730,810,-80
+E05009393,Courtfield,E09000020,Kensington and Chelsea,4 or more bedrooms,451,439,12
+E05009394,Dalgarno,E09000020,Kensington and Chelsea,1 bedroom,711,898,-187
+E05009394,Dalgarno,E09000020,Kensington and Chelsea,2 bedrooms,998,1075,-77
+E05009394,Dalgarno,E09000020,Kensington and Chelsea,3 bedrooms,640,630,10
+E05009394,Dalgarno,E09000020,Kensington and Chelsea,4 or more bedrooms,352,271,81
+E05009395,Earl's Court,E09000020,Kensington and Chelsea,1 bedroom,1989,2412,-423
+E05009395,Earl's Court,E09000020,Kensington and Chelsea,2 bedrooms,1790,2060,-270
+E05009395,Earl's Court,E09000020,Kensington and Chelsea,3 bedrooms,589,541,48
+E05009395,Earl's Court,E09000020,Kensington and Chelsea,4 or more bedrooms,289,235,54
+E05009396,Golborne,E09000020,Kensington and Chelsea,1 bedroom,1573,1804,-231
+E05009396,Golborne,E09000020,Kensington and Chelsea,2 bedrooms,1233,1172,61
+E05009396,Golborne,E09000020,Kensington and Chelsea,3 bedrooms,762,721,41
+E05009396,Golborne,E09000020,Kensington and Chelsea,4 or more bedrooms,266,214,52
+E05009397,Holland,E09000020,Kensington and Chelsea,1 bedroom,955,1161,-206
+E05009397,Holland,E09000020,Kensington and Chelsea,2 bedrooms,1596,1708,-112
+E05009397,Holland,E09000020,Kensington and Chelsea,3 bedrooms,690,629,61
+E05009397,Holland,E09000020,Kensington and Chelsea,4 or more bedrooms,670,656,14
+E05009398,Norland,E09000020,Kensington and Chelsea,1 bedroom,821,986,-165
+E05009398,Norland,E09000020,Kensington and Chelsea,2 bedrooms,720,773,-53
+E05009398,Norland,E09000020,Kensington and Chelsea,3 bedrooms,500,494,6
+E05009398,Norland,E09000020,Kensington and Chelsea,4 or more bedrooms,545,576,-31
+E05009399,Notting Dale,E09000020,Kensington and Chelsea,1 bedroom,1182,1396,-214
+E05009399,Notting Dale,E09000020,Kensington and Chelsea,2 bedrooms,1180,1283,-103
+E05009399,Notting Dale,E09000020,Kensington and Chelsea,3 bedrooms,1065,958,107
+E05009399,Notting Dale,E09000020,Kensington and Chelsea,4 or more bedrooms,328,216,112
+E05009400,Pembridge,E09000020,Kensington and Chelsea,1 bedroom,1128,1348,-220
+E05009400,Pembridge,E09000020,Kensington and Chelsea,2 bedrooms,906,1125,-219
+E05009400,Pembridge,E09000020,Kensington and Chelsea,3 bedrooms,330,338,-8
+E05009400,Pembridge,E09000020,Kensington and Chelsea,4 or more bedrooms,300,326,-26
+E05009401,Queen's Gate,E09000020,Kensington and Chelsea,1 bedroom,952,1482,-530
+E05009401,Queen's Gate,E09000020,Kensington and Chelsea,2 bedrooms,1286,1736,-450
+E05009401,Queen's Gate,E09000020,Kensington and Chelsea,3 bedrooms,794,913,-119
+E05009401,Queen's Gate,E09000020,Kensington and Chelsea,4 or more bedrooms,554,616,-62
+E05009402,Redcliffe,E09000020,Kensington and Chelsea,1 bedroom,1408,1621,-213
+E05009402,Redcliffe,E09000020,Kensington and Chelsea,2 bedrooms,1658,2002,-344
+E05009402,Redcliffe,E09000020,Kensington and Chelsea,3 bedrooms,673,756,-83
+E05009402,Redcliffe,E09000020,Kensington and Chelsea,4 or more bedrooms,654,534,120
+E05009403,Royal Hospital,E09000020,Kensington and Chelsea,1 bedroom,1244,1886,-642
+E05009403,Royal Hospital,E09000020,Kensington and Chelsea,2 bedrooms,1272,1590,-318
+E05009403,Royal Hospital,E09000020,Kensington and Chelsea,3 bedrooms,738,879,-141
+E05009403,Royal Hospital,E09000020,Kensington and Chelsea,4 or more bedrooms,652,632,20
+E05009404,St. Helen's,E09000020,Kensington and Chelsea,1 bedroom,962,1153,-191
+E05009404,St. Helen's,E09000020,Kensington and Chelsea,2 bedrooms,915,1037,-122
+E05009404,St. Helen's,E09000020,Kensington and Chelsea,3 bedrooms,527,530,-3
+E05009404,St. Helen's,E09000020,Kensington and Chelsea,4 or more bedrooms,400,326,74
+E05009405,Stanley,E09000020,Kensington and Chelsea,1 bedroom,1229,1696,-467
+E05009405,Stanley,E09000020,Kensington and Chelsea,2 bedrooms,1399,1788,-389
+E05009405,Stanley,E09000020,Kensington and Chelsea,3 bedrooms,745,781,-36
+E05009405,Stanley,E09000020,Kensington and Chelsea,4 or more bedrooms,676,736,-60
+E05011095,Borough & Bankside,E09000028,Southwark,1 bedroom,1606,1495,111
+E05011095,Borough & Bankside,E09000028,Southwark,2 bedrooms,1857,1633,224
+E05011095,Borough & Bankside,E09000028,Southwark,3 bedrooms,594,485,109
+E05011095,Borough & Bankside,E09000028,Southwark,4 or more bedrooms,190,160,30
+E05011096,Camberwell Green,E09000028,Southwark,1 bedroom,2158,1837,321
+E05011096,Camberwell Green,E09000028,Southwark,2 bedrooms,2718,2209,509
+E05011096,Camberwell Green,E09000028,Southwark,3 bedrooms,1281,1087,194
+E05011096,Camberwell Green,E09000028,Southwark,4 or more bedrooms,530,481,49
+E05011097,Champion Hill,E09000028,Southwark,1 bedroom,855,803,52
+E05011097,Champion Hill,E09000028,Southwark,2 bedrooms,1556,1534,22
+E05011097,Champion Hill,E09000028,Southwark,3 bedrooms,950,1019,-69
+E05011097,Champion Hill,E09000028,Southwark,4 or more bedrooms,572,492,80
+E05011098,Chaucer,E09000028,Southwark,1 bedroom,1774,1705,69
+E05011098,Chaucer,E09000028,Southwark,2 bedrooms,2802,2768,34
+E05011098,Chaucer,E09000028,Southwark,3 bedrooms,1264,1121,143
+E05011098,Chaucer,E09000028,Southwark,4 or more bedrooms,392,361,31
+E05011099,Dulwich Hill,E09000028,Southwark,1 bedroom,728,812,-84
+E05011099,Dulwich Hill,E09000028,Southwark,2 bedrooms,1281,1362,-81
+E05011099,Dulwich Hill,E09000028,Southwark,3 bedrooms,877,895,-18
+E05011099,Dulwich Hill,E09000028,Southwark,4 or more bedrooms,1039,808,231
+E05011100,Dulwich Village,E09000028,Southwark,1 bedroom,319,401,-82
+E05011100,Dulwich Village,E09000028,Southwark,2 bedrooms,645,669,-24
+E05011100,Dulwich Village,E09000028,Southwark,3 bedrooms,879,953,-74
+E05011100,Dulwich Village,E09000028,Southwark,4 or more bedrooms,1875,1841,34
+E05011101,Dulwich Wood,E09000028,Southwark,1 bedroom,675,655,20
+E05011101,Dulwich Wood,E09000028,Southwark,2 bedrooms,1483,1470,13
+E05011101,Dulwich Wood,E09000028,Southwark,3 bedrooms,1147,1118,29
+E05011101,Dulwich Wood,E09000028,Southwark,4 or more bedrooms,904,879,25
+E05011102,Faraday,E09000028,Southwark,1 bedroom,1304,1568,-264
+E05011102,Faraday,E09000028,Southwark,2 bedrooms,1837,1872,-35
+E05011102,Faraday,E09000028,Southwark,3 bedrooms,1120,1311,-191
+E05011102,Faraday,E09000028,Southwark,4 or more bedrooms,534,490,44
+E05011103,Goose Green,E09000028,Southwark,1 bedroom,1557,1802,-245
+E05011103,Goose Green,E09000028,Southwark,2 bedrooms,1798,1769,29
+E05011103,Goose Green,E09000028,Southwark,3 bedrooms,1304,1500,-196
+E05011103,Goose Green,E09000028,Southwark,4 or more bedrooms,1294,960,334
+E05011104,London Bridge & West Bermondsey,E09000028,Southwark,1 bedroom,2469,2051,418
+E05011104,London Bridge & West Bermondsey,E09000028,Southwark,2 bedrooms,3279,2709,570
+E05011104,London Bridge & West Bermondsey,E09000028,Southwark,3 bedrooms,1126,895,231
+E05011104,London Bridge & West Bermondsey,E09000028,Southwark,4 or more bedrooms,278,207,71
+E05011105,Newington,E09000028,Southwark,1 bedroom,1734,1733,1
+E05011105,Newington,E09000028,Southwark,2 bedrooms,2157,2002,155
+E05011105,Newington,E09000028,Southwark,3 bedrooms,1581,1476,105
+E05011105,Newington,E09000028,Southwark,4 or more bedrooms,528,489,39
+E05011106,North Bermondsey,E09000028,Southwark,1 bedroom,2448,2381,67
+E05011106,North Bermondsey,E09000028,Southwark,2 bedrooms,3090,3035,55
+E05011106,North Bermondsey,E09000028,Southwark,3 bedrooms,1298,1206,92
+E05011106,North Bermondsey,E09000028,Southwark,4 or more bedrooms,417,328,89
+E05011107,North Walworth,E09000028,Southwark,1 bedroom,2549,1658,891
+E05011107,North Walworth,E09000028,Southwark,2 bedrooms,2958,1846,1112
+E05011107,North Walworth,E09000028,Southwark,3 bedrooms,1158,896,262
+E05011107,North Walworth,E09000028,Southwark,4 or more bedrooms,417,369,48
+E05011108,Nunhead & Queen's Road,E09000028,Southwark,1 bedroom,2315,2170,145
+E05011108,Nunhead & Queen's Road,E09000028,Southwark,2 bedrooms,1923,1644,279
+E05011108,Nunhead & Queen's Road,E09000028,Southwark,3 bedrooms,1688,1622,66
+E05011108,Nunhead & Queen's Road,E09000028,Southwark,4 or more bedrooms,757,582,175
+E05011109,Old Kent Road,E09000028,Southwark,1 bedroom,2040,1874,166
+E05011109,Old Kent Road,E09000028,Southwark,2 bedrooms,2817,2437,380
+E05011109,Old Kent Road,E09000028,Southwark,3 bedrooms,1766,1597,169
+E05011109,Old Kent Road,E09000028,Southwark,4 or more bedrooms,614,536,78
+E05011110,Peckham,E09000028,Southwark,1 bedroom,1587,1466,121
+E05011110,Peckham,E09000028,Southwark,2 bedrooms,2041,1921,120
+E05011110,Peckham,E09000028,Southwark,3 bedrooms,1579,1495,84
+E05011110,Peckham,E09000028,Southwark,4 or more bedrooms,579,449,130
+E05011111,Peckham Rye,E09000028,Southwark,1 bedroom,751,785,-34
+E05011111,Peckham Rye,E09000028,Southwark,2 bedrooms,1284,1395,-111
+E05011111,Peckham Rye,E09000028,Southwark,3 bedrooms,1229,1331,-102
+E05011111,Peckham Rye,E09000028,Southwark,4 or more bedrooms,742,471,271
+E05011112,Rotherhithe,E09000028,Southwark,1 bedroom,2055,1681,374
+E05011112,Rotherhithe,E09000028,Southwark,2 bedrooms,2791,2427,364
+E05011112,Rotherhithe,E09000028,Southwark,3 bedrooms,1463,1324,139
+E05011112,Rotherhithe,E09000028,Southwark,4 or more bedrooms,528,462,66
+E05011113,Rye Lane,E09000028,Southwark,1 bedroom,1710,1771,-61
+E05011113,Rye Lane,E09000028,Southwark,2 bedrooms,2065,1905,160
+E05011113,Rye Lane,E09000028,Southwark,3 bedrooms,1498,1598,-100
+E05011113,Rye Lane,E09000028,Southwark,4 or more bedrooms,870,657,213
+E05011114,St George's,E09000028,Southwark,1 bedroom,1182,779,403
+E05011114,St George's,E09000028,Southwark,2 bedrooms,1427,857,570
+E05011114,St George's,E09000028,Southwark,3 bedrooms,650,508,142
+E05011114,St George's,E09000028,Southwark,4 or more bedrooms,251,244,7
+E05011115,St Giles,E09000028,Southwark,1 bedroom,1972,1986,-14
+E05011115,St Giles,E09000028,Southwark,2 bedrooms,2283,2096,187
+E05011115,St Giles,E09000028,Southwark,3 bedrooms,1458,1383,75
+E05011115,St Giles,E09000028,Southwark,4 or more bedrooms,922,832,90
+E05011116,South Bermondsey,E09000028,Southwark,1 bedroom,2331,2353,-22
+E05011116,South Bermondsey,E09000028,Southwark,2 bedrooms,2488,2425,63
+E05011116,South Bermondsey,E09000028,Southwark,3 bedrooms,1479,1431,48
+E05011116,South Bermondsey,E09000028,Southwark,4 or more bedrooms,576,475,101
+E05011117,Surrey Docks,E09000028,Southwark,1 bedroom,1599,1316,283
+E05011117,Surrey Docks,E09000028,Southwark,2 bedrooms,2520,2377,143
+E05011117,Surrey Docks,E09000028,Southwark,3 bedrooms,1187,1046,141
+E05011117,Surrey Docks,E09000028,Southwark,4 or more bedrooms,642,492,150
+E05011217,Barnehurst,E09000004,Bexley,1 bedroom,251,277,-26
+E05011217,Barnehurst,E09000004,Bexley,2 bedrooms,1264,1380,-116
+E05011217,Barnehurst,E09000004,Bexley,3 bedrooms,1997,2038,-41
+E05011217,Barnehurst,E09000004,Bexley,4 or more bedrooms,892,721,171
+E05011218,Belvedere,E09000004,Bexley,1 bedroom,990,900,90
+E05011218,Belvedere,E09000004,Bexley,2 bedrooms,2334,2154,180
+E05011218,Belvedere,E09000004,Bexley,3 bedrooms,2661,2683,-22
+E05011218,Belvedere,E09000004,Bexley,4 or more bedrooms,780,626,154
+E05011219,Bexleyheath,E09000004,Bexley,1 bedroom,558,454,104
+E05011219,Bexleyheath,E09000004,Bexley,2 bedrooms,1684,1616,68
+E05011219,Bexleyheath,E09000004,Bexley,3 bedrooms,2547,2685,-138
+E05011219,Bexleyheath,E09000004,Bexley,4 or more bedrooms,1624,1276,348
+E05011220,Blackfen & Lamorbey,E09000004,Bexley,1 bedroom,313,261,52
+E05011220,Blackfen & Lamorbey,E09000004,Bexley,2 bedrooms,1189,1353,-164
+E05011220,Blackfen & Lamorbey,E09000004,Bexley,3 bedrooms,3127,3219,-92
+E05011220,Blackfen & Lamorbey,E09000004,Bexley,4 or more bedrooms,1595,1336,259
+E05011221,Blendon & Penhill,E09000004,Bexley,1 bedroom,211,224,-13
+E05011221,Blendon & Penhill,E09000004,Bexley,2 bedrooms,1488,1613,-125
+E05011221,Blendon & Penhill,E09000004,Bexley,3 bedrooms,2525,2689,-164
+E05011221,Blendon & Penhill,E09000004,Bexley,4 or more bedrooms,1747,1452,295
+E05011222,Crayford,E09000004,Bexley,1 bedroom,986,828,158
+E05011222,Crayford,E09000004,Bexley,2 bedrooms,1681,1373,308
+E05011222,Crayford,E09000004,Bexley,3 bedrooms,2924,2922,2
+E05011222,Crayford,E09000004,Bexley,4 or more bedrooms,824,662,162
+E05011223,Crook Log,E09000004,Bexley,1 bedroom,326,292,34
+E05011223,Crook Log,E09000004,Bexley,2 bedrooms,1405,1478,-73
+E05011223,Crook Log,E09000004,Bexley,3 bedrooms,2942,3108,-166
+E05011223,Crook Log,E09000004,Bexley,4 or more bedrooms,1505,1222,283
+E05011224,East Wickham,E09000004,Bexley,1 bedroom,454,461,-7
+E05011224,East Wickham,E09000004,Bexley,2 bedrooms,912,911,1
+E05011224,East Wickham,E09000004,Bexley,3 bedrooms,3331,3467,-136
+E05011224,East Wickham,E09000004,Bexley,4 or more bedrooms,1331,1067,264
+E05011225,Erith,E09000004,Bexley,1 bedroom,832,981,-149
+E05011225,Erith,E09000004,Bexley,2 bedrooms,2107,1852,255
+E05011225,Erith,E09000004,Bexley,3 bedrooms,1521,1344,177
+E05011225,Erith,E09000004,Bexley,4 or more bedrooms,579,408,171
+E05011226,Falconwood & Welling,E09000004,Bexley,1 bedroom,305,296,9
+E05011226,Falconwood & Welling,E09000004,Bexley,2 bedrooms,1484,1562,-78
+E05011226,Falconwood & Welling,E09000004,Bexley,3 bedrooms,3018,3129,-111
+E05011226,Falconwood & Welling,E09000004,Bexley,4 or more bedrooms,1406,1099,307
+E05011227,Longlands,E09000004,Bexley,1 bedroom,533,531,2
+E05011227,Longlands,E09000004,Bexley,2 bedrooms,1272,1316,-44
+E05011227,Longlands,E09000004,Bexley,3 bedrooms,1286,1359,-73
+E05011227,Longlands,E09000004,Bexley,4 or more bedrooms,1099,971,128
+E05011228,Northumberland Heath,E09000004,Bexley,1 bedroom,237,226,11
+E05011228,Northumberland Heath,E09000004,Bexley,2 bedrooms,823,857,-34
+E05011228,Northumberland Heath,E09000004,Bexley,3 bedrooms,2229,2327,-98
+E05011228,Northumberland Heath,E09000004,Bexley,4 or more bedrooms,757,596,161
+E05011229,St Mary's & St James,E09000004,Bexley,1 bedroom,264,226,38
+E05011229,St Mary's & St James,E09000004,Bexley,2 bedrooms,1058,1018,40
+E05011229,St Mary's & St James,E09000004,Bexley,3 bedrooms,1750,1823,-73
+E05011229,St Mary's & St James,E09000004,Bexley,4 or more bedrooms,1314,1135,179
+E05011230,Sidcup,E09000004,Bexley,1 bedroom,1177,1051,126
+E05011230,Sidcup,E09000004,Bexley,2 bedrooms,2070,1960,110
+E05011230,Sidcup,E09000004,Bexley,3 bedrooms,2053,2043,10
+E05011230,Sidcup,E09000004,Bexley,4 or more bedrooms,1406,1241,165
+E05011231,Slade Green & Northend,E09000004,Bexley,1 bedroom,689,798,-109
+E05011231,Slade Green & Northend,E09000004,Bexley,2 bedrooms,1502,1475,27
+E05011231,Slade Green & Northend,E09000004,Bexley,3 bedrooms,2021,1997,24
+E05011231,Slade Green & Northend,E09000004,Bexley,4 or more bedrooms,511,244,267
+E05011232,Thamesmead East,E09000004,Bexley,1 bedroom,1266,1357,-91
+E05011232,Thamesmead East,E09000004,Bexley,2 bedrooms,1480,1512,-32
+E05011232,Thamesmead East,E09000004,Bexley,3 bedrooms,1884,1942,-58
+E05011232,Thamesmead East,E09000004,Bexley,4 or more bedrooms,1060,1059,1
+E05011233,West Heath,E09000004,Bexley,1 bedroom,191,222,-31
+E05011233,West Heath,E09000004,Bexley,2 bedrooms,1023,1160,-137
+E05011233,West Heath,E09000004,Bexley,3 bedrooms,3173,3414,-241
+E05011233,West Heath,E09000004,Bexley,4 or more bedrooms,1467,1106,361
+E05011234,Aldborough,E09000026,Redbridge,1 bedroom,536,511,25
+E05011234,Aldborough,E09000026,Redbridge,2 bedrooms,1111,1074,37
+E05011234,Aldborough,E09000026,Redbridge,3 bedrooms,2203,2350,-147
+E05011234,Aldborough,E09000026,Redbridge,4 or more bedrooms,1165,719,446
+E05011235,Barkingside,E09000026,Redbridge,1 bedroom,557,542,15
+E05011235,Barkingside,E09000026,Redbridge,2 bedrooms,796,644,152
+E05011235,Barkingside,E09000026,Redbridge,3 bedrooms,1762,2216,-454
+E05011235,Barkingside,E09000026,Redbridge,4 or more bedrooms,1752,1201,551
+E05011236,Bridge,E09000026,Redbridge,1 bedroom,483,509,-26
+E05011236,Bridge,E09000026,Redbridge,2 bedrooms,1427,1548,-121
+E05011236,Bridge,E09000026,Redbridge,3 bedrooms,2146,2285,-139
+E05011236,Bridge,E09000026,Redbridge,4 or more bedrooms,1185,885,300
+E05011237,Chadwell,E09000026,Redbridge,1 bedroom,599,565,34
+E05011237,Chadwell,E09000026,Redbridge,2 bedrooms,1500,1533,-33
+E05011237,Chadwell,E09000026,Redbridge,3 bedrooms,2258,2503,-245
+E05011237,Chadwell,E09000026,Redbridge,4 or more bedrooms,1071,691,380
+E05011238,Churchfields,E09000026,Redbridge,1 bedroom,1147,1071,76
+E05011238,Churchfields,E09000026,Redbridge,2 bedrooms,1781,1804,-23
+E05011238,Churchfields,E09000026,Redbridge,3 bedrooms,1765,1923,-158
+E05011238,Churchfields,E09000026,Redbridge,4 or more bedrooms,1496,1148,348
+E05011239,Clayhall,E09000026,Redbridge,1 bedroom,256,226,30
+E05011239,Clayhall,E09000026,Redbridge,2 bedrooms,507,593,-86
+E05011239,Clayhall,E09000026,Redbridge,3 bedrooms,1276,1688,-412
+E05011239,Clayhall,E09000026,Redbridge,4 or more bedrooms,1973,1409,564
+E05011240,Clementswood,E09000026,Redbridge,1 bedroom,404,391,13
+E05011240,Clementswood,E09000026,Redbridge,2 bedrooms,578,622,-44
+E05011240,Clementswood,E09000026,Redbridge,3 bedrooms,1732,1839,-107
+E05011240,Clementswood,E09000026,Redbridge,4 or more bedrooms,1065,772,293
+E05011241,Cranbrook,E09000026,Redbridge,1 bedroom,590,596,-6
+E05011241,Cranbrook,E09000026,Redbridge,2 bedrooms,569,527,42
+E05011241,Cranbrook,E09000026,Redbridge,3 bedrooms,1082,1351,-269
+E05011241,Cranbrook,E09000026,Redbridge,4 or more bedrooms,1734,1405,329
+E05011242,Fairlop,E09000026,Redbridge,1 bedroom,573,487,86
+E05011242,Fairlop,E09000026,Redbridge,2 bedrooms,1261,1301,-40
+E05011242,Fairlop,E09000026,Redbridge,3 bedrooms,2289,2441,-152
+E05011242,Fairlop,E09000026,Redbridge,4 or more bedrooms,1129,725,404
+E05011243,Fullwell,E09000026,Redbridge,1 bedroom,439,391,48
+E05011243,Fullwell,E09000026,Redbridge,2 bedrooms,1251,1434,-183
+E05011243,Fullwell,E09000026,Redbridge,3 bedrooms,2195,2370,-175
+E05011243,Fullwell,E09000026,Redbridge,4 or more bedrooms,1515,1000,515
+E05011244,Goodmayes,E09000026,Redbridge,1 bedroom,906,792,114
+E05011244,Goodmayes,E09000026,Redbridge,2 bedrooms,1040,954,86
+E05011244,Goodmayes,E09000026,Redbridge,3 bedrooms,1350,1489,-139
+E05011244,Goodmayes,E09000026,Redbridge,4 or more bedrooms,1381,1059,322
+E05011245,Hainault,E09000026,Redbridge,1 bedroom,748,706,42
+E05011245,Hainault,E09000026,Redbridge,2 bedrooms,1643,1587,56
+E05011245,Hainault,E09000026,Redbridge,3 bedrooms,2641,2551,90
+E05011245,Hainault,E09000026,Redbridge,4 or more bedrooms,706,417,289
+E05011246,Ilford Town,E09000026,Redbridge,1 bedroom,1167,831,336
+E05011246,Ilford Town,E09000026,Redbridge,2 bedrooms,1686,1241,445
+E05011246,Ilford Town,E09000026,Redbridge,3 bedrooms,809,710,99
+E05011246,Ilford Town,E09000026,Redbridge,4 or more bedrooms,380,284,96
+E05011247,Loxford,E09000026,Redbridge,1 bedroom,684,727,-43
+E05011247,Loxford,E09000026,Redbridge,2 bedrooms,1548,1492,56
+E05011247,Loxford,E09000026,Redbridge,3 bedrooms,1558,1660,-102
+E05011247,Loxford,E09000026,Redbridge,4 or more bedrooms,732,440,292
+E05011248,Mayfield,E09000026,Redbridge,1 bedroom,315,300,15
+E05011248,Mayfield,E09000026,Redbridge,2 bedrooms,568,675,-107
+E05011248,Mayfield,E09000026,Redbridge,3 bedrooms,1954,2185,-231
+E05011248,Mayfield,E09000026,Redbridge,4 or more bedrooms,1511,1006,505
+E05011249,Monkhams,E09000026,Redbridge,1 bedroom,249,238,11
+E05011249,Monkhams,E09000026,Redbridge,2 bedrooms,890,822,68
+E05011249,Monkhams,E09000026,Redbridge,3 bedrooms,884,980,-96
+E05011249,Monkhams,E09000026,Redbridge,4 or more bedrooms,1695,1579,116
+E05011250,Newbury,E09000026,Redbridge,1 bedroom,527,421,106
+E05011250,Newbury,E09000026,Redbridge,2 bedrooms,764,740,24
+E05011250,Newbury,E09000026,Redbridge,3 bedrooms,1732,2009,-277
+E05011250,Newbury,E09000026,Redbridge,4 or more bedrooms,1256,791,465
+E05011251,Seven Kings,E09000026,Redbridge,1 bedroom,732,648,84
+E05011251,Seven Kings,E09000026,Redbridge,2 bedrooms,861,885,-24
+E05011251,Seven Kings,E09000026,Redbridge,3 bedrooms,1689,1836,-147
+E05011251,Seven Kings,E09000026,Redbridge,4 or more bedrooms,1329,1006,323
+E05011252,South Woodford,E09000026,Redbridge,1 bedroom,862,809,53
+E05011252,South Woodford,E09000026,Redbridge,2 bedrooms,1407,1391,16
+E05011252,South Woodford,E09000026,Redbridge,3 bedrooms,1176,1392,-216
+E05011252,South Woodford,E09000026,Redbridge,4 or more bedrooms,1575,1306,269
+E05011253,Valentines,E09000026,Redbridge,1 bedroom,1192,1287,-95
+E05011253,Valentines,E09000026,Redbridge,2 bedrooms,1134,1078,56
+E05011253,Valentines,E09000026,Redbridge,3 bedrooms,1173,1268,-95
+E05011253,Valentines,E09000026,Redbridge,4 or more bedrooms,1324,1056,268
+E05011254,Wanstead Park,E09000026,Redbridge,1 bedroom,349,395,-46
+E05011254,Wanstead Park,E09000026,Redbridge,2 bedrooms,693,766,-73
+E05011254,Wanstead Park,E09000026,Redbridge,3 bedrooms,798,889,-91
+E05011254,Wanstead Park,E09000026,Redbridge,4 or more bedrooms,1249,1107,142
+E05011255,Wanstead Village,E09000026,Redbridge,1 bedroom,1137,1190,-53
+E05011255,Wanstead Village,E09000026,Redbridge,2 bedrooms,1868,1959,-91
+E05011255,Wanstead Village,E09000026,Redbridge,3 bedrooms,1276,1367,-91
+E05011255,Wanstead Village,E09000026,Redbridge,4 or more bedrooms,1402,1170,232
+E05011462,Addiscombe East,E09000008,Croydon,1 bedroom,838,925,-87
+E05011462,Addiscombe East,E09000008,Croydon,2 bedrooms,1121,1098,23
+E05011462,Addiscombe East,E09000008,Croydon,3 bedrooms,1819,1862,-43
+E05011462,Addiscombe East,E09000008,Croydon,4 or more bedrooms,1023,872,151
+E05011463,Addiscombe West,E09000008,Croydon,1 bedroom,1690,1650,40
+E05011463,Addiscombe West,E09000008,Croydon,2 bedrooms,2443,2311,132
+E05011463,Addiscombe West,E09000008,Croydon,3 bedrooms,1888,1808,80
+E05011463,Addiscombe West,E09000008,Croydon,4 or more bedrooms,610,453,157
+E05011464,Bensham Manor,E09000008,Croydon,1 bedroom,910,970,-60
+E05011464,Bensham Manor,E09000008,Croydon,2 bedrooms,1593,1592,1
+E05011464,Bensham Manor,E09000008,Croydon,3 bedrooms,2637,2657,-20
+E05011464,Bensham Manor,E09000008,Croydon,4 or more bedrooms,956,708,248
+E05011465,Broad Green,E09000008,Croydon,1 bedroom,1497,1433,64
+E05011465,Broad Green,E09000008,Croydon,2 bedrooms,2679,2531,148
+E05011465,Broad Green,E09000008,Croydon,3 bedrooms,2391,2318,73
+E05011465,Broad Green,E09000008,Croydon,4 or more bedrooms,712,448,264
+E05011466,Coulsdon Town,E09000008,Croydon,1 bedroom,413,217,196
+E05011466,Coulsdon Town,E09000008,Croydon,2 bedrooms,914,613,301
+E05011466,Coulsdon Town,E09000008,Croydon,3 bedrooms,2348,2210,138
+E05011466,Coulsdon Town,E09000008,Croydon,4 or more bedrooms,2009,1516,493
+E05011467,Crystal Palace & Upper Norwood,E09000008,Croydon,1 bedroom,1661,1721,-60
+E05011467,Crystal Palace & Upper Norwood,E09000008,Croydon,2 bedrooms,2708,2677,31
+E05011467,Crystal Palace & Upper Norwood,E09000008,Croydon,3 bedrooms,1826,1855,-29
+E05011467,Crystal Palace & Upper Norwood,E09000008,Croydon,4 or more bedrooms,997,825,172
+E05011468,Fairfield,E09000008,Croydon,1 bedroom,3346,1495,1851
+E05011468,Fairfield,E09000008,Croydon,2 bedrooms,3371,1897,1474
+E05011468,Fairfield,E09000008,Croydon,3 bedrooms,579,495,84
+E05011468,Fairfield,E09000008,Croydon,4 or more bedrooms,227,166,61
+E05011469,Kenley,E09000008,Croydon,1 bedroom,182,160,22
+E05011469,Kenley,E09000008,Croydon,2 bedrooms,888,1001,-113
+E05011469,Kenley,E09000008,Croydon,3 bedrooms,1420,1514,-94
+E05011469,Kenley,E09000008,Croydon,4 or more bedrooms,1437,1271,166
+E05011470,New Addington North,E09000008,Croydon,1 bedroom,363,373,-10
+E05011470,New Addington North,E09000008,Croydon,2 bedrooms,904,973,-69
+E05011470,New Addington North,E09000008,Croydon,3 bedrooms,2223,2262,-39
+E05011470,New Addington North,E09000008,Croydon,4 or more bedrooms,217,169,48
+E05011471,New Addington South,E09000008,Croydon,1 bedroom,316,373,-57
+E05011471,New Addington South,E09000008,Croydon,2 bedrooms,1208,1365,-157
+E05011471,New Addington South,E09000008,Croydon,3 bedrooms,2078,2159,-81
+E05011471,New Addington South,E09000008,Croydon,4 or more bedrooms,415,322,93
+E05011472,Norbury & Pollards Hill,E09000008,Croydon,1 bedroom,699,565,134
+E05011472,Norbury & Pollards Hill,E09000008,Croydon,2 bedrooms,1281,1273,8
+E05011472,Norbury & Pollards Hill,E09000008,Croydon,3 bedrooms,1525,1636,-111
+E05011472,Norbury & Pollards Hill,E09000008,Croydon,4 or more bedrooms,1109,956,153
+E05011473,Norbury Park,E09000008,Croydon,1 bedroom,305,305,0
+E05011473,Norbury Park,E09000008,Croydon,2 bedrooms,479,496,-17
+E05011473,Norbury Park,E09000008,Croydon,3 bedrooms,1401,1610,-209
+E05011473,Norbury Park,E09000008,Croydon,4 or more bedrooms,1415,1148,267
+E05011474,Old Coulsdon,E09000008,Croydon,1 bedroom,198,240,-42
+E05011474,Old Coulsdon,E09000008,Croydon,2 bedrooms,687,765,-78
+E05011474,Old Coulsdon,E09000008,Croydon,3 bedrooms,1803,1907,-104
+E05011474,Old Coulsdon,E09000008,Croydon,4 or more bedrooms,1140,984,156
+E05011475,Park Hill & Whitgift,E09000008,Croydon,1 bedroom,519,581,-62
+E05011475,Park Hill & Whitgift,E09000008,Croydon,2 bedrooms,761,770,-9
+E05011475,Park Hill & Whitgift,E09000008,Croydon,3 bedrooms,417,428,-11
+E05011475,Park Hill & Whitgift,E09000008,Croydon,4 or more bedrooms,703,727,-24
+E05011476,Purley & Woodcote,E09000008,Croydon,1 bedroom,917,728,189
+E05011476,Purley & Woodcote,E09000008,Croydon,2 bedrooms,1630,1436,194
+E05011476,Purley & Woodcote,E09000008,Croydon,3 bedrooms,1375,1455,-80
+E05011476,Purley & Woodcote,E09000008,Croydon,4 or more bedrooms,2484,2415,69
+E05011477,Purley Oaks & Riddlesdown,E09000008,Croydon,1 bedroom,389,393,-4
+E05011477,Purley Oaks & Riddlesdown,E09000008,Croydon,2 bedrooms,971,1004,-33
+E05011477,Purley Oaks & Riddlesdown,E09000008,Croydon,3 bedrooms,1477,1519,-42
+E05011477,Purley Oaks & Riddlesdown,E09000008,Croydon,4 or more bedrooms,1261,1127,134
+E05011478,Sanderstead,E09000008,Croydon,1 bedroom,298,290,8
+E05011478,Sanderstead,E09000008,Croydon,2 bedrooms,830,839,-9
+E05011478,Sanderstead,E09000008,Croydon,3 bedrooms,2207,2421,-214
+E05011478,Sanderstead,E09000008,Croydon,4 or more bedrooms,2553,2254,299
+E05011479,Selhurst,E09000008,Croydon,1 bedroom,1296,1219,77
+E05011479,Selhurst,E09000008,Croydon,2 bedrooms,2007,1847,160
+E05011479,Selhurst,E09000008,Croydon,3 bedrooms,1372,1255,117
+E05011479,Selhurst,E09000008,Croydon,4 or more bedrooms,481,360,121
+E05011480,Selsdon & Addington Village,E09000008,Croydon,1 bedroom,146,139,7
+E05011480,Selsdon & Addington Village,E09000008,Croydon,2 bedrooms,512,535,-23
+E05011480,Selsdon & Addington Village,E09000008,Croydon,3 bedrooms,1909,2014,-105
+E05011480,Selsdon & Addington Village,E09000008,Croydon,4 or more bedrooms,1276,1097,179
+E05011481,Selsdon Vale & Forestdale,E09000008,Croydon,1 bedroom,657,686,-29
+E05011481,Selsdon Vale & Forestdale,E09000008,Croydon,2 bedrooms,843,866,-23
+E05011481,Selsdon Vale & Forestdale,E09000008,Croydon,3 bedrooms,1737,1807,-70
+E05011481,Selsdon Vale & Forestdale,E09000008,Croydon,4 or more bedrooms,877,766,111
+E05011482,Shirley North,E09000008,Croydon,1 bedroom,449,446,3
+E05011482,Shirley North,E09000008,Croydon,2 bedrooms,1394,1436,-42
+E05011482,Shirley North,E09000008,Croydon,3 bedrooms,2817,2942,-125
+E05011482,Shirley North,E09000008,Croydon,4 or more bedrooms,1343,1126,217
+E05011483,Shirley South,E09000008,Croydon,1 bedroom,116,117,-1
+E05011483,Shirley South,E09000008,Croydon,2 bedrooms,796,855,-59
+E05011483,Shirley South,E09000008,Croydon,3 bedrooms,1945,2054,-109
+E05011483,Shirley South,E09000008,Croydon,4 or more bedrooms,1056,894,162
+E05011484,South Croydon,E09000008,Croydon,1 bedroom,1794,1928,-134
+E05011484,South Croydon,E09000008,Croydon,2 bedrooms,3048,2983,65
+E05011484,South Croydon,E09000008,Croydon,3 bedrooms,1358,1306,52
+E05011484,South Croydon,E09000008,Croydon,4 or more bedrooms,1254,1136,118
+E05011485,South Norwood,E09000008,Croydon,1 bedroom,2239,2251,-12
+E05011485,South Norwood,E09000008,Croydon,2 bedrooms,2424,2164,260
+E05011485,South Norwood,E09000008,Croydon,3 bedrooms,1703,1711,-8
+E05011485,South Norwood,E09000008,Croydon,4 or more bedrooms,758,619,139
+E05011486,Thornton Heath,E09000008,Croydon,1 bedroom,1282,1264,18
+E05011486,Thornton Heath,E09000008,Croydon,2 bedrooms,2221,2173,48
+E05011486,Thornton Heath,E09000008,Croydon,3 bedrooms,2650,2642,8
+E05011486,Thornton Heath,E09000008,Croydon,4 or more bedrooms,860,648,212
+E05011487,Waddon,E09000008,Croydon,1 bedroom,1571,1397,174
+E05011487,Waddon,E09000008,Croydon,2 bedrooms,2752,2520,232
+E05011487,Waddon,E09000008,Croydon,3 bedrooms,2193,2185,8
+E05011487,Waddon,E09000008,Croydon,4 or more bedrooms,765,549,216
+E05011488,West Thornton,E09000008,Croydon,1 bedroom,1197,876,321
+E05011488,West Thornton,E09000008,Croydon,2 bedrooms,1663,1750,-87
+E05011488,West Thornton,E09000008,Croydon,3 bedrooms,2603,2722,-119
+E05011488,West Thornton,E09000008,Croydon,4 or more bedrooms,1019,743,276
+E05011489,Woodside,E09000008,Croydon,1 bedroom,1218,1316,-98
+E05011489,Woodside,E09000008,Croydon,2 bedrooms,2350,2456,-106
+E05011489,Woodside,E09000008,Croydon,3 bedrooms,2600,2633,-33
+E05011489,Woodside,E09000008,Croydon,4 or more bedrooms,749,489,260
+E05013496,Alperton,E09000005,Brent,1 bedroom,916,575,341
+E05013496,Alperton,E09000005,Brent,2 bedrooms,1287,865,422
+E05013496,Alperton,E09000005,Brent,3 bedrooms,1670,1578,92
+E05013496,Alperton,E09000005,Brent,4 or more bedrooms,612,353,259
+E05013497,Barnhill,E09000005,Brent,1 bedroom,554,583,-29
+E05013497,Barnhill,E09000005,Brent,2 bedrooms,1245,1296,-51
+E05013497,Barnhill,E09000005,Brent,3 bedrooms,981,1023,-42
+E05013497,Barnhill,E09000005,Brent,4 or more bedrooms,985,851,134
+E05013498,Brondesbury Park,E09000005,Brent,1 bedroom,1588,1526,62
+E05013498,Brondesbury Park,E09000005,Brent,2 bedrooms,1766,1699,67
+E05013498,Brondesbury Park,E09000005,Brent,3 bedrooms,973,937,36
+E05013498,Brondesbury Park,E09000005,Brent,4 or more bedrooms,1251,1142,109
+E05013499,Cricklewood & Mapesbury,E09000005,Brent,1 bedroom,1666,1646,20
+E05013499,Cricklewood & Mapesbury,E09000005,Brent,2 bedrooms,1959,1979,-20
+E05013499,Cricklewood & Mapesbury,E09000005,Brent,3 bedrooms,948,879,69
+E05013499,Cricklewood & Mapesbury,E09000005,Brent,4 or more bedrooms,1086,938,148
+E05013500,Dollis Hill,E09000005,Brent,1 bedroom,1307,1015,292
+E05013500,Dollis Hill,E09000005,Brent,2 bedrooms,1982,1805,177
+E05013500,Dollis Hill,E09000005,Brent,3 bedrooms,2284,2507,-223
+E05013500,Dollis Hill,E09000005,Brent,4 or more bedrooms,1656,1243,413
+E05013501,Harlesden & Kensal Green,E09000005,Brent,1 bedroom,2039,2418,-379
+E05013501,Harlesden & Kensal Green,E09000005,Brent,2 bedrooms,2899,3027,-128
+E05013501,Harlesden & Kensal Green,E09000005,Brent,3 bedrooms,1930,1902,28
+E05013501,Harlesden & Kensal Green,E09000005,Brent,4 or more bedrooms,1158,978,180
+E05013502,Kenton,E09000005,Brent,1 bedroom,668,759,-91
+E05013502,Kenton,E09000005,Brent,2 bedrooms,991,896,95
+E05013502,Kenton,E09000005,Brent,3 bedrooms,1962,2187,-225
+E05013502,Kenton,E09000005,Brent,4 or more bedrooms,2086,1694,392
+E05013503,Kilburn,E09000005,Brent,1 bedroom,2783,3098,-315
+E05013503,Kilburn,E09000005,Brent,2 bedrooms,2863,2667,196
+E05013503,Kilburn,E09000005,Brent,3 bedrooms,1260,1218,42
+E05013503,Kilburn,E09000005,Brent,4 or more bedrooms,740,629,111
+E05013504,Kingsbury,E09000005,Brent,1 bedroom,587,340,247
+E05013504,Kingsbury,E09000005,Brent,2 bedrooms,1078,835,243
+E05013504,Kingsbury,E09000005,Brent,3 bedrooms,1400,1371,29
+E05013504,Kingsbury,E09000005,Brent,4 or more bedrooms,766,530,236
+E05013505,Northwick Park,E09000005,Brent,1 bedroom,395,549,-154
+E05013505,Northwick Park,E09000005,Brent,2 bedrooms,617,601,16
+E05013505,Northwick Park,E09000005,Brent,3 bedrooms,1310,1422,-112
+E05013505,Northwick Park,E09000005,Brent,4 or more bedrooms,1459,1174,285
+E05013506,Preston,E09000005,Brent,1 bedroom,536,429,107
+E05013506,Preston,E09000005,Brent,2 bedrooms,1025,928,97
+E05013506,Preston,E09000005,Brent,3 bedrooms,1343,1442,-99
+E05013506,Preston,E09000005,Brent,4 or more bedrooms,974,686,288
+E05013507,Queens Park,E09000005,Brent,1 bedroom,1538,1951,-413
+E05013507,Queens Park,E09000005,Brent,2 bedrooms,2350,2593,-243
+E05013507,Queens Park,E09000005,Brent,3 bedrooms,1477,1622,-145
+E05013507,Queens Park,E09000005,Brent,4 or more bedrooms,1647,1393,254
+E05013508,Queensbury,E09000005,Brent,1 bedroom,484,430,54
+E05013508,Queensbury,E09000005,Brent,2 bedrooms,1166,1052,114
+E05013508,Queensbury,E09000005,Brent,3 bedrooms,2197,2428,-231
+E05013508,Queensbury,E09000005,Brent,4 or more bedrooms,1419,1001,418
+E05013509,Roundwood,E09000005,Brent,1 bedroom,1643,1613,30
+E05013509,Roundwood,E09000005,Brent,2 bedrooms,2324,2199,125
+E05013509,Roundwood,E09000005,Brent,3 bedrooms,1423,1424,-1
+E05013509,Roundwood,E09000005,Brent,4 or more bedrooms,857,655,202
+E05013510,Stonebridge,E09000005,Brent,1 bedroom,1762,1356,406
+E05013510,Stonebridge,E09000005,Brent,2 bedrooms,2615,1937,678
+E05013510,Stonebridge,E09000005,Brent,3 bedrooms,2046,1951,95
+E05013510,Stonebridge,E09000005,Brent,4 or more bedrooms,800,632,168
+E05013511,Sudbury,E09000005,Brent,1 bedroom,756,742,14
+E05013511,Sudbury,E09000005,Brent,2 bedrooms,1324,1291,33
+E05013511,Sudbury,E09000005,Brent,3 bedrooms,1386,1444,-58
+E05013511,Sudbury,E09000005,Brent,4 or more bedrooms,832,566,266
+E05013512,Tokyngton,E09000005,Brent,1 bedroom,210,217,-7
+E05013512,Tokyngton,E09000005,Brent,2 bedrooms,296,317,-21
+E05013512,Tokyngton,E09000005,Brent,3 bedrooms,1593,1736,-143
+E05013512,Tokyngton,E09000005,Brent,4 or more bedrooms,712,483,229
+E05013513,Welsh Harp,E09000005,Brent,1 bedroom,958,992,-34
+E05013513,Welsh Harp,E09000005,Brent,2 bedrooms,1569,1526,43
+E05013513,Welsh Harp,E09000005,Brent,3 bedrooms,2291,2469,-178
+E05013513,Welsh Harp,E09000005,Brent,4 or more bedrooms,1267,831,436
+E05013514,Wembley Central,E09000005,Brent,1 bedroom,700,636,64
+E05013514,Wembley Central,E09000005,Brent,2 bedrooms,1582,1376,206
+E05013514,Wembley Central,E09000005,Brent,3 bedrooms,1598,1616,-18
+E05013514,Wembley Central,E09000005,Brent,4 or more bedrooms,1047,737,310
+E05013515,Wembley Hill,E09000005,Brent,1 bedroom,932,878,54
+E05013515,Wembley Hill,E09000005,Brent,2 bedrooms,1361,1203,158
+E05013515,Wembley Hill,E09000005,Brent,3 bedrooms,1448,1488,-40
+E05013515,Wembley Hill,E09000005,Brent,4 or more bedrooms,1044,752,292
+E05013516,Wembley Park,E09000005,Brent,1 bedroom,1249,346,903
+E05013516,Wembley Park,E09000005,Brent,2 bedrooms,1179,309,870
+E05013516,Wembley Park,E09000005,Brent,3 bedrooms,226,59,167
+E05013516,Wembley Park,E09000005,Brent,4 or more bedrooms,28,9,19
+E05013517,Willesden Green,E09000005,Brent,1 bedroom,2213,2157,56
+E05013517,Willesden Green,E09000005,Brent,2 bedrooms,2354,2272,82
+E05013517,Willesden Green,E09000005,Brent,3 bedrooms,1672,1668,4
+E05013517,Willesden Green,E09000005,Brent,4 or more bedrooms,1400,1203,197
+E05013518,Central Greenford,E09000009,Ealing,1 bedroom,796,665,131
+E05013518,Central Greenford,E09000009,Ealing,2 bedrooms,1070,1022,48
+E05013518,Central Greenford,E09000009,Ealing,3 bedrooms,2174,2230,-56
+E05013518,Central Greenford,E09000009,Ealing,4 or more bedrooms,857,657,200
+E05013519,Dormers Wells,E09000009,Ealing,1 bedroom,644,547,97
+E05013519,Dormers Wells,E09000009,Ealing,2 bedrooms,1242,1159,83
+E05013519,Dormers Wells,E09000009,Ealing,3 bedrooms,1854,1975,-121
+E05013519,Dormers Wells,E09000009,Ealing,4 or more bedrooms,948,731,217
+E05013520,Ealing Broadway,E09000009,Ealing,1 bedroom,1799,1616,183
+E05013520,Ealing Broadway,E09000009,Ealing,2 bedrooms,2377,1878,499
+E05013520,Ealing Broadway,E09000009,Ealing,3 bedrooms,805,712,93
+E05013520,Ealing Broadway,E09000009,Ealing,4 or more bedrooms,1357,1324,33
+E05013521,Ealing Common,E09000009,Ealing,1 bedroom,1519,1504,15
+E05013521,Ealing Common,E09000009,Ealing,2 bedrooms,2036,1972,64
+E05013521,Ealing Common,E09000009,Ealing,3 bedrooms,1380,1454,-74
+E05013521,Ealing Common,E09000009,Ealing,4 or more bedrooms,1700,1518,182
+E05013522,East Acton,E09000009,Ealing,1 bedroom,1726,1415,311
+E05013522,East Acton,E09000009,Ealing,2 bedrooms,1821,1580,241
+E05013522,East Acton,E09000009,Ealing,3 bedrooms,1347,1401,-54
+E05013522,East Acton,E09000009,Ealing,4 or more bedrooms,1350,1065,285
+E05013523,Greenford Broadway,E09000009,Ealing,1 bedroom,983,871,112
+E05013523,Greenford Broadway,E09000009,Ealing,2 bedrooms,2094,1975,119
+E05013523,Greenford Broadway,E09000009,Ealing,3 bedrooms,2129,2216,-87
+E05013523,Greenford Broadway,E09000009,Ealing,4 or more bedrooms,805,573,232
+E05013524,Hanger Hill,E09000009,Ealing,1 bedroom,1225,1170,55
+E05013524,Hanger Hill,E09000009,Ealing,2 bedrooms,1931,1878,53
+E05013524,Hanger Hill,E09000009,Ealing,3 bedrooms,1754,1881,-127
+E05013524,Hanger Hill,E09000009,Ealing,4 or more bedrooms,1754,1554,200
+E05013525,Hanwell Broadway,E09000009,Ealing,1 bedroom,1623,1643,-20
+E05013525,Hanwell Broadway,E09000009,Ealing,2 bedrooms,2020,1856,164
+E05013525,Hanwell Broadway,E09000009,Ealing,3 bedrooms,1589,1598,-9
+E05013525,Hanwell Broadway,E09000009,Ealing,4 or more bedrooms,905,612,293
+E05013526,Lady Margaret,E09000009,Ealing,1 bedroom,368,304,64
+E05013526,Lady Margaret,E09000009,Ealing,2 bedrooms,862,889,-27
+E05013526,Lady Margaret,E09000009,Ealing,3 bedrooms,2453,2517,-64
+E05013526,Lady Margaret,E09000009,Ealing,4 or more bedrooms,1048,761,287
+E05013527,North Acton,E09000009,Ealing,1 bedroom,1974,1461,513
+E05013527,North Acton,E09000009,Ealing,2 bedrooms,1863,1634,229
+E05013527,North Acton,E09000009,Ealing,3 bedrooms,1621,1651,-30
+E05013527,North Acton,E09000009,Ealing,4 or more bedrooms,1297,1097,200
+E05013528,North Greenford,E09000009,Ealing,1 bedroom,806,529,277
+E05013528,North Greenford,E09000009,Ealing,2 bedrooms,875,856,19
+E05013528,North Greenford,E09000009,Ealing,3 bedrooms,2641,2856,-215
+E05013528,North Greenford,E09000009,Ealing,4 or more bedrooms,1110,793,317
+E05013529,North Hanwell,E09000009,Ealing,1 bedroom,764,795,-31
+E05013529,North Hanwell,E09000009,Ealing,2 bedrooms,1707,1709,-2
+E05013529,North Hanwell,E09000009,Ealing,3 bedrooms,1957,1995,-38
+E05013529,North Hanwell,E09000009,Ealing,4 or more bedrooms,1055,773,282
+E05013530,Northfield,E09000009,Ealing,1 bedroom,820,865,-45
+E05013530,Northfield,E09000009,Ealing,2 bedrooms,1350,1439,-89
+E05013530,Northfield,E09000009,Ealing,3 bedrooms,1667,1847,-180
+E05013530,Northfield,E09000009,Ealing,4 or more bedrooms,1829,1409,420
+E05013531,Northolt Mandeville,E09000009,Ealing,1 bedroom,760,673,87
+E05013531,Northolt Mandeville,E09000009,Ealing,2 bedrooms,2382,2341,41
+E05013531,Northolt Mandeville,E09000009,Ealing,3 bedrooms,2213,2247,-34
+E05013531,Northolt Mandeville,E09000009,Ealing,4 or more bedrooms,720,449,271
+E05013532,Northolt West End,E09000009,Ealing,1 bedroom,1023,1160,-137
+E05013532,Northolt West End,E09000009,Ealing,2 bedrooms,1988,2031,-43
+E05013532,Northolt West End,E09000009,Ealing,3 bedrooms,1984,1961,23
+E05013532,Northolt West End,E09000009,Ealing,4 or more bedrooms,630,431,199
+E05013533,Norwood Green,E09000009,Ealing,1 bedroom,993,802,191
+E05013533,Norwood Green,E09000009,Ealing,2 bedrooms,1402,1052,350
+E05013533,Norwood Green,E09000009,Ealing,3 bedrooms,1528,1429,99
+E05013533,Norwood Green,E09000009,Ealing,4 or more bedrooms,914,729,185
+E05013534,Perivale,E09000009,Ealing,1 bedroom,891,671,220
+E05013534,Perivale,E09000009,Ealing,2 bedrooms,1012,1058,-46
+E05013534,Perivale,E09000009,Ealing,3 bedrooms,2703,2778,-75
+E05013534,Perivale,E09000009,Ealing,4 or more bedrooms,1055,792,263
+E05013535,Pitshanger,E09000009,Ealing,1 bedroom,1185,1207,-22
+E05013535,Pitshanger,E09000009,Ealing,2 bedrooms,1753,1577,176
+E05013535,Pitshanger,E09000009,Ealing,3 bedrooms,1335,1446,-111
+E05013535,Pitshanger,E09000009,Ealing,4 or more bedrooms,1652,1455,197
+E05013536,South Acton,E09000009,Ealing,1 bedroom,2562,2227,335
+E05013536,South Acton,E09000009,Ealing,2 bedrooms,2852,2314,538
+E05013536,South Acton,E09000009,Ealing,3 bedrooms,1166,1085,81
+E05013536,South Acton,E09000009,Ealing,4 or more bedrooms,777,651,126
+E05013537,Southall Broadway,E09000009,Ealing,1 bedroom,349,271,78
+E05013537,Southall Broadway,E09000009,Ealing,2 bedrooms,457,369,88
+E05013537,Southall Broadway,E09000009,Ealing,3 bedrooms,1251,1233,18
+E05013537,Southall Broadway,E09000009,Ealing,4 or more bedrooms,814,636,178
+E05013538,Southall Green,E09000009,Ealing,1 bedroom,637,459,178
+E05013538,Southall Green,E09000009,Ealing,2 bedrooms,1122,875,247
+E05013538,Southall Green,E09000009,Ealing,3 bedrooms,1888,1935,-47
+E05013538,Southall Green,E09000009,Ealing,4 or more bedrooms,781,561,220
+E05013539,Southall West,E09000009,Ealing,1 bedroom,222,171,51
+E05013539,Southall West,E09000009,Ealing,2 bedrooms,410,321,89
+E05013539,Southall West,E09000009,Ealing,3 bedrooms,868,810,58
+E05013539,Southall West,E09000009,Ealing,4 or more bedrooms,374,258,116
+E05013540,Southfield,E09000009,Ealing,1 bedroom,1622,1466,156
+E05013540,Southfield,E09000009,Ealing,2 bedrooms,2297,2126,171
+E05013540,Southfield,E09000009,Ealing,3 bedrooms,1551,1579,-28
+E05013540,Southfield,E09000009,Ealing,4 or more bedrooms,1728,1398,330
+E05013541,Walpole,E09000009,Ealing,1 bedroom,1452,1552,-100
+E05013541,Walpole,E09000009,Ealing,2 bedrooms,1745,1787,-42
+E05013541,Walpole,E09000009,Ealing,3 bedrooms,1330,1403,-73
+E05013541,Walpole,E09000009,Ealing,4 or more bedrooms,1626,1358,268
+E05013542,Belmont,E09000015,Harrow,1 bedroom,114,108,6
+E05013542,Belmont,E09000015,Harrow,2 bedrooms,294,341,-47
+E05013542,Belmont,E09000015,Harrow,3 bedrooms,1382,1595,-213
+E05013542,Belmont,E09000015,Harrow,4 or more bedrooms,1143,882,261
+E05013543,Canons,E09000015,Harrow,1 bedroom,362,374,-12
+E05013543,Canons,E09000015,Harrow,2 bedrooms,856,850,6
+E05013543,Canons,E09000015,Harrow,3 bedrooms,1012,1121,-109
+E05013543,Canons,E09000015,Harrow,4 or more bedrooms,1195,1054,141
+E05013544,Centenary,E09000015,Harrow,1 bedroom,414,141,273
+E05013544,Centenary,E09000015,Harrow,2 bedrooms,741,575,166
+E05013544,Centenary,E09000015,Harrow,3 bedrooms,2111,2302,-191
+E05013544,Centenary,E09000015,Harrow,4 or more bedrooms,1268,862,406
+E05013545,Edgware,E09000015,Harrow,1 bedroom,532,404,128
+E05013545,Edgware,E09000015,Harrow,2 bedrooms,1054,1007,47
+E05013545,Edgware,E09000015,Harrow,3 bedrooms,2219,2493,-274
+E05013545,Edgware,E09000015,Harrow,4 or more bedrooms,1079,702,377
+E05013546,Greenhill,E09000015,Harrow,1 bedroom,1477,718,759
+E05013546,Greenhill,E09000015,Harrow,2 bedrooms,1911,1218,693
+E05013546,Greenhill,E09000015,Harrow,3 bedrooms,770,701,69
+E05013546,Greenhill,E09000015,Harrow,4 or more bedrooms,494,431,63
+E05013547,Harrow on the Hill,E09000015,Harrow,1 bedroom,814,851,-37
+E05013547,Harrow on the Hill,E09000015,Harrow,2 bedrooms,1588,1625,-37
+E05013547,Harrow on the Hill,E09000015,Harrow,3 bedrooms,823,873,-50
+E05013547,Harrow on the Hill,E09000015,Harrow,4 or more bedrooms,730,678,52
+E05013548,Harrow Weald,E09000015,Harrow,1 bedroom,607,599,8
+E05013548,Harrow Weald,E09000015,Harrow,2 bedrooms,1104,1178,-74
+E05013548,Harrow Weald,E09000015,Harrow,3 bedrooms,2159,2235,-76
+E05013548,Harrow Weald,E09000015,Harrow,4 or more bedrooms,1219,1017,202
+E05013549,Hatch End,E09000015,Harrow,1 bedroom,311,311,0
+E05013549,Hatch End,E09000015,Harrow,2 bedrooms,776,816,-40
+E05013549,Hatch End,E09000015,Harrow,3 bedrooms,959,1036,-77
+E05013549,Hatch End,E09000015,Harrow,4 or more bedrooms,1395,1254,141
+E05013550,Headstone,E09000015,Harrow,1 bedroom,610,560,50
+E05013550,Headstone,E09000015,Harrow,2 bedrooms,1115,942,173
+E05013550,Headstone,E09000015,Harrow,3 bedrooms,1900,2007,-107
+E05013550,Headstone,E09000015,Harrow,4 or more bedrooms,1619,1199,420
+E05013551,Kenton East,E09000015,Harrow,1 bedroom,393,388,5
+E05013551,Kenton East,E09000015,Harrow,2 bedrooms,960,1042,-82
+E05013551,Kenton East,E09000015,Harrow,3 bedrooms,1966,2227,-261
+E05013551,Kenton East,E09000015,Harrow,4 or more bedrooms,1161,827,334
+E05013552,Kenton West,E09000015,Harrow,1 bedroom,118,126,-8
+E05013552,Kenton West,E09000015,Harrow,2 bedrooms,212,243,-31
+E05013552,Kenton West,E09000015,Harrow,3 bedrooms,1384,1582,-198
+E05013552,Kenton West,E09000015,Harrow,4 or more bedrooms,1202,925,277
+E05013553,Marlborough,E09000015,Harrow,1 bedroom,896,826,70
+E05013553,Marlborough,E09000015,Harrow,2 bedrooms,1343,1177,166
+E05013553,Marlborough,E09000015,Harrow,3 bedrooms,997,1044,-47
+E05013553,Marlborough,E09000015,Harrow,4 or more bedrooms,760,617,143
+E05013554,North Harrow,E09000015,Harrow,1 bedroom,440,332,108
+E05013554,North Harrow,E09000015,Harrow,2 bedrooms,507,488,19
+E05013554,North Harrow,E09000015,Harrow,3 bedrooms,1340,1587,-247
+E05013554,North Harrow,E09000015,Harrow,4 or more bedrooms,959,678,281
+E05013555,Pinner,E09000015,Harrow,1 bedroom,530,587,-57
+E05013555,Pinner,E09000015,Harrow,2 bedrooms,1303,1343,-40
+E05013555,Pinner,E09000015,Harrow,3 bedrooms,1477,1576,-99
+E05013555,Pinner,E09000015,Harrow,4 or more bedrooms,1729,1512,217
+E05013556,Pinner South,E09000015,Harrow,1 bedroom,379,270,109
+E05013556,Pinner South,E09000015,Harrow,2 bedrooms,931,1006,-75
+E05013556,Pinner South,E09000015,Harrow,3 bedrooms,1916,2256,-340
+E05013556,Pinner South,E09000015,Harrow,4 or more bedrooms,2145,1719,426
+E05013557,Rayners Lane,E09000015,Harrow,1 bedroom,166,148,18
+E05013557,Rayners Lane,E09000015,Harrow,2 bedrooms,339,392,-53
+E05013557,Rayners Lane,E09000015,Harrow,3 bedrooms,1751,1894,-143
+E05013557,Rayners Lane,E09000015,Harrow,4 or more bedrooms,787,603,184
+E05013558,Roxbourne,E09000015,Harrow,1 bedroom,471,402,69
+E05013558,Roxbourne,E09000015,Harrow,2 bedrooms,1024,897,127
+E05013558,Roxbourne,E09000015,Harrow,3 bedrooms,1310,1380,-70
+E05013558,Roxbourne,E09000015,Harrow,4 or more bedrooms,493,333,160
+E05013559,Roxeth,E09000015,Harrow,1 bedroom,864,686,178
+E05013559,Roxeth,E09000015,Harrow,2 bedrooms,1237,1184,53
+E05013559,Roxeth,E09000015,Harrow,3 bedrooms,2319,2439,-120
+E05013559,Roxeth,E09000015,Harrow,4 or more bedrooms,896,643,253
+E05013560,Stanmore,E09000015,Harrow,1 bedroom,674,617,57
+E05013560,Stanmore,E09000015,Harrow,2 bedrooms,1629,1626,3
+E05013560,Stanmore,E09000015,Harrow,3 bedrooms,1289,1257,32
+E05013560,Stanmore,E09000015,Harrow,4 or more bedrooms,1540,1383,157
+E05013561,Wealdstone North,E09000015,Harrow,1 bedroom,499,471,28
+E05013561,Wealdstone North,E09000015,Harrow,2 bedrooms,753,635,118
+E05013561,Wealdstone North,E09000015,Harrow,3 bedrooms,1558,1615,-57
+E05013561,Wealdstone North,E09000015,Harrow,4 or more bedrooms,542,361,181
+E05013562,Wealdstone South,E09000015,Harrow,1 bedroom,543,469,74
+E05013562,Wealdstone South,E09000015,Harrow,2 bedrooms,772,722,50
+E05013562,Wealdstone South,E09000015,Harrow,3 bedrooms,899,915,-16
+E05013562,Wealdstone South,E09000015,Harrow,4 or more bedrooms,422,295,127
+E05013563,West Harrow,E09000015,Harrow,1 bedroom,593,466,127
+E05013563,West Harrow,E09000015,Harrow,2 bedrooms,844,747,97
+E05013563,West Harrow,E09000015,Harrow,3 bedrooms,1455,1504,-49
+E05013563,West Harrow,E09000015,Harrow,4 or more bedrooms,727,514,213
+E05013564,Belmore,E09000017,Hillingdon,1 bedroom,397,373,24
+E05013564,Belmore,E09000017,Hillingdon,2 bedrooms,1145,1253,-108
+E05013564,Belmore,E09000017,Hillingdon,3 bedrooms,2600,2605,-5
+E05013564,Belmore,E09000017,Hillingdon,4 or more bedrooms,976,681,295
+E05013565,Charville,E09000017,Hillingdon,1 bedroom,379,320,59
+E05013565,Charville,E09000017,Hillingdon,2 bedrooms,864,891,-27
+E05013565,Charville,E09000017,Hillingdon,3 bedrooms,1950,2101,-151
+E05013565,Charville,E09000017,Hillingdon,4 or more bedrooms,605,384,221
+E05013566,Colham & Cowley,E09000017,Hillingdon,1 bedroom,1364,1133,231
+E05013566,Colham & Cowley,E09000017,Hillingdon,2 bedrooms,1899,1950,-51
+E05013566,Colham & Cowley,E09000017,Hillingdon,3 bedrooms,2323,2288,35
+E05013566,Colham & Cowley,E09000017,Hillingdon,4 or more bedrooms,1041,754,287
+E05013567,Eastcote,E09000017,Hillingdon,1 bedroom,623,467,156
+E05013567,Eastcote,E09000017,Hillingdon,2 bedrooms,1676,1644,32
+E05013567,Eastcote,E09000017,Hillingdon,3 bedrooms,2778,3001,-223
+E05013567,Eastcote,E09000017,Hillingdon,4 or more bedrooms,1593,1182,411
+E05013568,Harefield Village,E09000017,Hillingdon,1 bedroom,294,293,1
+E05013568,Harefield Village,E09000017,Hillingdon,2 bedrooms,767,700,67
+E05013568,Harefield Village,E09000017,Hillingdon,3 bedrooms,855,821,34
+E05013568,Harefield Village,E09000017,Hillingdon,4 or more bedrooms,412,364,48
+E05013569,Hayes Town,E09000017,Hillingdon,1 bedroom,1324,655,669
+E05013569,Hayes Town,E09000017,Hillingdon,2 bedrooms,1265,827,438
+E05013569,Hayes Town,E09000017,Hillingdon,3 bedrooms,1757,1732,25
+E05013569,Hayes Town,E09000017,Hillingdon,4 or more bedrooms,718,450,268
+E05013570,Heathrow Villages,E09000017,Hillingdon,1 bedroom,1180,924,256
+E05013570,Heathrow Villages,E09000017,Hillingdon,2 bedrooms,1502,1508,-6
+E05013570,Heathrow Villages,E09000017,Hillingdon,3 bedrooms,1476,1544,-68
+E05013570,Heathrow Villages,E09000017,Hillingdon,4 or more bedrooms,655,448,207
+E05013571,Hillingdon East,E09000017,Hillingdon,1 bedroom,469,401,68
+E05013571,Hillingdon East,E09000017,Hillingdon,2 bedrooms,1130,1143,-13
+E05013571,Hillingdon East,E09000017,Hillingdon,3 bedrooms,2668,2927,-259
+E05013571,Hillingdon East,E09000017,Hillingdon,4 or more bedrooms,1150,808,342
+E05013572,Hillingdon West,E09000017,Hillingdon,1 bedroom,664,411,253
+E05013572,Hillingdon West,E09000017,Hillingdon,2 bedrooms,1005,512,493
+E05013572,Hillingdon West,E09000017,Hillingdon,3 bedrooms,1304,1096,208
+E05013572,Hillingdon West,E09000017,Hillingdon,4 or more bedrooms,799,557,242
+E05013573,Ickenham & South Harefield,E09000017,Hillingdon,1 bedroom,601,466,135
+E05013573,Ickenham & South Harefield,E09000017,Hillingdon,2 bedrooms,1296,1178,118
+E05013573,Ickenham & South Harefield,E09000017,Hillingdon,3 bedrooms,2100,2306,-206
+E05013573,Ickenham & South Harefield,E09000017,Hillingdon,4 or more bedrooms,2026,1568,458
+E05013574,Northwood,E09000017,Hillingdon,1 bedroom,855,818,37
+E05013574,Northwood,E09000017,Hillingdon,2 bedrooms,1440,1408,32
+E05013574,Northwood,E09000017,Hillingdon,3 bedrooms,1028,1003,25
+E05013574,Northwood,E09000017,Hillingdon,4 or more bedrooms,1436,1333,103
+E05013575,Northwood Hills,E09000017,Hillingdon,1 bedroom,597,552,45
+E05013575,Northwood Hills,E09000017,Hillingdon,2 bedrooms,1275,1436,-161
+E05013575,Northwood Hills,E09000017,Hillingdon,3 bedrooms,1550,1590,-40
+E05013575,Northwood Hills,E09000017,Hillingdon,4 or more bedrooms,1121,868,253
+E05013576,Pinkwell,E09000017,Hillingdon,1 bedroom,454,406,48
+E05013576,Pinkwell,E09000017,Hillingdon,2 bedrooms,1283,1332,-49
+E05013576,Pinkwell,E09000017,Hillingdon,3 bedrooms,2545,2663,-118
+E05013576,Pinkwell,E09000017,Hillingdon,4 or more bedrooms,849,552,297
+E05013577,Ruislip,E09000017,Hillingdon,1 bedroom,739,684,55
+E05013577,Ruislip,E09000017,Hillingdon,2 bedrooms,1623,1622,1
+E05013577,Ruislip,E09000017,Hillingdon,3 bedrooms,2048,2116,-68
+E05013577,Ruislip,E09000017,Hillingdon,4 or more bedrooms,1846,1572,274
+E05013578,Ruislip Manor,E09000017,Hillingdon,1 bedroom,260,201,59
+E05013578,Ruislip Manor,E09000017,Hillingdon,2 bedrooms,1384,1567,-183
+E05013578,Ruislip Manor,E09000017,Hillingdon,3 bedrooms,1699,1762,-63
+E05013578,Ruislip Manor,E09000017,Hillingdon,4 or more bedrooms,826,582,244
+E05013579,South Ruislip,E09000017,Hillingdon,1 bedroom,573,530,43
+E05013579,South Ruislip,E09000017,Hillingdon,2 bedrooms,1829,1812,17
+E05013579,South Ruislip,E09000017,Hillingdon,3 bedrooms,2796,2898,-102
+E05013579,South Ruislip,E09000017,Hillingdon,4 or more bedrooms,1003,692,311
+E05013580,Uxbridge,E09000017,Hillingdon,1 bedroom,1639,1394,245
+E05013580,Uxbridge,E09000017,Hillingdon,2 bedrooms,1886,1704,182
+E05013580,Uxbridge,E09000017,Hillingdon,3 bedrooms,1858,1897,-39
+E05013580,Uxbridge,E09000017,Hillingdon,4 or more bedrooms,1122,954,168
+E05013581,West Drayton,E09000017,Hillingdon,1 bedroom,986,753,233
+E05013581,West Drayton,E09000017,Hillingdon,2 bedrooms,2084,1603,481
+E05013581,West Drayton,E09000017,Hillingdon,3 bedrooms,2656,2489,167
+E05013581,West Drayton,E09000017,Hillingdon,4 or more bedrooms,806,517,289
+E05013582,Wood End,E09000017,Hillingdon,1 bedroom,977,869,108
+E05013582,Wood End,E09000017,Hillingdon,2 bedrooms,1760,1636,124
+E05013582,Wood End,E09000017,Hillingdon,3 bedrooms,2501,2427,74
+E05013582,Wood End,E09000017,Hillingdon,4 or more bedrooms,940,648,292
+E05013583,Yeading,E09000017,Hillingdon,1 bedroom,801,799,2
+E05013583,Yeading,E09000017,Hillingdon,2 bedrooms,2109,2170,-61
+E05013583,Yeading,E09000017,Hillingdon,3 bedrooms,1346,1301,45
+E05013583,Yeading,E09000017,Hillingdon,4 or more bedrooms,505,380,125
+E05013584,Yiewsley,E09000017,Hillingdon,1 bedroom,1124,889,235
+E05013584,Yiewsley,E09000017,Hillingdon,2 bedrooms,1560,1190,370
+E05013584,Yiewsley,E09000017,Hillingdon,3 bedrooms,1458,1298,160
+E05013584,Yiewsley,E09000017,Hillingdon,4 or more bedrooms,413,269,144
+E05013585,Alexandra Park,E09000014,Haringey,1 bedroom,406,482,-76
+E05013585,Alexandra Park,E09000014,Haringey,2 bedrooms,823,900,-77
+E05013585,Alexandra Park,E09000014,Haringey,3 bedrooms,784,823,-39
+E05013585,Alexandra Park,E09000014,Haringey,4 or more bedrooms,1402,1301,101
+E05013586,Bounds Green,E09000014,Haringey,1 bedroom,1093,1134,-41
+E05013586,Bounds Green,E09000014,Haringey,2 bedrooms,1502,1412,90
+E05013586,Bounds Green,E09000014,Haringey,3 bedrooms,919,995,-76
+E05013586,Bounds Green,E09000014,Haringey,4 or more bedrooms,547,434,113
+E05013587,Bruce Castle,E09000014,Haringey,1 bedroom,1566,1685,-119
+E05013587,Bruce Castle,E09000014,Haringey,2 bedrooms,1733,1634,99
+E05013587,Bruce Castle,E09000014,Haringey,3 bedrooms,1477,1410,67
+E05013587,Bruce Castle,E09000014,Haringey,4 or more bedrooms,524,397,127
+E05013588,Crouch End,E09000014,Haringey,1 bedroom,1955,2124,-169
+E05013588,Crouch End,E09000014,Haringey,2 bedrooms,2041,2057,-16
+E05013588,Crouch End,E09000014,Haringey,3 bedrooms,870,853,17
+E05013588,Crouch End,E09000014,Haringey,4 or more bedrooms,1176,1121,55
+E05013589,Fortis Green,E09000014,Haringey,1 bedroom,862,1024,-162
+E05013589,Fortis Green,E09000014,Haringey,2 bedrooms,1459,1487,-28
+E05013589,Fortis Green,E09000014,Haringey,3 bedrooms,957,915,42
+E05013589,Fortis Green,E09000014,Haringey,4 or more bedrooms,1740,1672,68
+E05013590,Harringay,E09000014,Haringey,1 bedroom,1877,1868,9
+E05013590,Harringay,E09000014,Haringey,2 bedrooms,1843,1620,223
+E05013590,Harringay,E09000014,Haringey,3 bedrooms,1175,1176,-1
+E05013590,Harringay,E09000014,Haringey,4 or more bedrooms,1213,980,233
+E05013591,Hermitage & Gardens,E09000014,Haringey,1 bedroom,809,762,47
+E05013591,Hermitage & Gardens,E09000014,Haringey,2 bedrooms,923,918,5
+E05013591,Hermitage & Gardens,E09000014,Haringey,3 bedrooms,917,971,-54
+E05013591,Hermitage & Gardens,E09000014,Haringey,4 or more bedrooms,617,431,186
+E05013592,Highgate,E09000014,Haringey,1 bedroom,1258,1589,-331
+E05013592,Highgate,E09000014,Haringey,2 bedrooms,2112,2181,-69
+E05013592,Highgate,E09000014,Haringey,3 bedrooms,998,1054,-56
+E05013592,Highgate,E09000014,Haringey,4 or more bedrooms,1313,1272,41
+E05013593,Hornsey,E09000014,Haringey,1 bedroom,1978,1974,4
+E05013593,Hornsey,E09000014,Haringey,2 bedrooms,2252,2000,252
+E05013593,Hornsey,E09000014,Haringey,3 bedrooms,1235,1190,45
+E05013593,Hornsey,E09000014,Haringey,4 or more bedrooms,1106,998,108
+E05013594,Muswell Hill,E09000014,Haringey,1 bedroom,927,1074,-147
+E05013594,Muswell Hill,E09000014,Haringey,2 bedrooms,1121,1075,46
+E05013594,Muswell Hill,E09000014,Haringey,3 bedrooms,692,660,32
+E05013594,Muswell Hill,E09000014,Haringey,4 or more bedrooms,1112,1090,22
+E05013595,Noel Park,E09000014,Haringey,1 bedroom,1405,1508,-103
+E05013595,Noel Park,E09000014,Haringey,2 bedrooms,1823,1902,-79
+E05013595,Noel Park,E09000014,Haringey,3 bedrooms,1485,1474,11
+E05013595,Noel Park,E09000014,Haringey,4 or more bedrooms,619,499,120
+E05013596,Northumberland Park,E09000014,Haringey,1 bedroom,1567,1504,63
+E05013596,Northumberland Park,E09000014,Haringey,2 bedrooms,2234,2258,-24
+E05013596,Northumberland Park,E09000014,Haringey,3 bedrooms,1345,1240,105
+E05013596,Northumberland Park,E09000014,Haringey,4 or more bedrooms,555,313,242
+E05013597,St Ann's,E09000014,Haringey,1 bedroom,1016,1010,6
+E05013597,St Ann's,E09000014,Haringey,2 bedrooms,1162,1231,-69
+E05013597,St Ann's,E09000014,Haringey,3 bedrooms,1111,1181,-70
+E05013597,St Ann's,E09000014,Haringey,4 or more bedrooms,664,470,194
+E05013598,Seven Sisters,E09000014,Haringey,1 bedroom,1075,1132,-57
+E05013598,Seven Sisters,E09000014,Haringey,2 bedrooms,1149,1254,-105
+E05013598,Seven Sisters,E09000014,Haringey,3 bedrooms,852,815,37
+E05013598,Seven Sisters,E09000014,Haringey,4 or more bedrooms,475,320,155
+E05013599,South Tottenham,E09000014,Haringey,1 bedroom,1578,1610,-32
+E05013599,South Tottenham,E09000014,Haringey,2 bedrooms,1581,1494,87
+E05013599,South Tottenham,E09000014,Haringey,3 bedrooms,1401,1493,-92
+E05013599,South Tottenham,E09000014,Haringey,4 or more bedrooms,1060,686,374
+E05013600,Stroud Green,E09000014,Haringey,1 bedroom,1557,1757,-200
+E05013600,Stroud Green,E09000014,Haringey,2 bedrooms,1763,1854,-91
+E05013600,Stroud Green,E09000014,Haringey,3 bedrooms,778,686,92
+E05013600,Stroud Green,E09000014,Haringey,4 or more bedrooms,881,830,51
+E05013601,Tottenham Central,E09000014,Haringey,1 bedroom,1751,1534,217
+E05013601,Tottenham Central,E09000014,Haringey,2 bedrooms,1811,1516,295
+E05013601,Tottenham Central,E09000014,Haringey,3 bedrooms,1508,1489,19
+E05013601,Tottenham Central,E09000014,Haringey,4 or more bedrooms,792,572,220
+E05013602,Tottenham Hale,E09000014,Haringey,1 bedroom,880,429,451
+E05013602,Tottenham Hale,E09000014,Haringey,2 bedrooms,1377,828,549
+E05013602,Tottenham Hale,E09000014,Haringey,3 bedrooms,1211,1038,173
+E05013602,Tottenham Hale,E09000014,Haringey,4 or more bedrooms,456,257,199
+E05013603,West Green,E09000014,Haringey,1 bedroom,1467,1577,-110
+E05013603,West Green,E09000014,Haringey,2 bedrooms,1670,1675,-5
+E05013603,West Green,E09000014,Haringey,3 bedrooms,1677,1800,-123
+E05013603,West Green,E09000014,Haringey,4 or more bedrooms,933,642,291
+E05013604,White Hart Lane,E09000014,Haringey,1 bedroom,572,532,40
+E05013604,White Hart Lane,E09000014,Haringey,2 bedrooms,1828,1924,-96
+E05013604,White Hart Lane,E09000014,Haringey,3 bedrooms,1991,1974,17
+E05013604,White Hart Lane,E09000014,Haringey,4 or more bedrooms,526,343,183
+E05013605,Woodside,E09000014,Haringey,1 bedroom,1911,1927,-16
+E05013605,Woodside,E09000014,Haringey,2 bedrooms,2115,2049,66
+E05013605,Woodside,E09000014,Haringey,3 bedrooms,1440,1430,10
+E05013605,Woodside,E09000014,Haringey,4 or more bedrooms,796,618,178
+E05013606,Bedfont,E09000018,Hounslow,1 bedroom,957,841,116
+E05013606,Bedfont,E09000018,Hounslow,2 bedrooms,1807,1808,-1
+E05013606,Bedfont,E09000018,Hounslow,3 bedrooms,1956,2008,-52
+E05013606,Bedfont,E09000018,Hounslow,4 or more bedrooms,667,475,192
+E05013607,Brentford East,E09000018,Hounslow,1 bedroom,1192,701,491
+E05013607,Brentford East,E09000018,Hounslow,2 bedrooms,1638,1262,376
+E05013607,Brentford East,E09000018,Hounslow,3 bedrooms,714,679,35
+E05013607,Brentford East,E09000018,Hounslow,4 or more bedrooms,119,89,30
+E05013608,Brentford West,E09000018,Hounslow,1 bedroom,979,918,61
+E05013608,Brentford West,E09000018,Hounslow,2 bedrooms,1091,1036,55
+E05013608,Brentford West,E09000018,Hounslow,3 bedrooms,1003,922,81
+E05013608,Brentford West,E09000018,Hounslow,4 or more bedrooms,561,390,171
+E05013609,Chiswick Gunnersbury,E09000018,Hounslow,1 bedroom,1640,1627,13
+E05013609,Chiswick Gunnersbury,E09000018,Hounslow,2 bedrooms,1790,1849,-59
+E05013609,Chiswick Gunnersbury,E09000018,Hounslow,3 bedrooms,1067,1194,-127
+E05013609,Chiswick Gunnersbury,E09000018,Hounslow,4 or more bedrooms,1264,1026,238
+E05013610,Chiswick Homefields,E09000018,Hounslow,1 bedroom,1060,1247,-187
+E05013610,Chiswick Homefields,E09000018,Hounslow,2 bedrooms,1625,1630,-5
+E05013610,Chiswick Homefields,E09000018,Hounslow,3 bedrooms,1367,1306,61
+E05013610,Chiswick Homefields,E09000018,Hounslow,4 or more bedrooms,1830,1749,81
+E05013611,Chiswick Riverside,E09000018,Hounslow,1 bedroom,888,948,-60
+E05013611,Chiswick Riverside,E09000018,Hounslow,2 bedrooms,1383,1290,93
+E05013611,Chiswick Riverside,E09000018,Hounslow,3 bedrooms,948,888,60
+E05013611,Chiswick Riverside,E09000018,Hounslow,4 or more bedrooms,1054,968,86
+E05013612,Cranford,E09000018,Hounslow,1 bedroom,711,543,168
+E05013612,Cranford,E09000018,Hounslow,2 bedrooms,1433,1292,141
+E05013612,Cranford,E09000018,Hounslow,3 bedrooms,1901,1883,18
+E05013612,Cranford,E09000018,Hounslow,4 or more bedrooms,962,629,333
+E05013613,Feltham North,E09000018,Hounslow,1 bedroom,604,444,160
+E05013613,Feltham North,E09000018,Hounslow,2 bedrooms,1208,1257,-49
+E05013613,Feltham North,E09000018,Hounslow,3 bedrooms,1865,1942,-77
+E05013613,Feltham North,E09000018,Hounslow,4 or more bedrooms,536,322,214
+E05013614,Feltham West,E09000018,Hounslow,1 bedroom,858,928,-70
+E05013614,Feltham West,E09000018,Hounslow,2 bedrooms,2365,2530,-165
+E05013614,Feltham West,E09000018,Hounslow,3 bedrooms,2034,2017,17
+E05013614,Feltham West,E09000018,Hounslow,4 or more bedrooms,437,310,127
+E05013615,Hanworth Park,E09000018,Hounslow,1 bedroom,542,414,128
+E05013615,Hanworth Park,E09000018,Hounslow,2 bedrooms,1291,1279,12
+E05013615,Hanworth Park,E09000018,Hounslow,3 bedrooms,1456,1454,2
+E05013615,Hanworth Park,E09000018,Hounslow,4 or more bedrooms,462,328,134
+E05013616,Hanworth Village,E09000018,Hounslow,1 bedroom,807,808,-1
+E05013616,Hanworth Village,E09000018,Hounslow,2 bedrooms,1854,1927,-73
+E05013616,Hanworth Village,E09000018,Hounslow,3 bedrooms,2435,2432,3
+E05013616,Hanworth Village,E09000018,Hounslow,4 or more bedrooms,627,416,211
+E05013617,Heston Central,E09000018,Hounslow,1 bedroom,574,495,79
+E05013617,Heston Central,E09000018,Hounslow,2 bedrooms,990,880,110
+E05013617,Heston Central,E09000018,Hounslow,3 bedrooms,1715,1863,-148
+E05013617,Heston Central,E09000018,Hounslow,4 or more bedrooms,1047,644,403
+E05013618,Heston East,E09000018,Hounslow,1 bedroom,420,378,42
+E05013618,Heston East,E09000018,Hounslow,2 bedrooms,1010,916,94
+E05013618,Heston East,E09000018,Hounslow,3 bedrooms,1299,1384,-85
+E05013618,Heston East,E09000018,Hounslow,4 or more bedrooms,926,660,266
+E05013619,Heston West,E09000018,Hounslow,1 bedroom,575,549,26
+E05013619,Heston West,E09000018,Hounslow,2 bedrooms,1106,1088,18
+E05013619,Heston West,E09000018,Hounslow,3 bedrooms,1979,2097,-118
+E05013619,Heston West,E09000018,Hounslow,4 or more bedrooms,949,558,391
+E05013620,Hounslow Central,E09000018,Hounslow,1 bedroom,1163,795,368
+E05013620,Hounslow Central,E09000018,Hounslow,2 bedrooms,1359,1079,280
+E05013620,Hounslow Central,E09000018,Hounslow,3 bedrooms,680,661,19
+E05013620,Hounslow Central,E09000018,Hounslow,4 or more bedrooms,426,327,99
+E05013621,Hounslow East,E09000018,Hounslow,1 bedroom,803,602,201
+E05013621,Hounslow East,E09000018,Hounslow,2 bedrooms,1006,683,323
+E05013621,Hounslow East,E09000018,Hounslow,3 bedrooms,809,802,7
+E05013621,Hounslow East,E09000018,Hounslow,4 or more bedrooms,464,315,149
+E05013622,Hounslow Heath,E09000018,Hounslow,1 bedroom,988,973,15
+E05013622,Hounslow Heath,E09000018,Hounslow,2 bedrooms,1762,1733,29
+E05013622,Hounslow Heath,E09000018,Hounslow,3 bedrooms,1592,1599,-7
+E05013622,Hounslow Heath,E09000018,Hounslow,4 or more bedrooms,818,584,234
+E05013623,Hounslow South,E09000018,Hounslow,1 bedroom,502,422,80
+E05013623,Hounslow South,E09000018,Hounslow,2 bedrooms,951,994,-43
+E05013623,Hounslow South,E09000018,Hounslow,3 bedrooms,2210,2439,-229
+E05013623,Hounslow South,E09000018,Hounslow,4 or more bedrooms,1203,843,360
+E05013624,Hounslow West,E09000018,Hounslow,1 bedroom,1151,726,425
+E05013624,Hounslow West,E09000018,Hounslow,2 bedrooms,1259,932,327
+E05013624,Hounslow West,E09000018,Hounslow,3 bedrooms,1509,1540,-31
+E05013624,Hounslow West,E09000018,Hounslow,4 or more bedrooms,954,654,300
+E05013625,Isleworth,E09000018,Hounslow,1 bedroom,1031,873,158
+E05013625,Isleworth,E09000018,Hounslow,2 bedrooms,2120,2071,49
+E05013625,Isleworth,E09000018,Hounslow,3 bedrooms,1656,1682,-26
+E05013625,Isleworth,E09000018,Hounslow,4 or more bedrooms,721,472,249
+E05013626,Osterley & Spring Grove,E09000018,Hounslow,1 bedroom,870,652,218
+E05013626,Osterley & Spring Grove,E09000018,Hounslow,2 bedrooms,1392,1414,-22
+E05013626,Osterley & Spring Grove,E09000018,Hounslow,3 bedrooms,1305,1414,-109
+E05013626,Osterley & Spring Grove,E09000018,Hounslow,4 or more bedrooms,1677,1391,286
+E05013627,Syon & Brentford Lock,E09000018,Hounslow,1 bedroom,1243,907,336
+E05013627,Syon & Brentford Lock,E09000018,Hounslow,2 bedrooms,2083,1817,266
+E05013627,Syon & Brentford Lock,E09000018,Hounslow,3 bedrooms,1321,1257,64
+E05013627,Syon & Brentford Lock,E09000018,Hounslow,4 or more bedrooms,424,345,79
+E05013628,Barnet Vale,E09000003,Barnet,1 bedroom,1203,1047,156
+E05013628,Barnet Vale,E09000003,Barnet,2 bedrooms,2177,2168,9
+E05013628,Barnet Vale,E09000003,Barnet,3 bedrooms,1797,1972,-175
+E05013628,Barnet Vale,E09000003,Barnet,4 or more bedrooms,2013,1633,380
+E05013629,Brunswick Park,E09000003,Barnet,1 bedroom,505,457,48
+E05013629,Brunswick Park,E09000003,Barnet,2 bedrooms,1099,1117,-18
+E05013629,Brunswick Park,E09000003,Barnet,3 bedrooms,2681,3029,-348
+E05013629,Brunswick Park,E09000003,Barnet,4 or more bedrooms,1678,1168,510
+E05013630,Burnt Oak,E09000003,Barnet,1 bedroom,1123,1019,104
+E05013630,Burnt Oak,E09000003,Barnet,2 bedrooms,2581,2629,-48
+E05013630,Burnt Oak,E09000003,Barnet,3 bedrooms,2841,2803,38
+E05013630,Burnt Oak,E09000003,Barnet,4 or more bedrooms,767,529,238
+E05013631,Childs Hill,E09000003,Barnet,1 bedroom,1930,1539,391
+E05013631,Childs Hill,E09000003,Barnet,2 bedrooms,2319,2045,274
+E05013631,Childs Hill,E09000003,Barnet,3 bedrooms,1487,1501,-14
+E05013631,Childs Hill,E09000003,Barnet,4 or more bedrooms,2173,2093,80
+E05013632,Colindale North,E09000003,Barnet,1 bedroom,1232,1085,147
+E05013632,Colindale North,E09000003,Barnet,2 bedrooms,1838,1565,273
+E05013632,Colindale North,E09000003,Barnet,3 bedrooms,1149,934,215
+E05013632,Colindale North,E09000003,Barnet,4 or more bedrooms,389,264,125
+E05013633,Colindale South,E09000003,Barnet,1 bedroom,2167,689,1478
+E05013633,Colindale South,E09000003,Barnet,2 bedrooms,2757,752,2005
+E05013633,Colindale South,E09000003,Barnet,3 bedrooms,1834,1125,709
+E05013633,Colindale South,E09000003,Barnet,4 or more bedrooms,654,376,278
+E05013634,Cricklewood,E09000003,Barnet,1 bedroom,743,539,204
+E05013634,Cricklewood,E09000003,Barnet,2 bedrooms,1164,938,226
+E05013634,Cricklewood,E09000003,Barnet,3 bedrooms,1298,1307,-9
+E05013634,Cricklewood,E09000003,Barnet,4 or more bedrooms,629,448,181
+E05013635,East Barnet,E09000003,Barnet,1 bedroom,831,854,-23
+E05013635,East Barnet,E09000003,Barnet,2 bedrooms,2064,2000,64
+E05013635,East Barnet,E09000003,Barnet,3 bedrooms,2398,2613,-215
+E05013635,East Barnet,E09000003,Barnet,4 or more bedrooms,1663,1286,377
+E05013636,East Finchley,E09000003,Barnet,1 bedroom,1500,1434,66
+E05013636,East Finchley,E09000003,Barnet,2 bedrooms,2125,2158,-33
+E05013636,East Finchley,E09000003,Barnet,3 bedrooms,1723,1763,-40
+E05013636,East Finchley,E09000003,Barnet,4 or more bedrooms,1431,1162,269
+E05013637,Edgware,E09000003,Barnet,1 bedroom,823,655,168
+E05013637,Edgware,E09000003,Barnet,2 bedrooms,1907,1750,157
+E05013637,Edgware,E09000003,Barnet,3 bedrooms,1926,2204,-278
+E05013637,Edgware,E09000003,Barnet,4 or more bedrooms,2458,1918,540
+E05013638,Edgwarebury,E09000003,Barnet,1 bedroom,388,397,-9
+E05013638,Edgwarebury,E09000003,Barnet,2 bedrooms,813,925,-112
+E05013638,Edgwarebury,E09000003,Barnet,3 bedrooms,1466,1716,-250
+E05013638,Edgwarebury,E09000003,Barnet,4 or more bedrooms,1424,1109,315
+E05013639,Finchley Church End,E09000003,Barnet,1 bedroom,1186,1056,130
+E05013639,Finchley Church End,E09000003,Barnet,2 bedrooms,2595,2495,100
+E05013639,Finchley Church End,E09000003,Barnet,3 bedrooms,1414,1388,26
+E05013639,Finchley Church End,E09000003,Barnet,4 or more bedrooms,2367,2242,125
+E05013640,Friern Barnet,E09000003,Barnet,1 bedroom,1411,1437,-26
+E05013640,Friern Barnet,E09000003,Barnet,2 bedrooms,2749,2838,-89
+E05013640,Friern Barnet,E09000003,Barnet,3 bedrooms,2029,2194,-165
+E05013640,Friern Barnet,E09000003,Barnet,4 or more bedrooms,1333,1045,288
+E05013641,Garden Suburb,E09000003,Barnet,1 bedroom,412,410,2
+E05013641,Garden Suburb,E09000003,Barnet,2 bedrooms,1161,1255,-94
+E05013641,Garden Suburb,E09000003,Barnet,3 bedrooms,1336,1355,-19
+E05013641,Garden Suburb,E09000003,Barnet,4 or more bedrooms,2128,2013,115
+E05013642,Golders Green,E09000003,Barnet,1 bedroom,1173,1011,162
+E05013642,Golders Green,E09000003,Barnet,2 bedrooms,1096,965,131
+E05013642,Golders Green,E09000003,Barnet,3 bedrooms,927,1004,-77
+E05013642,Golders Green,E09000003,Barnet,4 or more bedrooms,1973,1731,242
+E05013643,Hendon,E09000003,Barnet,1 bedroom,1818,1550,268
+E05013643,Hendon,E09000003,Barnet,2 bedrooms,2519,2421,98
+E05013643,Hendon,E09000003,Barnet,3 bedrooms,1777,1904,-127
+E05013643,Hendon,E09000003,Barnet,4 or more bedrooms,2157,1801,356
+E05013644,High Barnet,E09000003,Barnet,1 bedroom,672,566,106
+E05013644,High Barnet,E09000003,Barnet,2 bedrooms,1368,1289,79
+E05013644,High Barnet,E09000003,Barnet,3 bedrooms,1216,1204,12
+E05013644,High Barnet,E09000003,Barnet,4 or more bedrooms,1598,1327,271
+E05013645,Mill Hill,E09000003,Barnet,1 bedroom,719,664,55
+E05013645,Mill Hill,E09000003,Barnet,2 bedrooms,1859,1842,17
+E05013645,Mill Hill,E09000003,Barnet,3 bedrooms,1987,2056,-69
+E05013645,Mill Hill,E09000003,Barnet,4 or more bedrooms,2160,1784,376
+E05013646,Totteridge & Woodside,E09000003,Barnet,1 bedroom,610,487,123
+E05013646,Totteridge & Woodside,E09000003,Barnet,2 bedrooms,1385,1191,194
+E05013646,Totteridge & Woodside,E09000003,Barnet,3 bedrooms,1513,1494,19
+E05013646,Totteridge & Woodside,E09000003,Barnet,4 or more bedrooms,2154,1726,428
+E05013647,Underhill,E09000003,Barnet,1 bedroom,675,716,-41
+E05013647,Underhill,E09000003,Barnet,2 bedrooms,1306,1374,-68
+E05013647,Underhill,E09000003,Barnet,3 bedrooms,1829,1922,-93
+E05013647,Underhill,E09000003,Barnet,4 or more bedrooms,984,749,235
+E05013648,West Finchley,E09000003,Barnet,1 bedroom,1482,1455,27
+E05013648,West Finchley,E09000003,Barnet,2 bedrooms,2395,2502,-107
+E05013648,West Finchley,E09000003,Barnet,3 bedrooms,1956,2126,-170
+E05013648,West Finchley,E09000003,Barnet,4 or more bedrooms,1897,1568,329
+E05013649,West Hendon,E09000003,Barnet,1 bedroom,1541,1284,257
+E05013649,West Hendon,E09000003,Barnet,2 bedrooms,2115,1909,206
+E05013649,West Hendon,E09000003,Barnet,3 bedrooms,1550,1551,-1
+E05013649,West Hendon,E09000003,Barnet,4 or more bedrooms,1248,994,254
+E05013650,Whetstone,E09000003,Barnet,1 bedroom,616,466,150
+E05013650,Whetstone,E09000003,Barnet,2 bedrooms,1153,1034,119
+E05013650,Whetstone,E09000003,Barnet,3 bedrooms,1210,1151,59
+E05013650,Whetstone,E09000003,Barnet,4 or more bedrooms,1343,1128,215
+E05013651,Woodhouse,E09000003,Barnet,1 bedroom,1162,952,210
+E05013651,Woodhouse,E09000003,Barnet,2 bedrooms,1831,1628,203
+E05013651,Woodhouse,E09000003,Barnet,3 bedrooms,1429,1562,-133
+E05013651,Woodhouse,E09000003,Barnet,4 or more bedrooms,1188,928,260
+E05013652,Belsize,E09000007,Camden,1 bedroom,1926,2284,-358
+E05013652,Belsize,E09000007,Camden,2 bedrooms,2150,2329,-179
+E05013652,Belsize,E09000007,Camden,3 bedrooms,1187,1155,32
+E05013652,Belsize,E09000007,Camden,4 or more bedrooms,648,625,23
+E05013653,Bloomsbury,E09000007,Camden,1 bedroom,2250,3265,-1015
+E05013653,Bloomsbury,E09000007,Camden,2 bedrooms,1698,1884,-186
+E05013653,Bloomsbury,E09000007,Camden,3 bedrooms,546,679,-133
+E05013653,Bloomsbury,E09000007,Camden,4 or more bedrooms,270,291,-21
+E05013654,Camden Square,E09000007,Camden,1 bedroom,1146,1272,-126
+E05013654,Camden Square,E09000007,Camden,2 bedrooms,1108,1059,49
+E05013654,Camden Square,E09000007,Camden,3 bedrooms,604,610,-6
+E05013654,Camden Square,E09000007,Camden,4 or more bedrooms,337,342,-5
+E05013655,Camden Town,E09000007,Camden,1 bedroom,1056,1012,44
+E05013655,Camden Town,E09000007,Camden,2 bedrooms,1015,941,74
+E05013655,Camden Town,E09000007,Camden,3 bedrooms,619,592,27
+E05013655,Camden Town,E09000007,Camden,4 or more bedrooms,341,323,18
+E05013656,Fortune Green,E09000007,Camden,1 bedroom,1585,1818,-233
+E05013656,Fortune Green,E09000007,Camden,2 bedrooms,1563,1509,54
+E05013656,Fortune Green,E09000007,Camden,3 bedrooms,1010,1050,-40
+E05013656,Fortune Green,E09000007,Camden,4 or more bedrooms,973,949,24
+E05013657,Frognal,E09000007,Camden,1 bedroom,643,577,66
+E05013657,Frognal,E09000007,Camden,2 bedrooms,1010,957,53
+E05013657,Frognal,E09000007,Camden,3 bedrooms,945,902,43
+E05013657,Frognal,E09000007,Camden,4 or more bedrooms,699,733,-34
+E05013658,Gospel Oak,E09000007,Camden,1 bedroom,1888,2018,-130
+E05013658,Gospel Oak,E09000007,Camden,2 bedrooms,1525,1619,-94
+E05013658,Gospel Oak,E09000007,Camden,3 bedrooms,1118,1143,-25
+E05013658,Gospel Oak,E09000007,Camden,4 or more bedrooms,722,675,47
+E05013659,Hampstead Town,E09000007,Camden,1 bedroom,901,1082,-181
+E05013659,Hampstead Town,E09000007,Camden,2 bedrooms,1212,1320,-108
+E05013659,Hampstead Town,E09000007,Camden,3 bedrooms,804,826,-22
+E05013659,Hampstead Town,E09000007,Camden,4 or more bedrooms,836,817,19
+E05013660,Haverstock,E09000007,Camden,1 bedroom,1549,1750,-201
+E05013660,Haverstock,E09000007,Camden,2 bedrooms,1915,1963,-48
+E05013660,Haverstock,E09000007,Camden,3 bedrooms,1151,1120,31
+E05013660,Haverstock,E09000007,Camden,4 or more bedrooms,458,436,22
+E05013661,Highgate,E09000007,Camden,1 bedroom,1179,1328,-149
+E05013661,Highgate,E09000007,Camden,2 bedrooms,1146,1162,-16
+E05013661,Highgate,E09000007,Camden,3 bedrooms,1058,1057,1
+E05013661,Highgate,E09000007,Camden,4 or more bedrooms,1062,1058,4
+E05013662,Holborn & Covent Garden,E09000007,Camden,1 bedroom,2139,2564,-425
+E05013662,Holborn & Covent Garden,E09000007,Camden,2 bedrooms,1828,1941,-113
+E05013662,Holborn & Covent Garden,E09000007,Camden,3 bedrooms,802,857,-55
+E05013662,Holborn & Covent Garden,E09000007,Camden,4 or more bedrooms,275,238,37
+E05013663,Kentish Town North,E09000007,Camden,1 bedroom,1234,1311,-77
+E05013663,Kentish Town North,E09000007,Camden,2 bedrooms,1046,1059,-13
+E05013663,Kentish Town North,E09000007,Camden,3 bedrooms,624,594,30
+E05013663,Kentish Town North,E09000007,Camden,4 or more bedrooms,449,475,-26
+E05013664,Kentish Town South,E09000007,Camden,1 bedroom,1288,1401,-113
+E05013664,Kentish Town South,E09000007,Camden,2 bedrooms,1485,1443,42
+E05013664,Kentish Town South,E09000007,Camden,3 bedrooms,993,961,32
+E05013664,Kentish Town South,E09000007,Camden,4 or more bedrooms,553,520,33
+E05013665,Kilburn,E09000007,Camden,1 bedroom,2372,2405,-33
+E05013665,Kilburn,E09000007,Camden,2 bedrooms,1833,1769,64
+E05013665,Kilburn,E09000007,Camden,3 bedrooms,953,917,36
+E05013665,Kilburn,E09000007,Camden,4 or more bedrooms,373,324,49
+E05013666,King's Cross,E09000007,Camden,1 bedroom,1724,1886,-162
+E05013666,King's Cross,E09000007,Camden,2 bedrooms,1569,1373,196
+E05013666,King's Cross,E09000007,Camden,3 bedrooms,816,675,141
+E05013666,King's Cross,E09000007,Camden,4 or more bedrooms,286,253,33
+E05013667,Primrose Hill,E09000007,Camden,1 bedroom,1590,1862,-272
+E05013667,Primrose Hill,E09000007,Camden,2 bedrooms,1841,1950,-109
+E05013667,Primrose Hill,E09000007,Camden,3 bedrooms,1336,1308,28
+E05013667,Primrose Hill,E09000007,Camden,4 or more bedrooms,835,817,18
+E05013668,Regent's Park,E09000007,Camden,1 bedroom,1797,2071,-274
+E05013668,Regent's Park,E09000007,Camden,2 bedrooms,1676,1802,-126
+E05013668,Regent's Park,E09000007,Camden,3 bedrooms,966,1070,-104
+E05013668,Regent's Park,E09000007,Camden,4 or more bedrooms,539,604,-65
+E05013669,St Pancras & Somers Town,E09000007,Camden,1 bedroom,1579,1740,-161
+E05013669,St Pancras & Somers Town,E09000007,Camden,2 bedrooms,1801,1826,-25
+E05013669,St Pancras & Somers Town,E09000007,Camden,3 bedrooms,1057,1080,-23
+E05013669,St Pancras & Somers Town,E09000007,Camden,4 or more bedrooms,412,431,-19
+E05013670,South Hampstead,E09000007,Camden,1 bedroom,1637,1547,90
+E05013670,South Hampstead,E09000007,Camden,2 bedrooms,2232,2160,72
+E05013670,South Hampstead,E09000007,Camden,3 bedrooms,1189,1004,185
+E05013670,South Hampstead,E09000007,Camden,4 or more bedrooms,452,451,1
+E05013671,West Hampstead,E09000007,Camden,1 bedroom,2002,2115,-113
+E05013671,West Hampstead,E09000007,Camden,2 bedrooms,1816,1684,132
+E05013671,West Hampstead,E09000007,Camden,3 bedrooms,935,922,13
+E05013671,West Hampstead,E09000007,Camden,4 or more bedrooms,575,578,-3
+E05013672,Arnos Grove,E09000010,Enfield,1 bedroom,283,278,5
+E05013672,Arnos Grove,E09000010,Enfield,2 bedrooms,572,546,26
+E05013672,Arnos Grove,E09000010,Enfield,3 bedrooms,1069,1122,-53
+E05013672,Arnos Grove,E09000010,Enfield,4 or more bedrooms,1253,1058,195
+E05013673,Bowes,E09000010,Enfield,1 bedroom,700,735,-35
+E05013673,Bowes,E09000010,Enfield,2 bedrooms,864,882,-18
+E05013673,Bowes,E09000010,Enfield,3 bedrooms,1595,1699,-104
+E05013673,Bowes,E09000010,Enfield,4 or more bedrooms,640,446,194
+E05013674,Brimsdown,E09000010,Enfield,1 bedroom,690,736,-46
+E05013674,Brimsdown,E09000010,Enfield,2 bedrooms,1440,1577,-137
+E05013674,Brimsdown,E09000010,Enfield,3 bedrooms,2723,2912,-189
+E05013674,Brimsdown,E09000010,Enfield,4 or more bedrooms,761,526,235
+E05013675,Bullsmoor,E09000010,Enfield,1 bedroom,413,420,-7
+E05013675,Bullsmoor,E09000010,Enfield,2 bedrooms,922,946,-24
+E05013675,Bullsmoor,E09000010,Enfield,3 bedrooms,2123,2207,-84
+E05013675,Bullsmoor,E09000010,Enfield,4 or more bedrooms,486,344,142
+E05013676,Bush Hill Park,E09000010,Enfield,1 bedroom,585,640,-55
+E05013676,Bush Hill Park,E09000010,Enfield,2 bedrooms,934,941,-7
+E05013676,Bush Hill Park,E09000010,Enfield,3 bedrooms,2027,2315,-288
+E05013676,Bush Hill Park,E09000010,Enfield,4 or more bedrooms,1454,1146,308
+E05013677,Carterhatch,E09000010,Enfield,1 bedroom,649,629,20
+E05013677,Carterhatch,E09000010,Enfield,2 bedrooms,1074,1138,-64
+E05013677,Carterhatch,E09000010,Enfield,3 bedrooms,2017,1964,53
+E05013677,Carterhatch,E09000010,Enfield,4 or more bedrooms,454,299,155
+E05013678,Cockfosters,E09000010,Enfield,1 bedroom,394,384,10
+E05013678,Cockfosters,E09000010,Enfield,2 bedrooms,966,878,88
+E05013678,Cockfosters,E09000010,Enfield,3 bedrooms,1073,1031,42
+E05013678,Cockfosters,E09000010,Enfield,4 or more bedrooms,1410,1219,191
+E05013679,Edmonton Green,E09000010,Enfield,1 bedroom,1424,1565,-141
+E05013679,Edmonton Green,E09000010,Enfield,2 bedrooms,2390,2499,-109
+E05013679,Edmonton Green,E09000010,Enfield,3 bedrooms,1903,2003,-100
+E05013679,Edmonton Green,E09000010,Enfield,4 or more bedrooms,515,308,207
+E05013680,Enfield Lock,E09000010,Enfield,1 bedroom,1107,1087,20
+E05013680,Enfield Lock,E09000010,Enfield,2 bedrooms,2125,2170,-45
+E05013680,Enfield Lock,E09000010,Enfield,3 bedrooms,2453,2507,-54
+E05013680,Enfield Lock,E09000010,Enfield,4 or more bedrooms,745,566,179
+E05013681,Grange Park,E09000010,Enfield,1 bedroom,328,309,19
+E05013681,Grange Park,E09000010,Enfield,2 bedrooms,841,757,84
+E05013681,Grange Park,E09000010,Enfield,3 bedrooms,841,911,-70
+E05013681,Grange Park,E09000010,Enfield,4 or more bedrooms,1362,1229,133
+E05013682,Haselbury,E09000010,Enfield,1 bedroom,1018,1127,-109
+E05013682,Haselbury,E09000010,Enfield,2 bedrooms,1549,1671,-122
+E05013682,Haselbury,E09000010,Enfield,3 bedrooms,2798,2918,-120
+E05013682,Haselbury,E09000010,Enfield,4 or more bedrooms,850,516,334
+E05013683,Highfield,E09000010,Enfield,1 bedroom,295,381,-86
+E05013683,Highfield,E09000010,Enfield,2 bedrooms,457,496,-39
+E05013683,Highfield,E09000010,Enfield,3 bedrooms,1962,2149,-187
+E05013683,Highfield,E09000010,Enfield,4 or more bedrooms,690,486,204
+E05013684,Jubilee,E09000010,Enfield,1 bedroom,822,903,-81
+E05013684,Jubilee,E09000010,Enfield,2 bedrooms,1428,1584,-156
+E05013684,Jubilee,E09000010,Enfield,3 bedrooms,2741,2839,-98
+E05013684,Jubilee,E09000010,Enfield,4 or more bedrooms,687,436,251
+E05013685,Lower Edmonton,E09000010,Enfield,1 bedroom,906,1014,-108
+E05013685,Lower Edmonton,E09000010,Enfield,2 bedrooms,1850,2103,-253
+E05013685,Lower Edmonton,E09000010,Enfield,3 bedrooms,2429,2463,-34
+E05013685,Lower Edmonton,E09000010,Enfield,4 or more bedrooms,627,409,218
+E05013686,New Southgate,E09000010,Enfield,1 bedroom,840,863,-23
+E05013686,New Southgate,E09000010,Enfield,2 bedrooms,1256,1145,111
+E05013686,New Southgate,E09000010,Enfield,3 bedrooms,1411,1462,-51
+E05013686,New Southgate,E09000010,Enfield,4 or more bedrooms,794,606,188
+E05013687,Oakwood,E09000010,Enfield,1 bedroom,207,230,-23
+E05013687,Oakwood,E09000010,Enfield,2 bedrooms,920,952,-32
+E05013687,Oakwood,E09000010,Enfield,3 bedrooms,1138,1299,-161
+E05013687,Oakwood,E09000010,Enfield,4 or more bedrooms,1009,795,214
+E05013688,Palmers Green,E09000010,Enfield,1 bedroom,1009,1039,-30
+E05013688,Palmers Green,E09000010,Enfield,2 bedrooms,1212,1127,85
+E05013688,Palmers Green,E09000010,Enfield,3 bedrooms,894,907,-13
+E05013688,Palmers Green,E09000010,Enfield,4 or more bedrooms,1060,944,116
+E05013689,Ponders End,E09000010,Enfield,1 bedroom,923,1081,-158
+E05013689,Ponders End,E09000010,Enfield,2 bedrooms,1324,1426,-102
+E05013689,Ponders End,E09000010,Enfield,3 bedrooms,1619,1639,-20
+E05013689,Ponders End,E09000010,Enfield,4 or more bedrooms,645,372,273
+E05013690,Ridgeway,E09000010,Enfield,1 bedroom,990,1025,-35
+E05013690,Ridgeway,E09000010,Enfield,2 bedrooms,1805,1764,41
+E05013690,Ridgeway,E09000010,Enfield,3 bedrooms,1515,1527,-12
+E05013690,Ridgeway,E09000010,Enfield,4 or more bedrooms,1264,1076,188
+E05013691,Southbury,E09000010,Enfield,1 bedroom,979,965,14
+E05013691,Southbury,E09000010,Enfield,2 bedrooms,1575,1648,-73
+E05013691,Southbury,E09000010,Enfield,3 bedrooms,2385,2525,-140
+E05013691,Southbury,E09000010,Enfield,4 or more bedrooms,851,575,276
+E05013692,Southgate,E09000010,Enfield,1 bedroom,828,831,-3
+E05013692,Southgate,E09000010,Enfield,2 bedrooms,2002,2053,-51
+E05013692,Southgate,E09000010,Enfield,3 bedrooms,1511,1626,-115
+E05013692,Southgate,E09000010,Enfield,4 or more bedrooms,1558,1296,262
+E05013693,Town,E09000010,Enfield,1 bedroom,627,531,96
+E05013693,Town,E09000010,Enfield,2 bedrooms,1565,1428,137
+E05013693,Town,E09000010,Enfield,3 bedrooms,2093,2293,-200
+E05013693,Town,E09000010,Enfield,4 or more bedrooms,1110,808,302
+E05013694,Upper Edmonton,E09000010,Enfield,1 bedroom,906,1007,-101
+E05013694,Upper Edmonton,E09000010,Enfield,2 bedrooms,2078,2120,-42
+E05013694,Upper Edmonton,E09000010,Enfield,3 bedrooms,1915,1828,87
+E05013694,Upper Edmonton,E09000010,Enfield,4 or more bedrooms,715,444,271
+E05013695,Whitewebbs,E09000010,Enfield,1 bedroom,688,767,-79
+E05013695,Whitewebbs,E09000010,Enfield,2 bedrooms,1928,2104,-176
+E05013695,Whitewebbs,E09000010,Enfield,3 bedrooms,2064,2203,-139
+E05013695,Whitewebbs,E09000010,Enfield,4 or more bedrooms,983,693,290
+E05013696,Winchmore Hill,E09000010,Enfield,1 bedroom,561,629,-68
+E05013696,Winchmore Hill,E09000010,Enfield,2 bedrooms,930,956,-26
+E05013696,Winchmore Hill,E09000010,Enfield,3 bedrooms,1029,1184,-155
+E05013696,Winchmore Hill,E09000010,Enfield,4 or more bedrooms,1467,1222,245
+E05013697,Arsenal,E09000019,Islington,1 bedroom,2333,2040,293
+E05013697,Arsenal,E09000019,Islington,2 bedrooms,2101,1736,365
+E05013697,Arsenal,E09000019,Islington,3 bedrooms,921,905,16
+E05013697,Arsenal,E09000019,Islington,4 or more bedrooms,658,536,122
+E05013698,Barnsbury,E09000019,Islington,1 bedroom,1870,1988,-118
+E05013698,Barnsbury,E09000019,Islington,2 bedrooms,2043,2063,-20
+E05013698,Barnsbury,E09000019,Islington,3 bedrooms,1121,1060,61
+E05013698,Barnsbury,E09000019,Islington,4 or more bedrooms,595,632,-37
+E05013699,Bunhill,E09000019,Islington,1 bedroom,1840,1841,-1
+E05013699,Bunhill,E09000019,Islington,2 bedrooms,2255,2114,141
+E05013699,Bunhill,E09000019,Islington,3 bedrooms,810,729,81
+E05013699,Bunhill,E09000019,Islington,4 or more bedrooms,173,145,28
+E05013700,Caledonian,E09000019,Islington,1 bedroom,1620,1670,-50
+E05013700,Caledonian,E09000019,Islington,2 bedrooms,1886,1808,78
+E05013700,Caledonian,E09000019,Islington,3 bedrooms,943,881,62
+E05013700,Caledonian,E09000019,Islington,4 or more bedrooms,458,405,53
+E05013701,Canonbury,E09000019,Islington,1 bedroom,1779,1912,-133
+E05013701,Canonbury,E09000019,Islington,2 bedrooms,2368,2498,-130
+E05013701,Canonbury,E09000019,Islington,3 bedrooms,1122,1125,-3
+E05013701,Canonbury,E09000019,Islington,4 or more bedrooms,520,498,22
+E05013702,Clerkenwell,E09000019,Islington,1 bedroom,1612,1964,-352
+E05013702,Clerkenwell,E09000019,Islington,2 bedrooms,2079,2143,-64
+E05013702,Clerkenwell,E09000019,Islington,3 bedrooms,923,884,39
+E05013702,Clerkenwell,E09000019,Islington,4 or more bedrooms,330,310,20
+E05013703,Finsbury Park,E09000019,Islington,1 bedroom,2360,2136,224
+E05013703,Finsbury Park,E09000019,Islington,2 bedrooms,1800,1554,246
+E05013703,Finsbury Park,E09000019,Islington,3 bedrooms,1198,1154,44
+E05013703,Finsbury Park,E09000019,Islington,4 or more bedrooms,633,530,103
+E05013704,Highbury,E09000019,Islington,1 bedroom,1794,1909,-115
+E05013704,Highbury,E09000019,Islington,2 bedrooms,1979,1954,25
+E05013704,Highbury,E09000019,Islington,3 bedrooms,1138,1081,57
+E05013704,Highbury,E09000019,Islington,4 or more bedrooms,1171,991,180
+E05013705,Hillrise,E09000019,Islington,1 bedroom,1985,2068,-83
+E05013705,Hillrise,E09000019,Islington,2 bedrooms,1962,1814,148
+E05013705,Hillrise,E09000019,Islington,3 bedrooms,1487,1502,-15
+E05013705,Hillrise,E09000019,Islington,4 or more bedrooms,969,935,34
+E05013706,Holloway,E09000019,Islington,1 bedroom,1795,1893,-98
+E05013706,Holloway,E09000019,Islington,2 bedrooms,1978,1800,178
+E05013706,Holloway,E09000019,Islington,3 bedrooms,1000,954,46
+E05013706,Holloway,E09000019,Islington,4 or more bedrooms,463,451,12
+E05013707,Junction,E09000019,Islington,1 bedroom,2309,2345,-36
+E05013707,Junction,E09000019,Islington,2 bedrooms,1820,1705,115
+E05013707,Junction,E09000019,Islington,3 bedrooms,1037,1070,-33
+E05013707,Junction,E09000019,Islington,4 or more bedrooms,724,667,57
+E05013708,Laycock,E09000019,Islington,1 bedroom,1898,1878,20
+E05013708,Laycock,E09000019,Islington,2 bedrooms,2032,1777,255
+E05013708,Laycock,E09000019,Islington,3 bedrooms,1147,1065,82
+E05013708,Laycock,E09000019,Islington,4 or more bedrooms,602,547,55
+E05013709,Mildmay,E09000019,Islington,1 bedroom,2032,2148,-116
+E05013709,Mildmay,E09000019,Islington,2 bedrooms,2300,2388,-88
+E05013709,Mildmay,E09000019,Islington,3 bedrooms,1271,1202,69
+E05013709,Mildmay,E09000019,Islington,4 or more bedrooms,498,452,46
+E05013710,St Mary's & St James',E09000019,Islington,1 bedroom,1805,1785,20
+E05013710,St Mary's & St James',E09000019,Islington,2 bedrooms,2121,2091,30
+E05013710,St Mary's & St James',E09000019,Islington,3 bedrooms,1178,1094,84
+E05013710,St Mary's & St James',E09000019,Islington,4 or more bedrooms,465,410,55
+E05013711,St Peter's & Canalside,E09000019,Islington,1 bedroom,2025,1559,466
+E05013711,St Peter's & Canalside,E09000019,Islington,2 bedrooms,2040,1676,364
+E05013711,St Peter's & Canalside,E09000019,Islington,3 bedrooms,905,822,83
+E05013711,St Peter's & Canalside,E09000019,Islington,4 or more bedrooms,496,348,148
+E05013712,Tollington,E09000019,Islington,1 bedroom,2110,2162,-52
+E05013712,Tollington,E09000019,Islington,2 bedrooms,2027,2009,18
+E05013712,Tollington,E09000019,Islington,3 bedrooms,1339,1237,102
+E05013712,Tollington,E09000019,Islington,4 or more bedrooms,719,668,51
+E05013713,Tufnell Park,E09000019,Islington,1 bedroom,1889,1968,-79
+E05013713,Tufnell Park,E09000019,Islington,2 bedrooms,1947,1838,109
+E05013713,Tufnell Park,E09000019,Islington,3 bedrooms,907,842,65
+E05013713,Tufnell Park,E09000019,Islington,4 or more bedrooms,774,749,25
+E05013714,Bellingham,E09000023,Lewisham,1 bedroom,990,892,98
+E05013714,Bellingham,E09000023,Lewisham,2 bedrooms,1662,1583,79
+E05013714,Bellingham,E09000023,Lewisham,3 bedrooms,1698,1720,-22
+E05013714,Bellingham,E09000023,Lewisham,4 or more bedrooms,280,140,140
+E05013715,Blackheath,E09000023,Lewisham,1 bedroom,1852,1687,165
+E05013715,Blackheath,E09000023,Lewisham,2 bedrooms,2756,2709,47
+E05013715,Blackheath,E09000023,Lewisham,3 bedrooms,1652,1599,53
+E05013715,Blackheath,E09000023,Lewisham,4 or more bedrooms,1040,921,119
+E05013716,Brockley,E09000023,Lewisham,1 bedroom,2363,2519,-156
+E05013716,Brockley,E09000023,Lewisham,2 bedrooms,2707,2561,146
+E05013716,Brockley,E09000023,Lewisham,3 bedrooms,1615,1570,45
+E05013716,Brockley,E09000023,Lewisham,4 or more bedrooms,869,752,117
+E05013717,Catford South,E09000023,Lewisham,1 bedroom,820,905,-85
+E05013717,Catford South,E09000023,Lewisham,2 bedrooms,1190,1129,61
+E05013717,Catford South,E09000023,Lewisham,3 bedrooms,2903,2974,-71
+E05013717,Catford South,E09000023,Lewisham,4 or more bedrooms,1363,1121,242
+E05013718,Crofton Park,E09000023,Lewisham,1 bedroom,1022,1135,-113
+E05013718,Crofton Park,E09000023,Lewisham,2 bedrooms,1759,1870,-111
+E05013718,Crofton Park,E09000023,Lewisham,3 bedrooms,2087,2387,-300
+E05013718,Crofton Park,E09000023,Lewisham,4 or more bedrooms,1369,885,484
+E05013719,Deptford,E09000023,Lewisham,1 bedroom,2232,1897,335
+E05013719,Deptford,E09000023,Lewisham,2 bedrooms,2634,2186,448
+E05013719,Deptford,E09000023,Lewisham,3 bedrooms,1554,1401,153
+E05013719,Deptford,E09000023,Lewisham,4 or more bedrooms,451,359,92
+E05013720,Downham,E09000023,Lewisham,1 bedroom,760,826,-66
+E05013720,Downham,E09000023,Lewisham,2 bedrooms,2877,3179,-302
+E05013720,Downham,E09000023,Lewisham,3 bedrooms,2873,2663,210
+E05013720,Downham,E09000023,Lewisham,4 or more bedrooms,531,336,195
+E05013721,Evelyn,E09000023,Lewisham,1 bedroom,2060,1447,613
+E05013721,Evelyn,E09000023,Lewisham,2 bedrooms,2620,1827,793
+E05013721,Evelyn,E09000023,Lewisham,3 bedrooms,1130,983,147
+E05013721,Evelyn,E09000023,Lewisham,4 or more bedrooms,503,370,133
+E05013722,Forest Hill,E09000023,Lewisham,1 bedroom,1390,1536,-146
+E05013722,Forest Hill,E09000023,Lewisham,2 bedrooms,2326,2335,-9
+E05013722,Forest Hill,E09000023,Lewisham,3 bedrooms,1589,1694,-105
+E05013722,Forest Hill,E09000023,Lewisham,4 or more bedrooms,1113,911,202
+E05013723,Grove Park,E09000023,Lewisham,1 bedroom,954,1036,-82
+E05013723,Grove Park,E09000023,Lewisham,2 bedrooms,2000,2057,-57
+E05013723,Grove Park,E09000023,Lewisham,3 bedrooms,2452,2544,-92
+E05013723,Grove Park,E09000023,Lewisham,4 or more bedrooms,852,623,229
+E05013724,Hither Green,E09000023,Lewisham,1 bedroom,1719,1641,78
+E05013724,Hither Green,E09000023,Lewisham,2 bedrooms,2525,2602,-77
+E05013724,Hither Green,E09000023,Lewisham,3 bedrooms,2592,2613,-21
+E05013724,Hither Green,E09000023,Lewisham,4 or more bedrooms,1194,903,291
+E05013725,Ladywell,E09000023,Lewisham,1 bedroom,1229,1380,-151
+E05013725,Ladywell,E09000023,Lewisham,2 bedrooms,2038,2051,-13
+E05013725,Ladywell,E09000023,Lewisham,3 bedrooms,1699,1840,-141
+E05013725,Ladywell,E09000023,Lewisham,4 or more bedrooms,1106,930,176
+E05013726,Lee Green,E09000023,Lewisham,1 bedroom,1103,1333,-230
+E05013726,Lee Green,E09000023,Lewisham,2 bedrooms,1959,1997,-38
+E05013726,Lee Green,E09000023,Lewisham,3 bedrooms,1763,2038,-275
+E05013726,Lee Green,E09000023,Lewisham,4 or more bedrooms,1300,918,382
+E05013727,Lewisham Central,E09000023,Lewisham,1 bedroom,1721,858,863
+E05013727,Lewisham Central,E09000023,Lewisham,2 bedrooms,1410,587,823
+E05013727,Lewisham Central,E09000023,Lewisham,3 bedrooms,569,385,184
+E05013727,Lewisham Central,E09000023,Lewisham,4 or more bedrooms,185,131,54
+E05013728,New Cross Gate,E09000023,Lewisham,1 bedroom,1364,1336,28
+E05013728,New Cross Gate,E09000023,Lewisham,2 bedrooms,1414,1190,224
+E05013728,New Cross Gate,E09000023,Lewisham,3 bedrooms,1029,789,240
+E05013728,New Cross Gate,E09000023,Lewisham,4 or more bedrooms,358,225,133
+E05013729,Perry Vale,E09000023,Lewisham,1 bedroom,1497,1608,-111
+E05013729,Perry Vale,E09000023,Lewisham,2 bedrooms,2321,2494,-173
+E05013729,Perry Vale,E09000023,Lewisham,3 bedrooms,2365,2449,-84
+E05013729,Perry Vale,E09000023,Lewisham,4 or more bedrooms,1316,1020,296
+E05013730,Rushey Green,E09000023,Lewisham,1 bedroom,2164,2014,150
+E05013730,Rushey Green,E09000023,Lewisham,2 bedrooms,2793,2513,280
+E05013730,Rushey Green,E09000023,Lewisham,3 bedrooms,1764,1728,36
+E05013730,Rushey Green,E09000023,Lewisham,4 or more bedrooms,1007,727,280
+E05013731,Sydenham,E09000023,Lewisham,1 bedroom,1606,1751,-145
+E05013731,Sydenham,E09000023,Lewisham,2 bedrooms,2563,2538,25
+E05013731,Sydenham,E09000023,Lewisham,3 bedrooms,2074,2025,49
+E05013731,Sydenham,E09000023,Lewisham,4 or more bedrooms,1020,832,188
+E05013732,Telegraph Hill,E09000023,Lewisham,1 bedroom,1708,1898,-190
+E05013732,Telegraph Hill,E09000023,Lewisham,2 bedrooms,2315,2313,2
+E05013732,Telegraph Hill,E09000023,Lewisham,3 bedrooms,1694,1654,40
+E05013732,Telegraph Hill,E09000023,Lewisham,4 or more bedrooms,1042,965,77
+E05013733,Addison,E09000013,Hammersmith and Fulham,1 bedroom,1693,1733,-40
+E05013733,Addison,E09000013,Hammersmith and Fulham,2 bedrooms,1234,1190,44
+E05013733,Addison,E09000013,Hammersmith and Fulham,3 bedrooms,487,457,30
+E05013733,Addison,E09000013,Hammersmith and Fulham,4 or more bedrooms,409,373,36
+E05013734,Avonmore,E09000013,Hammersmith and Fulham,1 bedroom,1369,1491,-122
+E05013734,Avonmore,E09000013,Hammersmith and Fulham,2 bedrooms,1294,1331,-37
+E05013734,Avonmore,E09000013,Hammersmith and Fulham,3 bedrooms,669,675,-6
+E05013734,Avonmore,E09000013,Hammersmith and Fulham,4 or more bedrooms,338,372,-34
+E05013735,Brook Green,E09000013,Hammersmith and Fulham,1 bedroom,1401,1415,-14
+E05013735,Brook Green,E09000013,Hammersmith and Fulham,2 bedrooms,1265,1300,-35
+E05013735,Brook Green,E09000013,Hammersmith and Fulham,3 bedrooms,544,547,-3
+E05013735,Brook Green,E09000013,Hammersmith and Fulham,4 or more bedrooms,598,591,7
+E05013736,College Park & Old Oak,E09000013,Hammersmith and Fulham,1 bedroom,1198,1154,44
+E05013736,College Park & Old Oak,E09000013,Hammersmith and Fulham,2 bedrooms,1321,1191,130
+E05013736,College Park & Old Oak,E09000013,Hammersmith and Fulham,3 bedrooms,970,987,-17
+E05013736,College Park & Old Oak,E09000013,Hammersmith and Fulham,4 or more bedrooms,389,293,96
+E05013737,Coningham,E09000013,Hammersmith and Fulham,1 bedroom,1993,2197,-204
+E05013737,Coningham,E09000013,Hammersmith and Fulham,2 bedrooms,1450,1479,-29
+E05013737,Coningham,E09000013,Hammersmith and Fulham,3 bedrooms,777,773,4
+E05013737,Coningham,E09000013,Hammersmith and Fulham,4 or more bedrooms,680,561,119
+E05013738,Fulham Reach,E09000013,Hammersmith and Fulham,1 bedroom,1390,1746,-356
+E05013738,Fulham Reach,E09000013,Hammersmith and Fulham,2 bedrooms,1471,1551,-80
+E05013738,Fulham Reach,E09000013,Hammersmith and Fulham,3 bedrooms,1185,1349,-164
+E05013738,Fulham Reach,E09000013,Hammersmith and Fulham,4 or more bedrooms,1045,837,208
+E05013739,Fulham Town,E09000013,Hammersmith and Fulham,1 bedroom,959,1063,-104
+E05013739,Fulham Town,E09000013,Hammersmith and Fulham,2 bedrooms,1089,1112,-23
+E05013739,Fulham Town,E09000013,Hammersmith and Fulham,3 bedrooms,612,590,22
+E05013739,Fulham Town,E09000013,Hammersmith and Fulham,4 or more bedrooms,739,728,11
+E05013740,Grove,E09000013,Hammersmith and Fulham,1 bedroom,1164,1148,16
+E05013740,Grove,E09000013,Hammersmith and Fulham,2 bedrooms,1094,1079,15
+E05013740,Grove,E09000013,Hammersmith and Fulham,3 bedrooms,649,624,25
+E05013740,Grove,E09000013,Hammersmith and Fulham,4 or more bedrooms,557,461,96
+E05013741,Hammersmith Broadway,E09000013,Hammersmith and Fulham,1 bedroom,1184,949,235
+E05013741,Hammersmith Broadway,E09000013,Hammersmith and Fulham,2 bedrooms,1216,958,258
+E05013741,Hammersmith Broadway,E09000013,Hammersmith and Fulham,3 bedrooms,683,581,102
+E05013741,Hammersmith Broadway,E09000013,Hammersmith and Fulham,4 or more bedrooms,409,330,79
+E05013742,Lillie,E09000013,Hammersmith and Fulham,1 bedroom,1240,1201,39
+E05013742,Lillie,E09000013,Hammersmith and Fulham,2 bedrooms,1083,960,123
+E05013742,Lillie,E09000013,Hammersmith and Fulham,3 bedrooms,560,512,48
+E05013742,Lillie,E09000013,Hammersmith and Fulham,4 or more bedrooms,308,237,71
+E05013743,Munster,E09000013,Hammersmith and Fulham,1 bedroom,1180,1322,-142
+E05013743,Munster,E09000013,Hammersmith and Fulham,2 bedrooms,1755,1841,-86
+E05013743,Munster,E09000013,Hammersmith and Fulham,3 bedrooms,1239,1372,-133
+E05013743,Munster,E09000013,Hammersmith and Fulham,4 or more bedrooms,1233,1013,220
+E05013744,Palace & Hurlingham,E09000013,Hammersmith and Fulham,1 bedroom,703,715,-12
+E05013744,Palace & Hurlingham,E09000013,Hammersmith and Fulham,2 bedrooms,1526,1649,-123
+E05013744,Palace & Hurlingham,E09000013,Hammersmith and Fulham,3 bedrooms,1145,1107,38
+E05013744,Palace & Hurlingham,E09000013,Hammersmith and Fulham,4 or more bedrooms,1426,1348,78
+E05013745,Parsons Green & Sandford,E09000013,Hammersmith and Fulham,1 bedroom,516,658,-142
+E05013745,Parsons Green & Sandford,E09000013,Hammersmith and Fulham,2 bedrooms,851,863,-12
+E05013745,Parsons Green & Sandford,E09000013,Hammersmith and Fulham,3 bedrooms,659,706,-47
+E05013745,Parsons Green & Sandford,E09000013,Hammersmith and Fulham,4 or more bedrooms,1183,1092,91
+E05013746,Ravenscourt,E09000013,Hammersmith and Fulham,1 bedroom,1052,1136,-84
+E05013746,Ravenscourt,E09000013,Hammersmith and Fulham,2 bedrooms,1031,1073,-42
+E05013746,Ravenscourt,E09000013,Hammersmith and Fulham,3 bedrooms,524,555,-31
+E05013746,Ravenscourt,E09000013,Hammersmith and Fulham,4 or more bedrooms,493,488,5
+E05013747,Sands End,E09000013,Hammersmith and Fulham,1 bedroom,1340,951,389
+E05013747,Sands End,E09000013,Hammersmith and Fulham,2 bedrooms,2376,2262,114
+E05013747,Sands End,E09000013,Hammersmith and Fulham,3 bedrooms,879,705,174
+E05013747,Sands End,E09000013,Hammersmith and Fulham,4 or more bedrooms,464,343,121
+E05013748,Shepherd's Bush Green,E09000013,Hammersmith and Fulham,1 bedroom,1210,1207,3
+E05013748,Shepherd's Bush Green,E09000013,Hammersmith and Fulham,2 bedrooms,897,828,69
+E05013748,Shepherd's Bush Green,E09000013,Hammersmith and Fulham,3 bedrooms,327,332,-5
+E05013748,Shepherd's Bush Green,E09000013,Hammersmith and Fulham,4 or more bedrooms,228,195,33
+E05013749,Walham Green,E09000013,Hammersmith and Fulham,1 bedroom,1033,979,54
+E05013749,Walham Green,E09000013,Hammersmith and Fulham,2 bedrooms,1269,1263,6
+E05013749,Walham Green,E09000013,Hammersmith and Fulham,3 bedrooms,660,678,-18
+E05013749,Walham Green,E09000013,Hammersmith and Fulham,4 or more bedrooms,535,473,62
+E05013750,Wendell Park,E09000013,Hammersmith and Fulham,1 bedroom,885,1000,-115
+E05013750,Wendell Park,E09000013,Hammersmith and Fulham,2 bedrooms,988,1019,-31
+E05013750,Wendell Park,E09000013,Hammersmith and Fulham,3 bedrooms,587,582,5
+E05013750,Wendell Park,E09000013,Hammersmith and Fulham,4 or more bedrooms,695,614,81
+E05013751,West Kensington,E09000013,Hammersmith and Fulham,1 bedroom,1970,2193,-223
+E05013751,West Kensington,E09000013,Hammersmith and Fulham,2 bedrooms,1548,1663,-115
+E05013751,West Kensington,E09000013,Hammersmith and Fulham,3 bedrooms,734,717,17
+E05013751,West Kensington,E09000013,Hammersmith and Fulham,4 or more bedrooms,354,375,-21
+E05013752,White City,E09000013,Hammersmith and Fulham,1 bedroom,1136,995,141
+E05013752,White City,E09000013,Hammersmith and Fulham,2 bedrooms,1477,1359,118
+E05013752,White City,E09000013,Hammersmith and Fulham,3 bedrooms,1009,974,35
+E05013752,White City,E09000013,Hammersmith and Fulham,4 or more bedrooms,503,480,23
+E05013753,Wormholt,E09000013,Hammersmith and Fulham,1 bedroom,540,558,-18
+E05013753,Wormholt,E09000013,Hammersmith and Fulham,2 bedrooms,824,820,4
+E05013753,Wormholt,E09000013,Hammersmith and Fulham,3 bedrooms,990,1041,-51
+E05013753,Wormholt,E09000013,Hammersmith and Fulham,4 or more bedrooms,569,473,96
+E05013754,Beddington,E09000029,Sutton,1 bedroom,319,297,22
+E05013754,Beddington,E09000029,Sutton,2 bedrooms,905,993,-88
+E05013754,Beddington,E09000029,Sutton,3 bedrooms,2142,2252,-110
+E05013754,Beddington,E09000029,Sutton,4 or more bedrooms,757,534,223
+E05013755,Belmont,E09000029,Sutton,1 bedroom,984,977,7
+E05013755,Belmont,E09000029,Sutton,2 bedrooms,1429,1474,-45
+E05013755,Belmont,E09000029,Sutton,3 bedrooms,961,911,50
+E05013755,Belmont,E09000029,Sutton,4 or more bedrooms,1362,1306,56
+E05013756,Carshalton Central,E09000029,Sutton,1 bedroom,574,586,-12
+E05013756,Carshalton Central,E09000029,Sutton,2 bedrooms,1285,1243,42
+E05013756,Carshalton Central,E09000029,Sutton,3 bedrooms,1615,1693,-78
+E05013756,Carshalton Central,E09000029,Sutton,4 or more bedrooms,1202,960,242
+E05013757,Carshalton South & Clockhouse,E09000029,Sutton,1 bedroom,145,135,10
+E05013757,Carshalton South & Clockhouse,E09000029,Sutton,2 bedrooms,671,661,10
+E05013757,Carshalton South & Clockhouse,E09000029,Sutton,3 bedrooms,1388,1447,-59
+E05013757,Carshalton South & Clockhouse,E09000029,Sutton,4 or more bedrooms,1437,1230,207
+E05013758,Cheam,E09000029,Sutton,1 bedroom,356,263,93
+E05013758,Cheam,E09000029,Sutton,2 bedrooms,757,728,29
+E05013758,Cheam,E09000029,Sutton,3 bedrooms,1261,1427,-166
+E05013758,Cheam,E09000029,Sutton,4 or more bedrooms,1716,1497,219
+E05013759,Hackbridge,E09000029,Sutton,1 bedroom,645,472,173
+E05013759,Hackbridge,E09000029,Sutton,2 bedrooms,1211,938,273
+E05013759,Hackbridge,E09000029,Sutton,3 bedrooms,802,623,179
+E05013759,Hackbridge,E09000029,Sutton,4 or more bedrooms,200,121,79
+E05013760,North Cheam,E09000029,Sutton,1 bedroom,384,276,108
+E05013760,North Cheam,E09000029,Sutton,2 bedrooms,849,836,13
+E05013760,North Cheam,E09000029,Sutton,3 bedrooms,2103,2328,-225
+E05013760,North Cheam,E09000029,Sutton,4 or more bedrooms,1018,684,334
+E05013761,St Helier East,E09000029,Sutton,1 bedroom,453,483,-30
+E05013761,St Helier East,E09000029,Sutton,2 bedrooms,1074,1141,-67
+E05013761,St Helier East,E09000029,Sutton,3 bedrooms,1369,1292,77
+E05013761,St Helier East,E09000029,Sutton,4 or more bedrooms,216,126,90
+E05013762,St Helier West,E09000029,Sutton,1 bedroom,549,662,-113
+E05013762,St Helier West,E09000029,Sutton,2 bedrooms,1601,1762,-161
+E05013762,St Helier West,E09000029,Sutton,3 bedrooms,2010,1831,179
+E05013762,St Helier West,E09000029,Sutton,4 or more bedrooms,283,204,79
+E05013763,South Beddington & Roundshaw,E09000029,Sutton,1 bedroom,682,653,29
+E05013763,South Beddington & Roundshaw,E09000029,Sutton,2 bedrooms,907,889,18
+E05013763,South Beddington & Roundshaw,E09000029,Sutton,3 bedrooms,1153,1200,-47
+E05013763,South Beddington & Roundshaw,E09000029,Sutton,4 or more bedrooms,1300,1120,180
+E05013764,Stonecot,E09000029,Sutton,1 bedroom,154,127,27
+E05013764,Stonecot,E09000029,Sutton,2 bedrooms,539,552,-13
+E05013764,Stonecot,E09000029,Sutton,3 bedrooms,1470,1613,-143
+E05013764,Stonecot,E09000029,Sutton,4 or more bedrooms,629,427,202
+E05013765,Sutton Central,E09000029,Sutton,1 bedroom,1705,1380,325
+E05013765,Sutton Central,E09000029,Sutton,2 bedrooms,2160,1583,577
+E05013765,Sutton Central,E09000029,Sutton,3 bedrooms,1157,1055,102
+E05013765,Sutton Central,E09000029,Sutton,4 or more bedrooms,307,238,69
+E05013766,Sutton North,E09000029,Sutton,1 bedroom,379,369,10
+E05013766,Sutton North,E09000029,Sutton,2 bedrooms,1344,1375,-31
+E05013766,Sutton North,E09000029,Sutton,3 bedrooms,1830,1920,-90
+E05013766,Sutton North,E09000029,Sutton,4 or more bedrooms,704,509,195
+E05013767,Sutton South,E09000029,Sutton,1 bedroom,1790,1746,44
+E05013767,Sutton South,E09000029,Sutton,2 bedrooms,2501,2370,131
+E05013767,Sutton South,E09000029,Sutton,3 bedrooms,649,629,20
+E05013767,Sutton South,E09000029,Sutton,4 or more bedrooms,644,600,44
+E05013768,Sutton West & East Cheam,E09000029,Sutton,1 bedroom,833,827,6
+E05013768,Sutton West & East Cheam,E09000029,Sutton,2 bedrooms,1676,1735,-59
+E05013768,Sutton West & East Cheam,E09000029,Sutton,3 bedrooms,1385,1385,0
+E05013768,Sutton West & East Cheam,E09000029,Sutton,4 or more bedrooms,797,660,137
+E05013769,The Wrythe,E09000029,Sutton,1 bedroom,564,515,49
+E05013769,The Wrythe,E09000029,Sutton,2 bedrooms,1184,1061,123
+E05013769,The Wrythe,E09000029,Sutton,3 bedrooms,1831,1868,-37
+E05013769,The Wrythe,E09000029,Sutton,4 or more bedrooms,562,375,187
+E05013770,Wallington North,E09000029,Sutton,1 bedroom,852,768,84
+E05013770,Wallington North,E09000029,Sutton,2 bedrooms,1649,1516,133
+E05013770,Wallington North,E09000029,Sutton,3 bedrooms,1587,1631,-44
+E05013770,Wallington North,E09000029,Sutton,4 or more bedrooms,797,610,187
+E05013771,Wallington South,E09000029,Sutton,1 bedroom,1021,978,43
+E05013771,Wallington South,E09000029,Sutton,2 bedrooms,1588,1533,55
+E05013771,Wallington South,E09000029,Sutton,3 bedrooms,1040,1047,-7
+E05013771,Wallington South,E09000029,Sutton,4 or more bedrooms,1057,961,96
+E05013772,Worcester Park North,E09000029,Sutton,1 bedroom,197,183,14
+E05013772,Worcester Park North,E09000029,Sutton,2 bedrooms,982,975,7
+E05013772,Worcester Park North,E09000029,Sutton,3 bedrooms,1388,1413,-25
+E05013772,Worcester Park North,E09000029,Sutton,4 or more bedrooms,586,428,158
+E05013773,Worcester Park South,E09000029,Sutton,1 bedroom,164,183,-19
+E05013773,Worcester Park South,E09000029,Sutton,2 bedrooms,413,432,-19
+E05013773,Worcester Park South,E09000029,Sutton,3 bedrooms,1206,1376,-170
+E05013773,Worcester Park South,E09000029,Sutton,4 or more bedrooms,948,751,197
+E05013774,Barnes,E09000027,Richmond upon Thames,1 bedroom,587,680,-93
+E05013774,Barnes,E09000027,Richmond upon Thames,2 bedrooms,1112,1226,-114
+E05013774,Barnes,E09000027,Richmond upon Thames,3 bedrooms,967,1015,-48
+E05013774,Barnes,E09000027,Richmond upon Thames,4 or more bedrooms,1652,1516,136
+E05013775,East Sheen,E09000027,Richmond upon Thames,1 bedroom,438,501,-63
+E05013775,East Sheen,E09000027,Richmond upon Thames,2 bedrooms,885,1028,-143
+E05013775,East Sheen,E09000027,Richmond upon Thames,3 bedrooms,878,906,-28
+E05013775,East Sheen,E09000027,Richmond upon Thames,4 or more bedrooms,1926,1708,218
+E05013776,Fulwell & Hampton Hill,E09000027,Richmond upon Thames,1 bedroom,689,661,28
+E05013776,Fulwell & Hampton Hill,E09000027,Richmond upon Thames,2 bedrooms,1198,1236,-38
+E05013776,Fulwell & Hampton Hill,E09000027,Richmond upon Thames,3 bedrooms,1307,1338,-31
+E05013776,Fulwell & Hampton Hill,E09000027,Richmond upon Thames,4 or more bedrooms,1240,1004,236
+E05013777,"Ham, Petersham & Richmond Riverside",E09000027,Richmond upon Thames,1 bedroom,480,516,-36
+E05013777,"Ham, Petersham & Richmond Riverside",E09000027,Richmond upon Thames,2 bedrooms,1343,1473,-130
+E05013777,"Ham, Petersham & Richmond Riverside",E09000027,Richmond upon Thames,3 bedrooms,1625,1632,-7
+E05013777,"Ham, Petersham & Richmond Riverside",E09000027,Richmond upon Thames,4 or more bedrooms,951,806,145
+E05013778,Hampton,E09000027,Richmond upon Thames,1 bedroom,594,570,24
+E05013778,Hampton,E09000027,Richmond upon Thames,2 bedrooms,1053,1131,-78
+E05013778,Hampton,E09000027,Richmond upon Thames,3 bedrooms,1219,1320,-101
+E05013778,Hampton,E09000027,Richmond upon Thames,4 or more bedrooms,1269,1025,244
+E05013779,Hampton North,E09000027,Richmond upon Thames,1 bedroom,763,793,-30
+E05013779,Hampton North,E09000027,Richmond upon Thames,2 bedrooms,1143,1192,-49
+E05013779,Hampton North,E09000027,Richmond upon Thames,3 bedrooms,1307,1401,-94
+E05013779,Hampton North,E09000027,Richmond upon Thames,4 or more bedrooms,999,807,192
+E05013780,Hampton Wick & South Teddington,E09000027,Richmond upon Thames,1 bedroom,945,966,-21
+E05013780,Hampton Wick & South Teddington,E09000027,Richmond upon Thames,2 bedrooms,1544,1468,76
+E05013780,Hampton Wick & South Teddington,E09000027,Richmond upon Thames,3 bedrooms,822,801,21
+E05013780,Hampton Wick & South Teddington,E09000027,Richmond upon Thames,4 or more bedrooms,1335,1206,129
+E05013781,Heathfield,E09000027,Richmond upon Thames,1 bedroom,341,381,-40
+E05013781,Heathfield,E09000027,Richmond upon Thames,2 bedrooms,946,1054,-108
+E05013781,Heathfield,E09000027,Richmond upon Thames,3 bedrooms,1426,1474,-48
+E05013781,Heathfield,E09000027,Richmond upon Thames,4 or more bedrooms,1035,768,267
+E05013782,Kew,E09000027,Richmond upon Thames,1 bedroom,775,836,-61
+E05013782,Kew,E09000027,Richmond upon Thames,2 bedrooms,1660,1673,-13
+E05013782,Kew,E09000027,Richmond upon Thames,3 bedrooms,971,1010,-39
+E05013782,Kew,E09000027,Richmond upon Thames,4 or more bedrooms,1576,1416,160
+E05013783,Mortlake & Barnes Common,E09000027,Richmond upon Thames,1 bedroom,816,919,-103
+E05013783,Mortlake & Barnes Common,E09000027,Richmond upon Thames,2 bedrooms,1845,1910,-65
+E05013783,Mortlake & Barnes Common,E09000027,Richmond upon Thames,3 bedrooms,1352,1329,23
+E05013783,Mortlake & Barnes Common,E09000027,Richmond upon Thames,4 or more bedrooms,1128,943,185
+E05013784,North Richmond,E09000027,Richmond upon Thames,1 bedroom,937,926,11
+E05013784,North Richmond,E09000027,Richmond upon Thames,2 bedrooms,1316,1324,-8
+E05013784,North Richmond,E09000027,Richmond upon Thames,3 bedrooms,1142,1123,19
+E05013784,North Richmond,E09000027,Richmond upon Thames,4 or more bedrooms,1240,1084,156
+E05013785,St Margarets & North Twickenham,E09000027,Richmond upon Thames,1 bedroom,627,635,-8
+E05013785,St Margarets & North Twickenham,E09000027,Richmond upon Thames,2 bedrooms,1364,1398,-34
+E05013785,St Margarets & North Twickenham,E09000027,Richmond upon Thames,3 bedrooms,1089,1211,-122
+E05013785,St Margarets & North Twickenham,E09000027,Richmond upon Thames,4 or more bedrooms,1613,1315,298
+E05013786,South Richmond,E09000027,Richmond upon Thames,1 bedroom,1174,1270,-96
+E05013786,South Richmond,E09000027,Richmond upon Thames,2 bedrooms,1743,1879,-136
+E05013786,South Richmond,E09000027,Richmond upon Thames,3 bedrooms,979,882,97
+E05013786,South Richmond,E09000027,Richmond upon Thames,4 or more bedrooms,1149,1109,40
+E05013787,South Twickenham,E09000027,Richmond upon Thames,1 bedroom,667,671,-4
+E05013787,South Twickenham,E09000027,Richmond upon Thames,2 bedrooms,1271,1343,-72
+E05013787,South Twickenham,E09000027,Richmond upon Thames,3 bedrooms,949,956,-7
+E05013787,South Twickenham,E09000027,Richmond upon Thames,4 or more bedrooms,1365,1168,197
+E05013788,Teddington,E09000027,Richmond upon Thames,1 bedroom,940,994,-54
+E05013788,Teddington,E09000027,Richmond upon Thames,2 bedrooms,1370,1363,7
+E05013788,Teddington,E09000027,Richmond upon Thames,3 bedrooms,1029,1071,-42
+E05013788,Teddington,E09000027,Richmond upon Thames,4 or more bedrooms,1383,1180,203
+E05013789,Twickenham Riverside,E09000027,Richmond upon Thames,1 bedroom,1221,1274,-53
+E05013789,Twickenham Riverside,E09000027,Richmond upon Thames,2 bedrooms,1651,1684,-33
+E05013789,Twickenham Riverside,E09000027,Richmond upon Thames,3 bedrooms,904,871,33
+E05013789,Twickenham Riverside,E09000027,Richmond upon Thames,4 or more bedrooms,1201,1033,168
+E05013790,West Twickenham,E09000027,Richmond upon Thames,1 bedroom,357,348,9
+E05013790,West Twickenham,E09000027,Richmond upon Thames,2 bedrooms,1146,1216,-70
+E05013790,West Twickenham,E09000027,Richmond upon Thames,3 bedrooms,1680,1936,-256
+E05013790,West Twickenham,E09000027,Richmond upon Thames,4 or more bedrooms,1042,674,368
+E05013791,Whitton,E09000027,Richmond upon Thames,1 bedroom,277,297,-20
+E05013791,Whitton,E09000027,Richmond upon Thames,2 bedrooms,782,871,-89
+E05013791,Whitton,E09000027,Richmond upon Thames,3 bedrooms,1974,2144,-170
+E05013791,Whitton,E09000027,Richmond upon Thames,4 or more bedrooms,999,722,277
+E05013792,Abbey Road,E09000033,Westminster,1 bedroom,1980,2387,-407
+E05013792,Abbey Road,E09000033,Westminster,2 bedrooms,1949,2140,-191
+E05013792,Abbey Road,E09000033,Westminster,3 bedrooms,1118,1067,51
+E05013792,Abbey Road,E09000033,Westminster,4 or more bedrooms,1010,975,35
+E05013793,Bayswater,E09000033,Westminster,1 bedroom,2730,3357,-627
+E05013793,Bayswater,E09000033,Westminster,2 bedrooms,1990,2250,-260
+E05013793,Bayswater,E09000033,Westminster,3 bedrooms,841,836,5
+E05013793,Bayswater,E09000033,Westminster,4 or more bedrooms,553,496,57
+E05013794,Church Street,E09000033,Westminster,1 bedroom,1666,1856,-190
+E05013794,Church Street,E09000033,Westminster,2 bedrooms,1454,1533,-79
+E05013794,Church Street,E09000033,Westminster,3 bedrooms,985,964,21
+E05013794,Church Street,E09000033,Westminster,4 or more bedrooms,444,339,105
+E05013795,Harrow Road,E09000033,Westminster,1 bedroom,1879,2161,-282
+E05013795,Harrow Road,E09000033,Westminster,2 bedrooms,1937,1985,-48
+E05013795,Harrow Road,E09000033,Westminster,3 bedrooms,888,887,1
+E05013795,Harrow Road,E09000033,Westminster,4 or more bedrooms,319,270,49
+E05013796,Hyde Park,E09000033,Westminster,1 bedroom,1719,1994,-275
+E05013796,Hyde Park,E09000033,Westminster,2 bedrooms,1536,1732,-196
+E05013796,Hyde Park,E09000033,Westminster,3 bedrooms,797,769,28
+E05013796,Hyde Park,E09000033,Westminster,4 or more bedrooms,553,564,-11
+E05013797,Knightsbridge & Belgravia,E09000033,Westminster,1 bedroom,1494,1770,-276
+E05013797,Knightsbridge & Belgravia,E09000033,Westminster,2 bedrooms,1583,2143,-560
+E05013797,Knightsbridge & Belgravia,E09000033,Westminster,3 bedrooms,1119,1386,-267
+E05013797,Knightsbridge & Belgravia,E09000033,Westminster,4 or more bedrooms,812,979,-167
+E05013798,Lancaster Gate,E09000033,Westminster,1 bedroom,2392,3130,-738
+E05013798,Lancaster Gate,E09000033,Westminster,2 bedrooms,1949,2343,-394
+E05013798,Lancaster Gate,E09000033,Westminster,3 bedrooms,914,925,-11
+E05013798,Lancaster Gate,E09000033,Westminster,4 or more bedrooms,389,350,39
+E05013799,Little Venice,E09000033,Westminster,1 bedroom,1342,1633,-291
+E05013799,Little Venice,E09000033,Westminster,2 bedrooms,1618,1797,-179
+E05013799,Little Venice,E09000033,Westminster,3 bedrooms,1033,1081,-48
+E05013799,Little Venice,E09000033,Westminster,4 or more bedrooms,465,412,53
+E05013800,Maida Vale,E09000033,Westminster,1 bedroom,1169,1224,-55
+E05013800,Maida Vale,E09000033,Westminster,2 bedrooms,2274,2393,-119
+E05013800,Maida Vale,E09000033,Westminster,3 bedrooms,1202,1195,7
+E05013800,Maida Vale,E09000033,Westminster,4 or more bedrooms,344,261,83
+E05013801,Marylebone,E09000033,Westminster,1 bedroom,2115,2869,-754
+E05013801,Marylebone,E09000033,Westminster,2 bedrooms,2435,2924,-489
+E05013801,Marylebone,E09000033,Westminster,3 bedrooms,1199,1333,-134
+E05013801,Marylebone,E09000033,Westminster,4 or more bedrooms,574,556,18
+E05013802,Pimlico North,E09000033,Westminster,1 bedroom,2236,2755,-519
+E05013802,Pimlico North,E09000033,Westminster,2 bedrooms,1779,2016,-237
+E05013802,Pimlico North,E09000033,Westminster,3 bedrooms,800,874,-74
+E05013802,Pimlico North,E09000033,Westminster,4 or more bedrooms,397,342,55
+E05013803,Pimlico South,E09000033,Westminster,1 bedroom,1885,2346,-461
+E05013803,Pimlico South,E09000033,Westminster,2 bedrooms,1815,2046,-231
+E05013803,Pimlico South,E09000033,Westminster,3 bedrooms,974,995,-21
+E05013803,Pimlico South,E09000033,Westminster,4 or more bedrooms,289,247,42
+E05013804,Queen's Park,E09000033,Westminster,1 bedroom,1436,1657,-221
+E05013804,Queen's Park,E09000033,Westminster,2 bedrooms,2158,2116,42
+E05013804,Queen's Park,E09000033,Westminster,3 bedrooms,1194,1080,114
+E05013804,Queen's Park,E09000033,Westminster,4 or more bedrooms,308,269,39
+E05013805,Regent's Park,E09000033,Westminster,1 bedroom,1716,2183,-467
+E05013805,Regent's Park,E09000033,Westminster,2 bedrooms,2031,2440,-409
+E05013805,Regent's Park,E09000033,Westminster,3 bedrooms,1252,1384,-132
+E05013805,Regent's Park,E09000033,Westminster,4 or more bedrooms,680,694,-14
+E05013806,St James's,E09000033,Westminster,1 bedroom,2223,2239,-16
+E05013806,St James's,E09000033,Westminster,2 bedrooms,1853,1840,13
+E05013806,St James's,E09000033,Westminster,3 bedrooms,809,675,134
+E05013806,St James's,E09000033,Westminster,4 or more bedrooms,284,255,29
+E05013807,Vincent Square,E09000033,Westminster,1 bedroom,1890,2101,-211
+E05013807,Vincent Square,E09000033,Westminster,2 bedrooms,2109,2123,-14
+E05013807,Vincent Square,E09000033,Westminster,3 bedrooms,966,879,87
+E05013807,Vincent Square,E09000033,Westminster,4 or more bedrooms,206,200,6
+E05013808,West End,E09000033,Westminster,1 bedroom,2655,3287,-632
+E05013808,West End,E09000033,Westminster,2 bedrooms,2118,2441,-323
+E05013808,West End,E09000033,Westminster,3 bedrooms,885,911,-26
+E05013808,West End,E09000033,Westminster,4 or more bedrooms,414,433,-19
+E05013809,Westbourne,E09000033,Westminster,1 bedroom,1608,1743,-135
+E05013809,Westbourne,E09000033,Westminster,2 bedrooms,1795,1864,-69
+E05013809,Westbourne,E09000033,Westminster,3 bedrooms,985,968,17
+E05013809,Westbourne,E09000033,Westminster,4 or more bedrooms,293,226,67
+E05013810,Abbey,E09000024,Merton,1 bedroom,1035,1067,-32
+E05013810,Abbey,E09000024,Merton,2 bedrooms,1538,1694,-156
+E05013810,Abbey,E09000024,Merton,3 bedrooms,1041,996,45
+E05013810,Abbey,E09000024,Merton,4 or more bedrooms,722,522,200
+E05013811,Cannon Hill,E09000024,Merton,1 bedroom,219,197,22
+E05013811,Cannon Hill,E09000024,Merton,2 bedrooms,363,338,25
+E05013811,Cannon Hill,E09000024,Merton,3 bedrooms,1787,2101,-314
+E05013811,Cannon Hill,E09000024,Merton,4 or more bedrooms,1199,846,353
+E05013812,Colliers Wood,E09000024,Merton,1 bedroom,1197,1170,27
+E05013812,Colliers Wood,E09000024,Merton,2 bedrooms,1732,1616,116
+E05013812,Colliers Wood,E09000024,Merton,3 bedrooms,1189,1203,-14
+E05013812,Colliers Wood,E09000024,Merton,4 or more bedrooms,641,426,215
+E05013813,Cricket Green,E09000024,Merton,1 bedroom,1012,907,105
+E05013813,Cricket Green,E09000024,Merton,2 bedrooms,1214,1160,54
+E05013813,Cricket Green,E09000024,Merton,3 bedrooms,1678,1693,-15
+E05013813,Cricket Green,E09000024,Merton,4 or more bedrooms,476,332,144
+E05013814,Figge's Marsh,E09000024,Merton,1 bedroom,844,819,25
+E05013814,Figge's Marsh,E09000024,Merton,2 bedrooms,1037,1008,29
+E05013814,Figge's Marsh,E09000024,Merton,3 bedrooms,1599,1597,2
+E05013814,Figge's Marsh,E09000024,Merton,4 or more bedrooms,472,320,152
+E05013815,Graveney,E09000024,Merton,1 bedroom,566,501,65
+E05013815,Graveney,E09000024,Merton,2 bedrooms,847,863,-16
+E05013815,Graveney,E09000024,Merton,3 bedrooms,1825,2040,-215
+E05013815,Graveney,E09000024,Merton,4 or more bedrooms,923,578,345
+E05013816,Hillside,E09000024,Merton,1 bedroom,947,1004,-57
+E05013816,Hillside,E09000024,Merton,2 bedrooms,1454,1492,-38
+E05013816,Hillside,E09000024,Merton,3 bedrooms,574,594,-20
+E05013816,Hillside,E09000024,Merton,4 or more bedrooms,912,853,59
+E05013817,Lavender Fields,E09000024,Merton,1 bedroom,857,923,-66
+E05013817,Lavender Fields,E09000024,Merton,2 bedrooms,1494,1458,36
+E05013817,Lavender Fields,E09000024,Merton,3 bedrooms,1453,1350,103
+E05013817,Lavender Fields,E09000024,Merton,4 or more bedrooms,569,390,179
+E05013818,Longthornton,E09000024,Merton,1 bedroom,361,290,71
+E05013818,Longthornton,E09000024,Merton,2 bedrooms,946,884,62
+E05013818,Longthornton,E09000024,Merton,3 bedrooms,1995,2134,-139
+E05013818,Longthornton,E09000024,Merton,4 or more bedrooms,774,425,349
+E05013819,Lower Morden,E09000024,Merton,1 bedroom,234,213,21
+E05013819,Lower Morden,E09000024,Merton,2 bedrooms,698,693,5
+E05013819,Lower Morden,E09000024,Merton,3 bedrooms,2372,2550,-178
+E05013819,Lower Morden,E09000024,Merton,4 or more bedrooms,860,614,246
+E05013820,Merton Park,E09000024,Merton,1 bedroom,236,231,5
+E05013820,Merton Park,E09000024,Merton,2 bedrooms,630,623,7
+E05013820,Merton Park,E09000024,Merton,3 bedrooms,947,1163,-216
+E05013820,Merton Park,E09000024,Merton,4 or more bedrooms,1247,982,265
+E05013821,Pollards Hill,E09000024,Merton,1 bedroom,523,430,93
+E05013821,Pollards Hill,E09000024,Merton,2 bedrooms,643,563,80
+E05013821,Pollards Hill,E09000024,Merton,3 bedrooms,2115,2180,-65
+E05013821,Pollards Hill,E09000024,Merton,4 or more bedrooms,703,445,258
+E05013822,Ravensbury,E09000024,Merton,1 bedroom,380,396,-16
+E05013822,Ravensbury,E09000024,Merton,2 bedrooms,1178,1249,-71
+E05013822,Ravensbury,E09000024,Merton,3 bedrooms,1440,1436,4
+E05013822,Ravensbury,E09000024,Merton,4 or more bedrooms,429,269,160
+E05013823,Raynes Park,E09000024,Merton,1 bedroom,936,990,-54
+E05013823,Raynes Park,E09000024,Merton,2 bedrooms,1648,1827,-179
+E05013823,Raynes Park,E09000024,Merton,3 bedrooms,1364,1223,141
+E05013823,Raynes Park,E09000024,Merton,4 or more bedrooms,1136,930,206
+E05013824,St Helier,E09000024,Merton,1 bedroom,557,459,98
+E05013824,St Helier,E09000024,Merton,2 bedrooms,1545,1647,-102
+E05013824,St Helier,E09000024,Merton,3 bedrooms,1510,1376,134
+E05013824,St Helier,E09000024,Merton,4 or more bedrooms,407,266,141
+E05013825,Village,E09000024,Merton,1 bedroom,500,571,-71
+E05013825,Village,E09000024,Merton,2 bedrooms,1186,1241,-55
+E05013825,Village,E09000024,Merton,3 bedrooms,903,943,-40
+E05013825,Village,E09000024,Merton,4 or more bedrooms,2089,1972,117
+E05013826,Wandle,E09000024,Merton,1 bedroom,628,659,-31
+E05013826,Wandle,E09000024,Merton,2 bedrooms,1112,1194,-82
+E05013826,Wandle,E09000024,Merton,3 bedrooms,672,601,71
+E05013826,Wandle,E09000024,Merton,4 or more bedrooms,321,182,139
+E05013827,West Barnes,E09000024,Merton,1 bedroom,359,208,151
+E05013827,West Barnes,E09000024,Merton,2 bedrooms,577,541,36
+E05013827,West Barnes,E09000024,Merton,3 bedrooms,1682,2036,-354
+E05013827,West Barnes,E09000024,Merton,4 or more bedrooms,1231,779,452
+E05013828,Wimbledon Park,E09000024,Merton,1 bedroom,706,564,142
+E05013828,Wimbledon Park,E09000024,Merton,2 bedrooms,927,941,-14
+E05013828,Wimbledon Park,E09000024,Merton,3 bedrooms,926,1053,-127
+E05013828,Wimbledon Park,E09000024,Merton,4 or more bedrooms,1662,1407,255
+E05013829,Wimbledon Town & Dundonald,E09000024,Merton,1 bedroom,862,963,-101
+E05013829,Wimbledon Town & Dundonald,E09000024,Merton,2 bedrooms,1418,1547,-129
+E05013829,Wimbledon Town & Dundonald,E09000024,Merton,3 bedrooms,1189,1277,-88
+E05013829,Wimbledon Town & Dundonald,E09000024,Merton,4 or more bedrooms,1531,1270,261
+E05013882,Cann Hall,E09000031,Waltham Forest,1 bedroom,1106,1244,-138
+E05013882,Cann Hall,E09000031,Waltham Forest,2 bedrooms,1815,2042,-227
+E05013882,Cann Hall,E09000031,Waltham Forest,3 bedrooms,1907,1973,-66
+E05013882,Cann Hall,E09000031,Waltham Forest,4 or more bedrooms,746,483,263
+E05013883,Cathall,E09000031,Waltham Forest,1 bedroom,906,907,-1
+E05013883,Cathall,E09000031,Waltham Forest,2 bedrooms,1106,1110,-4
+E05013883,Cathall,E09000031,Waltham Forest,3 bedrooms,1235,1240,-5
+E05013883,Cathall,E09000031,Waltham Forest,4 or more bedrooms,598,424,174
+E05013884,Chapel End,E09000031,Waltham Forest,1 bedroom,531,502,29
+E05013884,Chapel End,E09000031,Waltham Forest,2 bedrooms,1644,1694,-50
+E05013884,Chapel End,E09000031,Waltham Forest,3 bedrooms,2046,2220,-174
+E05013884,Chapel End,E09000031,Waltham Forest,4 or more bedrooms,799,434,365
+E05013885,Chingford Green,E09000031,Waltham Forest,1 bedroom,673,710,-37
+E05013885,Chingford Green,E09000031,Waltham Forest,2 bedrooms,1244,1258,-14
+E05013885,Chingford Green,E09000031,Waltham Forest,3 bedrooms,1687,1770,-83
+E05013885,Chingford Green,E09000031,Waltham Forest,4 or more bedrooms,1194,1021,173
+E05013886,Endlebury,E09000031,Waltham Forest,1 bedroom,348,354,-6
+E05013886,Endlebury,E09000031,Waltham Forest,2 bedrooms,886,872,14
+E05013886,Endlebury,E09000031,Waltham Forest,3 bedrooms,1091,1228,-137
+E05013886,Endlebury,E09000031,Waltham Forest,4 or more bedrooms,1077,868,209
+E05013887,Forest,E09000031,Waltham Forest,1 bedroom,1140,1069,71
+E05013887,Forest,E09000031,Waltham Forest,2 bedrooms,1489,1392,97
+E05013887,Forest,E09000031,Waltham Forest,3 bedrooms,1651,1736,-85
+E05013887,Forest,E09000031,Waltham Forest,4 or more bedrooms,1280,933,347
+E05013888,Grove Green,E09000031,Waltham Forest,1 bedroom,979,995,-16
+E05013888,Grove Green,E09000031,Waltham Forest,2 bedrooms,2007,1923,84
+E05013888,Grove Green,E09000031,Waltham Forest,3 bedrooms,1648,1711,-63
+E05013888,Grove Green,E09000031,Waltham Forest,4 or more bedrooms,868,596,272
+E05013889,Hale End & Highams Park South,E09000031,Waltham Forest,1 bedroom,460,357,103
+E05013889,Hale End & Highams Park South,E09000031,Waltham Forest,2 bedrooms,746,577,169
+E05013889,Hale End & Highams Park South,E09000031,Waltham Forest,3 bedrooms,1481,1587,-106
+E05013889,Hale End & Highams Park South,E09000031,Waltham Forest,4 or more bedrooms,725,529,196
+E05013890,Hatch Lane & Highams Park North,E09000031,Waltham Forest,1 bedroom,665,640,25
+E05013890,Hatch Lane & Highams Park North,E09000031,Waltham Forest,2 bedrooms,1371,1413,-42
+E05013890,Hatch Lane & Highams Park North,E09000031,Waltham Forest,3 bedrooms,1899,2046,-147
+E05013890,Hatch Lane & Highams Park North,E09000031,Waltham Forest,4 or more bedrooms,1144,882,262
+E05013891,High Street,E09000031,Waltham Forest,1 bedroom,1037,890,147
+E05013891,High Street,E09000031,Waltham Forest,2 bedrooms,1679,1597,82
+E05013891,High Street,E09000031,Waltham Forest,3 bedrooms,965,910,55
+E05013891,High Street,E09000031,Waltham Forest,4 or more bedrooms,485,297,188
+E05013892,Higham Hill,E09000031,Waltham Forest,1 bedroom,720,686,34
+E05013892,Higham Hill,E09000031,Waltham Forest,2 bedrooms,1607,1453,154
+E05013892,Higham Hill,E09000031,Waltham Forest,3 bedrooms,1993,1834,159
+E05013892,Higham Hill,E09000031,Waltham Forest,4 or more bedrooms,592,307,285
+E05013893,Hoe Street,E09000031,Waltham Forest,1 bedroom,1665,1504,161
+E05013893,Hoe Street,E09000031,Waltham Forest,2 bedrooms,2020,1909,111
+E05013893,Hoe Street,E09000031,Waltham Forest,3 bedrooms,1225,1227,-2
+E05013893,Hoe Street,E09000031,Waltham Forest,4 or more bedrooms,791,589,202
+E05013894,Larkswood,E09000031,Waltham Forest,1 bedroom,792,615,177
+E05013894,Larkswood,E09000031,Waltham Forest,2 bedrooms,1263,1061,202
+E05013894,Larkswood,E09000031,Waltham Forest,3 bedrooms,2019,2199,-180
+E05013894,Larkswood,E09000031,Waltham Forest,4 or more bedrooms,976,667,309
+E05013895,Lea Bridge,E09000031,Waltham Forest,1 bedroom,1196,1190,6
+E05013895,Lea Bridge,E09000031,Waltham Forest,2 bedrooms,2133,1898,235
+E05013895,Lea Bridge,E09000031,Waltham Forest,3 bedrooms,1334,1447,-113
+E05013895,Lea Bridge,E09000031,Waltham Forest,4 or more bedrooms,769,444,325
+E05013896,Leyton,E09000031,Waltham Forest,1 bedroom,1252,1105,147
+E05013896,Leyton,E09000031,Waltham Forest,2 bedrooms,1557,1439,118
+E05013896,Leyton,E09000031,Waltham Forest,3 bedrooms,1528,1532,-4
+E05013896,Leyton,E09000031,Waltham Forest,4 or more bedrooms,713,484,229
+E05013897,Leytonstone,E09000031,Waltham Forest,1 bedroom,1200,1234,-34
+E05013897,Leytonstone,E09000031,Waltham Forest,2 bedrooms,1508,1544,-36
+E05013897,Leytonstone,E09000031,Waltham Forest,3 bedrooms,1149,1150,-1
+E05013897,Leytonstone,E09000031,Waltham Forest,4 or more bedrooms,1010,895,115
+E05013898,Markhouse,E09000031,Waltham Forest,1 bedroom,731,708,23
+E05013898,Markhouse,E09000031,Waltham Forest,2 bedrooms,918,951,-33
+E05013898,Markhouse,E09000031,Waltham Forest,3 bedrooms,1134,1211,-77
+E05013898,Markhouse,E09000031,Waltham Forest,4 or more bedrooms,709,382,327
+E05013899,St James,E09000031,Waltham Forest,1 bedroom,1455,1048,407
+E05013899,St James,E09000031,Waltham Forest,2 bedrooms,1869,1648,221
+E05013899,St James,E09000031,Waltham Forest,3 bedrooms,1075,926,149
+E05013899,St James,E09000031,Waltham Forest,4 or more bedrooms,472,228,244
+E05013900,Upper Walthamstow,E09000031,Waltham Forest,1 bedroom,410,480,-70
+E05013900,Upper Walthamstow,E09000031,Waltham Forest,2 bedrooms,858,844,14
+E05013900,Upper Walthamstow,E09000031,Waltham Forest,3 bedrooms,1048,1189,-141
+E05013900,Upper Walthamstow,E09000031,Waltham Forest,4 or more bedrooms,686,478,208
+E05013901,Valley,E09000031,Waltham Forest,1 bedroom,541,494,47
+E05013901,Valley,E09000031,Waltham Forest,2 bedrooms,1020,973,47
+E05013901,Valley,E09000031,Waltham Forest,3 bedrooms,2514,2731,-217
+E05013901,Valley,E09000031,Waltham Forest,4 or more bedrooms,1017,676,341
+E05013902,William Morris,E09000031,Waltham Forest,1 bedroom,1078,1056,22
+E05013902,William Morris,E09000031,Waltham Forest,2 bedrooms,2039,2165,-126
+E05013902,William Morris,E09000031,Waltham Forest,3 bedrooms,1666,1626,40
+E05013902,William Morris,E09000031,Waltham Forest,4 or more bedrooms,731,404,327
+E05013903,Wood Street,E09000031,Waltham Forest,1 bedroom,894,981,-87
+E05013903,Wood Street,E09000031,Waltham Forest,2 bedrooms,1045,1005,40
+E05013903,Wood Street,E09000031,Waltham Forest,3 bedrooms,1116,1179,-63
+E05013903,Wood Street,E09000031,Waltham Forest,4 or more bedrooms,503,250,253
+E05013904,Beckton,E09000025,Newham,1 bedroom,1128,1202,-74
+E05013904,Beckton,E09000025,Newham,2 bedrooms,1902,1736,166
+E05013904,Beckton,E09000025,Newham,3 bedrooms,1472,1420,52
+E05013904,Beckton,E09000025,Newham,4 or more bedrooms,790,715,75
+E05013905,Boleyn,E09000025,Newham,1 bedroom,876,680,196
+E05013905,Boleyn,E09000025,Newham,2 bedrooms,1363,1253,110
+E05013905,Boleyn,E09000025,Newham,3 bedrooms,1731,1619,112
+E05013905,Boleyn,E09000025,Newham,4 or more bedrooms,728,433,295
+E05013906,Canning Town North,E09000025,Newham,1 bedroom,1014,814,200
+E05013906,Canning Town North,E09000025,Newham,2 bedrooms,1283,1054,229
+E05013906,Canning Town North,E09000025,Newham,3 bedrooms,1250,1182,68
+E05013906,Canning Town North,E09000025,Newham,4 or more bedrooms,309,207,102
+E05013907,Canning Town South,E09000025,Newham,1 bedroom,734,464,270
+E05013907,Canning Town South,E09000025,Newham,2 bedrooms,1103,669,434
+E05013907,Canning Town South,E09000025,Newham,3 bedrooms,765,680,85
+E05013907,Canning Town South,E09000025,Newham,4 or more bedrooms,175,131,44
+E05013908,Custom House,E09000025,Newham,1 bedroom,1311,1055,256
+E05013908,Custom House,E09000025,Newham,2 bedrooms,1976,1778,198
+E05013908,Custom House,E09000025,Newham,3 bedrooms,2267,2188,79
+E05013908,Custom House,E09000025,Newham,4 or more bedrooms,668,450,218
+E05013909,East Ham,E09000025,Newham,1 bedroom,676,787,-111
+E05013909,East Ham,E09000025,Newham,2 bedrooms,965,1061,-96
+E05013909,East Ham,E09000025,Newham,3 bedrooms,1775,1937,-162
+E05013909,East Ham,E09000025,Newham,4 or more bedrooms,849,522,327
+E05013910,East Ham South,E09000025,Newham,1 bedroom,563,592,-29
+E05013910,East Ham South,E09000025,Newham,2 bedrooms,1684,1958,-274
+E05013910,East Ham South,E09000025,Newham,3 bedrooms,2362,2330,32
+E05013910,East Ham South,E09000025,Newham,4 or more bedrooms,693,375,318
+E05013911,Forest Gate North,E09000025,Newham,1 bedroom,681,724,-43
+E05013911,Forest Gate North,E09000025,Newham,2 bedrooms,1164,1254,-90
+E05013911,Forest Gate North,E09000025,Newham,3 bedrooms,1265,1333,-68
+E05013911,Forest Gate North,E09000025,Newham,4 or more bedrooms,630,537,93
+E05013912,Forest Gate South,E09000025,Newham,1 bedroom,1424,1480,-56
+E05013912,Forest Gate South,E09000025,Newham,2 bedrooms,1823,1826,-3
+E05013912,Forest Gate South,E09000025,Newham,3 bedrooms,1277,1321,-44
+E05013912,Forest Gate South,E09000025,Newham,4 or more bedrooms,1179,1013,166
+E05013913,Green Street East,E09000025,Newham,1 bedroom,567,672,-105
+E05013913,Green Street East,E09000025,Newham,2 bedrooms,1009,1046,-37
+E05013913,Green Street East,E09000025,Newham,3 bedrooms,1861,2022,-161
+E05013913,Green Street East,E09000025,Newham,4 or more bedrooms,954,585,369
+E05013914,Green Street West,E09000025,Newham,1 bedroom,660,784,-124
+E05013914,Green Street West,E09000025,Newham,2 bedrooms,889,897,-8
+E05013914,Green Street West,E09000025,Newham,3 bedrooms,1440,1574,-134
+E05013914,Green Street West,E09000025,Newham,4 or more bedrooms,1187,818,369
+E05013915,Little Ilford,E09000025,Newham,1 bedroom,867,1054,-187
+E05013915,Little Ilford,E09000025,Newham,2 bedrooms,1551,1638,-87
+E05013915,Little Ilford,E09000025,Newham,3 bedrooms,2038,2073,-35
+E05013915,Little Ilford,E09000025,Newham,4 or more bedrooms,770,546,224
+E05013916,Manor Park,E09000025,Newham,1 bedroom,878,986,-108
+E05013916,Manor Park,E09000025,Newham,2 bedrooms,1263,1270,-7
+E05013916,Manor Park,E09000025,Newham,3 bedrooms,1622,1780,-158
+E05013916,Manor Park,E09000025,Newham,4 or more bedrooms,923,670,253
+E05013917,Maryland,E09000025,Newham,1 bedroom,1191,1228,-37
+E05013917,Maryland,E09000025,Newham,2 bedrooms,1460,1563,-103
+E05013917,Maryland,E09000025,Newham,3 bedrooms,1357,1404,-47
+E05013917,Maryland,E09000025,Newham,4 or more bedrooms,622,434,188
+E05013918,Plaistow North,E09000025,Newham,1 bedroom,1321,1292,29
+E05013918,Plaistow North,E09000025,Newham,2 bedrooms,1650,1579,71
+E05013918,Plaistow North,E09000025,Newham,3 bedrooms,1688,1633,55
+E05013918,Plaistow North,E09000025,Newham,4 or more bedrooms,866,673,193
+E05013919,Plaistow South,E09000025,Newham,1 bedroom,476,546,-70
+E05013919,Plaistow South,E09000025,Newham,2 bedrooms,1659,1938,-279
+E05013919,Plaistow South,E09000025,Newham,3 bedrooms,1620,1572,48
+E05013919,Plaistow South,E09000025,Newham,4 or more bedrooms,564,319,245
+E05013920,Plaistow West & Canning Town East,E09000025,Newham,1 bedroom,1250,1376,-126
+E05013920,Plaistow West & Canning Town East,E09000025,Newham,2 bedrooms,2120,2171,-51
+E05013920,Plaistow West & Canning Town East,E09000025,Newham,3 bedrooms,1878,1827,51
+E05013920,Plaistow West & Canning Town East,E09000025,Newham,4 or more bedrooms,626,426,200
+E05013921,Plashet,E09000025,Newham,1 bedroom,378,413,-35
+E05013921,Plashet,E09000025,Newham,2 bedrooms,502,452,50
+E05013921,Plashet,E09000025,Newham,3 bedrooms,1202,1301,-99
+E05013921,Plashet,E09000025,Newham,4 or more bedrooms,864,573,291
+E05013922,Royal Albert,E09000025,Newham,1 bedroom,1100,853,247
+E05013922,Royal Albert,E09000025,Newham,2 bedrooms,1712,1394,318
+E05013922,Royal Albert,E09000025,Newham,3 bedrooms,852,688,164
+E05013922,Royal Albert,E09000025,Newham,4 or more bedrooms,199,139,60
+E05013923,Royal Victoria,E09000025,Newham,1 bedroom,2443,977,1466
+E05013923,Royal Victoria,E09000025,Newham,2 bedrooms,3035,1695,1340
+E05013923,Royal Victoria,E09000025,Newham,3 bedrooms,1072,444,628
+E05013923,Royal Victoria,E09000025,Newham,4 or more bedrooms,201,55,146
+E05013924,Stratford,E09000025,Newham,1 bedroom,2499,1645,854
+E05013924,Stratford,E09000025,Newham,2 bedrooms,3032,2456,576
+E05013924,Stratford,E09000025,Newham,3 bedrooms,985,724,261
+E05013924,Stratford,E09000025,Newham,4 or more bedrooms,301,204,97
+E05013925,Stratford Olympic Park,E09000025,Newham,1 bedroom,985,4,981
+E05013925,Stratford Olympic Park,E09000025,Newham,2 bedrooms,2022,5,2017
+E05013925,Stratford Olympic Park,E09000025,Newham,3 bedrooms,1234,6,1228
+E05013925,Stratford Olympic Park,E09000025,Newham,4 or more bedrooms,272,2,270
+E05013926,Wall End,E09000025,Newham,1 bedroom,484,525,-41
+E05013926,Wall End,E09000025,Newham,2 bedrooms,1048,1143,-95
+E05013926,Wall End,E09000025,Newham,3 bedrooms,2195,2239,-44
+E05013926,Wall End,E09000025,Newham,4 or more bedrooms,900,574,326
+E05013927,West Ham,E09000025,Newham,1 bedroom,1138,1284,-146
+E05013927,West Ham,E09000025,Newham,2 bedrooms,1571,1624,-53
+E05013927,West Ham,E09000025,Newham,3 bedrooms,1809,1905,-96
+E05013927,West Ham,E09000025,Newham,4 or more bedrooms,815,558,257
+E05013928,Alexandra,E09000021,Kingston upon Thames,1 bedroom,172,109,63
+E05013928,Alexandra,E09000021,Kingston upon Thames,2 bedrooms,298,315,-17
+E05013928,Alexandra,E09000021,Kingston upon Thames,3 bedrooms,881,1032,-151
+E05013928,Alexandra,E09000021,Kingston upon Thames,4 or more bedrooms,808,594,214
+E05013929,Berrylands,E09000021,Kingston upon Thames,1 bedroom,583,596,-13
+E05013929,Berrylands,E09000021,Kingston upon Thames,2 bedrooms,530,550,-20
+E05013929,Berrylands,E09000021,Kingston upon Thames,3 bedrooms,617,781,-164
+E05013929,Berrylands,E09000021,Kingston upon Thames,4 or more bedrooms,961,755,206
+E05013930,Canbury Gardens,E09000021,Kingston upon Thames,1 bedroom,667,497,170
+E05013930,Canbury Gardens,E09000021,Kingston upon Thames,2 bedrooms,1246,963,283
+E05013930,Canbury Gardens,E09000021,Kingston upon Thames,3 bedrooms,674,711,-37
+E05013930,Canbury Gardens,E09000021,Kingston upon Thames,4 or more bedrooms,747,576,171
+E05013931,Chessington South & Malden Rushett,E09000021,Kingston upon Thames,1 bedroom,253,245,8
+E05013931,Chessington South & Malden Rushett,E09000021,Kingston upon Thames,2 bedrooms,1261,1296,-35
+E05013931,Chessington South & Malden Rushett,E09000021,Kingston upon Thames,3 bedrooms,1587,1671,-84
+E05013931,Chessington South & Malden Rushett,E09000021,Kingston upon Thames,4 or more bedrooms,711,545,166
+E05013932,Coombe Hill,E09000021,Kingston upon Thames,1 bedroom,298,262,36
+E05013932,Coombe Hill,E09000021,Kingston upon Thames,2 bedrooms,443,496,-53
+E05013932,Coombe Hill,E09000021,Kingston upon Thames,3 bedrooms,577,577,0
+E05013932,Coombe Hill,E09000021,Kingston upon Thames,4 or more bedrooms,1356,1263,93
+E05013933,Coombe Vale,E09000021,Kingston upon Thames,1 bedroom,343,358,-15
+E05013933,Coombe Vale,E09000021,Kingston upon Thames,2 bedrooms,683,753,-70
+E05013933,Coombe Vale,E09000021,Kingston upon Thames,3 bedrooms,1374,1551,-177
+E05013933,Coombe Vale,E09000021,Kingston upon Thames,4 or more bedrooms,1370,1089,281
+E05013934,Green Lane & St James,E09000021,Kingston upon Thames,1 bedroom,295,303,-8
+E05013934,Green Lane & St James,E09000021,Kingston upon Thames,2 bedrooms,537,551,-14
+E05013934,Green Lane & St James,E09000021,Kingston upon Thames,3 bedrooms,851,926,-75
+E05013934,Green Lane & St James,E09000021,Kingston upon Thames,4 or more bedrooms,688,548,140
+E05013935,Hook & Chessington North,E09000021,Kingston upon Thames,1 bedroom,246,236,10
+E05013935,Hook & Chessington North,E09000021,Kingston upon Thames,2 bedrooms,827,877,-50
+E05013935,Hook & Chessington North,E09000021,Kingston upon Thames,3 bedrooms,2236,2343,-107
+E05013935,Hook & Chessington North,E09000021,Kingston upon Thames,4 or more bedrooms,728,522,206
+E05013936,King George's & Sunray,E09000021,Kingston upon Thames,1 bedroom,151,115,36
+E05013936,King George's & Sunray,E09000021,Kingston upon Thames,2 bedrooms,396,447,-51
+E05013936,King George's & Sunray,E09000021,Kingston upon Thames,3 bedrooms,1248,1291,-43
+E05013936,King George's & Sunray,E09000021,Kingston upon Thames,4 or more bedrooms,318,205,113
+E05013937,Kingston Gate,E09000021,Kingston upon Thames,1 bedroom,590,616,-26
+E05013937,Kingston Gate,E09000021,Kingston upon Thames,2 bedrooms,1412,1607,-195
+E05013937,Kingston Gate,E09000021,Kingston upon Thames,3 bedrooms,1232,1357,-125
+E05013937,Kingston Gate,E09000021,Kingston upon Thames,4 or more bedrooms,1051,747,304
+E05013938,Kingston Town,E09000021,Kingston upon Thames,1 bedroom,1069,996,73
+E05013938,Kingston Town,E09000021,Kingston upon Thames,2 bedrooms,1592,1636,-44
+E05013938,Kingston Town,E09000021,Kingston upon Thames,3 bedrooms,884,847,37
+E05013938,Kingston Town,E09000021,Kingston upon Thames,4 or more bedrooms,781,597,184
+E05013939,Motspur Park & Old Malden East,E09000021,Kingston upon Thames,1 bedroom,82,65,17
+E05013939,Motspur Park & Old Malden East,E09000021,Kingston upon Thames,2 bedrooms,265,314,-49
+E05013939,Motspur Park & Old Malden East,E09000021,Kingston upon Thames,3 bedrooms,1339,1481,-142
+E05013939,Motspur Park & Old Malden East,E09000021,Kingston upon Thames,4 or more bedrooms,834,639,195
+E05013940,New Malden Village,E09000021,Kingston upon Thames,1 bedroom,639,540,99
+E05013940,New Malden Village,E09000021,Kingston upon Thames,2 bedrooms,805,770,35
+E05013940,New Malden Village,E09000021,Kingston upon Thames,3 bedrooms,1223,1342,-119
+E05013940,New Malden Village,E09000021,Kingston upon Thames,4 or more bedrooms,1157,888,269
+E05013941,Norbiton,E09000021,Kingston upon Thames,1 bedroom,776,839,-63
+E05013941,Norbiton,E09000021,Kingston upon Thames,2 bedrooms,1276,1278,-2
+E05013941,Norbiton,E09000021,Kingston upon Thames,3 bedrooms,1347,1400,-53
+E05013941,Norbiton,E09000021,Kingston upon Thames,4 or more bedrooms,737,488,249
+E05013942,Old Malden,E09000021,Kingston upon Thames,1 bedroom,249,277,-28
+E05013942,Old Malden,E09000021,Kingston upon Thames,2 bedrooms,367,366,1
+E05013942,Old Malden,E09000021,Kingston upon Thames,3 bedrooms,1066,1181,-115
+E05013942,Old Malden,E09000021,Kingston upon Thames,4 or more bedrooms,789,628,161
+E05013943,St Mark's & Seething Wells,E09000021,Kingston upon Thames,1 bedroom,1530,1593,-63
+E05013943,St Mark's & Seething Wells,E09000021,Kingston upon Thames,2 bedrooms,2266,2208,58
+E05013943,St Mark's & Seething Wells,E09000021,Kingston upon Thames,3 bedrooms,777,779,-2
+E05013943,St Mark's & Seething Wells,E09000021,Kingston upon Thames,4 or more bedrooms,772,616,156
+E05013944,Surbiton Hill,E09000021,Kingston upon Thames,1 bedroom,1444,1504,-60
+E05013944,Surbiton Hill,E09000021,Kingston upon Thames,2 bedrooms,1992,1964,28
+E05013944,Surbiton Hill,E09000021,Kingston upon Thames,3 bedrooms,620,650,-30
+E05013944,Surbiton Hill,E09000021,Kingston upon Thames,4 or more bedrooms,962,760,202
+E05013945,Tolworth,E09000021,Kingston upon Thames,1 bedroom,427,408,19
+E05013945,Tolworth,E09000021,Kingston upon Thames,2 bedrooms,1075,1094,-19
+E05013945,Tolworth,E09000021,Kingston upon Thames,3 bedrooms,1815,1861,-46
+E05013945,Tolworth,E09000021,Kingston upon Thames,4 or more bedrooms,823,540,283
+E05013946,Tudor,E09000021,Kingston upon Thames,1 bedroom,116,141,-25
+E05013946,Tudor,E09000021,Kingston upon Thames,2 bedrooms,518,608,-90
+E05013946,Tudor,E09000021,Kingston upon Thames,3 bedrooms,1007,1148,-141
+E05013946,Tudor,E09000021,Kingston upon Thames,4 or more bedrooms,993,739,254
+E05013967,Beam Park,E09000016,Havering,1 bedroom,266,263,3
+E05013967,Beam Park,E09000016,Havering,2 bedrooms,666,572,94
+E05013967,Beam Park,E09000016,Havering,3 bedrooms,751,667,84
+E05013967,Beam Park,E09000016,Havering,4 or more bedrooms,265,119,146
+E05013968,Cranham,E09000016,Havering,1 bedroom,132,152,-20
+E05013968,Cranham,E09000016,Havering,2 bedrooms,922,1031,-109
+E05013968,Cranham,E09000016,Havering,3 bedrooms,2618,2741,-123
+E05013968,Cranham,E09000016,Havering,4 or more bedrooms,1477,1235,242
+E05013969,Elm Park,E09000016,Havering,1 bedroom,502,496,6
+E05013969,Elm Park,E09000016,Havering,2 bedrooms,1077,1094,-17
+E05013969,Elm Park,E09000016,Havering,3 bedrooms,3722,3813,-91
+E05013969,Elm Park,E09000016,Havering,4 or more bedrooms,1052,843,209
+E05013970,Emerson Park,E09000016,Havering,1 bedroom,152,163,-11
+E05013970,Emerson Park,E09000016,Havering,2 bedrooms,458,496,-38
+E05013970,Emerson Park,E09000016,Havering,3 bedrooms,1123,1229,-106
+E05013970,Emerson Park,E09000016,Havering,4 or more bedrooms,1657,1505,152
+E05013971,Gooshays,E09000016,Havering,1 bedroom,1005,1098,-93
+E05013971,Gooshays,E09000016,Havering,2 bedrooms,1587,1698,-111
+E05013971,Gooshays,E09000016,Havering,3 bedrooms,3191,2750,441
+E05013971,Gooshays,E09000016,Havering,4 or more bedrooms,651,531,120
+E05013972,Hacton,E09000016,Havering,1 bedroom,219,210,9
+E05013972,Hacton,E09000016,Havering,2 bedrooms,663,735,-72
+E05013972,Hacton,E09000016,Havering,3 bedrooms,1976,2005,-29
+E05013972,Hacton,E09000016,Havering,4 or more bedrooms,755,614,141
+E05013973,Harold Wood,E09000016,Havering,1 bedroom,767,610,157
+E05013973,Harold Wood,E09000016,Havering,2 bedrooms,1401,1170,231
+E05013973,Harold Wood,E09000016,Havering,3 bedrooms,2465,2341,124
+E05013973,Harold Wood,E09000016,Havering,4 or more bedrooms,1070,787,283
+E05013974,Havering-atte-Bower,E09000016,Havering,1 bedroom,307,288,19
+E05013974,Havering-atte-Bower,E09000016,Havering,2 bedrooms,1242,1356,-114
+E05013974,Havering-atte-Bower,E09000016,Havering,3 bedrooms,3392,3406,-14
+E05013974,Havering-atte-Bower,E09000016,Havering,4 or more bedrooms,973,741,232
+E05013975,Heaton,E09000016,Havering,1 bedroom,1202,1282,-80
+E05013975,Heaton,E09000016,Havering,2 bedrooms,1746,1770,-24
+E05013975,Heaton,E09000016,Havering,3 bedrooms,3088,2791,297
+E05013975,Heaton,E09000016,Havering,4 or more bedrooms,574,334,240
+E05013976,Hylands & Harrow Lodge,E09000016,Havering,1 bedroom,461,407,54
+E05013976,Hylands & Harrow Lodge,E09000016,Havering,2 bedrooms,857,865,-8
+E05013976,Hylands & Harrow Lodge,E09000016,Havering,3 bedrooms,2714,2781,-67
+E05013976,Hylands & Harrow Lodge,E09000016,Havering,4 or more bedrooms,1435,1134,301
+E05013977,Marshalls & Rise Park,E09000016,Havering,1 bedroom,247,283,-36
+E05013977,Marshalls & Rise Park,E09000016,Havering,2 bedrooms,692,750,-58
+E05013977,Marshalls & Rise Park,E09000016,Havering,3 bedrooms,2423,2641,-218
+E05013977,Marshalls & Rise Park,E09000016,Havering,4 or more bedrooms,1564,1254,310
+E05013978,Mawneys,E09000016,Havering,1 bedroom,303,295,8
+E05013978,Mawneys,E09000016,Havering,2 bedrooms,1487,1594,-107
+E05013978,Mawneys,E09000016,Havering,3 bedrooms,2854,2904,-50
+E05013978,Mawneys,E09000016,Havering,4 or more bedrooms,860,637,223
+E05013979,Rainham & Wennington,E09000016,Havering,1 bedroom,379,352,27
+E05013979,Rainham & Wennington,E09000016,Havering,2 bedrooms,1086,1156,-70
+E05013979,Rainham & Wennington,E09000016,Havering,3 bedrooms,2753,2783,-30
+E05013979,Rainham & Wennington,E09000016,Havering,4 or more bedrooms,896,707,189
+E05013980,Rush Green & Crowlands,E09000016,Havering,1 bedroom,893,555,338
+E05013980,Rush Green & Crowlands,E09000016,Havering,2 bedrooms,1819,1350,469
+E05013980,Rush Green & Crowlands,E09000016,Havering,3 bedrooms,2360,2356,4
+E05013980,Rush Green & Crowlands,E09000016,Havering,4 or more bedrooms,741,475,266
+E05013981,St Alban's,E09000016,Havering,1 bedroom,592,576,16
+E05013981,St Alban's,E09000016,Havering,2 bedrooms,1287,1304,-17
+E05013981,St Alban's,E09000016,Havering,3 bedrooms,1099,1056,43
+E05013981,St Alban's,E09000016,Havering,4 or more bedrooms,338,245,93
+E05013982,St Andrew's,E09000016,Havering,1 bedroom,654,639,15
+E05013982,St Andrew's,E09000016,Havering,2 bedrooms,1768,1825,-57
+E05013982,St Andrew's,E09000016,Havering,3 bedrooms,2429,2605,-176
+E05013982,St Andrew's,E09000016,Havering,4 or more bedrooms,1163,892,271
+E05013983,St Edward's,E09000016,Havering,1 bedroom,1078,1029,49
+E05013983,St Edward's,E09000016,Havering,2 bedrooms,1481,1394,87
+E05013983,St Edward's,E09000016,Havering,3 bedrooms,1426,1582,-156
+E05013983,St Edward's,E09000016,Havering,4 or more bedrooms,607,452,155
+E05013984,South Hornchurch,E09000016,Havering,1 bedroom,224,229,-5
+E05013984,South Hornchurch,E09000016,Havering,2 bedrooms,652,670,-18
+E05013984,South Hornchurch,E09000016,Havering,3 bedrooms,2387,2455,-68
+E05013984,South Hornchurch,E09000016,Havering,4 or more bedrooms,604,436,168
+E05013985,Squirrels Heath,E09000016,Havering,1 bedroom,572,539,33
+E05013985,Squirrels Heath,E09000016,Havering,2 bedrooms,1660,1670,-10
+E05013985,Squirrels Heath,E09000016,Havering,3 bedrooms,2496,2739,-243
+E05013985,Squirrels Heath,E09000016,Havering,4 or more bedrooms,1643,1364,279
+E05013986,Upminster,E09000016,Havering,1 bedroom,127,106,21
+E05013986,Upminster,E09000016,Havering,2 bedrooms,1067,1141,-74
+E05013986,Upminster,E09000016,Havering,3 bedrooms,2238,2449,-211
+E05013986,Upminster,E09000016,Havering,4 or more bedrooms,1735,1392,343
+E05013987,Beckenham Town & Copers Cope,E09000006,Bromley,1 bedroom,1977,1894,83
+E05013987,Beckenham Town & Copers Cope,E09000006,Bromley,2 bedrooms,3199,3121,78
+E05013987,Beckenham Town & Copers Cope,E09000006,Bromley,3 bedrooms,1345,1287,58
+E05013987,Beckenham Town & Copers Cope,E09000006,Bromley,4 or more bedrooms,1375,1207,168
+E05013988,Bickley & Sundridge,E09000006,Bromley,1 bedroom,770,784,-14
+E05013988,Bickley & Sundridge,E09000006,Bromley,2 bedrooms,1655,1548,107
+E05013988,Bickley & Sundridge,E09000006,Bromley,3 bedrooms,1876,1997,-121
+E05013988,Bickley & Sundridge,E09000006,Bromley,4 or more bedrooms,2884,2551,333
+E05013989,Biggin Hill,E09000006,Bromley,1 bedroom,182,170,12
+E05013989,Biggin Hill,E09000006,Bromley,2 bedrooms,781,780,1
+E05013989,Biggin Hill,E09000006,Bromley,3 bedrooms,1853,1920,-67
+E05013989,Biggin Hill,E09000006,Bromley,4 or more bedrooms,1514,1319,195
+E05013990,Bromley Common & Holwood,E09000006,Bromley,1 bedroom,751,498,253
+E05013990,Bromley Common & Holwood,E09000006,Bromley,2 bedrooms,1980,1730,250
+E05013990,Bromley Common & Holwood,E09000006,Bromley,3 bedrooms,3247,3274,-27
+E05013990,Bromley Common & Holwood,E09000006,Bromley,4 or more bedrooms,1682,1243,439
+E05013991,Bromley Town,E09000006,Bromley,1 bedroom,1450,1125,325
+E05013991,Bromley Town,E09000006,Bromley,2 bedrooms,2371,2023,348
+E05013991,Bromley Town,E09000006,Bromley,3 bedrooms,1546,1614,-68
+E05013991,Bromley Town,E09000006,Bromley,4 or more bedrooms,1543,1309,234
+E05013992,Chelsfield,E09000006,Bromley,1 bedroom,234,239,-5
+E05013992,Chelsfield,E09000006,Bromley,2 bedrooms,642,725,-83
+E05013992,Chelsfield,E09000006,Bromley,3 bedrooms,1918,2126,-208
+E05013992,Chelsfield,E09000006,Bromley,4 or more bedrooms,1690,1404,286
+E05013993,Chislehurst,E09000006,Bromley,1 bedroom,431,425,6
+E05013993,Chislehurst,E09000006,Bromley,2 bedrooms,1549,1432,117
+E05013993,Chislehurst,E09000006,Bromley,3 bedrooms,1930,1964,-34
+E05013993,Chislehurst,E09000006,Bromley,4 or more bedrooms,2350,1995,355
+E05013994,Clock House,E09000006,Bromley,1 bedroom,1405,1403,2
+E05013994,Clock House,E09000006,Bromley,2 bedrooms,2137,2035,102
+E05013994,Clock House,E09000006,Bromley,3 bedrooms,2360,2601,-241
+E05013994,Clock House,E09000006,Bromley,4 or more bedrooms,1466,1168,298
+E05013995,Crystal Palace & Anerley,E09000006,Bromley,1 bedroom,2077,2135,-58
+E05013995,Crystal Palace & Anerley,E09000006,Bromley,2 bedrooms,2232,1828,404
+E05013995,Crystal Palace & Anerley,E09000006,Bromley,3 bedrooms,1045,1006,39
+E05013995,Crystal Palace & Anerley,E09000006,Bromley,4 or more bedrooms,342,258,84
+E05013996,Darwin,E09000006,Bromley,1 bedroom,121,122,-1
+E05013996,Darwin,E09000006,Bromley,2 bedrooms,477,495,-18
+E05013996,Darwin,E09000006,Bromley,3 bedrooms,755,766,-11
+E05013996,Darwin,E09000006,Bromley,4 or more bedrooms,830,745,85
+E05013997,Farnborough & Crofton,E09000006,Bromley,1 bedroom,402,423,-21
+E05013997,Farnborough & Crofton,E09000006,Bromley,2 bedrooms,1384,1496,-112
+E05013997,Farnborough & Crofton,E09000006,Bromley,3 bedrooms,2852,3084,-232
+E05013997,Farnborough & Crofton,E09000006,Bromley,4 or more bedrooms,2478,1976,502
+E05013998,Hayes & Coney Hall,E09000006,Bromley,1 bedroom,230,239,-9
+E05013998,Hayes & Coney Hall,E09000006,Bromley,2 bedrooms,950,985,-35
+E05013998,Hayes & Coney Hall,E09000006,Bromley,3 bedrooms,2469,2744,-275
+E05013998,Hayes & Coney Hall,E09000006,Bromley,4 or more bedrooms,2206,1753,453
+E05013999,Kelsey & Eden Park,E09000006,Bromley,1 bedroom,502,527,-25
+E05013999,Kelsey & Eden Park,E09000006,Bromley,2 bedrooms,922,913,9
+E05013999,Kelsey & Eden Park,E09000006,Bromley,3 bedrooms,2567,2848,-281
+E05013999,Kelsey & Eden Park,E09000006,Bromley,4 or more bedrooms,1993,1649,344
+E05014000,Mottingham,E09000006,Bromley,1 bedroom,554,564,-10
+E05014000,Mottingham,E09000006,Bromley,2 bedrooms,1430,1464,-34
+E05014000,Mottingham,E09000006,Bromley,3 bedrooms,2016,1942,74
+E05014000,Mottingham,E09000006,Bromley,4 or more bedrooms,641,529,112
+E05014001,Orpington,E09000006,Bromley,1 bedroom,337,252,85
+E05014001,Orpington,E09000006,Bromley,2 bedrooms,941,941,0
+E05014001,Orpington,E09000006,Bromley,3 bedrooms,2343,2438,-95
+E05014001,Orpington,E09000006,Bromley,4 or more bedrooms,1247,1003,244
+E05014002,Penge & Cator,E09000006,Bromley,1 bedroom,2113,2079,34
+E05014002,Penge & Cator,E09000006,Bromley,2 bedrooms,2860,2766,94
+E05014002,Penge & Cator,E09000006,Bromley,3 bedrooms,2202,2252,-50
+E05014002,Penge & Cator,E09000006,Bromley,4 or more bedrooms,1316,1080,236
+E05014003,Petts Wood & Knoll,E09000006,Bromley,1 bedroom,291,249,42
+E05014003,Petts Wood & Knoll,E09000006,Bromley,2 bedrooms,1126,1255,-129
+E05014003,Petts Wood & Knoll,E09000006,Bromley,3 bedrooms,2685,2913,-228
+E05014003,Petts Wood & Knoll,E09000006,Bromley,4 or more bedrooms,2621,2249,372
+E05014004,Plaistow,E09000006,Bromley,1 bedroom,605,655,-50
+E05014004,Plaistow,E09000006,Bromley,2 bedrooms,1516,1479,37
+E05014004,Plaistow,E09000006,Bromley,3 bedrooms,1877,1901,-24
+E05014004,Plaistow,E09000006,Bromley,4 or more bedrooms,1205,1063,142
+E05014005,Shortlands & Park Langley,E09000006,Bromley,1 bedroom,990,1072,-82
+E05014005,Shortlands & Park Langley,E09000006,Bromley,2 bedrooms,1896,1915,-19
+E05014005,Shortlands & Park Langley,E09000006,Bromley,3 bedrooms,1648,1700,-52
+E05014005,Shortlands & Park Langley,E09000006,Bromley,4 or more bedrooms,2373,2247,126
+E05014006,St Mary Cray,E09000006,Bromley,1 bedroom,838,816,22
+E05014006,St Mary Cray,E09000006,Bromley,2 bedrooms,2511,2583,-72
+E05014006,St Mary Cray,E09000006,Bromley,3 bedrooms,3364,3346,18
+E05014006,St Mary Cray,E09000006,Bromley,4 or more bedrooms,976,734,242
+E05014007,St Paul's Cray,E09000006,Bromley,1 bedroom,991,1037,-46
+E05014007,St Paul's Cray,E09000006,Bromley,2 bedrooms,2079,2309,-230
+E05014007,St Paul's Cray,E09000006,Bromley,3 bedrooms,2799,2590,209
+E05014007,St Paul's Cray,E09000006,Bromley,4 or more bedrooms,819,644,175
+E05014008,West Wickham,E09000006,Bromley,1 bedroom,410,420,-10
+E05014008,West Wickham,E09000006,Bromley,2 bedrooms,729,649,80
+E05014008,West Wickham,E09000006,Bromley,3 bedrooms,2306,2594,-288
+E05014008,West Wickham,E09000006,Bromley,4 or more bedrooms,2252,1916,336
+E05014009,Balham,E09000032,Wandsworth,1 bedroom,1608,1812,-204
+E05014009,Balham,E09000032,Wandsworth,2 bedrooms,2283,2265,18
+E05014009,Balham,E09000032,Wandsworth,3 bedrooms,1388,1459,-71
+E05014009,Balham,E09000032,Wandsworth,4 or more bedrooms,2042,1733,309
+E05014010,Battersea Park,E09000032,Wandsworth,1 bedroom,2499,2712,-213
+E05014010,Battersea Park,E09000032,Wandsworth,2 bedrooms,3390,3407,-17
+E05014010,Battersea Park,E09000032,Wandsworth,3 bedrooms,1733,1643,90
+E05014010,Battersea Park,E09000032,Wandsworth,4 or more bedrooms,831,767,64
+E05014011,East Putney,E09000032,Wandsworth,1 bedroom,1630,1705,-75
+E05014011,East Putney,E09000032,Wandsworth,2 bedrooms,3123,2877,246
+E05014011,East Putney,E09000032,Wandsworth,3 bedrooms,1414,1392,22
+E05014011,East Putney,E09000032,Wandsworth,4 or more bedrooms,1416,1258,158
+E05014012,Falconbrook,E09000032,Wandsworth,1 bedroom,1606,1581,25
+E05014012,Falconbrook,E09000032,Wandsworth,2 bedrooms,2099,1988,111
+E05014012,Falconbrook,E09000032,Wandsworth,3 bedrooms,881,936,-55
+E05014012,Falconbrook,E09000032,Wandsworth,4 or more bedrooms,475,361,114
+E05014013,Furzedown,E09000032,Wandsworth,1 bedroom,1354,1430,-76
+E05014013,Furzedown,E09000032,Wandsworth,2 bedrooms,1802,1941,-139
+E05014013,Furzedown,E09000032,Wandsworth,3 bedrooms,1922,2047,-125
+E05014013,Furzedown,E09000032,Wandsworth,4 or more bedrooms,1631,1234,397
+E05014014,Lavender,E09000032,Wandsworth,1 bedroom,1267,1439,-172
+E05014014,Lavender,E09000032,Wandsworth,2 bedrooms,1909,1913,-4
+E05014014,Lavender,E09000032,Wandsworth,3 bedrooms,1058,1052,6
+E05014014,Lavender,E09000032,Wandsworth,4 or more bedrooms,1241,1111,130
+E05014015,Nine Elms,E09000032,Wandsworth,1 bedroom,951,60,891
+E05014015,Nine Elms,E09000032,Wandsworth,2 bedrooms,1544,70,1474
+E05014015,Nine Elms,E09000032,Wandsworth,3 bedrooms,303,54,249
+E05014015,Nine Elms,E09000032,Wandsworth,4 or more bedrooms,58,11,47
+E05014016,Northcote,E09000032,Wandsworth,1 bedroom,575,695,-120
+E05014016,Northcote,E09000032,Wandsworth,2 bedrooms,1026,1046,-20
+E05014016,Northcote,E09000032,Wandsworth,3 bedrooms,851,948,-97
+E05014016,Northcote,E09000032,Wandsworth,4 or more bedrooms,2362,2152,210
+E05014017,Roehampton,E09000032,Wandsworth,1 bedroom,1623,1654,-31
+E05014017,Roehampton,E09000032,Wandsworth,2 bedrooms,2361,2241,120
+E05014017,Roehampton,E09000032,Wandsworth,3 bedrooms,1670,1633,37
+E05014017,Roehampton,E09000032,Wandsworth,4 or more bedrooms,1161,1046,115
+E05014018,St Mary's,E09000032,Wandsworth,1 bedroom,1911,1512,399
+E05014018,St Mary's,E09000032,Wandsworth,2 bedrooms,3180,2564,616
+E05014018,St Mary's,E09000032,Wandsworth,3 bedrooms,1276,1202,74
+E05014018,St Mary's,E09000032,Wandsworth,4 or more bedrooms,544,430,114
+E05014019,Shaftesbury & Queenstown,E09000032,Wandsworth,1 bedroom,1686,1700,-14
+E05014019,Shaftesbury & Queenstown,E09000032,Wandsworth,2 bedrooms,2720,2833,-113
+E05014019,Shaftesbury & Queenstown,E09000032,Wandsworth,3 bedrooms,1908,1738,170
+E05014019,Shaftesbury & Queenstown,E09000032,Wandsworth,4 or more bedrooms,613,463,150
+E05014020,South Balham,E09000032,Wandsworth,1 bedroom,1361,1539,-178
+E05014020,South Balham,E09000032,Wandsworth,2 bedrooms,1518,1512,6
+E05014020,South Balham,E09000032,Wandsworth,3 bedrooms,642,596,46
+E05014020,South Balham,E09000032,Wandsworth,4 or more bedrooms,1025,930,95
+E05014021,Southfields,E09000032,Wandsworth,1 bedroom,812,873,-61
+E05014021,Southfields,E09000032,Wandsworth,2 bedrooms,1531,1543,-12
+E05014021,Southfields,E09000032,Wandsworth,3 bedrooms,1248,1430,-182
+E05014021,Southfields,E09000032,Wandsworth,4 or more bedrooms,1559,1156,403
+E05014022,Thamesfield,E09000032,Wandsworth,1 bedroom,1413,1340,73
+E05014022,Thamesfield,E09000032,Wandsworth,2 bedrooms,2688,2127,561
+E05014022,Thamesfield,E09000032,Wandsworth,3 bedrooms,1456,1382,74
+E05014022,Thamesfield,E09000032,Wandsworth,4 or more bedrooms,1707,1543,164
+E05014023,Tooting Bec,E09000032,Wandsworth,1 bedroom,874,911,-37
+E05014023,Tooting Bec,E09000032,Wandsworth,2 bedrooms,2430,2620,-190
+E05014023,Tooting Bec,E09000032,Wandsworth,3 bedrooms,1695,1950,-255
+E05014023,Tooting Bec,E09000032,Wandsworth,4 or more bedrooms,1647,1235,412
+E05014024,Tooting Broadway,E09000032,Wandsworth,1 bedroom,1523,1521,2
+E05014024,Tooting Broadway,E09000032,Wandsworth,2 bedrooms,2655,2647,8
+E05014024,Tooting Broadway,E09000032,Wandsworth,3 bedrooms,1816,1813,3
+E05014024,Tooting Broadway,E09000032,Wandsworth,4 or more bedrooms,1031,765,266
+E05014025,Trinity,E09000032,Wandsworth,1 bedroom,1354,1525,-171
+E05014025,Trinity,E09000032,Wandsworth,2 bedrooms,1428,1379,49
+E05014025,Trinity,E09000032,Wandsworth,3 bedrooms,745,795,-50
+E05014025,Trinity,E09000032,Wandsworth,4 or more bedrooms,1259,1057,202
+E05014026,Wandle,E09000032,Wandsworth,1 bedroom,1012,1113,-101
+E05014026,Wandle,E09000032,Wandsworth,2 bedrooms,1488,1565,-77
+E05014026,Wandle,E09000032,Wandsworth,3 bedrooms,969,930,39
+E05014026,Wandle,E09000032,Wandsworth,4 or more bedrooms,1015,813,202
+E05014027,Wandsworth Common,E09000032,Wandsworth,1 bedroom,1250,1263,-13
+E05014027,Wandsworth Common,E09000032,Wandsworth,2 bedrooms,1890,1910,-20
+E05014027,Wandsworth Common,E09000032,Wandsworth,3 bedrooms,1555,1806,-251
+E05014027,Wandsworth Common,E09000032,Wandsworth,4 or more bedrooms,1813,1373,440
+E05014028,Wandsworth Town,E09000032,Wandsworth,1 bedroom,2416,1944,472
+E05014028,Wandsworth Town,E09000032,Wandsworth,2 bedrooms,3074,2744,330
+E05014028,Wandsworth Town,E09000032,Wandsworth,3 bedrooms,1494,1509,-15
+E05014028,Wandsworth Town,E09000032,Wandsworth,4 or more bedrooms,1252,1014,238
+E05014029,West Hill,E09000032,Wandsworth,1 bedroom,1171,1212,-41
+E05014029,West Hill,E09000032,Wandsworth,2 bedrooms,2498,2616,-118
+E05014029,West Hill,E09000032,Wandsworth,3 bedrooms,1794,1867,-73
+E05014029,West Hill,E09000032,Wandsworth,4 or more bedrooms,1129,972,157
+E05014030,West Putney,E09000032,Wandsworth,1 bedroom,1399,1442,-43
+E05014030,West Putney,E09000032,Wandsworth,2 bedrooms,2472,2471,1
+E05014030,West Putney,E09000032,Wandsworth,3 bedrooms,1826,1829,-3
+E05014030,West Putney,E09000032,Wandsworth,4 or more bedrooms,1483,1307,176
+E05014053,Abbey,E09000002,Barking and Dagenham,1 bedroom,619,526,93
+E05014053,Abbey,E09000002,Barking and Dagenham,2 bedrooms,416,366,50
+E05014053,Abbey,E09000002,Barking and Dagenham,3 bedrooms,315,332,-17
+E05014053,Abbey,E09000002,Barking and Dagenham,4 or more bedrooms,109,60,49
+E05014054,Alibon,E09000002,Barking and Dagenham,1 bedroom,232,268,-36
+E05014054,Alibon,E09000002,Barking and Dagenham,2 bedrooms,1361,1426,-65
+E05014054,Alibon,E09000002,Barking and Dagenham,3 bedrooms,1424,1406,18
+E05014054,Alibon,E09000002,Barking and Dagenham,4 or more bedrooms,321,227,94
+E05014055,Barking Riverside,E09000002,Barking and Dagenham,1 bedroom,611,310,301
+E05014055,Barking Riverside,E09000002,Barking and Dagenham,2 bedrooms,1382,931,451
+E05014055,Barking Riverside,E09000002,Barking and Dagenham,3 bedrooms,1067,708,359
+E05014055,Barking Riverside,E09000002,Barking and Dagenham,4 or more bedrooms,328,131,197
+E05014056,Beam,E09000002,Barking and Dagenham,1 bedroom,246,286,-40
+E05014056,Beam,E09000002,Barking and Dagenham,2 bedrooms,570,638,-68
+E05014056,Beam,E09000002,Barking and Dagenham,3 bedrooms,1698,1696,2
+E05014056,Beam,E09000002,Barking and Dagenham,4 or more bedrooms,185,125,60
+E05014057,Becontree,E09000002,Barking and Dagenham,1 bedroom,297,297,0
+E05014057,Becontree,E09000002,Barking and Dagenham,2 bedrooms,1011,1120,-109
+E05014057,Becontree,E09000002,Barking and Dagenham,3 bedrooms,1417,1396,21
+E05014057,Becontree,E09000002,Barking and Dagenham,4 or more bedrooms,343,240,103
+E05014058,Chadwell Heath,E09000002,Barking and Dagenham,1 bedroom,573,543,30
+E05014058,Chadwell Heath,E09000002,Barking and Dagenham,2 bedrooms,1574,1511,63
+E05014058,Chadwell Heath,E09000002,Barking and Dagenham,3 bedrooms,2077,2088,-11
+E05014058,Chadwell Heath,E09000002,Barking and Dagenham,4 or more bedrooms,595,366,229
+E05014059,Eastbrook & Rush Green,E09000002,Barking and Dagenham,1 bedroom,238,212,26
+E05014059,Eastbrook & Rush Green,E09000002,Barking and Dagenham,2 bedrooms,802,810,-8
+E05014059,Eastbrook & Rush Green,E09000002,Barking and Dagenham,3 bedrooms,1579,1637,-58
+E05014059,Eastbrook & Rush Green,E09000002,Barking and Dagenham,4 or more bedrooms,436,335,101
+E05014060,Eastbury,E09000002,Barking and Dagenham,1 bedroom,524,596,-72
+E05014060,Eastbury,E09000002,Barking and Dagenham,2 bedrooms,1993,2158,-165
+E05014060,Eastbury,E09000002,Barking and Dagenham,3 bedrooms,2274,2336,-62
+E05014060,Eastbury,E09000002,Barking and Dagenham,4 or more bedrooms,415,221,194
+E05014061,Gascoigne,E09000002,Barking and Dagenham,1 bedroom,902,1088,-186
+E05014061,Gascoigne,E09000002,Barking and Dagenham,2 bedrooms,1845,1825,20
+E05014061,Gascoigne,E09000002,Barking and Dagenham,3 bedrooms,897,1196,-299
+E05014061,Gascoigne,E09000002,Barking and Dagenham,4 or more bedrooms,147,86,61
+E05014062,Goresbrook,E09000002,Barking and Dagenham,1 bedroom,438,406,32
+E05014062,Goresbrook,E09000002,Barking and Dagenham,2 bedrooms,2168,2410,-242
+E05014062,Goresbrook,E09000002,Barking and Dagenham,3 bedrooms,1824,1670,154
+E05014062,Goresbrook,E09000002,Barking and Dagenham,4 or more bedrooms,290,165,125
+E05014063,Heath,E09000002,Barking and Dagenham,1 bedroom,583,537,46
+E05014063,Heath,E09000002,Barking and Dagenham,2 bedrooms,1111,1041,70
+E05014063,Heath,E09000002,Barking and Dagenham,3 bedrooms,1392,1361,31
+E05014063,Heath,E09000002,Barking and Dagenham,4 or more bedrooms,211,146,65
+E05014064,Longbridge,E09000002,Barking and Dagenham,1 bedroom,326,356,-30
+E05014064,Longbridge,E09000002,Barking and Dagenham,2 bedrooms,595,583,12
+E05014064,Longbridge,E09000002,Barking and Dagenham,3 bedrooms,1606,1981,-375
+E05014064,Longbridge,E09000002,Barking and Dagenham,4 or more bedrooms,1246,790,456
+E05014065,Mayesbrook,E09000002,Barking and Dagenham,1 bedroom,751,528,223
+E05014065,Mayesbrook,E09000002,Barking and Dagenham,2 bedrooms,2246,1993,253
+E05014065,Mayesbrook,E09000002,Barking and Dagenham,3 bedrooms,1865,1529,336
+E05014065,Mayesbrook,E09000002,Barking and Dagenham,4 or more bedrooms,478,191,287
+E05014066,Northbury,E09000002,Barking and Dagenham,1 bedroom,1345,1152,193
+E05014066,Northbury,E09000002,Barking and Dagenham,2 bedrooms,1218,921,297
+E05014066,Northbury,E09000002,Barking and Dagenham,3 bedrooms,1244,1259,-15
+E05014066,Northbury,E09000002,Barking and Dagenham,4 or more bedrooms,616,365,251
+E05014067,Parsloes,E09000002,Barking and Dagenham,1 bedroom,606,622,-16
+E05014067,Parsloes,E09000002,Barking and Dagenham,2 bedrooms,2311,2528,-217
+E05014067,Parsloes,E09000002,Barking and Dagenham,3 bedrooms,2051,1909,142
+E05014067,Parsloes,E09000002,Barking and Dagenham,4 or more bedrooms,340,213,127
+E05014068,Thames View,E09000002,Barking and Dagenham,1 bedroom,450,419,31
+E05014068,Thames View,E09000002,Barking and Dagenham,2 bedrooms,436,373,63
+E05014068,Thames View,E09000002,Barking and Dagenham,3 bedrooms,680,582,98
+E05014068,Thames View,E09000002,Barking and Dagenham,4 or more bedrooms,288,117,171
+E05014069,Valence,E09000002,Barking and Dagenham,1 bedroom,502,541,-39
+E05014069,Valence,E09000002,Barking and Dagenham,2 bedrooms,2313,2489,-176
+E05014069,Valence,E09000002,Barking and Dagenham,3 bedrooms,2064,1930,134
+E05014069,Valence,E09000002,Barking and Dagenham,4 or more bedrooms,319,182,137
+E05014070,Village,E09000002,Barking and Dagenham,1 bedroom,963,1088,-125
+E05014070,Village,E09000002,Barking and Dagenham,2 bedrooms,1400,1470,-70
+E05014070,Village,E09000002,Barking and Dagenham,3 bedrooms,1803,1888,-85
+E05014070,Village,E09000002,Barking and Dagenham,4 or more bedrooms,398,246,152
+E05014071,Whalebone,E09000002,Barking and Dagenham,1 bedroom,438,416,22
+E05014071,Whalebone,E09000002,Barking and Dagenham,2 bedrooms,1532,1277,255
+E05014071,Whalebone,E09000002,Barking and Dagenham,3 bedrooms,2112,2034,78
+E05014071,Whalebone,E09000002,Barking and Dagenham,4 or more bedrooms,546,254,292
+E05014072,Abbey Wood,E09000011,Greenwich,1 bedroom,814,859,-45
+E05014072,Abbey Wood,E09000011,Greenwich,2 bedrooms,2035,2117,-82
+E05014072,Abbey Wood,E09000011,Greenwich,3 bedrooms,2733,2647,86
+E05014072,Abbey Wood,E09000011,Greenwich,4 or more bedrooms,635,478,157
+E05014073,Blackheath Westcombe,E09000011,Greenwich,1 bedroom,1563,1801,-238
+E05014073,Blackheath Westcombe,E09000011,Greenwich,2 bedrooms,2211,2181,30
+E05014073,Blackheath Westcombe,E09000011,Greenwich,3 bedrooms,1567,1672,-105
+E05014073,Blackheath Westcombe,E09000011,Greenwich,4 or more bedrooms,1417,1359,58
+E05014074,Charlton Hornfair,E09000011,Greenwich,1 bedroom,600,655,-55
+E05014074,Charlton Hornfair,E09000011,Greenwich,2 bedrooms,1411,1379,32
+E05014074,Charlton Hornfair,E09000011,Greenwich,3 bedrooms,1997,2034,-37
+E05014074,Charlton Hornfair,E09000011,Greenwich,4 or more bedrooms,604,391,213
+E05014075,Charlton Village & Riverside,E09000011,Greenwich,1 bedroom,889,936,-47
+E05014075,Charlton Village & Riverside,E09000011,Greenwich,2 bedrooms,988,954,34
+E05014075,Charlton Village & Riverside,E09000011,Greenwich,3 bedrooms,1302,1389,-87
+E05014075,Charlton Village & Riverside,E09000011,Greenwich,4 or more bedrooms,800,602,198
+E05014076,East Greenwich,E09000011,Greenwich,1 bedroom,1530,916,614
+E05014076,East Greenwich,E09000011,Greenwich,2 bedrooms,2470,1620,850
+E05014076,East Greenwich,E09000011,Greenwich,3 bedrooms,1700,1202,498
+E05014076,East Greenwich,E09000011,Greenwich,4 or more bedrooms,705,493,212
+E05014077,Eltham Page,E09000011,Greenwich,1 bedroom,318,226,92
+E05014077,Eltham Page,E09000011,Greenwich,2 bedrooms,734,625,109
+E05014077,Eltham Page,E09000011,Greenwich,3 bedrooms,1996,1988,8
+E05014077,Eltham Page,E09000011,Greenwich,4 or more bedrooms,446,316,130
+E05014078,Eltham Park & Progress,E09000011,Greenwich,1 bedroom,254,218,36
+E05014078,Eltham Park & Progress,E09000011,Greenwich,2 bedrooms,769,817,-48
+E05014078,Eltham Park & Progress,E09000011,Greenwich,3 bedrooms,2208,2386,-178
+E05014078,Eltham Park & Progress,E09000011,Greenwich,4 or more bedrooms,881,700,181
+E05014079,Eltham Town & Avery Hill,E09000011,Greenwich,1 bedroom,1086,957,129
+E05014079,Eltham Town & Avery Hill,E09000011,Greenwich,2 bedrooms,1810,1806,4
+E05014079,Eltham Town & Avery Hill,E09000011,Greenwich,3 bedrooms,2003,2016,-13
+E05014079,Eltham Town & Avery Hill,E09000011,Greenwich,4 or more bedrooms,1384,1204,180
+E05014080,Greenwich Creekside,E09000011,Greenwich,1 bedroom,1384,709,675
+E05014080,Greenwich Creekside,E09000011,Greenwich,2 bedrooms,2348,1563,785
+E05014080,Greenwich Creekside,E09000011,Greenwich,3 bedrooms,981,615,366
+E05014080,Greenwich Creekside,E09000011,Greenwich,4 or more bedrooms,159,170,-11
+E05014081,Greenwich Park,E09000011,Greenwich,1 bedroom,1207,1074,133
+E05014081,Greenwich Park,E09000011,Greenwich,2 bedrooms,1764,1515,249
+E05014081,Greenwich Park,E09000011,Greenwich,3 bedrooms,1052,974,78
+E05014081,Greenwich Park,E09000011,Greenwich,4 or more bedrooms,534,446,88
+E05014082,Greenwich Peninsula,E09000011,Greenwich,1 bedroom,1580,461,1119
+E05014082,Greenwich Peninsula,E09000011,Greenwich,2 bedrooms,2248,711,1537
+E05014082,Greenwich Peninsula,E09000011,Greenwich,3 bedrooms,997,518,479
+E05014082,Greenwich Peninsula,E09000011,Greenwich,4 or more bedrooms,244,140,104
+E05014083,Kidbrooke Park,E09000011,Greenwich,1 bedroom,562,578,-16
+E05014083,Kidbrooke Park,E09000011,Greenwich,2 bedrooms,1090,1220,-130
+E05014083,Kidbrooke Park,E09000011,Greenwich,3 bedrooms,1631,1729,-98
+E05014083,Kidbrooke Park,E09000011,Greenwich,4 or more bedrooms,656,489,167
+E05014084,Kidbrooke Village & Sutcliffe,E09000011,Greenwich,1 bedroom,639,145,494
+E05014084,Kidbrooke Village & Sutcliffe,E09000011,Greenwich,2 bedrooms,1271,536,735
+E05014084,Kidbrooke Village & Sutcliffe,E09000011,Greenwich,3 bedrooms,603,329,274
+E05014084,Kidbrooke Village & Sutcliffe,E09000011,Greenwich,4 or more bedrooms,182,124,58
+E05014085,Middle Park & Horn Park,E09000011,Greenwich,1 bedroom,285,257,28
+E05014085,Middle Park & Horn Park,E09000011,Greenwich,2 bedrooms,1054,1122,-68
+E05014085,Middle Park & Horn Park,E09000011,Greenwich,3 bedrooms,1721,1860,-139
+E05014085,Middle Park & Horn Park,E09000011,Greenwich,4 or more bedrooms,474,329,145
+E05014086,"Mottingham, Coldharbour & New Eltham",E09000011,Greenwich,1 bedroom,838,835,3
+E05014086,"Mottingham, Coldharbour & New Eltham",E09000011,Greenwich,2 bedrooms,987,949,38
+E05014086,"Mottingham, Coldharbour & New Eltham",E09000011,Greenwich,3 bedrooms,2582,2900,-318
+E05014086,"Mottingham, Coldharbour & New Eltham",E09000011,Greenwich,4 or more bedrooms,1272,1000,272
+E05014087,Plumstead & Glyndon,E09000011,Greenwich,1 bedroom,1393,1267,126
+E05014087,Plumstead & Glyndon,E09000011,Greenwich,2 bedrooms,2547,2555,-8
+E05014087,Plumstead & Glyndon,E09000011,Greenwich,3 bedrooms,2598,2489,109
+E05014087,Plumstead & Glyndon,E09000011,Greenwich,4 or more bedrooms,994,766,228
+E05014088,Plumstead Common,E09000011,Greenwich,1 bedroom,768,618,150
+E05014088,Plumstead Common,E09000011,Greenwich,2 bedrooms,1727,1735,-8
+E05014088,Plumstead Common,E09000011,Greenwich,3 bedrooms,2820,2748,72
+E05014088,Plumstead Common,E09000011,Greenwich,4 or more bedrooms,705,535,170
+E05014089,Shooters Hill,E09000011,Greenwich,1 bedroom,904,835,69
+E05014089,Shooters Hill,E09000011,Greenwich,2 bedrooms,1286,1187,99
+E05014089,Shooters Hill,E09000011,Greenwich,3 bedrooms,1828,1775,53
+E05014089,Shooters Hill,E09000011,Greenwich,4 or more bedrooms,699,619,80
+E05014090,Thamesmead Moorings,E09000011,Greenwich,1 bedroom,1067,1103,-36
+E05014090,Thamesmead Moorings,E09000011,Greenwich,2 bedrooms,1470,1532,-62
+E05014090,Thamesmead Moorings,E09000011,Greenwich,3 bedrooms,1643,1569,74
+E05014090,Thamesmead Moorings,E09000011,Greenwich,4 or more bedrooms,431,354,77
+E05014091,West Thamesmead,E09000011,Greenwich,1 bedroom,758,710,48
+E05014091,West Thamesmead,E09000011,Greenwich,2 bedrooms,1967,1914,53
+E05014091,West Thamesmead,E09000011,Greenwich,3 bedrooms,762,770,-8
+E05014091,West Thamesmead,E09000011,Greenwich,4 or more bedrooms,449,400,49
+E05014092,Woolwich Arsenal,E09000011,Greenwich,1 bedroom,2043,1209,834
+E05014092,Woolwich Arsenal,E09000011,Greenwich,2 bedrooms,2631,1649,982
+E05014092,Woolwich Arsenal,E09000011,Greenwich,3 bedrooms,964,688,276
+E05014092,Woolwich Arsenal,E09000011,Greenwich,4 or more bedrooms,126,107,19
+E05014093,Woolwich Common,E09000011,Greenwich,1 bedroom,1327,1132,195
+E05014093,Woolwich Common,E09000011,Greenwich,2 bedrooms,1641,1407,234
+E05014093,Woolwich Common,E09000011,Greenwich,3 bedrooms,1297,1252,45
+E05014093,Woolwich Common,E09000011,Greenwich,4 or more bedrooms,593,530,63
+E05014094,Woolwich Dockyard,E09000011,Greenwich,1 bedroom,1291,1506,-215
+E05014094,Woolwich Dockyard,E09000011,Greenwich,2 bedrooms,1793,1962,-169
+E05014094,Woolwich Dockyard,E09000011,Greenwich,3 bedrooms,1005,1166,-161
+E05014094,Woolwich Dockyard,E09000011,Greenwich,4 or more bedrooms,390,370,20
+E05014095,Brixton Acre Lane,E09000022,Lambeth,1 bedroom,1906,2090,-184
+E05014095,Brixton Acre Lane,E09000022,Lambeth,2 bedrooms,2441,2424,17
+E05014095,Brixton Acre Lane,E09000022,Lambeth,3 bedrooms,1365,1323,42
+E05014095,Brixton Acre Lane,E09000022,Lambeth,4 or more bedrooms,946,806,140
+E05014096,Brixton North,E09000022,Lambeth,1 bedroom,1934,1855,79
+E05014096,Brixton North,E09000022,Lambeth,2 bedrooms,2391,2116,275
+E05014096,Brixton North,E09000022,Lambeth,3 bedrooms,1509,1481,28
+E05014096,Brixton North,E09000022,Lambeth,4 or more bedrooms,826,734,92
+E05014097,Brixton Rush Common,E09000022,Lambeth,1 bedroom,1479,1723,-244
+E05014097,Brixton Rush Common,E09000022,Lambeth,2 bedrooms,2409,2416,-7
+E05014097,Brixton Rush Common,E09000022,Lambeth,3 bedrooms,1249,1281,-32
+E05014097,Brixton Rush Common,E09000022,Lambeth,4 or more bedrooms,1013,907,106
+E05014098,Brixton Windrush,E09000022,Lambeth,1 bedroom,1390,1330,60
+E05014098,Brixton Windrush,E09000022,Lambeth,2 bedrooms,1380,1258,122
+E05014098,Brixton Windrush,E09000022,Lambeth,3 bedrooms,890,796,94
+E05014098,Brixton Windrush,E09000022,Lambeth,4 or more bedrooms,604,486,118
+E05014099,Clapham Common & Abbeville,E09000022,Lambeth,1 bedroom,860,880,-20
+E05014099,Clapham Common & Abbeville,E09000022,Lambeth,2 bedrooms,1449,1471,-22
+E05014099,Clapham Common & Abbeville,E09000022,Lambeth,3 bedrooms,734,719,15
+E05014099,Clapham Common & Abbeville,E09000022,Lambeth,4 or more bedrooms,1190,1137,53
+E05014100,Clapham East,E09000022,Lambeth,1 bedroom,1023,1079,-56
+E05014100,Clapham East,E09000022,Lambeth,2 bedrooms,1742,1697,45
+E05014100,Clapham East,E09000022,Lambeth,3 bedrooms,1047,1046,1
+E05014100,Clapham East,E09000022,Lambeth,4 or more bedrooms,499,425,74
+E05014101,Clapham Park,E09000022,Lambeth,1 bedroom,1263,1214,49
+E05014101,Clapham Park,E09000022,Lambeth,2 bedrooms,2230,2052,178
+E05014101,Clapham Park,E09000022,Lambeth,3 bedrooms,1439,1369,70
+E05014101,Clapham Park,E09000022,Lambeth,4 or more bedrooms,683,588,95
+E05014102,Clapham Town,E09000022,Lambeth,1 bedroom,1880,1924,-44
+E05014102,Clapham Town,E09000022,Lambeth,2 bedrooms,2598,2592,6
+E05014102,Clapham Town,E09000022,Lambeth,3 bedrooms,1379,1340,39
+E05014102,Clapham Town,E09000022,Lambeth,4 or more bedrooms,1070,986,84
+E05014103,Gipsy Hill,E09000022,Lambeth,1 bedroom,1162,1219,-57
+E05014103,Gipsy Hill,E09000022,Lambeth,2 bedrooms,1539,1478,61
+E05014103,Gipsy Hill,E09000022,Lambeth,3 bedrooms,1336,1333,3
+E05014103,Gipsy Hill,E09000022,Lambeth,4 or more bedrooms,551,443,108
+E05014104,Herne Hill & Loughborough Junction,E09000022,Lambeth,1 bedroom,1601,1804,-203
+E05014104,Herne Hill & Loughborough Junction,E09000022,Lambeth,2 bedrooms,2188,2163,25
+E05014104,Herne Hill & Loughborough Junction,E09000022,Lambeth,3 bedrooms,1430,1504,-74
+E05014104,Herne Hill & Loughborough Junction,E09000022,Lambeth,4 or more bedrooms,1273,1015,258
+E05014105,Kennington,E09000022,Lambeth,1 bedroom,2010,1909,101
+E05014105,Kennington,E09000022,Lambeth,2 bedrooms,2472,2447,25
+E05014105,Kennington,E09000022,Lambeth,3 bedrooms,1614,1528,86
+E05014105,Kennington,E09000022,Lambeth,4 or more bedrooms,611,555,56
+E05014106,Knight's Hill,E09000022,Lambeth,1 bedroom,1447,1558,-111
+E05014106,Knight's Hill,E09000022,Lambeth,2 bedrooms,2171,2254,-83
+E05014106,Knight's Hill,E09000022,Lambeth,3 bedrooms,2014,2090,-76
+E05014106,Knight's Hill,E09000022,Lambeth,4 or more bedrooms,1119,864,255
+E05014107,Myatt's Fields,E09000022,Lambeth,1 bedroom,1390,1256,134
+E05014107,Myatt's Fields,E09000022,Lambeth,2 bedrooms,1537,1245,292
+E05014107,Myatt's Fields,E09000022,Lambeth,3 bedrooms,1218,1167,51
+E05014107,Myatt's Fields,E09000022,Lambeth,4 or more bedrooms,554,460,94
+E05014108,Oval,E09000022,Lambeth,1 bedroom,1732,1867,-135
+E05014108,Oval,E09000022,Lambeth,2 bedrooms,1954,1951,3
+E05014108,Oval,E09000022,Lambeth,3 bedrooms,1125,1106,19
+E05014108,Oval,E09000022,Lambeth,4 or more bedrooms,656,601,55
+E05014109,St Martin's,E09000022,Lambeth,1 bedroom,1193,1327,-134
+E05014109,St Martin's,E09000022,Lambeth,2 bedrooms,1593,1508,85
+E05014109,St Martin's,E09000022,Lambeth,3 bedrooms,955,929,26
+E05014109,St Martin's,E09000022,Lambeth,4 or more bedrooms,609,551,58
+E05014110,Stockwell East,E09000022,Lambeth,1 bedroom,1255,1148,107
+E05014110,Stockwell East,E09000022,Lambeth,2 bedrooms,1968,1862,106
+E05014110,Stockwell East,E09000022,Lambeth,3 bedrooms,819,748,71
+E05014110,Stockwell East,E09000022,Lambeth,4 or more bedrooms,463,409,54
+E05014111,Stockwell West & Larkhall,E09000022,Lambeth,1 bedroom,1728,1599,129
+E05014111,Stockwell West & Larkhall,E09000022,Lambeth,2 bedrooms,3056,2922,134
+E05014111,Stockwell West & Larkhall,E09000022,Lambeth,3 bedrooms,1595,1454,141
+E05014111,Stockwell West & Larkhall,E09000022,Lambeth,4 or more bedrooms,619,517,102
+E05014112,Streatham Common & Vale,E09000022,Lambeth,1 bedroom,1143,1165,-22
+E05014112,Streatham Common & Vale,E09000022,Lambeth,2 bedrooms,1506,1519,-13
+E05014112,Streatham Common & Vale,E09000022,Lambeth,3 bedrooms,2262,2453,-191
+E05014112,Streatham Common & Vale,E09000022,Lambeth,4 or more bedrooms,1577,1223,354
+E05014113,Streatham Hill East,E09000022,Lambeth,1 bedroom,1017,1084,-67
+E05014113,Streatham Hill East,E09000022,Lambeth,2 bedrooms,1366,1319,47
+E05014113,Streatham Hill East,E09000022,Lambeth,3 bedrooms,932,893,39
+E05014113,Streatham Hill East,E09000022,Lambeth,4 or more bedrooms,843,732,111
+E05014114,Streatham Hill West & Thornton,E09000022,Lambeth,1 bedroom,1003,930,73
+E05014114,Streatham Hill West & Thornton,E09000022,Lambeth,2 bedrooms,1539,1469,70
+E05014114,Streatham Hill West & Thornton,E09000022,Lambeth,3 bedrooms,1012,1053,-41
+E05014114,Streatham Hill West & Thornton,E09000022,Lambeth,4 or more bedrooms,940,758,182
+E05014115,Streatham St Leonard's,E09000022,Lambeth,1 bedroom,1955,2055,-100
+E05014115,Streatham St Leonard's,E09000022,Lambeth,2 bedrooms,2362,2134,228
+E05014115,Streatham St Leonard's,E09000022,Lambeth,3 bedrooms,1016,948,68
+E05014115,Streatham St Leonard's,E09000022,Lambeth,4 or more bedrooms,1307,1121,186
+E05014116,Streatham Wells,E09000022,Lambeth,1 bedroom,966,1017,-51
+E05014116,Streatham Wells,E09000022,Lambeth,2 bedrooms,1440,1403,37
+E05014116,Streatham Wells,E09000022,Lambeth,3 bedrooms,1134,1131,3
+E05014116,Streatham Wells,E09000022,Lambeth,4 or more bedrooms,599,480,119
+E05014117,Vauxhall,E09000022,Lambeth,1 bedroom,1759,1209,550
+E05014117,Vauxhall,E09000022,Lambeth,2 bedrooms,2130,1563,567
+E05014117,Vauxhall,E09000022,Lambeth,3 bedrooms,654,475,179
+E05014117,Vauxhall,E09000022,Lambeth,4 or more bedrooms,195,125,70
+E05014118,Waterloo & South Bank,E09000022,Lambeth,1 bedroom,1379,1408,-29
+E05014118,Waterloo & South Bank,E09000022,Lambeth,2 bedrooms,1519,1601,-82
+E05014118,Waterloo & South Bank,E09000022,Lambeth,3 bedrooms,736,792,-56
+E05014118,Waterloo & South Bank,E09000022,Lambeth,4 or more bedrooms,238,199,39
+E05014119,West Dulwich,E09000022,Lambeth,1 bedroom,985,1072,-87
+E05014119,West Dulwich,E09000022,Lambeth,2 bedrooms,1362,1351,11
+E05014119,West Dulwich,E09000022,Lambeth,3 bedrooms,1217,1258,-41
+E05014119,West Dulwich,E09000022,Lambeth,4 or more bedrooms,1209,1075,134
+E09000001,City of London (aggregated),E09000001,City of London,1 bedroom,2628,2337,291
+E09000001,City of London (aggregated),E09000001,City of London,2 bedrooms,1578,1383,195
+E09000001,City of London (aggregated),E09000001,City of London,3 bedrooms,519,430,89
+E09000001,City of London (aggregated),E09000001,City of London,4 or more bedrooms,188,160,28
